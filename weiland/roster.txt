@@ -1,2 +1,5 @@
 Ric Weiland
+<<<<<<< HEAD
 Geraldine Bengsch
+=======
+>>>>>>> 2f2cce7522c0b63a3bc7bcb4c45b92e12aa67b8a
