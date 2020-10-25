@@ -22,4 +22,4 @@
 - Check the status again - there should be nothing to commit now but an indicator that your local version is one commit ahead of the origin. As it suggests, use `git push` to push up your work to GitHub!
 
 **Make your first PR**
-- You made your own fork of this, now use the GitHub browser interface to see if you can make a Pull Request back to `getfutureproof/hello-github`. Try and request review from @futureproof-admin. We will merge your PR when we receive it!
+- You made your own fork of this, now use the GitHub browser interface to see if you can make a Pull Request back to `getfutureproof/fp_study_notes_hello-github`. Try and request review from @futureproof-admin. We will merge your PR when we receive it!
