@@ -4,7 +4,7 @@
 # Exercises
 **Fork & Clone**
 - Hit 'Fork' on this repo
-- On your Fork (it will say `<your-github-username>/hello-github`), click the green 'Code' button and copy the SSH option
+- On your Fork (it will say `<your-github-username>/fp_study_notes_hello-github`), click the green 'Code' button and copy the SSH option
 - Clone down your fork using `git clone <what you copied>` in your terminal
   
 **Make a Change**
