@@ -6,11 +6,7 @@
     },
     "students": [
         {
-            "name": "Scott Ryan",
-            "imageUrl": "",
-            "videoUrl": "",
-            "cvUrl": "",
-            "portfolioLink": ""
+            "name": "Scott Ryan"
         }
     ]
 }
