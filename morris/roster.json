@@ -1,0 +1,16 @@
+{ 
+    "namesake": {
+        "name": "Robert Tappan Morris",
+        "imageUrl": "",
+        "videoUrl": ""
+    },
+    "students": [
+        {
+            "name": "Scott Ryan",
+            "imageUrl": "",
+            "videoUrl": "",
+            "cvUrl": "",
+            "portfolioLink": ""
+        }
+    ]
+}
