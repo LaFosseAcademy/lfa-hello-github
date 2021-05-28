@@ -10,12 +10,12 @@
 **Make a Change**
 - Move into the project folder with `cd fp_study_notes_hello_github`
 - Open it up in a text editor (if you have setup VS Code, you can do this from the command line using `code .`)
-- Make a change! Add your name to `<your-cohort>/roster.txt` and save the file (Windows/Linux: <key>ctrl</key>+<key>s</key> / MacOS: <key>command</key>+<key>s</key>)
-- Check the git status of the project with `git status` - `<your-cohort>/roster.txt` should show in red as there are unstaged changes
+- Make a change! In the `students` array, add a new JSON object with a key of "name" and value of your name to `<your-cohort>/roster.json` and save the file (Windows/Linux: <key>ctrl</key>+<key>s</key> / MacOS: <key>command</key>+<key>s</key>)
+- Check the git status of the project with `git status` - `<your-cohort>/roster.json` should show in red as there are unstaged changes
 
 **Stage your Change**
-- Stage your change with `git add .` (or `git add <your-cohort>/roster.txt`)
-- Check the status again - `<your-cohort>/roster.txt` should now show in green as the changes have been staged but not yet committed
+- Stage your change with `git add .` (or `git add <your-cohort>/roster.json`)
+- Check the status again - `<your-cohort>/roster.json` should now show in green as the changes have been staged but not yet committed
   
 **Commit your Change**
 - Commit your change with `git commit -m "add <your-name>"`. The `-m` is a flag for 'message' and you must leave a message with every commit!
