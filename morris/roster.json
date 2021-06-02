@@ -5,8 +5,10 @@
         "videoId": "X-JJ9ksH_jQ"
     },
     "students": [
+        { 
+            "name": "Scott Ryan"
+        },
         {
-            "name": "Scott Ryan",
             "name": "Sammie Howard"
         }
     ]
