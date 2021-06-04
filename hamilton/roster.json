@@ -11,7 +11,7 @@
         {
             "name": "Aaron Yates",
             "project": "DartsHub",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/06.hs_Aaron_Yates.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/06.hs_Aaron_Yates.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -29,7 +29,7 @@
         {
             "name": "Adil Iqbal",
             "project": "JobbaHunt",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/09.hs_Adil_Iqbal.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/09.hs_Adil_Iqbal.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -47,7 +47,7 @@
         {
             "name": "Christopher Westerduin",
             "project": "HolidayHub",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/11.hs_Christopher_Westerduin.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/11.hs_Christopher_Westerduin.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -65,7 +65,7 @@
         {
             "name": "Elwin Carlos",
             "project": "MediQuick",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/01.hs_Elwin_Carlos.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/01.hs_Elwin_Carlos.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -83,7 +83,7 @@
         {
             "name": "Emmanuel Sobamowo",
             "project": "DartsHub",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/05.hs_Emmanuel_Sobamowo.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/05.hs_Emmanuel_Sobamowo.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -101,7 +101,7 @@
         {
             "name": "Greta Ivanauskaite",
             "project": "MediQuick",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/14.hs_Greta_Ivanauskaite.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/14.hs_Greta_Ivanauskaite.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -119,7 +119,7 @@
         {
             "name": "James Wheadon",
             "project": "PlanEat",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/03.hs_James_Wheadon.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/03.hs_James_Wheadon.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -137,7 +137,7 @@
         {
             "name": "Mohammed Faisal Younis",
             "project": "DartsHub",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/10.hs_Mohammed_Faisal_Younis.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/10.hs_Mohammed_Faisal_Younis.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -155,7 +155,7 @@
         {
             "name": "Natalie Pang",
             "project": "JobbaHunt",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/12.hs_Natalie_Pang.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/12.hs_Natalie_Pang.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -173,7 +173,7 @@
         {
             "name": "Pearl Hamilton",
             "project": "PlanEat",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/04.hs_Pearl_Hamilton.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/04.hs_Pearl_Hamilton.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -191,7 +191,7 @@
         {
             "name": "Ravil Shafiyev",
             "project": "HolidayHub",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/13.hs_Ravil_Shafiyev.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/13.hs_Ravil_Shafiyev.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -209,7 +209,7 @@
         {
             "name": "Rishi Bhugobaun",
             "project": "JobbaHunt",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/08.hs_Rishi_Bhugobaun.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/08.hs_Rishi_Bhugobaun.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -227,7 +227,7 @@
         {
             "name": "Roselyn Le",
             "project": "PlanEat",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/07.hs_Roselyn_Le.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/07.hs_Roselyn_Le.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -245,7 +245,7 @@
         {
             "name": "Ryan Kuppan",
             "project": "MediQuick",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/15.hs_Ryan_Kuppan.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/15.hs_Ryan_Kuppan.png",
             "materials": [
                 {
                     "type": "portfolio",
@@ -263,7 +263,7 @@
         {
             "name": "Semhar Tesfu",
             "project": "HolidayHub",
-            "imageUrl": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/headshots/02.hs_Semhar_Tesfu.png?raw=true",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/02.hs_Semhar_Tesfu.png",
             "materials": [
                 {
                     "type": "portfolio",
