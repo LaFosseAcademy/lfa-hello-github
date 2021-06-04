@@ -1,14 +1,72 @@
-Margaret Hamilton
-Elwin Carlos
-Pearl Hamilton
-Ravil Shafiyev
-Aaron Yates
-Rishi Bhugobaun
-Roselyn Le
-James Wheadon
-Natalie Pang
-Chris Westerduin
-Emmanuel Sobamowo
-Semhar Tesfu
-Greta Ivanauskaite
-Ryan Kuppan
+{ 
+    "namesake": {
+        "name": "Margaret Hamilton",
+        "imageUrl": "https://avatars.githubusercontent.com/t/4503799?s=280&v=4",
+        "videoId": "kYCZPXSVvOQ"
+    },
+    "students": [
+      {
+        "name":"Aaron Yates",
+        "materials":[
+          {"project":"DartsHub"},
+          {"portfolio":"https://aaron-yates-futureproof.netlify.app/"},
+          {"videoId":"XDu2i_e8_HI"}
+         ]
+      },{
+        "name":"Adil Iqbal",
+        "materials":[
+          {"project":"JobbaHunt"},
+          {"portfolio":"https://adiliqbal-portfolio.netlify.app/"},
+          {"videoId":"7kvjlagDxJE"}
+         ]
+       },{
+          "name":"Christopher Westerduin","materials":[{"project":"HolidayHub"},{"portfolio":"https://chriswesterduin.com/"},{"videoId":"ROF75m7GPx4"}]},{"name":"Elwin Carlos","materials":[{"project":"MediQuick"},{"portfolio":"https://elwin-portfolio.netlify.app/"},{"videoId":"A_wAChsIZQ8"}]},{"name":"Emmanuel Sobamowo","materials":[{"project":"DartsHub"},{"portfolio":"https://sobamowoportfolio.netlify.app/"},{"videoId":"BAbo4UmdXUM"}]},{"name":"Greta Ivanauskaite","materials":[{"project":"MediQuick"},{"portfolio":"https://gretaivan.netlify.app/"},{"videoId":"7N5m3g636sQ"}]},{"name":"James Wheadon","materials":[{"project":"PlanEat"},{"portfolio":"https://jameswheadon.netlify.app/"},{"videoId":"WjCQzEq4O3k"}]},{"name":"Mohammed Faisal_Younis","materials":[{"project":"DartsHub"},{"portfolio":"https://faisaly-my-portfolio.netlify.app/"},{"videoId":"8USNbqJGFNo"}]},{"name":"Natalie Pang","materials":[{"project":"JobbaHunt"},{"portfolio":"https://nat-portfolio.netlify.app/"},{"videoId":"40pU_BieN4M"}]},{"name":"Pearl Hamilton","materials":[{"project":"PlanEat"},{"portfolio":"https://pearlhamilton.netlify.app/"},{"videoId":"wFNtvNp-Xb8"}]},{"name":"Ravil Shafiyev","materials":[{"project":"HolidayHub"},{"portfolio":"https://developer-folio.web.app/"},{"videoId":"h8f0BiYIpX0"}]},{"name":"Rishi Bhugobaun","materials":[{"project":"JobbaHunt"},{"portfolio":"https://rishi-bhugobaun.netlify.app/"},{"videoId":"vdmSjMyOm-g"}]},{"name":"Roselyn Le","materials":[{"project":"PlanEat"},{"portfolio":"https://roselyn-le.netlify.app/"},{"videoId":"sT8sl2nZO1Q"}]},{"name":"Ryan Kuppan","materials":[{"project":"MediQuick"},{"portfolio":"https://ryan-kuppan-portfolio.netlify.app/"},{"videoId":"aHKg9gD-qdQ"}]},{"name":"Semhar Tesfu","materials":[{"project":"HolidayHub"},{"portfolio":"https://sem-the-dev.netlify.app/"},{"videoId":"yLsLMdslAWE"}]}],
+    "projects": {
+        "videoId": "bYBLzCAJiCg",
+        "HolidayHub": {
+            "name": "Holiday Hub",
+            "startPoint": 346,
+            "students": [
+                "Pearl Hamilton",
+                "Natalie Pang",
+                "Aaron Yates"
+            ]
+        },
+        "JobbaHunt": {
+            "name": "JobbaHunt",
+            "startPoint": 1448,
+            "students": [
+                "Elwin Carlos",
+                "Greta Ivanauskaite",
+                "Ryan Kuppan"
+            ]
+        },
+        "DartsHub": {
+            "name": "DartsHub",
+            "startPoint": 3557,
+            "students": [
+                "Elwin Carlos",
+                "Greta Ivanauskaite",
+                "Ryan Kuppan"
+            ]
+        },
+        "MediQuick": {
+            "name": "MedicQuick",
+            "startPoint": 3711,
+            "students": [
+                "Elwin Carlos",
+                "Greta Ivanauskaite",
+                "Ryan Kuppan"
+            ]
+        },
+        "PlanEat": {
+            "name": "PlanEat",
+            "startPoint": 5200,
+            "students": [
+                "Elwin Carlos",
+                "Greta Ivanauskaite",
+                "Ryan Kuppan"
+            ]
+        }
+    }
+}
