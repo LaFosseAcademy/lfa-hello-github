@@ -2,7 +2,10 @@
     "namesake": {
         "name": "Margaret Hamilton",
         "imageUrl": "https://avatars.githubusercontent.com/t/4503799?s=280&v=4",
-        "videoId": "kYCZPXSVvOQ"
+        "materials": {
+            "type": "video",
+            "url": "kYCZPXSVvOQ"
+        } 
     },
     "students": [
         {
