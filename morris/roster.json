@@ -2,7 +2,12 @@
     "namesake": {
         "name": "Robert Tappan Morris",
         "imageUrl": "https://avatars.githubusercontent.com/t/4840675?s=192&v=4",
-        "videoId": "X-JJ9ksH_jQ"
+        "materials": [
+            {
+                "type": "video",
+                "url": "X-JJ9ksH_jQ"
+            }
+        ]
     },
     "students": [
         {
