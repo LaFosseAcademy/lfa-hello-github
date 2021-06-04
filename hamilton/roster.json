@@ -5,22 +5,262 @@
         "videoId": "kYCZPXSVvOQ"
     },
     "students": [
-      {
-        "name":"Aaron Yates",
-        "materials":[
-          {"project":"DartsHub"},
-          {"portfolio":"https://aaron-yates-futureproof.netlify.app/"},
-          {"videoId":"XDu2i_e8_HI"}
-         ]
-      },{
-        "name":"Adil Iqbal",
-        "materials":[
-          {"project":"JobbaHunt"},
-          {"portfolio":"https://adiliqbal-portfolio.netlify.app/"},
-          {"videoId":"7kvjlagDxJE"}
-         ]
-       },{
-          "name":"Christopher Westerduin","materials":[{"project":"HolidayHub"},{"portfolio":"https://chriswesterduin.com/"},{"videoId":"ROF75m7GPx4"}]},{"name":"Elwin Carlos","materials":[{"project":"MediQuick"},{"portfolio":"https://elwin-portfolio.netlify.app/"},{"videoId":"A_wAChsIZQ8"}]},{"name":"Emmanuel Sobamowo","materials":[{"project":"DartsHub"},{"portfolio":"https://sobamowoportfolio.netlify.app/"},{"videoId":"BAbo4UmdXUM"}]},{"name":"Greta Ivanauskaite","materials":[{"project":"MediQuick"},{"portfolio":"https://gretaivan.netlify.app/"},{"videoId":"7N5m3g636sQ"}]},{"name":"James Wheadon","materials":[{"project":"PlanEat"},{"portfolio":"https://jameswheadon.netlify.app/"},{"videoId":"WjCQzEq4O3k"}]},{"name":"Mohammed Faisal_Younis","materials":[{"project":"DartsHub"},{"portfolio":"https://faisaly-my-portfolio.netlify.app/"},{"videoId":"8USNbqJGFNo"}]},{"name":"Natalie Pang","materials":[{"project":"JobbaHunt"},{"portfolio":"https://nat-portfolio.netlify.app/"},{"videoId":"40pU_BieN4M"}]},{"name":"Pearl Hamilton","materials":[{"project":"PlanEat"},{"portfolio":"https://pearlhamilton.netlify.app/"},{"videoId":"wFNtvNp-Xb8"}]},{"name":"Ravil Shafiyev","materials":[{"project":"HolidayHub"},{"portfolio":"https://developer-folio.web.app/"},{"videoId":"h8f0BiYIpX0"}]},{"name":"Rishi Bhugobaun","materials":[{"project":"JobbaHunt"},{"portfolio":"https://rishi-bhugobaun.netlify.app/"},{"videoId":"vdmSjMyOm-g"}]},{"name":"Roselyn Le","materials":[{"project":"PlanEat"},{"portfolio":"https://roselyn-le.netlify.app/"},{"videoId":"sT8sl2nZO1Q"}]},{"name":"Ryan Kuppan","materials":[{"project":"MediQuick"},{"portfolio":"https://ryan-kuppan-portfolio.netlify.app/"},{"videoId":"aHKg9gD-qdQ"}]},{"name":"Semhar Tesfu","materials":[{"project":"HolidayHub"},{"portfolio":"https://sem-the-dev.netlify.app/"},{"videoId":"yLsLMdslAWE"}]}],
+        {
+            "name": "Aaron Yates",
+            "project": "DartsHub",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://aaron-yates-futureproof.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "XDu2i_e8_HI"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Adil Iqbal",
+            "project": "JobbaHunt",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://adiliqbal-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "7kvjlagDxJE"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Christopher Westerduin",
+            "project": "HolidayHub",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://chriswesterduin.com/"
+                },
+                {
+                    "type": "video",
+                    "url": "ROF75m7GPx4"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Elwin Carlos",
+            "project": "MediQuick",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://elwin-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "A_wAChsIZQ8"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Emmanuel Sobamowo",
+            "project": "DartsHub",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://sobamowoportfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "BAbo4UmdXUM"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Greta Ivanauskaite",
+            "project": "MediQuick",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://gretaivan.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "7N5m3g636sQ"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "James Wheadon",
+            "project": "PlanEat",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://jameswheadon.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "WjCQzEq4O3k"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Mohammed Faisal_Younis",
+            "project": "DartsHub",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://faisaly-my-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "8USNbqJGFNo"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Natalie Pang",
+            "project": "JobbaHunt",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://nat-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "40pU_BieN4M"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Pearl Hamilton",
+            "project": "PlanEat",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://pearlhamilton.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "wFNtvNp-Xb8"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Ravil Shafiyev",
+            "project": "HolidayHub",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://developer-folio.web.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "h8f0BiYIpX0"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Rishi Bhugobaun",
+            "project": "JobbaHunt",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://rishi-bhugobaun.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "vdmSjMyOm-g"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Roselyn Le",
+            "project": "PlanEat",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://roselyn-le.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "sT8sl2nZO1Q"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Ryan Kuppan",
+            "project": "MediQuick",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://ryan-kuppan-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "aHKg9gD-qdQ"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Semhar Tesfu",
+            "project": "HolidayHub",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://sem-the-dev.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "yLsLMdslAWE"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        }
+    ],
     "projects": {
         "videoId": "bYBLzCAJiCg",
         "HolidayHub": {
