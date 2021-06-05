@@ -2,10 +2,10 @@
     "namesake": {
         "name": "Margaret Hamilton",
         "imageUrl": "https://avatars.githubusercontent.com/t/4503799?s=280&v=4",
-        "materials": {
+        "materials": [{
             "type": "video",
             "url": "kYCZPXSVvOQ"
-        } 
+        }]
     },
     "students": [
         {
@@ -302,9 +302,8 @@
             ]
         },
         "DartsHub": {
-            "name": "DartsHub",
-            "projectLogo": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/finalsLogos/DartsHub.png?raw=true",  
-            "startPoint": 3557,
+            "name": "Darts Hub",
+            "startPoint": 2556,
             "students": [
                 "Aaron Yates",
                 "Emmanuel Sobamowo",
@@ -312,8 +311,7 @@
             ]
         },
         "MediQuick": {
-            "name": "MedicQuick",
-            "projectLogo": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/finalsLogos/MediQuick.png?raw=true",
+            "name": "MediQuick",
             "startPoint": 3711,
             "students": [
                 "Elwin Carlos",
@@ -323,7 +321,6 @@
         },
         "PlanEat": {
             "name": "PlanEat",
-            "projectLogo": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/finalsLogos/PlanEat.png?raw=true",
             "startPoint": 5200,
             "students": [
                 "Roselyn Le",
