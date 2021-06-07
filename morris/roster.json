@@ -1,26 +1,29 @@
-{ 
-    "namesake": {
-        "name": "Robert Tappan Morris",
-        "imageUrl": "https://avatars.githubusercontent.com/t/4840675?s=192&v=4",
-        "materials": [
-            {
-                "type": "video",
-                "url": "X-JJ9ksH_jQ"
-            }
-        ]
-    },
-    "students": [
-        {
-            "name": "Scott Ryan"
-        },
-        {
-            "name": "Sammie Howard"
-        },
-        {
-            "name": "Monica Segarra"
-        },
-        {
-            "name": "Dan Cooper"
-        }
+{
+  "namesake": {
+    "name": "Robert Tappan Morris",
+    "imageUrl": "https://avatars.githubusercontent.com/t/4840675?s=192&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": "X-JJ9ksH_jQ"
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Scott Ryan"
+    },
+    {
+      "name": "Sammie Howard"
+    },
+    {
+      "name": "Monica Segarra"
+    },
+    {
+      "name": "Dan Cooper"
+    },
+    {
+      "name": "Polina Moore"
+    }
+  ]
 }
