@@ -1,0 +1,231 @@
+{
+    "namesake": {
+        "name": "Ric Weiland",
+        "imageUrl": "https://avatars.githubusercontent.com/t/4167492?s=280&v=4",
+        "materials": [{
+            "type": "video",
+            "url": "rVIahHwayU4"
+        }]
+    },
+    "students": [
+        {
+            "name": "Deré Jemireyigbe",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Deré_Jemireyigbe.png",
+            "project": "Algorhythm",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://dere-jemireyigbe.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "Zzw1gepQAeY"
+                }
+            ]
+        },
+        {
+            "name": "Dragoș Suciu",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Dragoș_Suciu.png",
+            "project": "Movie Matchmaker",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://dragos-suciu-futureproof.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "YyPT6O4lIEQ"
+                }
+            ]
+        },
+        {
+            "name": "Fopefoluwa Ayo",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Fopefoluwa_Ayo.png",
+            "project": "idealMe",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://fopefoluwa-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "dWpDnNxSLWo"
+                }
+            ]
+        },
+        {
+            "name": "Géraldine Bengsch",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Géraldine_Bengsch.png",
+            "project": "idealMe",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://geraldine-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "gBq7diiMQJk"
+                }
+            ]
+        },
+        {
+            "name": "Kai Lon Tse",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Kai_Lon_Tse.png",
+            "project": "MedIT",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://kai-tse.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "7STYeGyYmfE"
+                }
+            ]
+        },
+        {
+            "name": "Paola Maddaluno",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Paola_Maddaluno.png",
+            "project": "MedIT",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://paoladmaddaluno.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "Jq0cai6ImOI"
+                }
+            ]
+        },
+        {
+            "name": "Raj Tandel",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Raj_Tandel.png",
+            "project": "idealMe",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://rajtandel.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "ZV379c2wNmc"
+                }
+            ]
+        },
+        {
+            "name": "Rishabh Rawat",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Rishabh_Rawat.png",
+            "project": "Movie Matchmaker",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://rishabh-fp-website.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "PyY3AxvJpqg"
+                }
+            ]
+        },
+        {
+            "name": "Stephanie Cooper",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Stephanie_Cooper.png",
+            "project": "Algorhythm",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://stephanie-cooper.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "yo8YKEDRm-g"
+                }
+            ]
+        },
+        {
+            "name": "Stylianos Thomas",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Stylianos_Thomas.png",
+            "project": "MedIT",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://sthomas-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "kTKWiUNQdSk"
+                }
+            ]
+        },
+        {
+            "name": "Tara Hussain",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Tara_Hussain.png",
+            "project": "Movie Matchmaker",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "http://tara-hussain.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "rg-BBGMn3j0"
+                }
+            ]
+        },
+        {
+            "name": "Tonderai Mavindidze",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/weiland/Tonderai_Mavindidze.png",
+            "project": "Algorhythm",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://tonderai-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "uSZkoM_rJYQ"
+                }
+            ]
+        }
+    ],
+    "projects": {
+        "videoId": "J8xyI6-TnLA",
+        "Algorhythm": {
+            "name": "Algorhythm",
+            "startPoint": 318,
+            "students": [
+                "Deré Jemireyigbe",
+                "Stephanie Cooper",
+                "Tonderai Mavindidze"
+            ]
+        },
+        "MedIT": {
+            "name": "MedIT",
+            "startPoint": 1177,
+            "students": [
+                "Kai Lon Tse",
+                "Paola Maddaluno",
+                "Stylianos Thomas"
+            ]
+        },
+        "Movie Matchmaker": {
+            "name": "Movie Matchmaker",
+            "startPoint": 2008,
+            "students": [
+                "Dragoș Suciu",
+                "Rishabh Rawat",
+                "Tara Hussain"
+            ]
+        },
+        "idealMe": {
+            "name": "idealMe",
+            "startPoint": 2946,
+            "students": [
+                "Fopefoluwa Ayo",
+                "Géraldine Bengsch",
+                "Raj Tandel"
+            ]
+        }
+    }
+}
