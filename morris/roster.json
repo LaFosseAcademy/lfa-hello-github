@@ -1,41 +1,43 @@
 {
-  "namesake": {
-    "name": "Robert Tappan Morris",
-    "imageUrl": "https://avatars.githubusercontent.com/t/4840675?s=192&v=4",
-    "materials": [
-      {
-        "type": "video",
-        "url": "X-JJ9ksH_jQ"
-      }
-    ]
-  },
-  "students": [
-    {
-      "name": "Scott Ryan"
-    },
-    {
-      "name": "Sammie Howard"
-    },
-    {
-      "name": "Monica Segarra"
-    },
-    {
-      "name": "Dan Cooper"
-    },
-    {
-	    "name": "James Derrick"
-	  },
-    {
-      "name": "Polina Moore"
-    },
-    {
-      "name": "Zak Gogi"
-    },
-    {
-      "name": "Ridwan Axmed"
-    }, 
+	"namesake": {
+		  "name": "Robert Tappan Morris",
+		  "materials": [
+          {
+            "type": "video",
+            "url": "X-JJ9ksH_jQ"
+          }
+		  ]
+	},
+	"students": [
+		{
+			"name": "Scott Ryan"
+		},
+		{
+			"name": "Sammie Howard"
+		},
+		{
+			"name": "Monica Segarra"
+		},
+		{
+			"name": "Dan Cooper"
+		},
+		{
+			"name": "James Derrick"
+		},
+		{
+			"name": "Polina Moore"
+		},
+		{
+			"name": "Zak Gogi"
+		},
+		{
+			"name": "Ridwan Axmed"
+		},
     {
       "name": "Tom Virgo"
-    }
-  ]
+    },
+		{
+			"name": "Maximilian Hartley"
+		}
+	]
 }
