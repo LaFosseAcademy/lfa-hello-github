@@ -4,9 +4,12 @@
         "imageUrl": "https://avatars.githubusercontent.com/t/4840675?s=192&v=4",
         "videoId": "X-JJ9ksH_jQ"
     },
-    "students": [
-        {
-            "name": "Ajay Lally"
+    "students": { 
+        
+            "name": [ "Scott Ryan",
+            "Ajay Lally"
+            ]
         }
-    ]
+        
 }
+
