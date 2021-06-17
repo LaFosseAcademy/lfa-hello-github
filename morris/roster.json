@@ -33,9 +33,9 @@
 		{
 			"name": "Ridwan Axmed"
 		},
-    {
-      "name": "Tom Virgo"
-    },
+		{
+		      	"name": "Tom Virgo"
+		},
 		{
 			"name": "Maximilian Hartley"
 		}, 
@@ -50,6 +50,10 @@
 		},
 		{
 			"name": "Akash Khambay"
+		},
+		{
+			"name": "Humza Muzammal"
 		}
+
 	]
 }
