@@ -24,14 +24,14 @@
 		{
 			"name": "James Derrick",
 			"materials": [
-                {
-                    "type": "portfolio",
-                    "url": "https://www.tinyjim.com"
-                },
-                {
-                    "type": "cv"
-                }
-            ]
+                            {
+                                "type": "portfolio",
+                                 "url": "https://www.tinyjim.com"
+                             },
+                             {
+                                  "type": "cv"
+                              }
+                          ]
 		},
 		{
 			"name": "Polina Moore"
@@ -64,7 +64,7 @@
 			"name": "Humza Muzammal"
 		},
 		{
-		    "name": "Ajay Lally"
+		        "name": "Ajay Lally"
 		},
 		{
 			"name": "Jawwad Uddin"
