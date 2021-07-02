@@ -22,7 +22,16 @@
 			"name": "Dan Cooper"
 		},
 		{
-			"name": "James Derrick"
+			"name": "James Derrick",
+			"materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://www.tinyjim.com"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
 		},
 		{
 			"name": "Polina Moore"
