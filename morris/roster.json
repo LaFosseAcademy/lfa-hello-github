@@ -16,7 +16,16 @@
 			"name": "Sammie Howard"
 		},
 		{
-			"name": "Monica Segarra"
+			"name": "Monica Segarra",
+			"materials": [
+				{ 
+					"type": "cv" 
+				},
+				{
+					"type": "portfolio,
+					"url": "https://www.msvalen.co.uk/"
+				}
+			]
 		},
 		{
 			"name": "Dan Cooper"
