@@ -1,12 +1,12 @@
 {
 	"namesake": {
-		  "name": "Robert Tappan Morris",
-		  "materials": [
-          {
-            "type": "video",
-            "url": "X-JJ9ksH_jQ"
-          }
-		  ]
+		"name": "Robert Tappan Morris",
+		"materials": [
+			{
+				"type": "video",
+				"url": "X-JJ9ksH_jQ"
+			}
+		]
 	},
 	"students": [
 		{
@@ -19,59 +19,68 @@
 			"name": "Monica Segarra"
 		},
 		{
-			"name": "Dan Cooper"
-		},
-		{
-			"name": "James Derrick",
+			"name": "Dan Cooper",
+			"github": "danjcooper",
 			"materials": [
-                            {
-                                "type": "portfolio",
-                                 "url": "https://www.tinyjim.com"
-                             },
-                             {
-                                  "type": "cv"
-                              }
-                          ]
-		},
-		{
-			"name": "Polina Moore"
-		},
-		{
-			"name": "Zak Gogi"
-		},
-		{
-			"name": "Ridwan Axmed"
-		},
-		{
-		  	"name": "Tom Virgo"
-		},
-		{
-			"name": "Maximilian Hartley"
-		}, 
-		{
-			"name": "Deborah Francis"
-		},
-		{
-			"name": "Rafika Turemis"
-		}, 
-		{
-			"name": "Shav Vimalendiran"
-		},
-		{
-			"name": "Akash Khambay"
-		},
-		{
-			"name": "Humza Muzammal"
-		},
-		{
-		        "name": "Ajay Lally"
-		},
-		{
-			"name": "Jawwad Uddin"
-  		},
-		{
-			"name": "Mehmoona Hussain"
-	    }
-		  
-	]
-}
+				{
+					"type": "cv"
+				},
+				{
+					"type": "portfolio",
+					"url": "https://daniel-cooper.netlify.app/"
+				}
+				]
+			},
+			{
+				"name": "James Derrick",
+				"materials": [
+					{
+						"type": "portfolio",
+						"url": "https://www.tinyjim.com"
+					},
+					{
+						"type": "cv"
+					}
+				]
+			},
+			{
+				"name": "Polina Moore"
+			},
+			{
+				"name": "Zak Gogi"
+			},
+			{
+				"name": "Ridwan Axmed"
+			},
+			{
+				"name": "Tom Virgo"
+			},
+			{
+				"name": "Maximilian Hartley"
+			},
+			{
+				"name": "Deborah Francis"
+			},
+			{
+				"name": "Rafika Turemis"
+			},
+			{
+				"name": "Shav Vimalendiran"
+			},
+			{
+				"name": "Akash Khambay"
+			},
+			{
+				"name": "Humza Muzammal"
+			},
+			{
+				"name": "Ajay Lally"
+			},
+			{
+				"name": "Jawwad Uddin"
+			},
+			{
+				"name": "Mehmoona Hussain"
+			}
+		]
+	}
