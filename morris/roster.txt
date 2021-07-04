@@ -1,1 +1,8 @@
-Scott Ryan
+{
+    "name": "Scott Ryan",
+    "github": "scott-a-code",
+    "materials": [
+        { "type": "cv" },
+        { "type": "portfolio, "url": "https://scott-ryan.netlify.app/" }
+    ]
+}
