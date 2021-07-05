@@ -1,12 +1,12 @@
 {
 	"namesake": {
-		  "name": "Robert Tappan Morris",
-		  "materials": [
-          {
-            "type": "video",
-            "url": "X-JJ9ksH_jQ"
-          }
-		  ]
+		"name": "Robert Tappan Morris",
+		"materials": [
+			{
+				"type": "video",
+				"url": "X-JJ9ksH_jQ"
+			}
+		]
 	},
 	"students": [
 		{
@@ -24,14 +24,14 @@
 		{
 			"name": "James Derrick",
 			"materials": [
-                            {
-                                "type": "portfolio",
-                                 "url": "https://www.tinyjim.com"
-                             },
-                             {
-                                  "type": "cv"
-                              }
-                          ]
+				{
+					"type": "portfolio",
+					"url": "https://www.tinyjim.com"
+				},
+				{
+					"type": "cv"
+				}
+			]
 		},
 		{
 			"name": "Polina Moore"
@@ -43,17 +43,26 @@
 			"name": "Ridwan Axmed"
 		},
 		{
-		  	"name": "Tom Virgo"
+			"name": "Tom Virgo"
 		},
 		{
-			"name": "Maximilian Hartley"
-		}, 
+			"name": "Maximilian Hartley",
+			"materials": [
+				{
+					"type": "cv"
+				},
+				{
+					"type": "portfolio",
+					"url": "https://maxhartley.com/"
+				}
+			]
+		},
 		{
 			"name": "Deborah Francis"
 		},
 		{
 			"name": "Rafika Turemis"
-		}, 
+		},
 		{
 			"name": "Shav Vimalendiran"
 		},
@@ -64,14 +73,13 @@
 			"name": "Humza Muzammal"
 		},
 		{
-		        "name": "Ajay Lally"
+			"name": "Ajay Lally"
 		},
 		{
 			"name": "Jawwad Uddin"
-  		},
+		},
 		{
 			"name": "Mehmoona Hussain"
-	    }
-		  
+		}
 	]
 }
