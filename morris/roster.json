@@ -19,7 +19,16 @@
 			"name": "Monica Segarra"
 		},
 		{
-			"name": "Dan Cooper"
+			"name": "Dan Cooper",
+			"materials": [
+			{
+			  "type": "portfolio",
+			  "url": "https://daniel-cooper.netlify.app/"
+			},
+			{
+			  "type": "cv"
+			}
+			]
 		},
 		{
 			"name": "James Derrick",
