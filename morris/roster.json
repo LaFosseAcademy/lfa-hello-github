@@ -61,7 +61,11 @@
 			"name": "Ridwan Axmed"
 		},
 		{
-			"name": "Tom Virgo"
+			"name": "Tom Virgo",
+			"github": "ThomasVirgo",
+			"materials": [
+				{"type": "cv"}
+			]
 		},
 		{
 			"name": "Maximilian Hartley",
