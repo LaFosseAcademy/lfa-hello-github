@@ -23,7 +23,15 @@
       "name": "Dan Cooper"
     },
     {
-      "name": "Polina Moore"
+      "name": "Polina Moore",
+      "github": "Poligera",
+      "materials": [
+        { "type": "cv" },
+        {
+          "type": "portfolio",
+          "url": "https://polina-portfolio-website.netlify.app/"
+        }
+      ]
     }
   ]
 }
