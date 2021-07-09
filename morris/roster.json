@@ -1,53 +1,61 @@
 {
-	"namesake": {
-		  "name": "Robert Tappan Morris",
-		  "materials": [
-          {
-            "type": "video",
-            "url": "X-JJ9ksH_jQ"
-          }
-		  ]
-	},
-	"students": [
-		{
-			"name": "Scott Ryan"
-		},
-		{
-			"name": "Sammie Howard"
-		},
-		{
-			"name": "Monica Segarra"
-		},
-		{
-			"name": "Dan Cooper"
-		},
-		{
-			"name": "James Derrick"
-		},
-		{
-			"name": "Polina Moore"
-		},
-		{
-			"name": "Zak Gogi"
-		},
-		{
-			"name": "Ridwan Axmed"
-		},
-		{
-		      	"name": "Tom Virgo"
-		},
-		{
-			"name": "Maximilian Hartley"
-		}, 
-		{
-			"name": "Shav Vimalendiran"
-		},
-		{
-			"name": "Akash Khambay"
-		},
-		{
-			"name": "Humza Muzammal"
-		}
-
-	]
+  "namesake": {
+    "name": "Robert Tappan Morris",
+    "materials": [
+      {
+        "type": "video",
+        "url": "X-JJ9ksH_jQ"
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Scott Ryan"
+    },
+    {
+      "name": "Sammie Howard"
+    },
+    {
+      "name": "Monica Segarra"
+    },
+    {
+      "name": "Dan Cooper"
+    },
+    {
+      "name": "James Derrick"
+    },
+    {
+      "name": "Polina Moore"
+    },
+    {
+      "name": "Zak Gogi"
+    },
+    {
+      "name": "Ridwan Axmed"
+    },
+    {
+      "name": "Tom Virgo"
+    },
+    {
+      "name": "Maximilian Hartley"
+    },
+    {
+      "name": "Shav Vimalendiran"
+    },
+    {
+      "name": "Akash Khambay"
+    },
+    {
+      "name": "Humza Muzammal",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://humza.netlify.app/"
+        }
+      ]
+    }
+  ]
 }
