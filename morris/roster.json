@@ -39,11 +39,16 @@
     {
       "name": "Maximilian Hartley"
     },
-
     {
       "name": "Rafika Turemis",
       "github": "RafikaAT",
       "materials": [{ "type": "cv" }]
+    },
+    {
+      "name": "Shav Vimalendiran"
+    },
+    {
+      "name": "Akash Khambay"
     }
   ]
 }
