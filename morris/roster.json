@@ -172,9 +172,14 @@
 		},
 		{
 			"name": "Jawwad Uddin",
-			"github": "JawwadUddin"
-		},
-		{
+      "github": "JawwadUddin",
+			"materials": [
+				{ 
+          "type": "cv"
+        }
+			]
+    },
+    {
 			"name": "Mehmoona Hussain",
 			"github": "moony98"
 		}
