@@ -93,8 +93,12 @@
 			"name": "Shav Vimalendiran"
 		},
 		{
-			"name": "Akash Khambay"
-		},
+      "name": "Akash Khambay",
+      "github": "akashkhambay",
+      "materials": [
+        { "type": "cv" }
+      ]
+    },
 		{
 			"name": "Humza Muzammal"
 		},
