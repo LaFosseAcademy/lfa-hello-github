@@ -33,14 +33,24 @@
 		{
 			"name": "Ridwan Axmed"
 		},
-    {
-      "name": "Tom Virgo"
-    },
+		{
+			"name": "Tom Virgo"
+		},
 		{
 			"name": "Maximilian Hartley"
-		}, 
+		},
 		{
-			"name": "Shav Vimalendiran"
+			"name": "Shav Vimalendiran",
+			"github": "Shavvimal",
+			"materials": [
+				{
+					"type": "cv"
+				},
+				{
+					"type": "portfolio",
+					"url": "https://shav-vimalendiran.netlify.app/"
+				}
+			]
 		}
 	]
 }
