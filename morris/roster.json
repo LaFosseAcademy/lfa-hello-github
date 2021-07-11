@@ -132,9 +132,18 @@
 			]
 		},
 		{
-			"name": "Shav Vimalendiran",
-			"github": "Shavvimal"
-		},
+		  "name": "Shav Vimalendiran",
+			"github": "Shavvimal",
+			"materials": [
+				{
+					"type": "cv"
+				},
+				{
+					"type": "portfolio",
+					"url": "https://shav-vimalendiran.netlify.app/"
+			  }
+		  ]
+    },
 		{
 			"name": "Akash Khambay",
 			"github": "akashkhambay",
