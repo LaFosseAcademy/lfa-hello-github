@@ -80,7 +80,11 @@
 			]
 		},
 		{
-			"name": "Deborah Francis"
+			"name": "Deborah Francis",
+			"github": "Deb0890",
+			"materials": [
+				{ "type": "cv" }
+			]
 		},
 		{
 			"name": "Rafika Turemis"
