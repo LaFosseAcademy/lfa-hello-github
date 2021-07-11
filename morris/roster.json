@@ -1,46 +1,138 @@
 {
 	"namesake": {
-		  "name": "Robert Tappan Morris",
-		  "materials": [
-          {
-            "type": "video",
-            "url": "X-JJ9ksH_jQ"
-          }
-		  ]
+		"name": "Robert Tappan Morris",
+		"materials": [
+			{
+				"type": "video",
+				"url": "X-JJ9ksH_jQ"
+			}
+		]
 	},
 	"students": [
 		{
-			"name": "Scott Ryan"
+			"name": "Scott Ryan",
+			"github": "scott-a-code"
 		},
 		{
-			"name": "Sammie Howard"
+			"name": "Sammie Howard",
+			"github": "samekah",
+			"materials": [
+				{
+					"type": "cv"
+				}
+			]
 		},
 		{
-			"name": "Monica Segarra"
+			"name": "Monica Segarra",
+			"github": "msvalen",
+			"materials": [
+				{
+					"type": "cv"
+				},
+				{
+					"type": "portfolio",
+					"url": "https://www.msvalen.co.uk/"
+				}
+			]
 		},
 		{
-			"name": "Dan Cooper"
+			"name": "Dan Cooper",
+			"github": "danjcooper",
+			"materials": [
+				{
+					"type": "portfolio",
+					"url": "https://daniel-cooper.netlify.app/"
+				},
+				{
+					"type": "cv"
+				}
+			]
 		},
 		{
-			"name": "James Derrick"
+			"name": "James Derrick",
+			"github": "jamesderrick",
+			"materials": [
+				{
+					"type": "portfolio",
+					"url": "https://www.tinyjim.com"
+				},
+				{
+					"type": "cv"
+				}
+			]
 		},
 		{
-			"name": "Polina Moore"
+			"name": "Polina Moore",
+			"github": "Poligera",
+			"materials": [
+				{
+					"type": "cv"
+				},
+				{
+					"type": "portfolio",
+					"url": "https://polina-portfolio-website.netlify.app/"
+				}
+			]
 		},
 		{
-			"name": "Zak Gogi"
+			"name": "Zak Gogi",
+			"github": "zakgogi",
+			"materials": [
+				{
+					"type": "portfolio",
+					"url": "https://zak-gogi-online-portfolio.netlify.app/"
+				},
+				{
+					"type": "cv"
+				}
+			]
 		},
 		{
-			"name": "Ridwan Axmed"
+			"name": "Ridwan Axmed",
+			"github": "Kethex"
 		},
 		{
-			"name": "Tom Virgo"
+			"name": "Tom Virgo",
+			"github": "ThomasVirgo",
+			"materials": [
+				{
+					"type": "cv"
+				}
+			]
 		},
 		{
-			"name": "Maximilian Hartley"
+			"name": "Maximilian Hartley",
+			"github": "Velocima",
+			"materials": [
+				{
+					"type": "cv"
+				},
+				{
+					"type": "portfolio",
+					"url": "https://maxhartley.com/"
+				}
+			]
 		},
 		{
-			"name": "Shav Vimalendiran",
+			"name": "Deborah Francis",
+			"github": "Deb0890",
+			"materials": [
+				{
+					"type": "cv"
+				}
+			]
+		},
+		{
+			"name": "Rafika Turemis",
+			"github": "RafikaAT",
+			"materials": [
+				{
+					"type": "cv"
+				}
+			]
+		},
+		{
+		  "name": "Shav Vimalendiran",
 			"github": "Shavvimal",
 			"materials": [
 				{
@@ -49,14 +141,42 @@
 				{
 					"type": "portfolio",
 					"url": "https://shav-vimalendiran.netlify.app/"
+			  }
+		  ]
+    },
+		{
+			"name": "Akash Khambay",
+			"github": "akashkhambay",
+			"materials": [
+				{
+					"type": "cv"
 				}
 			]
-},
-
-
+		},
 		{
-			"name": "Akash Khambay"
-
+			"name": "Humza Muzammal",
+			"github": "humza1997",
+			"materials": [
+				{
+					"type": "cv"
+				},
+				{
+					"type": "portfolio",
+					"url": "https://humza.netlify.app/"
+				}
+			]
+		},
+		{
+			"name": "Ajay Lally",
+			"github": "AjaySingh4"
+		},
+		{
+			"name": "Jawwad Uddin",
+			"github": "JawwadUddin"
+		},
+		{
+			"name": "Mehmoona Hussain",
+			"github": "moony98"
 		}
 	]
 }
