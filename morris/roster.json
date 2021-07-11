@@ -100,8 +100,18 @@
       ]
     },
 		{
-			"name": "Humza Muzammal"
-		},
+      "name": "Humza Muzammal",
+      "github": "humza1997",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://humza.netlify.app/"
+        }
+      ]
+    },
 		{
 			"name": "Ajay Lally"
 		},
