@@ -12,9 +12,13 @@
 		{
 			"name": "Scott Ryan"
 		},
-		{
-			"name": "Sammie Howard"
-		},
+    {
+      "name": "Sammie Howard",
+      "github": "samekah",
+      "materials": [
+          {"type": "cv"}
+      ]
+    },
 		{
 			"name": "Monica Segarra",
 			"materials": [
