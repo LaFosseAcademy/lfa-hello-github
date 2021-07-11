@@ -63,7 +63,16 @@
       ]
     },
 		{
-			"name": "Zak Gogi"
+			"name": "Zak Gogi",
+			"materials": [
+				{
+					"type": "portfolio",
+					"url": "https://zak-gogi-online-portfolio.netlify.app/"
+				}, 
+				{
+					"type": "cv"
+				}
+			]
 		},
 		{
 			"name": "Ridwan Axmed"
