@@ -1,7 +1,6 @@
 { 
     "namesake": {
         "name": "Shigetaka Kurita",
-        "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
         "materials": [{
             "type": "video",
             "url": "JVOCKvl1T8c"
@@ -9,5 +8,23 @@
     },
     "students": [
 
+        {
+            "name": "Gorazd Sumkovski"
+        },
+        {
+            "name": "Owen Jenkins"
+        },
+        {
+            "name": "Parth Patel"
+        },
+        {
+            "name": "Elicia Lobo"
+        },
+        {
+            "name": "Abigail McLeod-Peck"  
+        },
+        {
+            "name": "Jasmin Appleby Holdham"
+        }
     ]
 }

@@ -10,8 +10,15 @@
 **Make a Change**
 - Move into the project folder with `cd fp_study_notes_hello_github`
 - Open it up in a text editor (if you have setup VS Code, you can do this from the command line using `code .`)
-- Make a change! In the `students` array, add a new JSON object with a key of "name" and value of your name to `<your-cohort>/roster.json` and save the file (Windows/Linux: <key>ctrl</key>+<key>s</key> / MacOS: <key>command</key>+<key>s</key>)
+- Make a change! In the `students` array, add a new JSON object with a key of "name" and string value of your name and another key of "github" and string value of your GitHub username to `<your-cohort>/roster.json` and save the file (Windows/Linux: <key>ctrl</key>+<key>s</key> / MacOS: <key>command</key>+<key>s</key>). ***See example below and in other cohorts' rosters.***
 - Check the git status of the project with `git status` - `<your-cohort>/roster.json` should show in red as there are unstaged changes
+
+```json
+    {
+        "name": "Loki Laufeyson",
+        "github": "VariantL1130"
+    }
+```
 
 **Stage your Change**
 - Stage your change with `git add .` (or `git add <your-cohort>/roster.json`)
