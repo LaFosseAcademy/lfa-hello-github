@@ -3,6 +3,6 @@
     "github": "scott-a-code",
     "materials": [
         { "type": "cv" },
-        { "type": "portfolio, "url": "https://scott-ryan.netlify.app/" }
+        { "type": "portfolio, "url": "https://scott-ryan-portfolio.netlify.app" }
     ]
 }
