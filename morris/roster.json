@@ -58,7 +58,11 @@
 		    "name": "Ajay Lally"
 		},
 		{
-			"name": "Jawwad Uddin"
+			"name": "Jawwad Uddin",
+			"materials": [
+				{ "type": "cv" },
+				{ "type": "portfolio", "url": "" }
+			]
   		}
 	]
 }
