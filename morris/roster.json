@@ -89,7 +89,16 @@
 		},
 		{
 			"name": "Ridwan Axmed",
-			"github": "Kethex"
+			"github": "Kethex",
+			"materials": [
+				{
+					"type": "cv"
+				},
+				{
+					"type": "portfolio",
+					"url": "https://ridwan-portfolio.netlify.app"
+				}
+			]
 		},
 		{
 			"name": "Tom Virgo",
