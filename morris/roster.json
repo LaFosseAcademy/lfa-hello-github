@@ -54,8 +54,14 @@
 		{
 			"name": "Humza Muzammal"
 		},
-    {
-      "name": "Ajay Lally"
-    }
-	]
-}
+		{
+			"name": "Ajay Lally",
+			"github": "AjaySingh4",
+			"materials": [
+				{ "type": "cv" },
+				{ "type": "portfolio", 
+				"url": "https://Ajay-Lally.netlify.app/"
+			}
+			]
+		}
+	
