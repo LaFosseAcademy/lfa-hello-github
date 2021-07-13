@@ -11,7 +11,16 @@
 	"students": [
 		{
 			"name": "Scott Ryan",
-			"github": "scott-a-code"
+			"github": "scott-a-code",
+			"materials": [
+				{
+					"type": "cv"
+				},
+				{
+					"type": "portfolio",
+					"url": "https://scott-ryan-portfolio.netlify.app"
+				}
+			]
 		},
 		{
 			"name": "Sammie Howard",
