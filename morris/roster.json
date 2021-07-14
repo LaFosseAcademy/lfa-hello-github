@@ -186,15 +186,9 @@
 		},
 		{
 			"name": "Ajay Lally",
-			"github": "AjaySingh4",
-			"materials": [
-				{ "type": "cv" },
-				{ "type": "portfolio", 
-				"url": "https://Ajay-Lally.netlify.app/"
-			}
-			]
-    },
-    {
+			"github": "AjaySingh4"
+		},
+		{
 			"name": "Jawwad Uddin",
       "github": "JawwadUddin",
 			"materials": [
