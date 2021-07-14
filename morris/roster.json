@@ -64,8 +64,7 @@
 			"name": "Mehmoona Hussain"
 			"github": "moony98",
 			"materials": [
-				{ "type": "cv" },
-				{ "type": "portfolio", "url": "https://moonyhussain/io/" }
+				{ "type": "cv" }
 			]
 
 	    }
