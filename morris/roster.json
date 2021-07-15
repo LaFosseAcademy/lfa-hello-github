@@ -186,8 +186,11 @@
 		},
 		{
 			"name": "Ajay Lally",
-			"github": "AjaySingh4"
-		},
+			"github": "AjaySingh4",
+			"materials": [
+				{ "type": "cv" }
+			]
+    },
 		{
 			"name": "Jawwad Uddin",
       "github": "JawwadUddin",
