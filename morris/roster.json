@@ -150,7 +150,7 @@
 			]
 		},
 		{
-		  "name": "Shav Vimalendiran",
+			"name": "Shav Vimalendiran",
 			"github": "Shavvimal",
 			"materials": [
 				{
@@ -159,9 +159,9 @@
 				{
 					"type": "portfolio",
 					"url": "https://shav-vimalendiran.netlify.app/"
-			  }
-		  ]
-    },
+				}
+			]
+		},
 		{
 			"name": "Akash Khambay",
 			"github": "akashkhambay",
@@ -186,20 +186,30 @@
 		},
 		{
 			"name": "Ajay Lally",
-			"github": "AjaySingh4"
+			"github": "AjaySingh4",
+			"materials": [
+				{
+					"type": "cv"
+				}
+			]
 		},
 		{
 			"name": "Jawwad Uddin",
-      "github": "JawwadUddin",
+			"github": "JawwadUddin",
 			"materials": [
-				{ 
-          "type": "cv"
-        }
+				{
+					"type": "cv"
+				}
 			]
-    },
-    {
+		},
+		{
 			"name": "Mehmoona Hussain",
-			"github": "moony98"
+			"github": "moony98",
+			"materials": [
+				{
+					"type": "cv"
+				}
+			]
 		}
 	]
 }
