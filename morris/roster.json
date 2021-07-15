@@ -192,15 +192,6 @@
 			]
     },
 		{
-
-			"name": "Mehmoona Hussain",
-		"github": "moony98",
-			"materials": [
-				{ "type": "cv" }
-			]
-
-	    },
-{
 			"name": "Jawwad Uddin",
       "github": "JawwadUddin",
 			"materials": [
@@ -209,4 +200,9 @@
         }
 			]
     },
+    {
+			"name": "Mehmoona Hussain",
+			"github": "moony98"
+		}
+	]
 }
