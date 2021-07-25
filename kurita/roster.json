@@ -1,10 +1,12 @@
-{ 
+{
     "namesake": {
         "name": "Shigetaka Kurita",
-        "materials": [{
-            "type": "video",
-            "url": "JVOCKvl1T8c"
-        }]
+        "materials": [
+            {
+                "type": "video",
+                "url": "JVOCKvl1T8c"
+            }
+        ]
     },
     "students": [
         {
@@ -24,7 +26,7 @@
             "name": "Elicia Lobo"
         },
         {
-            "name": "Abigail McLeod-Peck"  
+            "name": "Abigail McLeod-Peck"
         },
         {
             "name": "Jasmin Appleby Holdham"
@@ -35,18 +37,19 @@
         {
             "name": "Kenneth Yeung"
         },
+        {
             "name": "Simon Allan",
             "github": "Sallan464"
         },
-        {   
+        {
             "name": "Mariusz Las"
         },
         {
             "name": "Tegan Gowing",
             "github": "T-Gowing"
         },
-		{
-			"name": "Tobi Kuyoro"
-		}
-	]
+        {
+            "name": "Tobi Kuyoro"
+        }
+    ]
 }
