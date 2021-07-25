@@ -7,7 +7,10 @@
         }]
     },
     "students": [
-
+        {
+            "name": "Harris Mawardi",
+            "github": "harrismawardi"
+        },
         {
             "name": "Gorazd Sumkovski"
         },
@@ -29,7 +32,16 @@
         {
             "name": "Simon Allan",
             "GitHub": "Sallan464"
-        }
-    ]
-    ]
+        },
+        {   
+            "name": "Mariusz Las"
+        },
+        {
+            "name": "Tegan Gowing",
+            "github": "T-Gowing"
+        },
+		{
+			"name": "Tobi Kuyoro"
+		}
+	]
 }
