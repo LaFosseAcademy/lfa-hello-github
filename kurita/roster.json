@@ -32,6 +32,7 @@
             "name": "Jasmin Appleby Holdham"
         },
         {
+<<<<<<< HEAD
             "name": "Cerise Abel-Thompson"
         },
         {
@@ -50,6 +51,12 @@
         },
         {
             "name": "Tobi Kuyoro"
+        },
+        {
+=======
+>>>>>>> refs/remotes/origin/main
+            "name": "Corneliu Laur",
+            "github": "crnel179"
         }
     ]
 }
