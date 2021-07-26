@@ -1,0 +1,287 @@
+{
+    "namesake": {
+        "name": "Mary Jackson",
+        "imageUrl": "https://avatars.githubusercontent.com/t/3923844?s=280&v=4",
+        "materials": [
+            {
+                "type": "video",
+                "url": "ubs0wpCDypI"
+            }
+        ]
+    },
+    "students": [
+        {
+            "name": "Albie Duffy",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Albie_Duffy.png",
+            "project": "3X",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://albieduffy.github.io/"
+                },
+                {
+                    "type": "video",
+                    "url": "doZ8p5cQkoQ"
+                }
+            ]
+        },
+        {
+            "name": "Alex Peirson",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Alex_Peirson.png",
+            "project": "Mood For Thought",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://alexpeirson.com/"
+                },
+                {
+                    "type": "video",
+                    "url": "tlreOMZI0k0"
+                }
+            ]
+        },
+        {
+            "name": "Angus Woodman",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Angus_Woodman.png",
+            "project": "Captain's Log",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://angus-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "GiQqA56UMxw"
+                }
+            ]
+        },
+        {
+            "name": "Anna Tran",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Anna_Tran.png",
+            "project": "Find-Do",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://annatran-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "hJIN8QV6R4Q"
+                }
+            ]
+        },
+        {
+            "name": "Atheer Musa",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Atheer_Musa.png",
+            "project": "Captain's Log",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://www.atheer.co.uk/"
+                },
+                {
+                    "type": "video",
+                    "url": "MQ-CwXVIpdI"
+                }
+            ]
+        },
+        {
+            "name": "Bhuma Limbu",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Bhuma_Limbu.png",
+            "project": "FIKA",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://bhuma-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "rE6bs2dlY_E"
+                }
+            ]
+        },
+        {
+            "name": "Cindy Feng",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Cindy_Feng.png",
+            "project": "Mood For Thought",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://cindywfeng.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "UZsql_QcB-4"
+                }
+            ]
+        },
+        {
+            "name": "Despoina Sifouna",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Despoina_Sifouna.png",
+            "project": "Mood For Thought",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://despinaki-portfolio.netlify.app"
+                },
+                {
+                    "type": "video",
+                    "url": "RJY3tuMPk1Y"
+                }
+            ]
+        },
+        {
+            "name": "Eshan Chatwal",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Eshan_Chatwal.png",
+            "project": "3X",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://eshanchatwal.co.uk"
+                },
+                {
+                    "type": "video",
+                    "url": "Ck7aUzLAy8k"
+                }
+            ]
+        },
+        {
+            "name": "George Olney",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/George_Olney.png",
+            "project": "FIKA",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://georgeolney.herokuapp.com/"
+                },
+                {
+                    "type": "video",
+                    "url": "b5dMaYdpIhE"
+                }
+            ]
+        },
+        {
+            "name": "Hannah Mehreteab",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Hannah_Mehreteab.png",
+            "project": "Find-Do",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://hannahtm.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "MNo9FfPm1TQ"
+                }
+            ]
+        },
+        {
+            "name": "Jamie Sear",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Jamie_Sear.png",
+            "project": "Captain's Log",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://www.jamiesear.com/"
+                },
+                {
+                    "type": "video",
+                    "url": "dvWpW4Ve2JY"
+                }
+            ]
+        },
+        {
+            "name": "Mugisha Uwiragiye",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Mugisha_Uwiragiye.png",
+            "project": "3X",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://mugisha-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "zwmrKUN9djM"
+                }
+            ]
+        },
+        {
+            "name": "Simon Hewitt",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Simon_Hewitt.png",
+            "project": "FIKA",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://peymansimonhewitt.com"
+                },
+                {
+                    "type": "video",
+                    "url": "aqhkx1kzAAw"
+                }
+            ]
+        },
+        {
+            "name": "Yassine Benlamkadem",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Yassine_Benlamkadem.png",
+            "project": "Find-Do",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://ybenlamkadem.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "BZSnRNOoze8"
+                }
+            ]
+        }
+    ],
+    "projects": {
+        "videoId": "KoEALa9p6QU",
+        "Find-Do": {
+            "name": "Find-Do",
+            "startPoint": 302,
+            "students": [
+                "Anna Tran",
+                "Hannah Mehreteab",
+                "Yassine Benlamkadem"
+            ]
+        },
+        "3X": {
+            "name": "3X",
+            "startPoint": 1031,
+            "students": [
+                "Albie Duffy",
+                "Eshan Chatwal",
+                "Mugisha Uwiragiye"
+            ]
+        },
+        "Captain's Log": {
+            "name": "Captain's Log",
+            "startPoint": 1729,
+            "students": [
+                "Angus Woodman",
+                "Atheer Musa",
+                "Jamie Sear"
+            ]
+        },
+        "FIKA": {
+            "name": "FIKA",
+            "startPoint": 2482,
+            "students": [
+                "Bhuma Limbu",
+                "George Olney",
+                "Simon Hewitt"
+            ]
+        },
+        "Mood For Thought": {
+            "name": "Mood For Thought",
+            "startPoint": 3321,
+            "students": [
+                "Alex Peirson",
+                "Cindy Feng",
+                "Despoina Sifouna"
+            ]
+        }
+    }
+}

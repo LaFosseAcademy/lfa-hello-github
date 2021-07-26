@@ -1,0 +1,332 @@
+{ 
+    "namesake": {
+        "name": "Margaret Hamilton",
+        "imageUrl": "https://avatars.githubusercontent.com/t/4503799?s=280&v=4",
+        "materials": [{
+            "type": "video",
+            "url": "kYCZPXSVvOQ"
+        }]
+    },
+    "students": [
+        {
+            "name": "Aaron Yates",
+            "project": "DartsHub",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/06.hs_Aaron_Yates.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://aaron-yates-futureproof.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "XDu2i_e8_HI"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Adil Iqbal",
+            "project": "JobbaHunt",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/09.hs_Adil_Iqbal.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://adiliqbal-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "7kvjlagDxJE"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Christopher Westerduin",
+            "project": "HolidayHub",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/11.hs_Christopher_Westerduin.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://chriswesterduin.com/"
+                },
+                {
+                    "type": "video",
+                    "url": "ROF75m7GPx4"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Elwin Carlos",
+            "project": "MediQuick",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/01.hs_Elwin_Carlos.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://elwin-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "A_wAChsIZQ8"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Emmanuel Sobamowo",
+            "project": "DartsHub",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/05.hs_Emmanuel_Sobamowo.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://sobamowoportfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "BAbo4UmdXUM"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Greta Ivanauskaite",
+            "project": "MediQuick",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/14.hs_Greta_Ivanauskaite.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://gretaivan.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "7N5m3g636sQ"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "James Wheadon",
+            "project": "PlanEat",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/03.hs_James_Wheadon.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://jameswheadon.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "WjCQzEq4O3k"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Mohammed Faisal Younis",
+            "project": "DartsHub",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/10.hs_Mohammed_Faisal_Younis.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://faisaly-my-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "8USNbqJGFNo"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Natalie Pang",
+            "project": "JobbaHunt",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/12.hs_Natalie_Pang.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://nat-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "40pU_BieN4M"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Pearl Hamilton",
+            "project": "PlanEat",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/04.hs_Pearl_Hamilton.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://pearlhamilton.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "wFNtvNp-Xb8"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Ravil Shafiyev",
+            "project": "HolidayHub",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/13.hs_Ravil_Shafiyev.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://developer-folio.web.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "h8f0BiYIpX0"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Rishi Bhugobaun",
+            "project": "JobbaHunt",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/08.hs_Rishi_Bhugobaun.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://rishi-bhugobaun.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "vdmSjMyOm-g"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Roselyn Le",
+            "project": "PlanEat",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/07.hs_Roselyn_Le.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://roselyn-le.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "sT8sl2nZO1Q"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Ryan Kuppan",
+            "project": "MediQuick",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/15.hs_Ryan_Kuppan.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://ryan-kuppan-portfolio.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "aHKg9gD-qdQ"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Semhar Tesfu",
+            "project": "HolidayHub",
+            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/02.hs_Semhar_Tesfu.png",
+            "materials": [
+                {
+                    "type": "portfolio",
+                    "url": "https://sem-the-dev.netlify.app/"
+                },
+                {
+                    "type": "video",
+                    "url": "yLsLMdslAWE"
+                },
+                {
+                    "type": "cv"
+                }
+            ]
+        }
+    ],
+    "projects": {
+        "videoId": "bYBLzCAJiCg",
+        "HolidayHub": {
+            "name": "Holiday Hub",
+            "projectLogo": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/finalsLogos/HolidayHub.png?raw=true",
+            "startPoint": 346,
+            "students": [
+                "Semhar Tesfu",
+                "Ravil Shafiyev",
+                "Christopher Westerduin"
+            ]
+        },
+        "JobbaHunt": {
+            "name": "JobbaHunt",
+            "projectLogo": "https://github.com/getfutureproof-projects/hamilton-portfolio/blob/master/static/img/finalsLogos/JobbaHunt.png?raw=true",
+            "startPoint": 1448,
+            "students": [
+                "Adil Iqbal",
+                "Rishi Bhugobaun",
+                "Natalie Pang"
+            ]
+        },
+        "DartsHub": {
+            "name": "Darts Hub",
+            "startPoint": 2556,
+            "students": [
+                "Aaron Yates",
+                "Emmanuel Sobamowo",
+                "Mohammed Faisal Younis"
+            ]
+        },
+        "MediQuick": {
+            "name": "MediQuick",
+            "startPoint": 3711,
+            "students": [
+                "Elwin Carlos",
+                "Greta Ivanauskaite",
+                "Ryan Kuppan"
+            ]
+        },
+        "PlanEat": {
+            "name": "PlanEat",
+            "startPoint": 5200,
+            "students": [
+                "Roselyn Le",
+                "Pearl Hamilton",
+                "James Wheadon"
+            ]
+        }
+    }
+}
