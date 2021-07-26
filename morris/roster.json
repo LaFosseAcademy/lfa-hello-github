@@ -12,7 +12,8 @@
             "name": "Sammie Howard",
             "github": "samekah",
             "materials": [
-                {"type": "cv"}
+                {"type": "cv"},
+                {"type": "video"}
             ]
         }
     ]
