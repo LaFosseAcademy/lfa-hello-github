@@ -12,14 +12,17 @@
 		{
 			"name": "Scott Ryan"
 		},
-    {
-      "name": "Sammie Howard",
-      "github": "samekah",
-      "materials": [
-          {"type": "cv"},
-          {"type": "video"}
-      ]
-    },
+		{
+			"name": "Sammie Howard",
+			"github": "samekah",
+			"materials": [
+				{"type": "cv"},
+				{
+					"type": "video",
+					"id": "c0twxM7yLKI"
+				}
+			]
+		},
 		{
 			"name": "Monica Segarra",
 			"materials": [
