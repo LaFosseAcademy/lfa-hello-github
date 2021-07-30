@@ -21,8 +21,8 @@
 					"url": "https://scott-ryan-portfolio.netlify.app"
 				},
 				{
-					"type" : "video",
-					"id" : "ydDmoUkj928"
+					"type": "video",
+					"url": "ydDmoUkj928"
 				}
 			]
 		},
@@ -30,10 +30,12 @@
 			"name": "Sammie Howard",
 			"github": "samekah",
 			"materials": [
-				{"type": "cv"},
+				{
+					"type": "cv"
+				},
 				{
 					"type": "video",
-					"id": "c0twxM7yLKI"
+					"url": "c0twxM7yLKI"
 				}
 			]
 		},
@@ -63,7 +65,7 @@
 				},
 				{
 					"type": "video",
-					"id": "8lolrsrykrs"
+					"url": "8lolrsrykrs"
 				}
 			]
 		},
@@ -91,10 +93,10 @@
 					"type": "portfolio",
 					"url": "https://polina-portfolio-website.netlify.app/"
 				},
-        {
-          "type": "video",
-          "id": "2sSo0qIjEE0"
-        }
+				{
+					"type": "video",
+					"url": "2sSo0qIjEE0"
+				}
 			]
 		},
 		{
@@ -107,23 +109,10 @@
 				},
 				{
 					"type": "cv"
-				}, 
-				{
-					"type": "video",
-					"id": "MWRjcXITHIM"
-				}
-			]
-		},
-		{
-			"name": "Ridwan Axmed",
-			"github": "Kethex",
-			"materials": [
-				{
-					"type": "cv"
 				},
 				{
-					"type": "portfolio",
-					"url": "https://ridwan-portfolio.netlify.app"
+					"type": "video",
+					"url": "MWRjcXITHIM"
 				}
 			]
 		},
@@ -162,7 +151,7 @@
 				},
 				{
 					"type": "video",
-					"id": "dSQh8Mxs1N0"
+					"url": "dSQh8Mxs1N0"
 				}
 			]
 		},
@@ -187,9 +176,9 @@
 					"url": "https://shav-vimalendiran.netlify.app/"
 				},
 				{
-                    "type": "video",
-                    "url": "ViGKpai8Dyc"
-                }
+					"type": "video",
+					"url": "ViGKpai8Dyc"
+				}
 			]
 		},
 		{
@@ -214,16 +203,7 @@
 				},
 				{
 					"type": "video",
-					"id": "F7BaKCkUvLs"
-				}
-			]
-		},
-		{
-			"name": "Ajay Lally",
-			"github": "AjaySingh4",
-			"materials": [
-				{
-					"type": "cv"
+					"url": "F7BaKCkUvLs"
 				}
 			]
 		},
@@ -236,7 +216,7 @@
 				},
 				{
 					"type": "video",
-					"id": "Ngr8DS8eOqY"
+					"url": "Ngr8DS8eOqY"
 				}
 			]
 		},
