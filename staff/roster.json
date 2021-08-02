@@ -1,7 +1,30 @@
 [
     {
+        "name": "Sophie Hebdidge",
+        "title": "CTO"
+    },
+    {
+        "name": "Lily Senior",
+        "title": "Engagement Manager"
+    },
+    {
+        "name": "Claudia Cohen",
+        "title": "Head of Client Services"
+    },
+    {
+        "name": "Krikor Hindoain",
+        "title": "Head of Client Partnerships"
+    },
+    {
+        "name": "Marcus Willis",
+        "title": "Client Services Consultant"
+    },
+    {
+        "name": "Ella Higham",
+        "title": "Client Services Associate"
+    },
+    {
         "name": "Stephanie Lawal",
         "title": "Intern"
     }
-
 ]
