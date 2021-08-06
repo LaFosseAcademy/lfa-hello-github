@@ -63,8 +63,10 @@
 		{
 			"name": "Mehmoona Hussain"
 			"github": "moony98",
+			"url": "https://www.youtube.com/watch?v=rx2vwGz57tA&list=PLUxOEtGnxiqCCfLdJTIk4v7M8GDiBF-42&index=16",
 			"materials": [
-				{ "type": "cv" }
+				{ "type": "cv" },
+				{ "type": "video"}
 			]
 
 	    }
