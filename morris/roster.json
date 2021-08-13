@@ -51,7 +51,11 @@
         {
           "type": "video",
           "url": "c0twxM7yLKI"
-        }
+        },
+        {
+					"type": "portfolio",
+					"url": "https://samekah-howard.netlify.app/"
+				}
       ]
     },
     {
