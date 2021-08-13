@@ -37,6 +37,10 @@
         {
           "type": "video",
           "url": "h8tJCUtuJS4"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://akashkhambay.netlify.app/"
         }
       ]
     },
@@ -253,10 +257,10 @@
         {
           "type": "cv"
         },
-		{
-			"type": "video",
-			"url": "rx2vwGz57tA"
-		}
+        {
+          "type": "video",
+          "url": "rx2vwGz57tA"
+        }
       ]
     }
   ]
