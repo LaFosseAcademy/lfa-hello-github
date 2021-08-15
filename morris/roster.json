@@ -188,6 +188,10 @@
         {
           "type": "cv"
         },
+		{
+			"type": "portfolio",
+			"url": "https://deborahfrancis.netlify.app/"
+		},
         {
           "type": "video",
           "url": "dSQh8Mxs1N0"
