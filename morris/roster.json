@@ -37,6 +37,10 @@
         {
           "type": "video",
           "url": "h8tJCUtuJS4"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://akashkhambay.netlify.app/"
         }
       ]
     },
@@ -51,7 +55,11 @@
         {
           "type": "video",
           "url": "c0twxM7yLKI"
-        }
+        },
+        {
+					"type": "portfolio",
+					"url": "https://samekah-howard.netlify.app/"
+				}
       ]
     },
     {
@@ -180,6 +188,10 @@
         {
           "type": "cv"
         },
+		{
+			"type": "portfolio",
+			"url": "https://deborahfrancis.netlify.app/"
+		},
         {
           "type": "video",
           "url": "dSQh8Mxs1N0"
@@ -196,7 +208,11 @@
         {
           "type": "video",
           "url": "TfnLnkmlZ2o"
-        }
+        },
+	      {
+	      		"type": "portfolio",
+		      "url": "https://rafikas-portfolio.netlify.app/"
+	      }
       ]
     },
     {
@@ -240,6 +256,10 @@
         {
           "type": "cv"
         },
+	 {
+          "type": "portfolio",
+          "url": "https://jawwads-portfolio.netlify.app/"
+        },
         {
           "type": "video",
           "url": "Ngr8DS8eOqY"
@@ -252,6 +272,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "rx2vwGz57tA"
         }
       ]
     }

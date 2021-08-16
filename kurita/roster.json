@@ -14,42 +14,57 @@
             "github": "harrismawardi"
         },
         {
-            "name": "Gorazd Sumkovski"
+            "name": "Gorazd Sumkovski",
+            "github": "Gorazd-Sumkovski"
         },
         {
-            "name": "Owen Jenkins"
+            "name": "Owen Jenkins",
+            "github": "OGWJ"
         },
         {
-            "name": "Parth Patel"
+            "name": "Parth Patel",
+            "github": "partyzl",
+            "materials":[
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
-            "name": "Elicia Lobo"
+            "name": "Elicia Lobo",
+            "github": "ELOBO5"
         },
         {
-            "name": "Abigail McLeod-Peck"
+            "name": "Abigail McLeod-Peck",
+            "github": "Abimcp"
         },
         {
-            "name": "Jasmin Appleby Holdham"
+            "name": "Jasmin Appleby Holdham",
+            "github": "jasminappleby"
         },
         {
-            "name": "Cerise Abel-Thompson"
+            "name": "Cerise Abel-Thompson",
+            "github": "cerise-at"
         },
         {
-            "name": "Kenneth Yeung"
+            "name": "Kenneth Yeung",
+            "github": "KennethCWY"
         },
         {
             "name": "Simon Allan",
             "github": "Sallan464"
         },
         {
-            "name": "Mariusz Las"
+            "name": "Mariusz Las",
+            "github": "mariuszlas"
         },
         {
             "name": "Tegan Gowing",
             "github": "T-Gowing"
         },
         {
-            "name": "Tobi Kuyoro"
+            "name": "Tobi Kuyoro",
+            "github": "tobikuyo"
         },
         {
             "name": "Corneliu Laur",
