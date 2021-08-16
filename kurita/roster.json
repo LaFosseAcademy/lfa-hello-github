@@ -1,74 +1,79 @@
 {
-    "namesake": {
-        "name": "Shigetaka Kurita",
-        "materials": [
-            {
-                "type": "video",
-                "url": "JVOCKvl1T8c"
-            }
-        ]
-    },
-    "students": [
-        {
-            "name": "Harris Mawardi",
-            "github": "harrismawardi"
-        },
-        {
-            "name": "Gorazd Sumkovski",
-            "github": "Gorazd-Sumkovski"
-        },
-        {
-            "name": "Owen Jenkins",
-            "github": "OGWJ"
-        },
-        {
-            "name": "Parth Patel",
-            "github": "partyzl",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Elicia Lobo",
-            "github": "ELOBO5"
-        },
-        {
-            "name": "Abigail McLeod-Peck",
-            "github": "Abimcp"
-        },
-        {
-            "name": "Jasmin Appleby Holdham",
-            "github": "jasminappleby"
-        },
-        {
-            "name": "Cerise Abel-Thompson",
-            "github": "cerise-at"
-        },
-        {
-            "name": "Kenneth Yeung",
-            "github": "KennethCWY"
-        },
-        {
-            "name": "Simon Allan",
-            "github": "Sallan464"
-        },
-        {
-            "name": "Mariusz Las",
-            "github": "mariuszlas"
-        },
-        {
-            "name": "Tegan Gowing",
-            "github": "T-Gowing"
-        },
-        {
-            "name": "Tobi Kuyoro",
-            "github": "tobikuyo"
-        },
-        {
-            "name": "Corneliu Laur",
-            "github": "crnel179"
-        }
+  "namesake": {
+    "name": "Shigetaka Kurita",
+    "materials": [
+      {
+        "type": "video",
+        "url": "JVOCKvl1T8c"
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Harris Mawardi",
+      "github": "harrismawardi"
+    },
+    {
+      "name": "Gorazd Sumkovski",
+      "github": "Gorazd-Sumkovski"
+    },
+    {
+      "name": "Owen Jenkins",
+      "github": "OGWJ"
+    },
+    {
+      "name": "Parth Patel",
+      "github": "partyzl",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Elicia Lobo",
+      "github": "ELOBO5",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Abigail McLeod-Peck",
+      "github": "Abimcp"
+    },
+    {
+      "name": "Jasmin Appleby Holdham",
+      "github": "jasminappleby"
+    },
+    {
+      "name": "Cerise Abel-Thompson",
+      "github": "cerise-at"
+    },
+    {
+      "name": "Kenneth Yeung",
+      "github": "KennethCWY"
+    },
+    {
+      "name": "Simon Allan",
+      "github": "Sallan464"
+    },
+    {
+      "name": "Mariusz Las",
+      "github": "mariuszlas"
+    },
+    {
+      "name": "Tegan Gowing",
+      "github": "T-Gowing"
+    },
+    {
+      "name": "Tobi Kuyoro",
+      "github": "tobikuyo"
+    },
+    {
+      "name": "Corneliu Laur",
+      "github": "crnel179"
+    }
+  ]
 }
