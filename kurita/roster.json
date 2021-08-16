@@ -36,7 +36,12 @@
         },
         {
             "name": "Abigail McLeod-Peck",
-            "github": "Abimcp"
+            "github": "Abimcp",
+            "materials":[
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Jasmin Appleby Holdham",
