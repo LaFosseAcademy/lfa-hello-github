@@ -12,10 +12,10 @@
         {
             "name": "Harris Mawardi",
             "github": "harrismawardi",
-            "materials":[
-               {
-                "type": "cv"
-               } 
+            "materials": [
+                {
+                    "type": "cv"
+                }
             ]
         },
         {
@@ -25,7 +25,7 @@
         {
             "name": "Owen Jenkins",
             "github": "OGWJ",
-            "materials":[
+            "materials": [
                 {
                     "type": "cv"
                 }
@@ -34,7 +34,7 @@
         {
             "name": "Parth Patel",
             "github": "partyzl",
-            "materials":[
+            "materials": [
                 {
                     "type": "cv"
                 }
@@ -42,17 +42,17 @@
         },
         {
             "name": "Elicia Lobo",
-      "github": "ELOBO5",
-      "materials": [
-        {
-          "type": "cv"
-        }
-      ]
+            "github": "ELOBO5",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Abigail McLeod-Peck",
             "github": "Abimcp",
-            "materials":[
+            "materials": [
                 {
                     "type": "cv"
                 }
@@ -77,7 +77,7 @@
         {
             "name": "Mariusz Las",
             "github": "mariuszlas",
-            "materials":[
+            "materials": [
                 {
                     "type": "cv"
                 }
@@ -98,7 +98,12 @@
         },
         {
             "name": "Corneliu Laur",
-            "github": "crnel179"
+            "github": "crnel179",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         }
     ]
 }
