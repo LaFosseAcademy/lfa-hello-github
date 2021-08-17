@@ -60,7 +60,12 @@
         },
         {
             "name": "Jasmin Appleby Holdham",
-            "github": "jasminappleby"
+            "github": "jasminappleby",
+            "materials":[
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Cerise Abel-Thompson",
