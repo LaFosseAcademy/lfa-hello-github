@@ -1,15 +1,12 @@
 {
     "namesake": {
         "name": "Shigetaka Kurita",
-        "materials": [
-            {
-                "type": "video",
-                "url": "JVOCKvl1T8c"
-            }
-        ]
+        "materials": [{
+            "type": "video",
+            "url": "JVOCKvl1T8c"
+        }]
     },
-    "students": [
-        {
+    "students": [{
             "name": "Harris Mawardi",
             "github": "harrismawardi"
         },
@@ -20,20 +17,16 @@
         {
             "name": "Owen Jenkins",
             "github": "OGWJ",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Parth Patel",
             "github": "partyzl",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Elicia Lobo",
@@ -49,7 +42,10 @@
         },
         {
             "name": "Cerise Abel-Thompson",
-            "github": "cerise-at"
+            "github": "cerise-at",
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Kenneth Yeung",
@@ -62,11 +58,9 @@
         {
             "name": "Mariusz Las",
             "github": "mariuszlas",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Tegan Gowing",
