@@ -61,7 +61,12 @@
         },
         {
             "name": "Mariusz Las",
-            "github": "mariuszlas"
+            "github": "mariuszlas",
+            "materials":[
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Tegan Gowing",
