@@ -73,6 +73,11 @@
         {
             "name": "Simon Allan",
             "github": "Sallan464"
+            "materials":[
+               {
+                "type": "cv"
+               } 
+            ]
         },
         {
             "name": "Mariusz Las",
