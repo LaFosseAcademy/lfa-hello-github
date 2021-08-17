@@ -73,11 +73,21 @@
         },
         {
             "name": "Kenneth Yeung",
-            "github": "KennethCWY"
+            "github": "KennethCWY",
+            "materials":[
+                {
+                    "type":"cv"
+                }
+            ]
         },
         {
             "name": "Simon Allan",
-            "github": "Sallan464"
+            "github": "Sallan464",
+            "materials":[
+               {
+                "type": "cv"
+               } 
+            ]
         },
         {
             "name": "Mariusz Las",
@@ -103,7 +113,12 @@
         },
         {
             "name": "Corneliu Laur",
-            "github": "crnel179"
+            "github": "crnel179",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         }
     ]
 }
