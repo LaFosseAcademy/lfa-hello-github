@@ -11,7 +11,12 @@
     "students": [
         {
             "name": "Harris Mawardi",
-            "github": "harrismawardi"
+            "github": "harrismawardi",
+            "materials":[
+               {
+                "type": "cv"
+               } 
+            ]
         },
         {
             "name": "Gorazd Sumkovski",
