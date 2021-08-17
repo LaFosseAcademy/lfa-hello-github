@@ -11,50 +11,92 @@
     "students": [
         {
             "name": "Harris Mawardi",
-            "github": "harrismawardi"
+            "github": "harrismawardi",
+            "materials":[
+               {
+                "type": "cv"
+               } 
+            ]
         },
         {
-            "name": "Gorazd Sumkovski"
+            "name": "Gorazd Sumkovski",
+            "github": "Gorazd-Sumkovski"
         },
         {
-            "name": "Owen Jenkins"
+            "name": "Owen Jenkins",
+            "github": "OGWJ",
+            "materials":[
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
-            "name": "Parth Patel"
+            "name": "Parth Patel",
+            "github": "partyzl",
+            "materials":[
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
-            "name": "Elicia Lobo"
+            "name": "Elicia Lobo",
+      "github": "ELOBO5",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
         },
         {
-            "name": "Abigail McLeod-Peck"
+            "name": "Abigail McLeod-Peck",
+            "github": "Abimcp",
+            "materials":[
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
-            "name": "Jasmin Appleby Holdham"
+            "name": "Jasmin Appleby Holdham",
+            "github": "jasminappleby"
         },
         {
-<<<<<<< HEAD
-            "name": "Cerise Abel-Thompson"
+            "name": "Cerise Abel-Thompson",
+            "github": "cerise-at"
         },
         {
-            "name": "Kenneth Yeung"
+            "name": "Kenneth Yeung",
+            "github": "KennethCWY"
         },
         {
             "name": "Simon Allan",
             "github": "Sallan464"
         },
         {
-            "name": "Mariusz Las"
+            "name": "Mariusz Las",
+            "github": "mariuszlas",
+            "materials":[
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Tegan Gowing",
             "github": "T-Gowing"
         },
         {
-            "name": "Tobi Kuyoro"
+            "name": "Tobi Kuyoro",
+            "github": "tobikuyo",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
-=======
->>>>>>> refs/remotes/origin/main
             "name": "Corneliu Laur",
             "github": "crnel179"
         }
