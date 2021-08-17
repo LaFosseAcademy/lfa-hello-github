@@ -19,7 +19,12 @@
         },
         {
             "name": "Owen Jenkins",
-            "github": "OGWJ"
+            "github": "OGWJ",
+            "materials":[
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Parth Patel",
