@@ -68,7 +68,12 @@
         },
         {
             "name": "Kenneth Yeung",
-            "github": "KennethCWY"
+            "github": "KennethCWY",
+            "materials":[
+                {
+                    "type":"cv"
+                }
+            ]
         },
         {
             "name": "Simon Allan",
