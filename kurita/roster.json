@@ -37,7 +37,12 @@
         },
         {
             "name": "Elicia Lobo",
-            "github": "ELOBO5"
+      "github": "ELOBO5",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
         },
         {
             "name": "Abigail McLeod-Peck",
