@@ -104,7 +104,12 @@
         },
         {
             "name": "Tobi Kuyoro",
-            "github": "tobikuyo"
+            "github": "tobikuyo",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Corneliu Laur",
