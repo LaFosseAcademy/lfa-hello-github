@@ -100,7 +100,12 @@
         },
         {
             "name": "Tegan Gowing",
-            "github": "T-Gowing"
+            "github": "T-Gowing",
+            "materials":[
+                {
+                 "type": "cv"
+                } 
+            ]
         },
         {
             "name": "Tobi Kuyoro",
