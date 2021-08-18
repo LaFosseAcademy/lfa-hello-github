@@ -1,102 +1,87 @@
 {
     "namesake": {
         "name": "Shigetaka Kurita",
-        "materials": [
-            {
-                "type": "video",
-                "url": "JVOCKvl1T8c"
-            }
-        ]
+        "materials": [{
+            "type": "video",
+            "url": "JVOCKvl1T8c"
+        }]
     },
-    "students": [
-        {
+    "students": [{
             "name": "Harris Mawardi",
             "github": "harrismawardi",
-            "materials":[
-               {
+            "materials": [{
                 "type": "cv"
-               } 
-            ]
+            }]
         },
         {
             "name": "Gorazd Sumkovski",
-            "github": "Gorazd-Sumkovski"
+            "github": "Gorazd-Sumkovski",
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Owen Jenkins",
             "github": "OGWJ",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Parth Patel",
             "github": "partyzl",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Elicia Lobo",
-      "github": "ELOBO5",
-      "materials": [
-        {
-          "type": "cv"
-        }
-      ]
+            "github": "ELOBO5",
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Abigail McLeod-Peck",
             "github": "Abimcp",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Jasmin Appleby Holdham",
             "github": "jasminappleby",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Cerise Abel-Thompson",
-            "github": "cerise-at"
+            "github": "cerise-at",
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Kenneth Yeung",
             "github": "KennethCWY",
-            "materials":[
-                {
-                    "type":"cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Simon Allan",
             "github": "Sallan464",
-            "materials":[
-               {
+            "materials": [{
                 "type": "cv"
-               } 
-            ]
+            }]
         },
         {
             "name": "Mariusz Las",
             "github": "mariuszlas",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Tegan Gowing",
@@ -119,11 +104,9 @@
         {
             "name": "Corneliu Laur",
             "github": "crnel179",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            }]
         }
     ]
 }
