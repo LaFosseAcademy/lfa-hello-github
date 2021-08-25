@@ -64,7 +64,10 @@
         },
 	{
             "name": "Callum Rankine",
-            "github": "cmr33-cloud"
+            "github": "cmr33-cloud",
+            "materials": [{
+                "type": "cv"
+            }]
         }
     ]
 }
