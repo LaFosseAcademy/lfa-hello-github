@@ -78,9 +78,15 @@
         {
             "name": "Simon Allan",
             "github": "Sallan464",
-            "materials": [{
+            "materials": [
+                {
                 "type": "cv"
-            }]
+                },
+                {
+                 "type": "video",
+                 "url": "t7DVh5OXqiA"
+                }
+            ]
         },
         {
             "name": "Mariusz Las",
