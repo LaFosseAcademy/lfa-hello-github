@@ -8,6 +8,9 @@
         }]
     },
     "students": [
-
+        {
+            "name": "Chris Anstead",
+            "github": "nxforg"
+        }
     ]
 }
