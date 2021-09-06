@@ -91,11 +91,10 @@
         {
             "name": "Cerise Abel-Thompson",
             "github": "cerise-at",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv",
+                "url": "LD284Ex8cio"
+            }]
         },
         {
             "name": "Kenneth Yeung",
