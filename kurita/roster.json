@@ -8,11 +8,17 @@
     },
     "students": [{
             "name": "Harris Mawardi",
-            "github": "harrismawardi"
+            "github": "harrismawardi",
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Gorazd Sumkovski",
-            "github": "Gorazd-Sumkovski"
+            "github": "Gorazd-Sumkovski",
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Owen Jenkins",
@@ -30,15 +36,24 @@
         },
         {
             "name": "Elicia Lobo",
-            "github": "ELOBO5"
+            "github": "ELOBO5",
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Abigail McLeod-Peck",
-            "github": "Abimcp"
+            "github": "Abimcp",
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Jasmin Appleby Holdham",
-            "github": "jasminappleby"
+            "github": "jasminappleby",
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Cerise Abel-Thompson",
@@ -49,11 +64,17 @@
         },
         {
             "name": "Kenneth Yeung",
-            "github": "KennethCWY"
+            "github": "KennethCWY",
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Simon Allan",
-            "github": "Sallan464"
+            "github": "Sallan464",
+            "materials": [{
+                "type": "cv"
+            }]
         },
         {
             "name": "Mariusz Las",
@@ -72,7 +93,10 @@
         },
         {
             "name": "Corneliu Laur",
-            "github": "crnel179"
+            "github": "crnel179",
+            "materials": [{
+                "type": "cv"
+            }]
         }
     ]
 }
