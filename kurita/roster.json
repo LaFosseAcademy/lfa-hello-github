@@ -12,11 +12,13 @@
         {
             "name": "Harris Mawardi",
             "github": "harrismawardi",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            },
+            {
+                "type": "video",
+                "url": "bc75XeI2tEU"
+            }]
         },
         {
             "name": "Gorazd Sumkovski",
