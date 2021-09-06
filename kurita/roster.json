@@ -80,11 +80,13 @@
         {
             "name": "Jasmin Appleby Holdham",
             "github": "jasminappleby",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+            "materials": [{
+                "type": "cv"
+            },
+            {
+                "type": "video",
+                "url": "NQc-2_OCL1Y"
+            }]
         },
         {
             "name": "Cerise Abel-Thompson",
