@@ -59,7 +59,8 @@
             "name": "Cerise Abel-Thompson",
             "github": "cerise-at",
             "materials": [{
-                "type": "cv"
+                "type": "cv",
+                "url": "LD284Ex8cio"
             }]
         },
         {
@@ -74,6 +75,7 @@
             "github": "Sallan464",
             "materials": [{
                 "type": "cv"
+                
             }]
         },
         {
