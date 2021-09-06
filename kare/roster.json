@@ -19,12 +19,59 @@
             "github": "KushalPatel36"
         },
         {
-            "name": "Abdulrahman Awad",
-            "github": "warak3inab"
-        },
-        {
             "name": "Sansi Bindika",
             "github": "senseilein"
+        },
+        {
+            "name": "Mathusan Kandiah",
+            "github": "M-Kandiah"
+        },
+        {
+            "name": "Ben Watson",
+            "github": "benwato"
+        },
+        {
+            "name": "Elena Doronina",
+            "github": "eledoro"
+        },
+        {
+            "name": "Velin Kalenderski",
+            "github": "Velink"
+        },
+        {
+            "name": "Quinn Lanphere",
+            "github": "qlanphere"
+        },
+        {
+            "name": "Arafath Miah",
+            "github": "arafath98"
+        },
+        {
+            "name": "Brodie McGuire",
+            "github": "brodie-m"
+        },
+		    {
+            "name": "Puja Bapat",
+            "github": "pujatB"
+        },
+        {
+            "name": "Ria Randerwala",
+            "github": "ria10"
+        },
+        {
+            "name": "Mussie Berhane",
+            "github": "mussb00"
+        },
+        {
+            "name": "Sam Cockroft",
+            "github": "devSamC"
+        },
+	{
+            "name": "Callum Rankine",
+            "github": "cmr33-cloud",
+            "materials": [{
+                "type": "cv"
+            }]
         }
     ]
 }
