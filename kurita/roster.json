@@ -98,6 +98,9 @@
             "github": "cerise-at",
             "materials": [{
                 "type": "cv",
+            },
+            {
+                "type": "video",
                 "url": "LD284Ex8cio"
             }]
         },
