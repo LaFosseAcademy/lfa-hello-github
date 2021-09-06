@@ -30,9 +30,15 @@
         {
             "name": "Parth Patel",
             "github": "partyzl",
-            "materials": [{
-                "type": "cv"
-            }]
+            "materials": [
+                {
+                    "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url":"EEvA2sbRWrk"
+                }
+            ]
         },
         {
             "name": "Elicia Lobo",
