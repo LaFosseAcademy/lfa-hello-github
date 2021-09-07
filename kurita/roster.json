@@ -148,7 +148,11 @@
             "github": "T-Gowing",
             "materials": [
                 {
-                    "type": "cv"
+                 "type": "cv"
+                }, 
+                {
+                    "type": "video",
+                    "url": "0uTwypWpe24"
                 }
             ]
         },
