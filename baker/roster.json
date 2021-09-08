@@ -18,6 +18,12 @@
             "name": "Forum Desai",
             "github": "Forum-123"
         },
+
+        {
+            "name": "Rachael Yonoff",
+            "github": "Rachiey"
+        },
+
         {
             "name": "Robert Bristow",
             "github": "fooster82"
@@ -30,5 +36,6 @@
             "name": "Hamsa Muxumed",
             "github": "hamsamuxumed"
         }
+
     ]
 }
