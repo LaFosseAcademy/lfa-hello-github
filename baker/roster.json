@@ -7,7 +7,9 @@
             "url": "Z2H32Q4VU68"
         }]
     },
-    "students": [
-
+    "students": [{
+        "name": "Henry Opara",
+        "github": "designedbyq"
+    }
     ]
 }
