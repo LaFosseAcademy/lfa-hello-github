@@ -16,7 +16,12 @@
         },
         {
             "name": "Kushal Patel",
-            "github": "KushalPatel36"
+            "github": "KushalPatel36",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Mathusan Kandiah",
