@@ -32,7 +32,12 @@
         },
         {
             "name": "Velin Kalenderski",
-            "github": "Velink"
+            "github": "Velink",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Quinn Lanphere",
@@ -46,7 +51,7 @@
             "name": "Brodie McGuire",
             "github": "brodie-m"
         },
-		    {
+        {
             "name": "Puja Bapat",
             "github": "pujatB"
         },
@@ -62,12 +67,14 @@
             "name": "Sam Cockroft",
             "github": "devSamC"
         },
-	{
+        {
             "name": "Callum Rankine",
             "github": "cmr33-cloud",
-            "materials": [{
-                "type": "cv"
-            }]
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         }
     ]
 }
