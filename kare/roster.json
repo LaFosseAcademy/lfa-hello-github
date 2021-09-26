@@ -25,7 +25,12 @@
         },
         {
             "name": "Mathusan Kandiah",
-            "github": "M-Kandiah"
+            "github": "M-Kandiah",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Ben Watson",
