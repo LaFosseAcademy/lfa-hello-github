@@ -37,7 +37,12 @@
         },
         {
             "name": "Velin Kalenderski",
-            "github": "Velink"
+            "github": "Velink",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Quinn Lanphere",
