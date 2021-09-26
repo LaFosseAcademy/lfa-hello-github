@@ -36,7 +36,12 @@
         },
         {
             "name": "Quinn Lanphere",
-            "github": "qlanphere"
+            "github": "qlanphere",
+	    "materials": [
+        {
+            "type": "cv"
+        }
+    	]
         },
         {
             "name": "Arafath Miah",
