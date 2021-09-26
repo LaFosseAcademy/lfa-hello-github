@@ -82,7 +82,12 @@
         },
         {
             "name": "Ria Randerwala",
-            "github": "ria10"
+            "github": "ria10",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Mussie Berhane",
