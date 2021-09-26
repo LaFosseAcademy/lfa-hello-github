@@ -48,7 +48,12 @@
         },
         {
             "name": "Elena Doronina",
-            "github": "eledoro"
+            "github": "eledoro",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Velin Kalenderski",
@@ -62,11 +67,11 @@
         {
             "name": "Quinn Lanphere",
             "github": "qlanphere",
-	    "materials": [
-        {
-            "type": "cv"
-        }
-    	]
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Arafath Miah",
