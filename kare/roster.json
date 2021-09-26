@@ -12,7 +12,12 @@
     "students": [
         {
             "name": "Dimeji Taiwo",
-            "github": "dimtaiwo"
+            "github": "dimtaiwo",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Kushal Patel",
