@@ -40,13 +40,18 @@
         },
         {
             "name": "Arafath Miah",
-            "github": "arafath98"
+            "github": "arafath98",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Brodie McGuire",
             "github": "brodie-m"
         },
-		    {
+        {
             "name": "Puja Bapat",
             "github": "pujatB"
         },
@@ -62,12 +67,14 @@
             "name": "Sam Cockroft",
             "github": "devSamC"
         },
-	{
+        {
             "name": "Callum Rankine",
             "github": "cmr33-cloud",
-            "materials": [{
-                "type": "cv"
-            }]
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         }
     ]
 }
