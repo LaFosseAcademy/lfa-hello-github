@@ -39,7 +39,12 @@
         },
         {
             "name": "Ben Watson",
-            "github": "benwato"
+            "github": "benwato",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Elena Doronina",
