@@ -56,7 +56,12 @@
         },
         {
             "name": "Mussie Berhane",
-            "github": "mussb00"
+            "github": "mussb00",
+            "materials": [
+                {
+                    "type":"cv"
+                }
+            ]
         }
     ]
 }
