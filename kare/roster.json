@@ -12,47 +12,102 @@
     "students": [
         {
             "name": "Dimeji Taiwo",
-            "github": "dimtaiwo"
+            "github": "dimtaiwo",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Kushal Patel",
-            "github": "KushalPatel36"
+            "github": "KushalPatel36",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
-            "name": "Abdulrahman Awad",
-            "github": "warak3inab"
-        },
-        {
-            "name": "Sansi Bindika",
-            "github": "senseilein"
+            "name": "Mathusan Kandiah",
+            "github": "M-Kandiah",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Ben Watson",
-            "github": "benwato"
+            "github": "benwato",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Elena Doronina",
-            "github": "eledoro"
+            "github": "eledoro",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Velin Kalenderski",
-            "github": "Velink"
+            "github": "Velink",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Quinn Lanphere",
-            "github": "qlanphere"
+            "github": "qlanphere",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Arafath Miah",
-            "github": "arafath98"
+            "github": "arafath98",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Brodie McGuire",
-            "github": "brodie-m"
+            "github": "brodie-m",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Puja Bapat",
+            "github": "pujatB",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Ria Randerwala",
-            "github": "ria10"
+            "github": "ria10",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Mussie Berhane",
@@ -60,6 +115,24 @@
             "materials": [
                 {
                     "type":"cv"
+                }
+              ]
+        },
+        {
+            "name": "Sam Cockroft",
+            "github": "devSamC",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Callum Rankine",
+            "github": "cmr33-cloud",
+            "materials": [
+                {
+                    "type": "cv"
                 }
             ]
         }
