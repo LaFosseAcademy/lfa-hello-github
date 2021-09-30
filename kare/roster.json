@@ -110,7 +110,12 @@
         },
         {
             "name": "Sam Cockroft",
-            "github": "devSamC"
+            "github": "devSamC",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Callum Rankine",
