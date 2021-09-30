@@ -84,7 +84,12 @@
         },
         {
             "name": "Brodie McGuire",
-            "github": "brodie-m"
+            "github": "brodie-m",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Puja Bapat",
