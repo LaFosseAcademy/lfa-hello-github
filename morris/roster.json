@@ -60,8 +60,7 @@
 					"type": "portfolio",
 					"url": "https://samekah-howard.netlify.app/"
 				}
-      ],
-      "placement": true
+      ]
     },
     {
       "name": "Monica Segarra",
@@ -78,8 +77,7 @@
           "type": "video",
           "url": "ZKRkG-EzKkU"
         }
-      ],
-      "placement": true
+      ]
     },
     {
       "name": "Dan Cooper",
@@ -96,8 +94,7 @@
           "type": "video",
           "url": "8lolrsrykrs"
         }
-      ],
-      "placement": true
+      ]
     },
     {
       "name": "James Derrick",
@@ -114,8 +111,7 @@
           "type": "video",
           "url": "r3DG8YJmiLE"
         }
-      ],
-      "placement": true
+      ]
     },
     {
       "name": "Polina Moore",
@@ -132,8 +128,7 @@
           "type": "video",
           "url": "2sSo0qIjEE0"
         }
-      ],
-      "placement": true
+      ]
     },
     {
       "name": "Zak Gogi",
@@ -167,8 +162,7 @@
           "type": "video",
           "url": "wfYDh7ztMh0"
         }
-      ],
-      "placement": true
+      ]
     },
     {
       "name": "Maximilian Hartley",
@@ -219,8 +213,7 @@
 	      		"type": "portfolio",
 		      "url": "https://rafikas-portfolio.netlify.app/"
 	      }
-      ],
-      "placement": true
+      ]
     },
     {
       "name": "Shav Vimalendiran",
@@ -237,8 +230,7 @@
           "type": "video",
           "url": "ViGKpai8Dyc"
         }
-      ],
-      "placement": true
+      ]
     },
     {
       "name": "Humza Muzammal",
@@ -255,8 +247,7 @@
           "type": "video",
           "url": "F7BaKCkUvLs"
         }
-      ],
-      "placement": true
+      ]
     },
     {
       "name": "Jawwad Uddin",
@@ -265,7 +256,7 @@
         {
           "type": "cv"
         },
-	      {
+	 {
           "type": "portfolio",
           "url": "https://jawwads-portfolio.netlify.app/"
         },
@@ -273,8 +264,7 @@
           "type": "video",
           "url": "Ngr8DS8eOqY"
         }
-      ],
-      "placement": true
+      ]
     }
   ]
 }
