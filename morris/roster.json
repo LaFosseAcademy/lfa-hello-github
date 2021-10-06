@@ -145,7 +145,8 @@
           "type": "video",
           "url": "MWRjcXITHIM"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Tom Virgo",
@@ -179,7 +180,8 @@
           "type": "video",
           "url": "Xp4zRj5Uk-g"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Deborah Francis",
@@ -188,15 +190,16 @@
         {
           "type": "cv"
         },
-		{
-			"type": "portfolio",
-			"url": "https://deborahfrancis.netlify.app/"
-		},
+        {
+          "type": "portfolio",
+          "url": "https://deborahfrancis.netlify.app/"
+        },
         {
           "type": "video",
           "url": "dSQh8Mxs1N0"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Rafika Turemis",
