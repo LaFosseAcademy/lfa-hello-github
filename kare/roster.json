@@ -79,6 +79,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "uE70FCbpEiw"
                 }
             ]
         },
@@ -114,9 +118,9 @@
             "github": "mussb00",
             "materials": [
                 {
-                    "type":"cv"
+                    "type": "cv"
                 }
-              ]
+            ]
         },
         {
             "name": "Sam Cockroft",
