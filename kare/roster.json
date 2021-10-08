@@ -73,7 +73,12 @@
             "github": "qlanphere",
             "materials": [
                 {
-                    "type": "cv"
+                    "type": "cv",
+                    
+                },
+                { 
+                    "type": "video",
+                   "url": "ymdeMIWN06w"
                 }
             ]
         },
