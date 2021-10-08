@@ -77,6 +77,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "u1N9mRk6XF8"
                 }
             ]
         },
@@ -86,11 +90,10 @@
             "materials": [
                 {
                     "type": "cv"
-                    
                 },
-                { 
+                {
                     "type": "video",
-                   "url": "ymdeMIWN06w"
+                    "url": "ymdeMIWN06w"
                 }
             ]
         },
@@ -116,7 +119,7 @@
                 },
                 {
                     "type": "video",
-                    "url" : "tNENIWZvuRc"
+                    "url": "tNENIWZvuRc"
                 }
             ]
         },
@@ -162,7 +165,8 @@
             "materials": [
                 {
                     "type": "cv"
-                },               {
+                },
+                {
                     "type": "video",
                     "url": "eWI9JlEPCz8"
                 }
