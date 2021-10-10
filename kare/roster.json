@@ -129,6 +129,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "ivmj854XPro"
                 }
             ]
         },
@@ -178,3 +182,4 @@
         }
     ]
 }
+
