@@ -44,7 +44,8 @@
                   "type": "video",
                   "url": "3r3zw7vd_sU"
                 }
-            ]
+            ],
+            "placement": true
         },
         {
             "name": "Parth Patel",
@@ -57,7 +58,8 @@
                     "type": "video",
                     "url":"EEvA2sbRWrk"
                 }
-            ]
+            ],
+            "placement": true
         },
         {
             "name": "Elicia Lobo",
@@ -84,7 +86,8 @@
                     "type": "video",
                     "url": "XZTFIeCkPbI"
                 }
-            ]
+            ],
+            "placement": true
         },
         {
             "name": "Jasmin Appleby Holdham",
@@ -95,7 +98,8 @@
             {
                 "type": "video",
                 "url": "NQc-2_OCL1Y"
-            }]
+            }],
+            "placement": true
         },
         {
             "name": "Cerise Abel-Thompson",
@@ -106,7 +110,8 @@
             {
                 "type": "video",
                 "url": "LD284Ex8cio"
-            }]
+            }],
+            "placement": true
         },
         {
             "name": "Kenneth Yeung",
@@ -145,7 +150,8 @@
                     "type": "video",
                     "url": "9ejYXgVqcGo"
                 }
-            ]
+            ],
+            "placement": true
         },
         {
             "name": "Tegan Gowing",
@@ -171,7 +177,8 @@
                     "type": "video",
                     "url": "7nLJSMeyhqs"
                 }
-            ]
+            ],
+            "placement": true
         }
     ]
 }

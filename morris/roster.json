@@ -24,7 +24,8 @@
           "type": "video",
           "url": "ydDmoUkj928"
         }
-      ]
+      ],
+      "placement": true
     },
 
     {
@@ -42,7 +43,8 @@
           "type": "portfolio",
           "url": "https://akashkhambay.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
 
     {
