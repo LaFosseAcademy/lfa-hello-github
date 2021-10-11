@@ -20,6 +20,19 @@
             ]
         },
         {
+            "name": "Ria Randerwala",
+            "github": "ria10",
+            "materials": [
+                {
+                    "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "9q3KhruowAs"
+                }
+            ]
+        },
+        {
             "name": "Kushal Patel",
             "github": "KushalPatel36",
             "materials": [
@@ -133,19 +146,6 @@
                 {
                     "type": "video",
                     "url": "ivmj854XPro"
-                }
-            ]
-        },
-        {
-            "name": "Ria Randerwala",
-            "github": "ria10",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "9q3KhruowAs"
                 }
             ]
         },
