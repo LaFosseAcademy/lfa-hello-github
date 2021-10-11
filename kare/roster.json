@@ -158,7 +158,11 @@
             "github": "mussb00",
             "materials": [
                 {
-                    "type": "cv"
+                    "type":"cv"
+                }, 
+                {
+                    "type": "video",
+                    "url": "u9rlvaWiajk"
                 }
             ]
         },
