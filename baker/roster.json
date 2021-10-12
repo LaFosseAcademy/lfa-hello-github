@@ -42,7 +42,12 @@
         },
         {
             "name": "Calum McDougall",
-            "github": "cbmcdougall"
+            "github": "cbmcdougall",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Zerh Guzman",
