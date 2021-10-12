@@ -12,7 +12,12 @@
     "students": [
         {
             "name": "Chris Anstead",
-            "github": "nxforg"
+            "github": "nxforg",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Forum Desai",
