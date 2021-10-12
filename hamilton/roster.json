@@ -28,6 +28,7 @@
         },
         {
             "name": "Adil Iqbal",
+            "placement": true,
             "project": "JobbaHunt",
             "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/hamilton/09.hs_Adil_Iqbal.png",
             "materials": [
