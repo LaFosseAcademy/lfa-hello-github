@@ -34,7 +34,12 @@
         },
         {
             "name": "Robert Bristow",
-            "github": "fooster82"
+            "github": "fooster82",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Zach Brown",
