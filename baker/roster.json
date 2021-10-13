@@ -25,7 +25,12 @@
         },
         {
             "name": "Rachael Yonoff",
-            "github": "Rachiey"
+            "github": "Rachiey",
+            "materials":[
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Robert Bristow",
