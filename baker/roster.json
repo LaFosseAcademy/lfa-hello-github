@@ -73,7 +73,12 @@
         },
         {
             "name": "Katie Chedgzoy",
-            "github": "katieched"
+            "github": "katieched",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Oluwaseun Akano",
