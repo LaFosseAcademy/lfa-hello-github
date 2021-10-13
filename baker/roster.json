@@ -18,12 +18,10 @@
             "name": "Forum Desai",
             "github": "Forum-123"
         },
-
         {
             "name": "Rachael Yonoff",
             "github": "Rachiey"
         },
-
         {
             "name": "Robert Bristow",
             "github": "fooster82"
@@ -38,7 +36,12 @@
         },
         {
             "name": "Hamsa Muxumed",
-            "github": "hamsamuxumed"
+            "github": "hamsamuxumed",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Calum McDougall",
@@ -66,19 +69,19 @@
         },
         {
             "name": "Zain Uppal",
-            "github":"Zain1Uppal"
+            "github": "Zain1Uppal"
         },
         {
-          "name": "Henry Opara",
-          "github": "designedbyq"
+            "name": "Henry Opara",
+            "github": "designedbyq"
         },
         {
-          "name": "Saja Aabith",
-          "github": "saja-aabith"
+            "name": "Saja Aabith",
+            "github": "saja-aabith"
         },
         {
-          "name": "Max Mackie",
-          "github": "maxmackie13"
+            "name": "Max Mackie",
+            "github": "maxmackie13"
         },
         {
             "name": "Cameron Bromley",
