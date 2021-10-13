@@ -16,7 +16,12 @@
         },
         {
             "name": "Forum Desai",
-            "github": "Forum-123"
+            "github": "Forum-123",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Rachael Yonoff",
