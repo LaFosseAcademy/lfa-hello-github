@@ -92,7 +92,12 @@
         },
         {
             "name": "Oluwaseun Akano",
-            "github": "olu-akano"
+            "github": "olu-akano",
+            "materials": [
+                {
+                    "type":"cv"
+                }
+            ]
         },
         {
             "name": "George Hickey",
