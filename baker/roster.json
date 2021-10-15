@@ -52,7 +52,12 @@
         },
         {
             "name": "Golnar Kaviani",
-            "github": "glnkvn"
+            "github": "glnkvn",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Hamsa Muxumed",
