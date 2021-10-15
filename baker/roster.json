@@ -48,7 +48,12 @@
         },
         {
             "name": "Zach Brown",
-            "github": "ZNBrown"
+            "github": "ZNBrown",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Golnar Kaviani",
