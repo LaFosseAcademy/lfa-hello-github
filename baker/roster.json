@@ -114,7 +114,12 @@
         },
         {
             "name": "Zain Uppal",
-            "github": "Zain1Uppal"
+            "github": "Zain1Uppal",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Henry Opara",
