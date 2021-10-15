@@ -106,7 +106,12 @@
         },
         {
             "name": "George Hickey",
-            "github": "hxckey"
+            "github": "hxckey",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "James Pollington",
