@@ -128,7 +128,12 @@
         },
         {
             "name": "Henry Opara",
-            "github": "designedbyq"
+            "github": "designedbyq",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Saja Aabith",
