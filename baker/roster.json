@@ -84,7 +84,12 @@
         },
         {
             "name": "Zerh Guzman",
-            "github": "guz3z"
+            "github": "guz3z",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Katie Chedgzoy",
