@@ -142,7 +142,13 @@
         },
         {
             "name": "Saja Aabith",
-            "github": "saja-aabith"
+            "github": "saja-aabith",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+
         },
         {
             "name": "Max Mackie",
