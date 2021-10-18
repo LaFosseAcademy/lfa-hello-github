@@ -48,11 +48,21 @@
         },
         {
             "name": "Zach Brown",
-            "github": "ZNBrown"
+            "github": "ZNBrown",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Golnar Kaviani",
-            "github": "glnkvn"
+            "github": "glnkvn",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Hamsa Muxumed",
@@ -74,7 +84,12 @@
         },
         {
             "name": "Zerh Guzman",
-            "github": "guz3z"
+            "github": "guz3z",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Katie Chedgzoy",
@@ -87,11 +102,21 @@
         },
         {
             "name": "Oluwaseun Akano",
-            "github": "olu-akano"
+            "github": "olu-akano",
+            "materials": [
+                {
+                    "type":"cv"
+                }
+            ]
         },
         {
             "name": "George Hickey",
-            "github": "hxckey"
+            "github": "hxckey",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "James Pollington",
@@ -99,15 +124,31 @@
         },
         {
             "name": "Zain Uppal",
-            "github": "Zain1Uppal"
+            "github": "Zain1Uppal",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Henry Opara",
-            "github": "designedbyq"
+            "github": "designedbyq",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Saja Aabith",
-            "github": "saja-aabith"
+            "github": "saja-aabith",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+
         },
         {
             "name": "Max Mackie",
