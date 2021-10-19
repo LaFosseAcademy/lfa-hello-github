@@ -120,7 +120,12 @@
         },
         {
             "name": "James Pollington",
-            "github": "jpxllington"
+            "github": "jpxllington",
+            "materials":[
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Zain Uppal",
