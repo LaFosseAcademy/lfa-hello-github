@@ -8,6 +8,9 @@
         }]
     },
     "students": [
-
+        {
+            "name": "Edward White",
+            "github": "ewhite1999"
+        }
     ]
 }
