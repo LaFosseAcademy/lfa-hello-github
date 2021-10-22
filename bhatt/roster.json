@@ -8,6 +8,9 @@
         }]
     },
     "students": [
-
+        {
+            "name": "Josh Tang",
+            "github": "jt17819"
+        }
     ]
 }
