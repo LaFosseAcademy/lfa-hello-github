@@ -161,7 +161,12 @@
         },
         {
             "name": "Cameron Bromley",
-            "github": "CBrom99"
+            "github": "CBrom99",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         }
     ]
 }
