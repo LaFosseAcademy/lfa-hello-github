@@ -219,21 +219,6 @@
                     "url": "aqhkx1kzAAw"
                 }
             ]
-        },
-        {
-            "name": "Yassine Benlamkadem",
-            "imageUrl": "https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/jackson/Yassine_Benlamkadem.png",
-            "project": "Find-Do",
-            "materials": [
-                {
-                    "type": "portfolio",
-                    "url": "https://ybenlamkadem.netlify.app/"
-                },
-                {
-                    "type": "video",
-                    "url": "BZSnRNOoze8"
-                }
-            ]
         }
     ],
     "projects": {
