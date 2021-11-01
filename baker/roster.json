@@ -157,7 +157,12 @@
         },
         {
             "name": "Max Mackie",
-            "github": "maxmackie13"
+            "github": "maxmackie13",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Cameron Bromley",
