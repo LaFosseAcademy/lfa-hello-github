@@ -37,7 +37,11 @@
         {
             "name": "Hamsa Muxumed",
             "github": "hamsamuxumed",
-            "materials": [
+            "materials": [ 
+                {
+                    "type": "video",
+                    "url": "3JdhXNztTIs"
+                },
                 {
                     "type": "cv"
                 }
