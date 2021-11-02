@@ -8,6 +8,18 @@
         }]
     },
     "students": [
-
+        {
+            "name": "Josh Tang",
+            "github": "jt17819"
+        },
+        {
+            "name": "Chiara Dinan",
+            "github": "chiara-d697"
+        },
+        {
+            "name": "Marina",
+            "github": "wotaque"
+        }
+    
     ]
 }

@@ -25,6 +25,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "Hlqerh6-l9c"
                 }
             ]
         },
@@ -52,6 +56,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                "type": "video",
+                "url": "QPWW_ivmnvE"
                 }
             ]
         },
@@ -71,7 +79,11 @@
         {
             "name": "Hamsa Muxumed",
             "github": "hamsamuxumed",
-            "materials": [
+            "materials": [ 
+                {
+                    "type": "video",
+                    "url": "3JdhXNztTIs"
+                },
                 {
                     "type": "cv"
                 }
@@ -101,6 +113,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "gwfHZTIdGPE"
                 }
             ]
         },
@@ -161,7 +177,12 @@
         },
         {
             "name": "Max Mackie",
-            "github": "maxmackie13"
+            "github": "maxmackie13",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Cameron Bromley",
