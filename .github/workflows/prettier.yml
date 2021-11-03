@@ -15,6 +15,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
 
       - name: Prettier
         uses: creyD/prettier_action@v4.0
+        with:
+          prettier_options: --parser "json" --use-tabs
