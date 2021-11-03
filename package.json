@@ -1,0 +1,24 @@
+{
+  "name": "fp_study_notes_hello_github",
+  "version": "1.0.0",
+  "description": "[git CLI cheatsheet](https://github.com/getfutureproof/fp_guides_wiki/wiki/git-CLI-Cheatsheet)",
+  "main": "index.js",
+  "scripts": {
+    "pretty-check": "prettier --check .",
+    "prettify": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getfutureproof/fp_study_notes_hello_github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getfutureproof/fp_study_notes_hello_github/issues"
+  },
+  "homepage": "https://github.com/getfutureproof/fp_study_notes_hello_github#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
