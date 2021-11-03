@@ -21,4 +21,4 @@ jobs:
       - name: Prettier
         uses: creyD/prettier_action@v4.0
         with:
-          prettier_options: --parser "json" --use-tabs
+          prettier_options: --use-tabs
