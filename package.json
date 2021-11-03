@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint --ext .json,.eslintrc --fix .",
-    "prettify": "prettier --list-different . > prettier --write"
+    "prettify": "prettier -w $(prettier -l .)"
   },
   "devDependencies": {
     "eslint": "^8.1.0",
