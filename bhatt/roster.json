@@ -1,29 +1,30 @@
-{ 
-    "namesake": {
-        "name": "Ajay Bhatt",
-        "imageUrl": "https://cacm.acm.org/system/assets/0001/2604/072613_OregonLive_Ajay-Bhatt.medium.JPG?1476779490&1374864573",
-        "materials": [{
-            "type": "video",
-            "url": "XmEl0IZUdgk"
-        }]
-    },
-    "students": [
-        {
-            "name": "Josh Tang",
-            "github": "jt17819"
-        },
-        {
-            "name": "Chiara Dinan",
-            "github": "chiara-d697"
-        },
-        {
-            "name": "Marina",
-            "github": "wotaque"
-        },
-        {
-            "name": "Peter Pilkington",
-            "github": "Pilks-pixel"
-        }
-    
+{
+  "namesake": {
+    "name": "Ajay Bhatt",
+    "imageUrl": "https://cacm.acm.org/system/assets/0001/2604/072613_OregonLive_Ajay-Bhatt.medium.JPG?1476779490&1374864573",
+    "materials": [
+      {
+        "type": "video",
+        "url": "XmEl0IZUdgk"
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Josh Tang",
+      "github": "jt17819"
+    },
+    {
+      "name": "Chiara Dinan",
+      "github": "chiara-d697"
+    },
+    {
+      "name": "Marina",
+      "github": "wotaque"
+    },
+    {
+      "name": "Peter Pilkington",
+      "github": "Pilks-pixel"
+    }
+  ]
 }
