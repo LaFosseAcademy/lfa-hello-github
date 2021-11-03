@@ -178,12 +178,16 @@
     },
     {
       "name": "Henry Opara",
-      "github": "designedbyq",
-      "materials": [
-        {
-          "type": "cv"
-        }
-      ]
+            "github": "designedbyq",
+            "materials": [
+                {
+                    "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "h8nibkvCBiY"
+                }
+            ]
     },
     {
       "name": "Saja Aabith",
