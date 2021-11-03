@@ -1,4 +1,4 @@
-name: Format
+name: Lint & Format
 
 on:
   push:
@@ -9,12 +9,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  prettify:
+  format:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
           node-version: 16
+          
       - run: npm ci
-      - run: npm run prettify
+      
+      - name: lint
+        run: npm run lint
+
+      - name: prettify
+        run: npm run prettify
