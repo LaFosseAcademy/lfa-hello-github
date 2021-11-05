@@ -24,9 +24,9 @@
           "type": "video",
           "url": "ydDmoUkj928"
         }
-      ]
+      ],
+      "placement": true
     },
-
     {
       "name": "Akash Khambay",
       "github": "akashkhambay",
@@ -42,9 +42,9 @@
           "type": "portfolio",
           "url": "https://akashkhambay.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
-
     {
       "name": "Sammie Howard",
       "github": "samekah",
@@ -57,11 +57,11 @@
           "url": "c0twxM7yLKI"
         },
         {
-					"type": "portfolio",
-					"url": "https://samekah-howard.netlify.app/"
-				}
+          "type": "portfolio",
+          "url": "https://samekah-howard.netlify.app/"
+        }
       ],
-	     "placement": true
+      "placement": true
     },
     {
       "name": "Monica Segarra",
@@ -79,7 +79,7 @@
           "url": "ZKRkG-EzKkU"
         }
       ],
-	     "placement": true
+      "placement": true
     },
     {
       "name": "Dan Cooper",
@@ -97,7 +97,7 @@
           "url": "8lolrsrykrs"
         }
       ],
-	     "placement": true
+      "placement": true
     },
     {
       "name": "James Derrick",
@@ -115,7 +115,7 @@
           "url": "r3DG8YJmiLE"
         }
       ],
-	     "placement": true
+      "placement": true
     },
     {
       "name": "Polina Moore",
@@ -133,7 +133,7 @@
           "url": "2sSo0qIjEE0"
         }
       ],
-	     "placement": true
+      "placement": true
     },
     {
       "name": "Zak Gogi",
@@ -169,7 +169,7 @@
           "url": "wfYDh7ztMh0"
         }
       ],
-	     "placement": true
+      "placement": true
     },
     {
       "name": "Maximilian Hartley",
@@ -218,12 +218,12 @@
           "type": "video",
           "url": "TfnLnkmlZ2o"
         },
-	      {
-	      		"type": "portfolio",
-		      "url": "https://rafikas-portfolio.netlify.app/"
-	      }
+        {
+          "type": "portfolio",
+          "url": "https://rafikas-portfolio.netlify.app/"
+        }
       ],
-	     "placement": true
+      "placement": true
     },
     {
       "name": "Shav Vimalendiran",
@@ -241,7 +241,7 @@
           "url": "ViGKpai8Dyc"
         }
       ],
-	     "placement": true
+      "placement": true
     },
     {
       "name": "Humza Muzammal",
@@ -259,7 +259,7 @@
           "url": "F7BaKCkUvLs"
         }
       ],
-	     "placement": true
+      "placement": true
     },
     {
       "name": "Jawwad Uddin",
@@ -268,7 +268,7 @@
         {
           "type": "cv"
         },
-	 {
+        {
           "type": "portfolio",
           "url": "https://jawwads-portfolio.netlify.app/"
         },
@@ -277,7 +277,7 @@
           "url": "Ngr8DS8eOqY"
         }
       ],
-	     "placement": true
+      "placement": true
     }
   ]
 }

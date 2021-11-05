@@ -1,88 +1,228 @@
 {
-    "namesake": {
-        "name": "Mitchell Baker",
-        "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
-        "materials": [
-            {
-                "type": "video",
-                "url": "Z2H32Q4VU68"
-            }
-        ]
-    },
-    "students": [
-        {
-            "name": "Chris Anstead",
-            "github": "nxforg"
-        },
-        {
-            "name": "Forum Desai",
-            "github": "Forum-123"
-        },
-
-        {
-            "name": "Rachael Yonoff",
-            "github": "Rachiey"
-        },
-
-        {
-            "name": "Robert Bristow",
-            "github": "fooster82"
-        },
-        {
-            "name": "Zach Brown",
-            "github": "ZNBrown"
-        },
-        {
-            "name": "Golnar Kaviani",
-            "github": "glnkvn"
-        },
-        {
-            "name": "Hamsa Muxumed",
-            "github": "hamsamuxumed"
-        },
-        {
-            "name": "Calum McDougall",
-            "github": "cbmcdougall"
-        },
-        {
-            "name": "Zerh Guzman",
-            "github": "guz3z"
-        },
-        {
-            "name": "Katie Chedgzoy",
-            "github": "katieched"
-        },
-        {
-            "name": "Oluwaseun Akano",
-            "github": "olu-akano"
-        },
-        {
-            "name": "George Hickey",
-            "github": "hxckey"
-        },
-        {
-            "name": "James Pollington",
-            "github": "jpxllington"
-        },
-        {
-            "name": "Zain Uppal",
-            "github":"Zain1Uppal"
-        },
-        {
-          "name": "Henry Opara",
-          "github": "designedbyq"
-        },
-        {
-          "name": "Saja Aabith",
-          "github": "saja-aabith"
-        },
-        {
-          "name": "Max Mackie",
-          "github": "maxmackie13"
-        },
-        {
-            "name": "Cameron Bromley",
-            "github": "CBom99"
-        }
+  "namesake": {
+    "name": "Mitchell Baker",
+    "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": "Z2H32Q4VU68"
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Chris Anstead",
+      "github": "nxforg",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "SMJkNFtIYTU"
+        }
+      ]
+    },
+    {
+      "name": "Forum Desai",
+      "github": "Forum-123",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Hlqerh6-l9c"
+        }
+      ]
+    },
+    {
+      "name": "Rachael Yonoff",
+      "github": "Rachiey",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "0NamLCxAPYc"
+        }
+      ]
+    },
+    {
+      "name": "Robert Bristow",
+      "github": "fooster82",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "KDg_lr1mUAg"
+        }
+      ]
+    },
+    {
+      "name": "Zach Brown",
+      "github": "ZNBrown",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QPWW_ivmnvE"
+        }
+      ]
+    },
+    {
+      "name": "Golnar Kaviani",
+      "github": "glnkvn",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ey6xk_Qwu98"
+        }
+      ]
+    },
+    {
+      "name": "Hamsa Muxumed",
+      "github": "hamsamuxumed",
+      "materials": [
+        {
+          "type": "video",
+          "url": "3JdhXNztTIs"
+        },
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Calum McDougall",
+      "github": "cbmcdougall",
+      "materials": [
+        {
+          "type": "video",
+          "url": "Hvh8UAksmis"
+        },
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Zerh Guzman",
+      "github": "guz3z",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_n9lN-r-tXI"
+        }
+      ]
+    },
+    {
+      "name": "Katie Chedgzoy",
+      "github": "katieched",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "gwfHZTIdGPE"
+        }
+      ]
+    },
+    {
+      "name": "Oluwaseun Akano",
+            "github": "olu-akano",
+            "materials": [
+                {
+                    "type":"cv"
+                },
+                {
+                    "type":"video",
+                    "url":"l86HZi5nYYA"
+                }
+            ]
+    },
+    {
+      "name": "George Hickey",
+      "github": "hxckey",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "James Pollington",
+      "github": "jpxllington",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Zain Uppal",
+      "github": "Zain1Uppal",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Henry Opara",
+      "github": "designedbyq",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "h8nibkvCBiY"
+        }
+      ]
+    },
+    {
+      "name": "Saja Aabith",
+      "github": "saja-aabith",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Max Mackie",
+      "github": "max-mackie",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "RiIbp3rc2aM"
+        }
+      ]
+    },
+    {
+      "name": "Cameron Bromley",
+      "github": "CBrom99",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    }
+  ]
 }
