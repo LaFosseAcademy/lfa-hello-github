@@ -23,18 +23,18 @@
         }
       ]
     },
-    {
-      "name": "Forum Desai",
-      "github": "Forum-123",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "Hlqerh6-l9c"
-        }
-      ]
+     {
+        "name": "Forum Desai",
+        "github": "Forum-123",
+        "materials": [
+          {
+            "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "Hlqerh6-l9c"
+          }
+        ]
     },
     {
       "name": "Rachael Yonoff",
@@ -46,6 +46,10 @@
         {
           "type": "video",
           "url": "0NamLCxAPYc"
+        },
+        { 
+          "type": "portfolio",
+          "url": "https://rachaelyonoffportfolio.netlify.app/" 
         }
       ]
     },
