@@ -163,6 +163,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+            "type": "video",
+            "url": "C8lsCYQO75g"
+        },
+        {
+            "type": "portfolio",
+            "url": "https://georgehickey.netlify.app/"
         }
       ]
     },
