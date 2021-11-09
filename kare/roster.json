@@ -86,7 +86,8 @@
           "type": "video",
           "url": "N2cBEUN-VT4"
         }
-      ]
+      ],
+      "placement" : true
     },
     {
       "name": "Velin Kalenderski",
@@ -100,6 +101,7 @@
           "url": "u1N9mRk6XF8"
         }
       ]
+      "placement" : true
     },
     {
       "name": "Quinn Lanphere",
@@ -113,6 +115,7 @@
           "url": "ymdeMIWN06w"
         }
       ]
+      "placement" : true
     },
     {
       "name": "Arafath Miah",
@@ -165,6 +168,7 @@
           "url": "u9rlvaWiajk"
         }
       ]
+      "placement" : true
     },
     {
       "name": "Sam Cockroft",
