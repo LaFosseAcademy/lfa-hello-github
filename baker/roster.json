@@ -29,6 +29,10 @@
                 {
                     "type": "video",
                     "url": "0NamLCxAPYc"
+                },
+                { 
+                    "type": "portfolio",
+                    "url": "https://rachaelyonoffportfolio.netlify.app/" 
                 }
             ]
         },
