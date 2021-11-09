@@ -1,149 +1,244 @@
 {
-    "namesake": {
-        "name": "Mitchell Baker",
-        "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
-        "materials": [
-            {
-                "type": "video",
-                "url": "Z2H32Q4VU68"
-            }
-        ]
+  "namesake": {
+    "name": "Mitchell Baker",
+    "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": "Z2H32Q4VU68"
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Chris Anstead",
+      "github": "nxforg",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "SMJkNFtIYTU"
+        }
+      ]
     },
-    "students": [
+    {
+      "name": "Forum Desai",
+      "github": "Forum-123",
+      "materials": [
         {
-            "name": "Chris Anstead",
-            "github": "nxforg",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+          "type": "cv"
         },
         {
-            "name": "Forum Desai",
-            "github": "Forum-123",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+          "type": "video",
+          "url": "Hlqerh6-l9c"
+        }
+      ]
+    },
+    {
+      "name": "Rachael Yonoff",
+      "github": "Rachiey",
+      "materials": [
+        {
+          "type": "cv"
         },
         {
-            "name": "Rachael Yonoff",
-            "github": "Rachiey",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
+          "type": "video",
+          "url": "0NamLCxAPYc"
+        }
+      ]
+    },
+    {
+      "name": "Robert Bristow",
+      "github": "fooster82",
+      "materials": [
+        {
+          "type": "cv"
         },
         {
-            "name": "Robert Bristow",
-            "github": "fooster82",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+          "type": "video",
+          "url": "KDg_lr1mUAg"
         },
         {
-            "name": "Zach Brown",
-            "github": "ZNBrown",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+          "type": "portfolio",
+          "url": "https://robertsportfolio.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Zach Brown",
+      "github": "ZNBrown",
+      "materials": [
+        {
+          "type": "cv"
         },
         {
-            "name": "Golnar Kaviani",
-            "github": "glnkvn",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+          "type": "video",
+          "url": "QPWW_ivmnvE"
+        }
+      ]
+    },
+    {
+      "name": "Golnar Kaviani",
+      "github": "glnkvn",
+      "materials": [
+        {
+          "type": "cv"
         },
         {
-            "name": "Hamsa Muxumed",
-            "github": "hamsamuxumed",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+          "type": "video",
+          "url": "Ey6xk_Qwu98"
+        }
+      ]
+    },
+    {
+      "name": "Hamsa Muxumed",
+      "github": "hamsamuxumed",
+      "materials": [
+        {
+          "type": "video",
+          "url": "3JdhXNztTIs"
         },
         {
-            "name": "Calum McDougall",
-            "github": "cbmcdougall",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Calum McDougall",
+      "github": "cbmcdougall",
+      "materials": [
+        {
+          "type": "video",
+          "url": "Hvh8UAksmis"
         },
         {
-            "name": "Zerh Guzman",
-            "github": "guz3z"
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Zerh Guzman",
+      "github": "guz3z",
+      "materials": [
+        {
+          "type": "cv"
         },
         {
-            "name": "Katie Chedgzoy",
-            "github": "katieched",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
+          "type": "video",
+          "url": "_n9lN-r-tXI"
+        }
+      ]
+    },
+    {
+      "name": "Katie Chedgzoy",
+      "github": "katieched",
+      "materials": [
+        {
+          "type": "cv"
         },
         {
-            "name": "Oluwaseun Akano",
+          "type": "video",
+          "url": "gwfHZTIdGPE"
+        }
+      ]
+    },
+    {
+      "name": "Oluwaseun Akano",
             "github": "olu-akano",
             "materials": [
                 {
                     "type":"cv"
-                }
-            ]
-        },
-        {
-            "name": "George Hickey",
-            "github": "hxckey",
-            "materials": [
-                {
-                    "type": "cv"
                 },
                 {
-                    "type": "video",
-                    "url": "C8lsCYQO75g"
-                },
-                {
-                    "type": "portfolio",
-                    "url": "https://georgehickey.netlify.app/"
+                    "type":"video",
+                    "url":"l86HZi5nYYA"
                 }
             ]
+    },
+    {
+      "name": "George Hickey",
+      "github": "hxckey",
+      "materials": [
+        {
+          "type": "cv"
         },
         {
-            "name": "James Pollington",
-            "github": "jpxllington"
+            "type": "video",
+            "url": "C8lsCYQO75g"
         },
         {
-            "name": "Zain Uppal",
-            "github": "Zain1Uppal"
-        },
-        {
-            "name": "Henry Opara",
-            "github": "designedbyq"
-        },
-        {
-            "name": "Saja Aabith",
-            "github": "saja-aabith"
-        },
-        {
-            "name": "Max Mackie",
-            "github": "maxmackie13"
-        },
-        {
-            "name": "Cameron Bromley",
-            "github": "CBrom99"
+            "type": "portfolio",
+            "url": "https://georgehickey.netlify.app/"
         }
-    ]
+      ]
+    },
+    {
+      "name": "James Pollington",
+      "github": "jpxllington",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url":"fb7gpBvyyDY"
+        }
+      ]
+    },
+    {
+      "name": "Zain Uppal",
+      "github": "Zain1Uppal",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Henry Opara",
+      "github": "designedbyq",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "h8nibkvCBiY"
+        }
+      ]
+    },
+    {
+      "name": "Saja Aabith",
+      "github": "saja-aabith",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Max Mackie",
+      "github": "max-mackie",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "RiIbp3rc2aM"
+        }
+      ]
+    },
+    {
+      "name": "Cameron Bromley",
+      "github": "CBrom99",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    }
+  ]
 }

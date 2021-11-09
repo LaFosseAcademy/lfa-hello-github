@@ -1,197 +1,200 @@
 {
-    "namesake": {
-        "name": "Susan Kare",
-        "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
-        "materials": [
-            {
-                "type": "video",
-                "url": "y4-2iTJW-2Y"
-            }
-        ]
-    },
-    "students": [
-        {
-            "name": "Dimeji Taiwo",
-            "github": "dimtaiwo",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "7Y5j9Aaj-G8"
-                }
-            ]
-        },
-        {
-            "name": "Ria Randerwala",
-            "github": "ria10",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "9q3KhruowAs"
-                }
-            ]
-        },
-        {
-            "name": "Kushal Patel",
-            "github": "KushalPatel36",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "ODQ8C7kn3sM"
-                }
-            ]
-        },
-        {
-            "name": "Mathusan Kandiah",
-            "github": "M-Kandiah",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "VYsSsuvkxRM"
-                }
-            ]
-        },
-        {
-            "name": "Ben Watson",
-            "github": "benwato",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "fYglSD72-e4"
-                }
-            ]
-        },
-        {
-            "name": "Elena Doronina",
-            "github": "eledoro",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "N2cBEUN-VT4"
-                }
-            ]
-        },
-        {
-            "name": "Velin Kalenderski",
-            "github": "Velink",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "u1N9mRk6XF8"
-                }
-            ]
-        },
-        {
-            "name": "Quinn Lanphere",
-            "github": "qlanphere",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "ymdeMIWN06w"
-                }
-            ]
-        },
-        {
-            "name": "Arafath Miah",
-            "github": "arafath98",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "uE70FCbpEiw"
-                }
-            ]
-        },
-        {
-            "name": "Brodie McGuire",
-            "github": "brodie-m",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "tNENIWZvuRc"
-                }
-            ]
-        },
-        {
-            "name": "Puja Bapat",
-            "github": "pujatB",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "ivmj854XPro"
-                }
-            ]
-        },
-        {
-            "name": "Mussie Berhane",
-            "github": "mussb00",
-            "materials": [
-                {
-                    "type":"cv"
-                }, 
-                {
-                    "type": "video",
-                    "url": "u9rlvaWiajk"
-                }
-            ]
-        },
-        {
-            "name": "Sam Cockroft",
-            "github": "devSamC",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "CeYs7XpJsSg"
-                }
-            ]
-        },
-        {
-            "name": "Callum Rankine",
-            "github": "cmr33-cloud",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "eWI9JlEPCz8"
-                }
-            ]
-        }
+  "namesake": {
+    "name": "Susan Kare",
+    "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": "y4-2iTJW-2Y"
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Dimeji Taiwo",
+      "github": "dimtaiwo",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7Y5j9Aaj-G8"
+        }
+      ]
+    },
+    {
+      "name": "Ria Randerwala",
+      "github": "ria10",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9q3KhruowAs"
+        }
+      ]
+    },
+    {
+      "name": "Kushal Patel",
+      "github": "KushalPatel36",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ODQ8C7kn3sM"
+        }
+      ]
+    },
+    {
+      "name": "Mathusan Kandiah",
+      "github": "M-Kandiah",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "VYsSsuvkxRM"
+        }
+      ]
+    },
+    {
+      "name": "Ben Watson",
+      "github": "benwato",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "fYglSD72-e4"
+        }
+      ]
+    },
+    {
+      "name": "Elena Doronina",
+      "github": "eledoro",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "N2cBEUN-VT4"
+        }
+      ],
+      "placement" : true
+    },
+    {
+      "name": "Velin Kalenderski",
+      "github": "Velink",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "u1N9mRk6XF8"
+        }
+      ],
+      "placement" : true
+    },
+    {
+      "name": "Quinn Lanphere",
+      "github": "qlanphere",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ymdeMIWN06w"
+        }
+      ],
+      "placement" : true
+    },
+    {
+      "name": "Arafath Miah",
+      "github": "arafath98",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "uE70FCbpEiw"
+        }
+      ]
+    },
+    {
+      "name": "Brodie McGuire",
+      "github": "brodie-m",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "tNENIWZvuRc"
+        }
+      ]
+    },
+    {
+      "name": "Puja Bapat",
+      "github": "pujatB",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ivmj854XPro"
+        }
+      ]
+    },
+    {
+      "name": "Mussie Berhane",
+      "github": "mussb00",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "u9rlvaWiajk"
+        }
+      ],
+      "placement" : true
+    },
+    {
+      "name": "Sam Cockroft",
+      "github": "devSamC",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "CeYs7XpJsSg"
+        }
+      ]
+    },
+    {
+      "name": "Callum Rankine",
+      "github": "cmr33-cloud",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "eWI9JlEPCz8"
+        }
+      ]
+    }
+  ]
 }
-
