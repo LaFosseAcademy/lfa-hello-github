@@ -23,18 +23,18 @@
         }
       ]
     },
-     {
-        "name": "Forum Desai",
-        "github": "Forum-123",
-        "materials": [
-          {
-            "type": "cv"
-          },
-          {
-            "type": "video",
-            "url": "Hlqerh6-l9c"
-          }
-        ]
+    {
+      "name": "Forum Desai",
+      "github": "Forum-123",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Hlqerh6-l9c"
+        }
+      ]
     },
     {
       "name": "Rachael Yonoff",
@@ -47,9 +47,9 @@
           "type": "video",
           "url": "0NamLCxAPYc"
         },
-        { 
+        {
           "type": "portfolio",
-          "url": "https://rachaelyonoffportfolio.netlify.app/" 
+          "url": "https://rachaelyonoffportfolio.netlify.app/"
         }
       ]
     },
@@ -150,16 +150,16 @@
     },
     {
       "name": "Oluwaseun Akano",
-            "github": "olu-akano",
-            "materials": [
-                {
-                    "type":"cv"
-                },
-                {
-                    "type":"video",
-                    "url":"l86HZi5nYYA"
-                }
-            ]
+      "github": "olu-akano",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "l86HZi5nYYA"
+        }
+      ]
     },
     {
       "name": "George Hickey",
@@ -169,12 +169,12 @@
           "type": "cv"
         },
         {
-            "type": "video",
-            "url": "C8lsCYQO75g"
+          "type": "video",
+          "url": "C8lsCYQO75g"
         },
         {
-            "type": "portfolio",
-            "url": "https://georgehickey.netlify.app/"
+          "type": "portfolio",
+          "url": "https://georgehickey.netlify.app/"
         }
       ]
     },
@@ -187,7 +187,7 @@
         },
         {
           "type": "video",
-          "url":"fb7gpBvyyDY"
+          "url": "fb7gpBvyyDY"
         }
       ]
     },
@@ -219,6 +219,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "kJmbV73w3UQ"
         }
       ]
     },
