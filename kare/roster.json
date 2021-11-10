@@ -194,7 +194,8 @@
           "type": "video",
           "url": "eWI9JlEPCz8"
         }
-      ]
+      ], 
+      "placement" : true
     }
   ]
 }
