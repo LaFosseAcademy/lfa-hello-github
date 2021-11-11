@@ -119,6 +119,10 @@
         },
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://calum-mcdougall.netlify.app/"
         }
       ]
     },
