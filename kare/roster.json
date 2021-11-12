@@ -182,20 +182,6 @@
           "url": "CeYs7XpJsSg"
         }
       ]
-    },
-    {
-      "name": "Callum Rankine",
-      "github": "cmr33-cloud",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "eWI9JlEPCz8"
-        }
-      ], 
-      "placement" : true
     }
   ]
 }
