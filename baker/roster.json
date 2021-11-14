@@ -150,6 +150,10 @@
                 {
                     "type":"video",
                     "url":"l86HZi5nYYA"
+                }, 
+                {
+                    "type": "portfolio",
+                    "url": "https://oluwaseun-portfolio.netlify.app/"
                 }
             ]
     },
