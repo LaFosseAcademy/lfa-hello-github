@@ -110,6 +110,10 @@
         },
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://hamsa-muxumed.vercel.app/"
         }
       ]
     },
