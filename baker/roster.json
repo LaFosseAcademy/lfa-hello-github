@@ -88,7 +88,12 @@
         {
           "type": "video",
           "url": "QPWW_ivmnvE"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://zbrownportfolio.netlify.app"
         }
+        
       ]
     },
     {
