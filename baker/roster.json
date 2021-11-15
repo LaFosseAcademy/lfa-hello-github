@@ -220,6 +220,10 @@
         {
           "type": "video",
           "url": "fb7gpBvyyDY"
+        },
+        {
+          "type": "portfolio",
+          "url":"https://james-pollington-portfolio.netlify.app"
         }
       ]
     },
