@@ -20,6 +20,10 @@
         {
           "type": "video",
           "url": "SMJkNFtIYTU"
+        },
+        {
+            "type": "portfolio",
+            "url": "https://chrisansteadportfolio.netlify.app/"
         }
       ]
     },
