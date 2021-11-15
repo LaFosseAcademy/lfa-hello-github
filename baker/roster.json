@@ -229,6 +229,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        { 
+          "type": "portfolio", 
+          "url": "https://zainl-portfoliop.netlify.app/" 
         }
       ]
     },
