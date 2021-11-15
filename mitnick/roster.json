@@ -9,5 +9,10 @@
       }
     ]
   },
-  "students": []
+  "students": [
+    {
+      "name": "Alexander Carter-Jones",
+      "github": "AlexanderC-J"
+    }
+  ]
 }
