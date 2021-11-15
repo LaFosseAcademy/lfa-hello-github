@@ -33,6 +33,10 @@
         {
           "type": "video",
           "url": "Hlqerh6-l9c"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://forum-desai.netlify.app/"
         }
       ]
     },
@@ -46,6 +50,10 @@
         {
           "type": "video",
           "url": "0NamLCxAPYc"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://rachaelyonoffportfolio.netlify.app/"
         }
       ]
     },
@@ -59,6 +67,10 @@
         {
           "type": "video",
           "url": "KDg_lr1mUAg"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://robertsportfolio.netlify.app/"
         }
       ]
     },
@@ -85,6 +97,10 @@
         {
           "type": "video",
           "url": "Ey6xk_Qwu98"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://golnar-kaviani.netlify.app/"
         }
       ]
     },
@@ -98,6 +114,10 @@
         },
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://hamsa-muxumed.vercel.app/"
         }
       ]
     },
@@ -111,6 +131,10 @@
         },
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://calum-mcdougall.netlify.app/"
         }
       ]
     },
@@ -137,25 +161,29 @@
         {
           "type": "video",
           "url": "gwfHZTIdGPE"
+        },
+        {
+            "type": "portfolio",
+            "url": "https://katie-chedgzoy.netlify.app/"
         }
       ]
     },
     {
       "name": "Oluwaseun Akano",
-            "github": "olu-akano",
-            "materials": [
-                {
-                    "type":"cv"
-                },
-                {
-                    "type":"video",
-                    "url":"l86HZi5nYYA"
-                }, 
-                {
-                    "type": "portfolio",
-                    "url": "https://oluwaseun-portfolio.netlify.app/"
-                }
-            ]
+      "github": "olu-akano",
+      "materials": [
+          {
+              "type":"cv"
+          },
+          {
+              "type":"video",
+              "url":"l86HZi5nYYA"
+          }, 
+          {
+              "type": "portfolio",
+              "url": "https://oluwaseun-portfolio.netlify.app/"
+          }
+      ]
     },
     {
       "name": "George Hickey",
@@ -163,6 +191,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "C8lsCYQO75g"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://georgehickey.netlify.app/"
         }
       ]
     },
@@ -172,6 +208,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "fb7gpBvyyDY"
         }
       ]
     },
@@ -185,30 +225,21 @@
       ]
     },
     {
-      "name": "Henry Opara",
-      "github": "designedbyq",
+      "name": "Saja Aabith",
+      "github": "saja-aabith",
       "materials": [
         {
           "type": "cv"
         },
         {
           "type": "video",
-          "url": "h8nibkvCBiY"
-        }
-      ]
-    },
-    {
-      "name": "Saja Aabith",
-      "github": "saja-aabith",
-      "materials": [
-        {
-          "type": "cv"
+          "url": "kJmbV73w3UQ"
         }
       ]
     },
     {
       "name": "Max Mackie",
-      "github": "maxmackie13",
+      "github": "max-mackie",
       "materials": [
         {
           "type": "cv"
@@ -216,6 +247,10 @@
         {
           "type": "video",
           "url": "RiIbp3rc2aM"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://max-mackie-portfolio.netlify.app/"
         }
       ]
     },
@@ -225,6 +260,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "yakzbneaue4"
         }
       ]
     }
