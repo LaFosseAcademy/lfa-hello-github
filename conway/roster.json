@@ -1,28 +1,62 @@
-{ 
-    "namesake": {
-        "name": "Lynn Conway",
-        "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
-        "materials": [{
-            "type": "video",
-            "url": "wM36xoAw7VA"
-        }]
-    },
-    "students": [
-        {
-            "name": "Jakirul Islam",
-            "github": "Jakirul"
-        },
-        {
-            "name": "Kelvin Stephano",
-            "github": "kstephano"
-        },
-        {
-            "name": "Asad Rasul",
-            "github": "AsadRasul13"
-        },
-        {
-            "name": "Rajesh Sharma",
-            "github": "Rajx1"
-        }
+{
+  "namesake": {
+    "name": "Lynn Conway",
+    "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": "wM36xoAw7VA"
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Jakirul Islam",
+      "github": "Jakirul"
+    },
+    {
+      "name": "Kelvin Stephano",
+      "github": "kstephano"
+    },
+    {
+      "name": "Rajesh Sharma",
+      "github": "Rajx1"
+    },
+    {
+      "name": "James Quinn",
+      "github": "jamesquinn00"
+    },
+    {
+      "name": "Jasmine Raja",
+      "github": "rjasmine29"
+    },
+    {
+      "name": "Rhys Cairns",
+      "github": "cairnsy6"
+    },
+    {
+      "name": "Rahib Rahman",
+      "github": "Rahib0"
+    },
+    {
+      "name": "Guy Margalith",
+      "github": "guymargalith"
+    },
+    {
+      "name": "Emily Kral",
+      "github": "EmilyKral"
+    },
+    {
+      "name": "Souheil Fenghour",
+      "github": "sf308"
+    },
+    {
+      "name": "Nowshad Ahmed",
+      "github": "Nowshad10"
+    },
+    {
+       "name": "Arlene Harris-Faulkner",
+       "github": "ahf00"
+    }
+  ]
 }
