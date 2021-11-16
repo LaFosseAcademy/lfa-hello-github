@@ -1,171 +1,304 @@
 {
-    "namesake": {
-        "name": "Mitchell Baker",
-        "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
-        "materials": [
-            {
-                "type": "video",
-                "url": "Z2H32Q4VU68"
-            }
-        ]
-    },
-    "students": [
-        {
-            "name": "Chris Anstead",
-            "github": "nxforg",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Forum Desai",
-            "github": "Forum-123",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Rachael Yonoff",
-            "github": "Rachiey",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Robert Bristow",
-            "github": "fooster82",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Zach Brown",
-            "github": "ZNBrown",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Golnar Kaviani",
-            "github": "glnkvn",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Hamsa Muxumed",
-            "github": "hamsamuxumed",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Calum McDougall",
-            "github": "cbmcdougall",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Zerh Guzman",
-            "github": "guz3z",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Katie Chedgzoy",
-            "github": "katieched",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Oluwaseun Akano",
-            "github": "olu-akano",
-            "materials": [
-                {
-                    "type":"cv"
-                }
-            ]
-        },
-        {
-            "name": "George Hickey",
-            "github": "hxckey",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "James Pollington",
-            "github": "jpxllington",
-            "materials":[
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Zain Uppal",
-            "github": "Zain1Uppal",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Henry Opara",
-            "github": "designedbyq",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Saja Aabith",
-            "github": "saja-aabith",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        },
-        {
-            "name": "Max Mackie",
-            "github": "maxmackie13"
-        },
-        {
-            "name": "Cameron Bromley",
-            "github": "CBrom99",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
-        }
+  "namesake": {
+    "name": "Mitchell Baker",
+    "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": "Z2H32Q4VU68"
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Chris Anstead",
+      "github": "nxforg",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "SMJkNFtIYTU"
+        },
+        {
+            "type": "portfolio",
+            "url": "https://chrisansteadportfolio.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Forum Desai",
+      "github": "Forum-123",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Hlqerh6-l9c"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://forum-desai.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Rachael Yonoff",
+      "github": "Rachiey",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "0NamLCxAPYc"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://rachaelyonoffportfolio.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Robert Bristow",
+      "github": "fooster82",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "KDg_lr1mUAg"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://robertsportfolio.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Zach Brown",
+      "github": "ZNBrown",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QPWW_ivmnvE"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://zbrownportfolio.netlify.app"
+        }
+        
+      ]
+    },
+    {
+      "name": "Golnar Kaviani",
+      "github": "glnkvn",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ey6xk_Qwu98"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://golnar-kaviani.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Hamsa Muxumed",
+      "github": "hamsamuxumed",
+      "materials": [
+        {
+          "type": "video",
+          "url": "3JdhXNztTIs"
+        },
+        {
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://hamsa-muxumed.vercel.app/"
+        }
+      ]
+    },
+    {
+      "name": "Calum McDougall",
+      "github": "cbmcdougall",
+      "materials": [
+        {
+          "type": "video",
+          "url": "Hvh8UAksmis"
+        },
+        {
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://calum-mcdougall.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Zerh Guzman",
+      "github": "guz3z",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_n9lN-r-tXI"
+        },
+        {
+            "type": "portfolio",
+            "url": "https://zerh-portfolio.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Katie Chedgzoy",
+      "github": "katieched",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "gwfHZTIdGPE"
+        },
+        {
+            "type": "portfolio",
+            "url": "https://katie-chedgzoy.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Oluwaseun Akano",
+      "github": "olu-akano",
+      "materials": [
+          {
+              "type":"cv"
+          },
+          {
+              "type":"video",
+              "url":"l86HZi5nYYA"
+          }, 
+          {
+              "type": "portfolio",
+              "url": "https://oluwaseun-portfolio.netlify.app/"
+          }
+      ]
+    },
+    {
+      "name": "George Hickey",
+      "github": "hxckey",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "C8lsCYQO75g"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://georgehickey.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "James Pollington",
+      "github": "jpxllington",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "fb7gpBvyyDY"
+        },
+        {
+          "type": "portfolio",
+          "url":"https://james-pollington-portfolio.netlify.app"
+        }
+      ]
+    },
+    {
+      "name": "Zain Uppal",
+      "github": "Zain1Uppal",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "vj1r_YXBWjI"
+        },
+        { 
+          "type": "portfolio", 
+          "url": "https://zainl-portfoliop.netlify.app/" 
+        }
+      ]
+    },
+    {
+      "name": "Saja Aabith",
+      "github": "saja-aabith",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "kJmbV73w3UQ"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://saja-aabith.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Max Mackie",
+      "github": "max-mackie",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "RiIbp3rc2aM"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://max-mackie-portfolio.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Cameron Bromley",
+      "github": "CBrom99",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "yakzbneaue4"
+        },
+        {
+          "type": "portfolio",
+          "url":"https://camsgeneralportfolio99.netlify.app/"
+        }
+      ]
+    }
+  ]
 }

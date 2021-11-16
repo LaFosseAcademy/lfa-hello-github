@@ -1,13 +1,18 @@
-{ 
-    "namesake": {
-        "name": "Anna Lytical",
-        "imageUrl": "https://i.ibb.co/mHGPj4B/lytical.jpg",
-        "materials": [{
-            "type": "video",
-            "url": "2Fep0-eDOWo"
-        }]
-    },
-    "students": [
-
+{
+  "namesake": {
+    "name": "Anna Lytical",
+    "imageUrl": "https://i.ibb.co/mHGPj4B/lytical.jpg",
+    "materials": [
+      {
+        "type": "video",
+        "url": "2Fep0-eDOWo"
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Edward White",
+      "github": "ewhite1999"
+    }
+  ]
 }
