@@ -8,6 +8,9 @@
         }]
     },
     "students": [
-
+        {
+            "name": "Sharen Sellathurai",
+            "github": "SharenSella"
+        }
     ]
 }
