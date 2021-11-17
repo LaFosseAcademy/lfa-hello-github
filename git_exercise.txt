@@ -1,1 +1,0 @@
-git clone https://github.com/getfutureproof/fp_study_notes_hello_github.git
