@@ -20,6 +20,10 @@
         {
           "type": "video",
           "url": "SMJkNFtIYTU"
+        },
+        {
+            "type": "portfolio",
+            "url": "https://chrisansteadportfolio.netlify.app/"
         }
       ]
     },
@@ -33,6 +37,10 @@
         {
           "type": "video",
           "url": "Hlqerh6-l9c"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://forum-desai.netlify.app/"
         }
       ]
     },
@@ -80,7 +88,12 @@
         {
           "type": "video",
           "url": "QPWW_ivmnvE"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://zbrownportfolio.netlify.app"
         }
+        
       ]
     },
     {
@@ -110,6 +123,10 @@
         },
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://hamsa-muxumed.vercel.app/"
         }
       ]
     },
@@ -140,6 +157,10 @@
         {
           "type": "video",
           "url": "_n9lN-r-tXI"
+        },
+        {
+            "type": "portfolio",
+            "url": "https://zerh-portfolio.netlify.app/"
         }
       ]
     },
@@ -164,13 +185,17 @@
       "name": "Oluwaseun Akano",
       "github": "olu-akano",
       "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "l86HZi5nYYA"
-        }
+          {
+              "type":"cv"
+          },
+          {
+              "type":"video",
+              "url":"l86HZi5nYYA"
+          }, 
+          {
+              "type": "portfolio",
+              "url": "https://oluwaseun-portfolio.netlify.app/"
+          }
       ]
     },
     {
@@ -200,6 +225,10 @@
         {
           "type": "video",
           "url": "fb7gpBvyyDY"
+        },
+        {
+          "type": "portfolio",
+          "url":"https://james-pollington-portfolio.netlify.app"
         }
       ]
     },
@@ -209,6 +238,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "vj1r_YXBWjI"
+        },
+        { 
+          "type": "portfolio", 
+          "url": "https://zainl-portfoliop.netlify.app/" 
         }
       ]
     },
@@ -222,6 +259,10 @@
         {
           "type": "video",
           "url": "kJmbV73w3UQ"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://saja-aabith.netlify.app/"
         }
       ]
     },
@@ -252,6 +293,10 @@
         {
           "type": "video",
           "url": "yakzbneaue4"
+        },
+        {
+          "type": "portfolio",
+          "url":"https://camsgeneralportfolio99.netlify.app/"
         }
       ]
     }
