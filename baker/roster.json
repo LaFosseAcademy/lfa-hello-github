@@ -20,6 +20,10 @@
         {
           "type": "video",
           "url": "SMJkNFtIYTU"
+        },
+        {
+            "type": "portfolio",
+            "url": "https://chrisansteadportfolio.netlify.app/"
         }
       ]
     },
@@ -33,6 +37,10 @@
         {
           "type": "video",
           "url": "Hlqerh6-l9c"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://forum-desai.netlify.app/"
         }
       ]
     },
@@ -46,6 +54,10 @@
         {
           "type": "video",
           "url": "0NamLCxAPYc"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://rachaelyonoffportfolio.netlify.app/"
         }
       ]
     },
@@ -59,6 +71,10 @@
         {
           "type": "video",
           "url": "KDg_lr1mUAg"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://robertsportfolio.netlify.app/"
         }
       ]
     },
@@ -72,7 +88,12 @@
         {
           "type": "video",
           "url": "QPWW_ivmnvE"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://zbrownportfolio.netlify.app"
         }
+        
       ]
     },
     {
@@ -85,6 +106,10 @@
         {
           "type": "video",
           "url": "Ey6xk_Qwu98"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://golnar-kaviani.netlify.app/"
         }
       ]
     },
@@ -98,6 +123,10 @@
         },
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://hamsa-muxumed.vercel.app/"
         }
       ]
     },
@@ -111,6 +140,10 @@
         },
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://calum-mcdougall.netlify.app/"
         }
       ]
     },
@@ -124,6 +157,10 @@
         {
           "type": "video",
           "url": "_n9lN-r-tXI"
+        },
+        {
+            "type": "portfolio",
+            "url": "https://zerh-portfolio.netlify.app/"
         }
       ]
     },
@@ -137,21 +174,29 @@
         {
           "type": "video",
           "url": "gwfHZTIdGPE"
+        },
+        {
+            "type": "portfolio",
+            "url": "https://katie-chedgzoy.netlify.app/"
         }
       ]
     },
     {
       "name": "Oluwaseun Akano",
-            "github": "olu-akano",
-            "materials": [
-                {
-                    "type":"cv"
-                },
-                {
-                    "type":"video",
-                    "url":"l86HZi5nYYA"
-                }
-            ]
+      "github": "olu-akano",
+      "materials": [
+          {
+              "type":"cv"
+          },
+          {
+              "type":"video",
+              "url":"l86HZi5nYYA"
+          }, 
+          {
+              "type": "portfolio",
+              "url": "https://oluwaseun-portfolio.netlify.app/"
+          }
+      ]
     },
     {
       "name": "George Hickey",
@@ -159,6 +204,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "C8lsCYQO75g"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://georgehickey.netlify.app/"
         }
       ]
     },
@@ -168,6 +221,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "fb7gpBvyyDY"
+        },
+        {
+          "type": "portfolio",
+          "url":"https://james-pollington-portfolio.netlify.app"
         }
       ]
     },
@@ -177,19 +238,14 @@
       "materials": [
         {
           "type": "cv"
-        }
-      ]
-    },
-    {
-      "name": "Henry Opara",
-      "github": "designedbyq",
-      "materials": [
-        {
-          "type": "cv"
         },
         {
           "type": "video",
-          "url": "h8nibkvCBiY"
+          "url": "vj1r_YXBWjI"
+        },
+        { 
+          "type": "portfolio", 
+          "url": "https://zainl-portfoliop.netlify.app/" 
         }
       ]
     },
@@ -199,6 +255,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "kJmbV73w3UQ"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://saja-aabith.netlify.app/"
         }
       ]
     },
@@ -212,6 +276,10 @@
         {
           "type": "video",
           "url": "RiIbp3rc2aM"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://max-mackie-portfolio.netlify.app/"
         }
       ]
     },
@@ -221,6 +289,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "yakzbneaue4"
+        },
+        {
+          "type": "portfolio",
+          "url":"https://camsgeneralportfolio99.netlify.app/"
         }
       ]
     }

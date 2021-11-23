@@ -60,7 +60,8 @@
           "type": "video",
           "url": "VYsSsuvkxRM"
         }
-      ]
+      ],
+      "placement" : true
     },
     {
       "name": "Ben Watson",
@@ -86,7 +87,8 @@
           "type": "video",
           "url": "N2cBEUN-VT4"
         }
-      ]
+      ],
+      "placement" : true
     },
     {
       "name": "Velin Kalenderski",
@@ -99,7 +101,8 @@
           "type": "video",
           "url": "u1N9mRk6XF8"
         }
-      ]
+      ],
+      "placement" : true
     },
     {
       "name": "Quinn Lanphere",
@@ -112,7 +115,8 @@
           "type": "video",
           "url": "ymdeMIWN06w"
         }
-      ]
+      ],
+      "placement" : true
     },
     {
       "name": "Arafath Miah",
@@ -164,7 +168,8 @@
           "type": "video",
           "url": "u9rlvaWiajk"
         }
-      ]
+      ],
+      "placement" : true
     },
     {
       "name": "Sam Cockroft",
@@ -176,19 +181,6 @@
         {
           "type": "video",
           "url": "CeYs7XpJsSg"
-        }
-      ]
-    },
-    {
-      "name": "Callum Rankine",
-      "github": "cmr33-cloud",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "eWI9JlEPCz8"
         }
       ]
     }
