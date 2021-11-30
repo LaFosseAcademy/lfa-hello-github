@@ -60,8 +60,12 @@
    },
    {
       "name": "Menelaos Kaskiris",
-      "github": "mkaskiris"
-   },
+      "github": "mkaskiris",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
    {
       "name": "Peter Andrews-Briscoe",
       "github": "PeterAndrewBriscoe"
