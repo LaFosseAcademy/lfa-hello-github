@@ -52,8 +52,13 @@
     },
     {
       "name": "Angela Dyrmishi",
-      "github": "adyrmishi"
-   },
+      "github": "adyrmishi",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
    {
       "name": "Bethan Vaughan",
       "github": "bethanvaughan"
