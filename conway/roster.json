@@ -29,4 +29,71 @@
             "github": "PeterAndrewBriscoe"
         }
     ]
+  },
+  "students": [
+    {
+      "name": "Jakirul Islam",
+      "github": "Jakirul"
+    },
+    {
+      "name": "Kelvin Stephano",
+      "github": "kstephano"
+    },
+    {
+      "name": "Rajesh Sharma",
+      "github": "Rajx1"
+    },
+    {
+      "name": "James Quinn",
+      "github": "jamesquinn00"
+    },
+    {
+      "name": "Jasmine Raja",
+      "github": "rjasmine29"
+    },
+    {
+      "name": "Rhys Cairns",
+      "github": "cairnsy6"
+    },
+    {
+      "name": "Rahib Rahman",
+      "github": "Rahib0"
+    },
+    {
+      "name": "Guy Margalith",
+      "github": "guymargalith"
+    },
+    {
+      "name": "Emily Kral",
+      "github": "EmilyKral"
+    },
+    {
+      "name": "Souheil Fenghour",
+      "github": "sf308"
+    },
+    {
+      "name": "Angela Dyrmishi",
+      "github": "adyrmishi"
+   },
+   {
+      "name": "Bethan Vaughan",
+      "github": "bethanvaughan"
+   },
+   {
+      "name": "Menelaos Kaskiris",
+      "github": "mkaskiris"
+   },
+   {
+      "name": "Peter Andrews-Briscoe",
+      "github": "PeterAndrewBriscoe"
+   },
+   {
+      "name": "Talha Sadak",
+      "github": "Talhalalala"
+   },
+   {
+      "name": "Urselaan Malik",
+      "github": "umalik00"
+   }
+  ]
 }
