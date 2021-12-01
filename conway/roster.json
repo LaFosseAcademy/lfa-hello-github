@@ -56,7 +56,12 @@
    },
    {
       "name": "Bethan Vaughan",
-      "github": "bethanvaughan"
+      "github": "bethanvaughan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
    },
    {
       "name": "Menelaos Kaskiris",
