@@ -7,29 +7,6 @@
             "url": "wM36xoAw7VA"
         }]
     },
-    "students": [
-        {
-            "name": "Jakirul Islam",
-            "github": "Jakirul"
-        },
-        {
-            "name": "Kelvin Stephano",
-            "github": "kstephano"
-        },
-        {
-            "name": "Asad Rasul",
-            "github": "AsadRasul13"
-        },
-        {
-            "name": "Rajesh Sharma",
-            "github": "Rajx1"
-        },
-        {
-            "name": "Peter Andrews-Briscoe",
-            "github": "PeterAndrewBriscoe"
-        }
-    ]
-  },
   "students": [
     {
       "name": "Jakirul Islam",
@@ -85,8 +62,12 @@
    },
    {
       "name": "Peter Andrews-Briscoe",
-      "github": "PeterAndrewBriscoe"
-   },
+      "github": "PeterAndrewBriscoe",
+      "materials": [
+        {
+            "type": "cv"
+        }]
+      },
    {
       "name": "Talha Sadak",
       "github": "Talhalalala"
