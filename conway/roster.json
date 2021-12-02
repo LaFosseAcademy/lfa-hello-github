@@ -34,7 +34,7 @@
         {
             "type": "cv"
         }
-    ]
+      ]
     },
     {
       "name": "Jasmine Raja",
@@ -90,11 +90,16 @@
    },
    {
       "name": "Menelaos Kaskiris",
-      "github": "mkaskiris"
-    },
-    {
-      "name": "Peter Andrews-Briscoe",
-      "github": "PeterAndrewBriscoe"
+      "github": "mkaskiris",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+   },
+   {
+     "name": "Peter Andrews-Briscoe",
+     "github": "PeterAndrewBriscoe"
     },
     {
       "name": "Talha Sadak",
