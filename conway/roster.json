@@ -25,7 +25,12 @@
     },
     {
       "name": "Rajesh Sharma",
-      "github": "Rajx1"
+      "github": "Rajx1",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "James Quinn",
