@@ -67,15 +67,20 @@
     },
     {
       "name": "Angela Dyrmishi",
-      "github": "adyrmishi"
-    },
-    {
-      "name": "Bethan Vaughan",
-      "github": "bethanvaughan",
+      "github": "adyrmishi",
       "materials": [
         {
           "type": "cv"
         }
+      ]
+    },
+   {
+     "name": "Bethan Vaughan",
+     "github": "bethanvaughan",
+     "materials": [
+       {
+         "type": "cv"
+       }
       ]
    },
    {
