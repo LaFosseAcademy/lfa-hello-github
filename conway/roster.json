@@ -75,7 +75,12 @@
     },
     {
       "name": "Guy Margalith",
-      "github": "guymargalith"
+      "github": "guymargalith",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Emily Kral",
