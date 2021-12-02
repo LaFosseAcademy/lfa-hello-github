@@ -42,7 +42,9 @@
       "name": "Guy Margalith",
       "github": "guymargalith",
       "materials": [
-        {"type": "cv"}
+        {
+          "type": "cv"
+        }
       ]
     },
     {
