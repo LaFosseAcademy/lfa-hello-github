@@ -46,7 +46,12 @@
     },
     {
       "name": "Rahib Rahman",
-      "github": "Rahib0"
+      "github": "Rahib0",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Guy Margalith",
