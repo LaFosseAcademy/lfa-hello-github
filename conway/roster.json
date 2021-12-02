@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Jakirul Islam",
-      "github": "Jakirul"
+      "github": "Jakirul",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kelvin Stephano",
