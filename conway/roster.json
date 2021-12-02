@@ -24,7 +24,12 @@
     },
     {
       "name": "James Quinn",
-      "github": "jamesquinn00"
+      "github": "jamesquinn00",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Jasmine Raja",
