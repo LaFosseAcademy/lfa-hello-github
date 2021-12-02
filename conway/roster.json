@@ -128,7 +128,12 @@
      },
     {
       "name": "Talha Sadak",
-      "github": "Talhalalala"
+      "github": "Talhalalala",
+      "materials":[
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Urselaan Malik",
