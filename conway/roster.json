@@ -16,7 +16,12 @@
     },
     {
       "name": "Kelvin Stephano",
-      "github": "kstephano"
+      "github": "kstephano",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Rajesh Sharma",
@@ -24,7 +29,12 @@
     },
     {
       "name": "James Quinn",
-      "github": "jamesquinn00"
+      "github": "jamesquinn00",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Jasmine Raja",
@@ -44,19 +54,39 @@
     },
     {
       "name": "Emily Kral",
-      "github": "EmilyKral"
+      "github": "EmilyKral",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Souheil Fenghour",
-      "github": "sf308"
+      "github": "sf308",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Angela Dyrmishi",
-      "github": "adyrmishi"
-   },
+      "github": "adyrmishi",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
    {
-      "name": "Bethan Vaughan",
-      "github": "bethanvaughan"
+     "name": "Bethan Vaughan",
+     "github": "bethanvaughan",
+     "materials": [
+       {
+         "type": "cv"
+       }
+      ]
    },
    {
       "name": "Menelaos Kaskiris",
@@ -68,16 +98,16 @@
       ]
    },
    {
-      "name": "Peter Andrews-Briscoe",
-      "github": "PeterAndrewBriscoe"
-   },
-   {
+     "name": "Peter Andrews-Briscoe",
+     "github": "PeterAndrewBriscoe"
+    },
+    {
       "name": "Talha Sadak",
       "github": "Talhalalala"
-   },
-   {
+    },
+    {
       "name": "Urselaan Malik",
       "github": "umalik00"
-   }
+    }
   ]
 }
