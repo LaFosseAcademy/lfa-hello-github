@@ -1,177 +1,194 @@
 {
-    "namesake": {
-        "name": "Shigetaka Kurita",
-        "materials": [
-            {
-                "type": "video",
-                "url": "JVOCKvl1T8c"
-            }
-        ]
-    },
-    "students": [
-        {
-            "name": "Harris Mawardi",
-            "github": "harrismawardi",
-            "materials": [{
-                "type": "cv"
-            },
-            {
-                "type": "video",
-                "url": "bc75XeI2tEU"
-            }]
-        },
-        {
-            "name": "Gorazd Sumkovski",
-            "github": "Gorazd-Sumkovski",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "lPgKbSogajU"
-                }
-            ]
-        },
-        {
-            "name": "Owen Jenkins",
-            "github": "OGWJ",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                  "type": "video",
-                  "url": "3r3zw7vd_sU"
-                }
-            ]
-        },
-        {
-            "name": "Parth Patel",
-            "github": "partyzl",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url":"EEvA2sbRWrk"
-                }
-            ]
-        },
-        {
-            "name": "Elicia Lobo",
-            "github": "ELOBO5",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "Ph5Yy2bqTnA"
-                }
-            ]
-        },
-        {
-            "name": "Abigail McLeod-Peck",
-            "github": "Abimcp",
-            "materials": [
-                {
-                    "type": "cv"
-
-                },
-                {
-                    "type": "video",
-                    "url": "XZTFIeCkPbI"
-                }
-            ]
-        },
-        {
-            "name": "Jasmin Appleby Holdham",
-            "github": "jasminappleby",
-            "materials": [{
-                "type": "cv"
-            },
-            {
-                "type": "video",
-                "url": "NQc-2_OCL1Y"
-            }]
-        },
-        {
-            "name": "Cerise Abel-Thompson",
-            "github": "cerise-at",
-            "materials": [{
-                "type": "cv"
-            },
-            {
-                "type": "video",
-                "url": "LD284Ex8cio"
-            }]
-        },
-        {
-            "name": "Kenneth Yeung",
-            "github": "KennethCWY",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "oWXoea_ASp4"
-                }
-            ]
-        },
-        {
-            "name": "Simon Allan",
-            "github": "Sallan464",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "t7DVh5OXqiA"
-                }
-            ]
-        },
-        {
-            "name": "Mariusz Las",
-            "github": "mariuszlas",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "9ejYXgVqcGo"
-                }
-            ]
-        },
-        {
-            "name": "Tegan Gowing",
-            "github": "T-Gowing",
-            "materials": [
-                {
-                 "type": "cv"
-                }, 
-                {
-                    "type": "video",
-                    "url": "0uTwypWpe24"
-                }
-            ]
-        },
-        {
-            "name": "Tobi Kuyoro",
-            "github": "tobikuyo",
-            "materials": [
-                {
-                    "type": "cv"
-                },
-                {
-                    "type": "video",
-                    "url": "7nLJSMeyhqs"
-                }
-            ]
-        }
+  "namesake": {
+    "name": "Shigetaka Kurita",
+    "materials": [
+      {
+        "type": "video",
+        "url": "JVOCKvl1T8c"
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Harris Mawardi",
+      "github": "harrismawardi",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "bc75XeI2tEU"
+        }
+      ],
+      "placement" : true
+    },
+    {
+      "name": "Gorazd Sumkovski",
+      "github": "Gorazd-Sumkovski",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lPgKbSogajU"
+        }
+      ],
+      "placement" : true
+    },
+    {
+      "name": "Owen Jenkins",
+      "github": "OGWJ",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "3r3zw7vd_sU"
+        }
+      ],
+      "placement": true
+    },
+    {
+      "name": "Parth Patel",
+      "github": "partyzl",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "EEvA2sbRWrk"
+        }
+      ],
+      "placement": true
+    },
+    {
+      "name": "Elicia Lobo",
+      "github": "ELOBO5",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ph5Yy2bqTnA"
+        }
+      ],
+      "placement" : true
+    },
+    {
+      "name": "Abigail McLeod-Peck",
+      "github": "Abimcp",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "XZTFIeCkPbI"
+        }
+      ],
+      "placement": true
+    },
+    {
+      "name": "Jasmin Appleby Holdham",
+      "github": "jasminappleby",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NQc-2_OCL1Y"
+        }
+      ],
+      "placement": true
+    },
+    {
+      "name": "Cerise Abel-Thompson",
+      "github": "cerise-at",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "LD284Ex8cio"
+        }
+      ],
+      "placement": true
+    },
+    {
+      "name": "Kenneth Yeung",
+      "github": "KennethCWY",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "oWXoea_ASp4"
+        }
+      ]
+    },
+    {
+      "name": "Simon Allan",
+      "github": "Sallan464",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "t7DVh5OXqiA"
+        }
+      ],
+      "placement" : true
+    },
+    {
+      "name": "Mariusz Las",
+      "github": "mariuszlas",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9ejYXgVqcGo"
+        }
+      ],
+      "placement": true
+    },
+    {
+      "name": "Tegan Gowing",
+      "github": "T-Gowing",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "0uTwypWpe24"
+        }
+      ],
+      "placement" : true
+    },
+    {
+      "name": "Tobi Kuyoro",
+      "github": "tobikuyo",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7nLJSMeyhqs"
+        }
+      ],
+      "placement": true
+    }
+  ]
 }
