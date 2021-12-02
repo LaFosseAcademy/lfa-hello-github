@@ -142,7 +142,12 @@
     },
     {
       "name": "Urselaan Malik",
-      "github": "umalik00"
+      "github": "umalik00",
+      "materials":[
+        {
+            "type": "cv"
+        }
+      ]
     }
   ]
 }
