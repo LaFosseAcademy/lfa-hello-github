@@ -63,7 +63,12 @@
     },
     {
       "name": "Souheil Fenghour",
-      "github": "sf308"
+      "github": "sf308",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Angela Dyrmishi",
