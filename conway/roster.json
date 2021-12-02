@@ -119,8 +119,13 @@
    },
    {
      "name": "Peter Andrews-Briscoe",
-     "github": "PeterAndrewBriscoe"
-    },
+     "github": "PeterAndrewBriscoe",
+     "materials": [
+       {
+           "type": "cv"
+       }
+      ]
+     },
     {
       "name": "Talha Sadak",
       "github": "Talhalalala"
