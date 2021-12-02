@@ -10,19 +10,39 @@
   "students": [
     {
       "name": "Jakirul Islam",
-      "github": "Jakirul"
+      "github": "Jakirul",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kelvin Stephano",
-      "github": "kstephano"
+      "github": "kstephano",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Rajesh Sharma",
-      "github": "Rajx1"
+      "github": "Rajx1",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "James Quinn",
-      "github": "jamesquinn00"
+      "github": "jamesquinn00",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Jasmine Raja",
@@ -30,11 +50,21 @@
     },
     {
       "name": "Rhys Cairns",
-      "github": "cairnsy6"
+      "github": "cairnsy6",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Rahib Rahman",
-      "github": "Rahib0"
+      "github": "Rahib0",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Guy Margalith",
@@ -42,39 +72,65 @@
     },
     {
       "name": "Emily Kral",
-      "github": "EmilyKral"
+      "github": "EmilyKral",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Souheil Fenghour",
-      "github": "sf308"
-    },
-    {
-      "name": "Angela Dyrmishi",
-      "github": "adyrmishi"
-   },
-   {
-      "name": "Bethan Vaughan",
-      "github": "bethanvaughan"
-   },
-   {
-      "name": "Menelaos Kaskiris",
-      "github": "mkaskiris"
-   },
-   {
-      "name": "Peter Andrews-Briscoe",
-      "github": "PeterAndrewBriscoe",
+      "github": "sf308",
       "materials": [
         {
             "type": "cv"
-        }]
-      },
+        }
+      ]
+    },
+    {
+      "name": "Angela Dyrmishi",
+      "github": "adyrmishi",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
    {
-      "name": "Talha Sadak",
-      "github": "Talhalalala"
+     "name": "Bethan Vaughan",
+     "github": "bethanvaughan",
+     "materials": [
+       {
+         "type": "cv"
+       }
+      ]
    },
    {
+      "name": "Menelaos Kaskiris",
+      "github": "mkaskiris",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+   },
+   {
+     "name": "Peter Andrews-Briscoe",
+     "github": "PeterAndrewBriscoe",
+     "materials": [
+       {
+           "type": "cv"
+       }
+      ]
+     },
+    {
+      "name": "Talha Sadak",
+      "github": "Talhalalala"
+    },
+    {
       "name": "Urselaan Malik",
       "github": "umalik00"
-   }
+    }
   ]
 }
