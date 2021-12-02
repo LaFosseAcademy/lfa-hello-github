@@ -54,7 +54,12 @@
     },
     {
       "name": "Emily Kral",
-      "github": "EmilyKral"
+      "github": "EmilyKral",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Souheil Fenghour",
@@ -63,8 +68,8 @@
     {
       "name": "Angela Dyrmishi",
       "github": "adyrmishi"
-   },
-   {
+    },
+    {
       "name": "Bethan Vaughan",
       "github": "bethanvaughan",
       "materials": [
@@ -76,18 +81,18 @@
    {
       "name": "Menelaos Kaskiris",
       "github": "mkaskiris"
-   },
-   {
+    },
+    {
       "name": "Peter Andrews-Briscoe",
       "github": "PeterAndrewBriscoe"
-   },
-   {
+    },
+    {
       "name": "Talha Sadak",
       "github": "Talhalalala"
-   },
-   {
+    },
+    {
       "name": "Urselaan Malik",
       "github": "umalik00"
-   }
+    }
   ]
 }
