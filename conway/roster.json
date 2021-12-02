@@ -16,7 +16,12 @@
     },
     {
       "name": "Kelvin Stephano",
-      "github": "kstephano"
+      "github": "kstephano",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Rajesh Sharma",
@@ -24,7 +29,12 @@
     },
     {
       "name": "James Quinn",
-      "github": "jamesquinn00"
+      "github": "jamesquinn00",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Jasmine Raja",
@@ -61,9 +71,14 @@
     },
     {
       "name": "Bethan Vaughan",
-      "github": "bethanvaughan"
-    },
-    {
+      "github": "bethanvaughan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+   },
+   {
       "name": "Menelaos Kaskiris",
       "github": "mkaskiris"
     },
