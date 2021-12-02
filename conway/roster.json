@@ -16,7 +16,12 @@
     },
     {
       "name": "Kelvin Stephano",
-      "github": "kstephano"
+      "github": "kstephano",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Rajesh Sharma",
