@@ -52,7 +52,12 @@
     },
     {
       "name": "Rhys Cairns",
-      "github": "cairnsy6"
+      "github": "cairnsy6",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Rahib Rahman",
