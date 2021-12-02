@@ -55,16 +55,7 @@
       "github": "cairnsy6",
       "materials": [
         {
-<<<<<<< HEAD
-            "name": "Asad Rasul",
-            "github": "AsadRasul13"
-        },
-        {
-            "name": "Talha Sadak",
-            "github": "Talhalalala"
-=======
             "type": "cv"
->>>>>>> c78ae6ab07922b630f56b380dbbd34751a660bae
         }
     ]
     },
@@ -138,9 +129,10 @@
     {
       "name": "Talha Sadak",
       "github": "Talhalalala",
-      "materials":[{
+      "materials":[
+        {
             "type": "cv"
-      }
+        }
       ]
     },
     {
