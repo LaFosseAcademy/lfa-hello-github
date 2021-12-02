@@ -48,7 +48,12 @@
     },
     {
       "name": "Jasmine Raja",
-      "github": "rjasmine29"
+      "github": "rjasmine29",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Rhys Cairns",
