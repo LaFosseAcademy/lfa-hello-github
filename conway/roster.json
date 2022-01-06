@@ -54,14 +54,14 @@
       "github": "jamesquinn00",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         }
       ]
     },
     {
       "name": "Jasmine Raja",
       "github": "rjasmine29",
-       "materials": [
+      "materials": [
         {
           "type": "cv",
           "url": "LP7pwwGuEoY"
@@ -79,7 +79,7 @@
           "type": "video",
           "url": "432n8gfi4vQ"
         }
-    ]
+      ]
     },
     {
       "name": "Rahib Rahman",
@@ -109,6 +109,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "UCxedQSVFto"
         }
       ]
     },
@@ -117,7 +121,7 @@
       "github": "sf308",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         }
       ]
     },
@@ -130,16 +134,16 @@
         }
       ]
     },
-   {
-     "name": "Bethan Vaughan",
-     "github": "bethanvaughan",
-     "materials": [
-       {
-         "type": "cv"
-       }
+    {
+      "name": "Bethan Vaughan",
+      "github": "bethanvaughan",
+      "materials": [
+        {
+          "type": "cv"
+        }
       ]
-   },
-   {
+    },
+    {
       "name": "Menelaos Kaskiris",
       "github": "mkaskiris",
       "materials": [
@@ -147,7 +151,7 @@
           "type": "cv"
         }
       ]
-   },
+    },
    {
      "name": "Peter Andrews-Briscoe",
      "github": "PeterAndrewBriscoe",
@@ -160,11 +164,11 @@
          "url": "2bprlsRjrWc"
        }
       ]
-     },
+    },
     {
       "name": "Talha Sadak",
       "github": "Talhalalala",
-      "materials":[
+      "materials": [
         {
             "type": "cv"
         },
@@ -177,9 +181,9 @@
     {
       "name": "Urselaan Malik",
       "github": "umalik00",
-      "materials":[
+      "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         }
       ]
     }
