@@ -25,7 +25,8 @@
             "type": "portfolio",
             "url": "https://chrisansteadportfolio.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Forum Desai",
@@ -42,7 +43,8 @@
           "type": "portfolio",
           "url": "https://forum-desai.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Rachael Yonoff",
@@ -59,7 +61,8 @@
           "type": "portfolio",
           "url": "https://rachaelyonoffportfolio.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Robert Bristow",
@@ -76,7 +79,8 @@
           "type": "portfolio",
           "url": "https://robertsportfolio.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Zach Brown",
@@ -94,7 +98,8 @@
           "url": "https://zbrownportfolio.netlify.app"
         }
         
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Golnar Kaviani",
@@ -128,7 +133,8 @@
           "type": "portfolio",
           "url": "https://hamsa-muxumed.vercel.app/"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Calum McDougall",
@@ -145,7 +151,8 @@
           "type": "portfolio",
           "url": "https://calum-mcdougall.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Zerh Guzman",
@@ -162,7 +169,8 @@
             "type": "portfolio",
             "url": "https://zerh-portfolio.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Katie Chedgzoy",
@@ -179,7 +187,8 @@
             "type": "portfolio",
             "url": "https://katie-chedgzoy.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Oluwaseun Akano",
@@ -196,7 +205,8 @@
               "type": "portfolio",
               "url": "https://oluwaseun-portfolio.netlify.app/"
           }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "George Hickey",
@@ -213,7 +223,8 @@
           "type": "portfolio",
           "url": "https://georgehickey.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "James Pollington",
@@ -230,7 +241,8 @@
           "type": "portfolio",
           "url":"https://james-pollington-portfolio.netlify.app"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Zain Uppal",
@@ -247,7 +259,8 @@
           "type": "portfolio", 
           "url": "https://zainl-portfoliop.netlify.app/" 
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Saja Aabith",
@@ -264,7 +277,8 @@
           "type": "portfolio",
           "url": "https://saja-aabith.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Max Mackie",
@@ -281,7 +295,8 @@
           "type": "portfolio",
           "url": "https://max-mackie-portfolio.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Cameron Bromley",
@@ -298,7 +313,8 @@
           "type": "portfolio",
           "url":"https://camsgeneralportfolio99.netlify.app/"
         }
-      ]
+      ],
+      "placement": true
     }
   ]
 }
