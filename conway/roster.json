@@ -46,14 +46,14 @@
       "github": "jamesquinn00",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         }
       ]
     },
     {
       "name": "Jasmine Raja",
       "github": "rjasmine29",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
         }
@@ -64,9 +64,9 @@
       "github": "cairnsy6",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         }
-    ]
+      ]
     },
     {
       "name": "Rahib Rahman",
@@ -92,6 +92,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "UCxedQSVFto"
         }
       ]
     },
@@ -100,7 +104,7 @@
       "github": "sf308",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         }
       ]
     },
@@ -113,16 +117,16 @@
         }
       ]
     },
-   {
-     "name": "Bethan Vaughan",
-     "github": "bethanvaughan",
-     "materials": [
-       {
-         "type": "cv"
-       }
+    {
+      "name": "Bethan Vaughan",
+      "github": "bethanvaughan",
+      "materials": [
+        {
+          "type": "cv"
+        }
       ]
-   },
-   {
+    },
+    {
       "name": "Menelaos Kaskiris",
       "github": "mkaskiris",
       "materials": [
@@ -130,31 +134,31 @@
           "type": "cv"
         }
       ]
-   },
-   {
-     "name": "Peter Andrews-Briscoe",
-     "github": "PeterAndrewBriscoe",
-     "materials": [
-       {
-           "type": "cv"
-       }
+    },
+    {
+      "name": "Peter Andrews-Briscoe",
+      "github": "PeterAndrewBriscoe",
+      "materials": [
+        {
+          "type": "cv"
+        }
       ]
-     },
+    },
     {
       "name": "Talha Sadak",
       "github": "Talhalalala",
-      "materials":[
+      "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         }
       ]
     },
     {
       "name": "Urselaan Malik",
       "github": "umalik00",
-      "materials":[
+      "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         }
       ]
     }
