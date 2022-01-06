@@ -12,13 +12,7 @@
   "students": [
     {
       "name": "Andrew Upton",
-      "github": "nottnottloop",
-      "materials": [
-        {
-            "type": "portfolio",
-            "url": "https://github.com/nottnottloop"
-        }
-      ]
+      "github": "nottnottloop"
     }
   ]
 }
