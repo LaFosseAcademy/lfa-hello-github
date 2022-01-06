@@ -9,6 +9,10 @@
       }
     ]
   },
-  "students": []
+  "students": [
+    {
+      "name": "Andrew Upton",
+      "github": "nottnottloop"
+    }
+  ]
 }
-

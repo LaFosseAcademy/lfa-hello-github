@@ -29,6 +29,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9Z2HusserDE"
         }
       ]
     },
@@ -38,7 +42,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+         "type": "video",
+         "url": "7aPb7-tNmzE"
+       }
       ]
     },
     {
@@ -55,7 +63,8 @@
       "github": "rjasmine29",
       "materials": [
         {
-          "type": "cv"
+          "type": "cv",
+          "url": "LP7pwwGuEoY"
         }
       ]
     },
@@ -64,7 +73,11 @@
       "github": "cairnsy6",
       "materials": [
         {
-          "type": "cv"
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "432n8gfi4vQ"
         }
       ]
     },
@@ -74,6 +87,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_w6zC4EKoiI"
         }
       ]
     },
@@ -135,13 +152,17 @@
         }
       ]
     },
-    {
-      "name": "Peter Andrews-Briscoe",
-      "github": "PeterAndrewBriscoe",
-      "materials": [
-        {
-          "type": "cv"
-        }
+   {
+     "name": "Peter Andrews-Briscoe",
+     "github": "PeterAndrewBriscoe",
+     "materials": [
+       {
+           "type": "cv"
+       },
+       {
+         "type": "video",
+         "url": "2bprlsRjrWc"
+       }
       ]
     },
     {
@@ -149,7 +170,11 @@
       "github": "Talhalalala",
       "materials": [
         {
-          "type": "cv"
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "r9CwCpEf-54"
         }
       ]
     },
