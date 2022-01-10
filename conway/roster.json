@@ -54,7 +54,11 @@
       "github": "jamesquinn00",
       "materials": [
         {
-          "type": "cv"
+            "type": "cv"
+        },
+        {
+          "type":"video",
+          "url": "PkRm3T-zy5s"
         }
       ]
     },
