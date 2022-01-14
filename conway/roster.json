@@ -20,6 +20,10 @@
         {
           "type": "video",
           "url": "Z_bx0xxa0C4"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://jakirul.com/"
         }
       ]
     },
@@ -54,7 +58,11 @@
       "github": "jamesquinn00",
       "materials": [
         {
-          "type": "cv"
+            "type": "cv"
+        },
+        {
+          "type":"video",
+          "url": "PkRm3T-zy5s"
         }
       ]
     },
@@ -63,9 +71,12 @@
       "github": "rjasmine29",
       "materials": [
         {
-          "type": "cv",
-          "url": "LP7pwwGuEoY"
-        }
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "t1wRjc5_DyA"
+        }   
       ]
     },
     {
@@ -100,6 +111,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ymWaqcLc8KM"
         }
       ]
     },
@@ -122,6 +137,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "q0wykUMa1sI"
         }
       ]
     },
@@ -131,6 +150,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lVbdMNQrCsE"
         }
       ]
     },
@@ -140,6 +163,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url" : "LTMWl4uljsw"
         }
       ]
     },
@@ -149,6 +176,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "epwbme9H5AI"  
         }
       ]
     },
@@ -184,6 +215,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "282rJEJKwYE"
         }
       ]
     }
