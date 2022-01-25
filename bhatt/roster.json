@@ -57,8 +57,14 @@
     },
     {
       "name": "Brandon Lee",
-      "github": "brandolee15"
+      "github": "brandolee15",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
+    
     {
       "name": "Eddie Perez",
       "github": "EMP189"
