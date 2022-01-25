@@ -37,7 +37,12 @@
     },
     {
       "name": "Noamaan Mohamed",
-      "github": "NoamaanMohamed"
+      "github": "NoamaanMohamed",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Amir Asif",
