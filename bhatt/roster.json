@@ -72,7 +72,12 @@
     
     {
       "name": "Eddie Perez",
-      "github": "EMP189"
+      "github": "EMP189",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Jakcika Veerasingam",
