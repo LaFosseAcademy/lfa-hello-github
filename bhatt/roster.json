@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Josh Tang",
-      "github": "jt17819"
+      "github": "jt17819",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Marina Ivanova",
