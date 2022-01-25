@@ -49,7 +49,12 @@
     },
     {
        "name": "Sharen Sellathurai",
-       "github": "SharenSella"
+       "github": "SharenSella",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
        "name": "Julian James",
