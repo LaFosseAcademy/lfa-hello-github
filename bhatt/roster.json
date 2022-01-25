@@ -29,6 +29,11 @@
     {
       "name": "Hayden Kidd",
       "github": "h-kidd"
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Noamaan Mohamed",
