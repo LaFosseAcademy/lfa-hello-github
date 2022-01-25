@@ -84,8 +84,12 @@
     },
      {
       "name": "Phillip Park",
-      "github": "philine1"
-
+      "github": "philine1",
+        "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Franklyn Asafo-Adjei",
