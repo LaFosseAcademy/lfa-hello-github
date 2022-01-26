@@ -21,7 +21,12 @@
     },
     {
       "name": "Marina",
-      "github": "wotaque"
+      "github": "wotaque",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Peter Pilkington",
