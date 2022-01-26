@@ -1,0 +1,26 @@
+{
+  "namesake": {
+    "name": "Maurice Wilkes",
+    "imageUrl": "",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Andrew Upton",
+      "github": "nottnottloop"
+    },
+    {
+      "name": "Idris Silva",
+      "github": "idrisimo"
+    },
+    {
+      "name": "Dimitris Fanis",
+      "github": "dimi-fn"
+    }
+  ]
+}

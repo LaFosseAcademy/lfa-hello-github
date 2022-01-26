@@ -12,10 +12,15 @@
   "students": [
     {
       "name": "Josh Tang",
-      "github": "jt17819"
+      "github": "jt17819",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
-      "name": "Marina",
+      "name": "Marina Ivanova",
       "github": "wotaque"
     },
     {
@@ -28,11 +33,21 @@
     },
     {
       "name": "Hayden Kidd",
-      "github": "h-kidd"
+      "github": "h-kidd",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Noamaan Mohamed",
-      "github": "NoamaanMohamed"
+      "github": "NoamaanMohamed",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Amir Asif",
@@ -44,7 +59,12 @@
     },
     {
        "name": "Sharen Sellathurai",
-       "github": "SharenSella"
+       "github": "SharenSella",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
        "name": "Julian James",
@@ -52,11 +72,22 @@
     },
     {
       "name": "Brandon Lee",
-      "github": "brandolee15"
+      "github": "brandolee15",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
+    
     {
       "name": "Eddie Perez",
-      "github": "EMP189"
+      "github": "EMP189",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Jakcika Veerasingam",
@@ -68,17 +99,17 @@
     },
      {
       "name": "Phillip Park",
-      "github": "philine1"
-
+      "github": "philine1",
+        "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
-    {
-      "name": "Safwan De Chalup",
-      "gitub": "SDC-corp" 
-    }
     {
       "name": "Franklyn Asafo-Adjei",
       "github": "asafoadjeif"
-    }
+    },
     {
       "name": "Ana-Victoria Bodnitca",
       "github": "ViViAnna25"
