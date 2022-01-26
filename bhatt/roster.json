@@ -29,7 +29,12 @@
     },
     {
       "name": "Yagnesh Shukla",
-      "github": "Yag20"
+      "github": "Yag20",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hayden Kidd",
