@@ -111,8 +111,13 @@
       "github": "asafoadjeif"
     },
     {
-      "name": "Ana-Vitoria Bodnitca",
-      "github": "ViViAnna25"
+      "name": "Ana-Victoria Bodnitca",
+      "github": "ViViAnna25",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     }
   ]
 }
