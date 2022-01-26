@@ -1,57 +1,230 @@
-{ 
-    "namesake": {
-        "name": "Lynn Conway",
-        "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
-        "materials": [{
-            "type": "video",
-            "url": "wM36xoAw7VA"
-        }]
-    },
-    "students": [
-        {
-            "name": "Jakirul Islam",
-            "github": "Jakirul"
-        },
-        {
-            "name": "Kelvin Stephano",
-            "github": "kstephano"
-        },
-        {
-            "name": "Asad Rasul",
-            "github": "AsadRasul13"
-        },
-        {
-            "name": "Rajesh Sharma",
-            "github": "Rajx1"
-        },
-        {
-            "name": "James Quinn",
-            "github": "jamesquinn00"
-        },
-        {
-
-            "name": "Jasmine Raja",
-            "github": "rjasmine29"
-        },
-        {
-            "name": "Rhys Cairns",
-            "github": "cairnsy6"
-        },
-        {
-            "name": "Rahib Rahman",
-            "github": "Rahib0"
-        },
-        {
-            "name": "Guy Margalith",
-            "github": "guymargalith"
-        },
-        {
-            "name": "Emily Kral",
-            "github": "EmilyKral"
-        }
-        {
-            "name": "Souheil Fenghour",
-            "github": "sf308"
-        }
+{
+  "namesake": {
+    "name": "Lynn Conway",
+    "imageUrl": "https://avatars.githubusercontent.com/t/4167537?s=400&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": "wM36xoAw7VA"
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Jakirul Islam",
+      "github": "Jakirul",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Z_bx0xxa0C4"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://jakirul.com/"
+        }
+      ]
+    },
+    {
+      "name": "Kelvin Stephano",
+      "github": "kstephano",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9Z2HusserDE"
+        }
+      ]
+    },
+    {
+      "name": "Rajesh Sharma",
+      "github": "Rajx1",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+         "type": "video",
+         "url": "7aPb7-tNmzE"
+       }
+      ]
+    },
+    {
+      "name": "James Quinn",
+      "github": "jamesquinn00",
+      "materials": [
+        {
+            "type": "cv"
+        },
+        {
+          "type":"video",
+          "url": "PkRm3T-zy5s"
+        }
+      ]
+    },
+    {
+      "name": "Jasmine Raja",
+      "github": "rjasmine29",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "t1wRjc5_DyA"
+        }   
+      ]
+    },
+    {
+      "name": "Rhys Cairns",
+      "github": "cairnsy6",
+      "materials": [
+        {
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "432n8gfi4vQ"
+        }
+      ]
+    },
+    {
+      "name": "Rahib Rahman",
+      "github": "Rahib0",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_w6zC4EKoiI"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://rahib-rahman.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Guy Margalith",
+      "github": "guymargalith",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ymWaqcLc8KM"
+        }
+      ]
+    },
+    {
+      "name": "Emily Kral",
+      "github": "EmilyKral",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "UCxedQSVFto"
+        }
+      ]
+    },
+    {
+      "name": "Souheil Fenghour",
+      "github": "sf308",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "q0wykUMa1sI"
+        }
+      ]
+    },
+    {
+      "name": "Angela Dyrmishi",
+      "github": "adyrmishi",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lVbdMNQrCsE"
+        }
+      ]
+    },
+    {
+      "name": "Bethan Vaughan",
+      "github": "bethanvaughan",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url" : "LTMWl4uljsw"
+        }
+      ]
+    },
+    {
+      "name": "Menelaos Kaskiris",
+      "github": "mkaskiris",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "epwbme9H5AI"  
+        }
+      ]
+    },
+   {
+     "name": "Peter Andrews-Briscoe",
+     "github": "PeterAndrewBriscoe",
+     "materials": [
+       {
+           "type": "cv"
+       },
+       {
+         "type": "video",
+         "url": "2bprlsRjrWc"
+       }
+      ]
+    },
+    {
+      "name": "Talha Sadak",
+      "github": "Talhalalala",
+      "materials": [
+        {
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "r9CwCpEf-54"
+        }
+      ]
+    },
+    {
+      "name": "Urselaan Malik",
+      "github": "umalik00",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "282rJEJKwYE"
+        }
+      ]
+    }
+  ]
 }
