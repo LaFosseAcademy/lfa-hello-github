@@ -112,7 +112,12 @@
     },
     {
       "name": "Ana-Victoria Bodnitca",
-      "github": "ViViAnna25"
+      "github": "ViViAnna25",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     }
   ]
 }
