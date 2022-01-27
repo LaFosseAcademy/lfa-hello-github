@@ -24,8 +24,17 @@
       ]
     },
     {
-      "name": "Marina Ivanova",
-      "github": "wotaque"
+      "name": "Marina",
+      "github": "wotaque",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZmZ_-Q_eTXE"
+        }
+      ]
     },
     {
       "name": "Peter Pilkington",
@@ -160,6 +169,4 @@
             "type": "cv"
         }
     ]
-    }
-  ]
 }
