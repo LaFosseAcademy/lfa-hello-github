@@ -25,7 +25,12 @@
     },
     {
       "name": "Peter Pilkington",
-      "github": "Pilks-pixel"
+      "github": "Pilks-pixel",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Yagnesh Shukla",
@@ -52,15 +57,25 @@
         {
             "type": "cv"
         }
-    ]
+      ]
     },
     {
       "name": "Amir Asif",
-      "github": "amirasif01"
+      "github": "amirasif01",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tatiana Lezhneva",
-      "github": "Ginger9307"
+      "github": "Ginger9307",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
        "name": "Sharen Sellathurai",
@@ -72,8 +87,13 @@
       ]
     },
     {
-       "name": "Julian James",
-       "github": "julian-james"
+      "name": "Julian James",
+      "github": "julian-james",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Brandon Lee",
@@ -100,7 +120,12 @@
     },
     {
       "name": "Muhammad Zain Abid",
-      "github": "MZA1996"
+      "github": "MZA1996",
+        "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
      {
       "name": "Phillip Park",
@@ -135,4 +160,3 @@
     }
   ]
 }
-
