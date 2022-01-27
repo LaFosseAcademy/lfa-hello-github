@@ -147,7 +147,7 @@
         },
         {
           "type": "video",
-          "url": "https://youtu.be/uL--kVdHhSE"
+          "url": "uL--kVdHhSE"
         }
       ]
     },
@@ -184,5 +184,6 @@
         {
             "type": "cv"
         }
-    ]
+      ]
+    }
 }
