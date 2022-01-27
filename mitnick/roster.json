@@ -9,5 +9,22 @@
       }
     ]
   },
-  "students": []
+  "students": [
+    {
+      "name": "Alexander Carter-Jones",
+      "github": "AlexanderC-J"
+    },
+    {
+      "name": "Sidar Ozbek",
+      "github": "sidaroz"
+    },
+    {
+      "name": "Luis Berbesi",
+      "github": "berbesiberbesi"
+    },
+    {
+      "name": "Bethan Evans",
+      "github": "beth98an"
+    }
+  ]
 }

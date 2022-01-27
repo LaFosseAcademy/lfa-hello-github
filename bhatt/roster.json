@@ -12,14 +12,15 @@
   "students": [
     {
       "name": "Josh Tang",
-      "github": "jt17819"
+      "github": "jt17819",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
-      "name": "Chiara Dinan",
-      "github": "chiara-d697"
-    },
-    {
-      "name": "Marina",
+      "name": "Marina Ivanova",
       "github": "wotaque"
     },
     {
@@ -28,23 +29,110 @@
     },
     {
       "name": "Yagnesh Shukla",
-      "github": "Yag20"
+      "github": "Yag20",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hayden Kidd",
-      "github": "h-kidd"
+      "github": "h-kidd",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Noamaan Mohamed",
-      "github": "NoamaanMohamed"
+      "github": "NoamaanMohamed",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
-    "name": "Amir Asif",
-    "github": "amirasif01",
-    "materials": [
-      {
+      "name": "Amir Asif",
+      "github": "amirasif01",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Tatiana Lezhneva",
+      "github": "Ginger9307",
+      "materials": [
+        {
           "type": "cv"
-      }
+        }
+      ]
+    },
+    {
+       "name": "Sharen Sellathurai",
+       "github": "SharenSella",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+       "name": "Julian James",
+       "github": "julian-james"
+    },
+    {
+      "name": "Brandon Lee",
+      "github": "brandolee15",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    
+    {
+      "name": "Eddie Perez",
+      "github": "EMP189",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Jakcika Veerasingam",
+      "github": "jakcika"
+    },
+    {
+      "name": "Muhammad Zain Abid",
+      "github": "MZA1996"
+    },
+     {
+      "name": "Phillip Park",
+      "github": "philine1",
+        "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Franklyn Asafo-Adjei",
+      "github": "asafoadjeif"
+    },
+    {
+      "name": "Ana-Victoria Bodnitca",
+      "github": "ViViAnna25",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
+    }
   ]
 }
-  

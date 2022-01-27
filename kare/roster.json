@@ -21,7 +21,8 @@
           "type": "video",
           "url": "7Y5j9Aaj-G8"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Ria Randerwala",
@@ -34,7 +35,8 @@
           "type": "video",
           "url": "9q3KhruowAs"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Kushal Patel",
@@ -47,7 +49,8 @@
           "type": "video",
           "url": "ODQ8C7kn3sM"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Mathusan Kandiah",
@@ -60,7 +63,8 @@
           "type": "video",
           "url": "VYsSsuvkxRM"
         }
-      ]
+      ],
+      "placement" : true
     },
     {
       "name": "Ben Watson",
@@ -73,7 +77,8 @@
           "type": "video",
           "url": "fYglSD72-e4"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Elena Doronina",
@@ -128,7 +133,8 @@
           "type": "video",
           "url": "uE70FCbpEiw"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Brodie McGuire",
@@ -141,7 +147,8 @@
           "type": "video",
           "url": "tNENIWZvuRc"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Puja Bapat",
@@ -154,7 +161,8 @@
           "type": "video",
           "url": "ivmj854XPro"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Mussie Berhane",
@@ -181,7 +189,8 @@
           "type": "video",
           "url": "CeYs7XpJsSg"
         }
-      ]
+      ],
+      "placement": true
     }
   ]
 }
