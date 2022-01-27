@@ -24,7 +24,11 @@
       "github": "wotaque",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "<your-video-id>"
         }
     ]
     },
