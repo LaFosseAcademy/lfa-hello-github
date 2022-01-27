@@ -131,7 +131,11 @@
       "github": "EMP189",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "https://youtu.be/uL--kVdHhSE"
         }
       ]
     },
