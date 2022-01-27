@@ -120,7 +120,12 @@
     },
     {
       "name": "Muhammad Zain Abid",
-      "github": "MZA1996"
+      "github": "MZA1996",
+        "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
      {
       "name": "Phillip Park",
