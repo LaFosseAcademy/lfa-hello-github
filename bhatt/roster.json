@@ -60,7 +60,12 @@
     },
     {
       "name": "Tatiana Lezhneva",
-      "github": "Ginger9307"
+      "github": "Ginger9307",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
        "name": "Sharen Sellathurai",
