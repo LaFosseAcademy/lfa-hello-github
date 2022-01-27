@@ -87,8 +87,13 @@
       ]
     },
     {
-       "name": "Julian James",
-       "github": "julian-james"
+      "name": "Julian James",
+      "github": "julian-james",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Brandon Lee",
