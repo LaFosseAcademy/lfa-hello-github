@@ -16,12 +16,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "DfIUXJ6pByo"
         }
       ]
     },
     {
       "name": "Marina Ivanova",
-      "github": "wotaque"
+      "github": "wotaque",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZmZ_-Q_eTXE"
+        }
+      ]
     },
     {
       "name": "Peter Pilkington",
@@ -47,6 +60,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "AqYg2qLF0kY"
         }
       ]
     },
@@ -56,6 +73,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"QSgMRwAfv38"
         }
       ]
     },
@@ -74,6 +95,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NjUdDwsn5cU"
         }
       ]
     },
@@ -83,6 +108,10 @@
        "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1hwf6bBw4-g"
         }
       ]
     },
@@ -92,6 +121,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"rO8uoAp4g80"
         }
       ]
     },
@@ -101,6 +134,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ajl5koITKlA"
         }
       ]
     },
@@ -110,7 +147,11 @@
       "github": "EMP189",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "uL--kVdHhSE"
         }
       ]
     },
@@ -124,6 +165,10 @@
         "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "JDnOj22WuNs"
         }
       ]
     },
@@ -133,6 +178,10 @@
         "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "5jwZ7Qb6tpc"
         }
       ]
     },
@@ -154,9 +203,9 @@
       "github": "ViViAnna25",
       "materials": [
         {
-          "type": "cv"
-        }       
-    ]
+            "type": "cv"
+        }
+      ]
     }
   ]
 }
