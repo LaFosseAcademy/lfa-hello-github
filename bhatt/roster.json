@@ -25,7 +25,12 @@
     },
     {
       "name": "Peter Pilkington",
-      "github": "Pilks-pixel"
+      "github": "Pilks-pixel",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Yagnesh Shukla",
