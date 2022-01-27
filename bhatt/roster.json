@@ -16,12 +16,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "DfIUXJ6pByo"
         }
       ]
     },
     {
       "name": "Marina Ivanova",
-      "github": "wotaque"
+      "github": "wotaque",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZmZ_-Q_eTXE"
+        }
+      ]
     },
     {
       "name": "Peter Pilkington",
@@ -47,6 +60,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "AqYg2qLF0kY"
         }
       ]
     },
@@ -105,6 +122,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "https://youtu.be/Ajl5koITKlA"
         }
       ]
     },
@@ -152,6 +173,4 @@
             "type": "cv"
         }
     ]
-    }
-  ]
 }
