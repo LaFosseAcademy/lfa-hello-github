@@ -52,11 +52,16 @@
         {
             "type": "cv"
         }
-    ]
+      ]
     },
     {
       "name": "Amir Asif",
-      "github": "amirasif01"
+      "github": "amirasif01",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tatiana Lezhneva",
@@ -131,4 +136,3 @@
     }
   ]
 }
-
