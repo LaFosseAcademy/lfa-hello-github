@@ -16,16 +16,34 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "DfIUXJ6pByo"
         }
       ]
     },
     {
       "name": "Marina Ivanova",
-      "github": "wotaque"
+      "github": "wotaque",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZmZ_-Q_eTXE"
+        }
+      ]
     },
     {
       "name": "Peter Pilkington",
-      "github": "Pilks-pixel"
+      "github": "Pilks-pixel",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Yagnesh Shukla",
@@ -42,6 +60,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "AqYg2qLF0kY"
         }
       ]
     },
@@ -51,6 +73,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"QSgMRwAfv38"
         }
       ]
     },
@@ -73,6 +99,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NjUdDwsn5cU"
         }
       ]
     },
@@ -82,12 +112,25 @@
        "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1hwf6bBw4-g"
         }
       ]
     },
     {
-       "name": "Julian James",
-       "github": "julian-james"
+      "name": "Julian James",
+      "github": "julian-james",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"rO8uoAp4g80"
+        }
+      ]
     },
     {
       "name": "Brandon Lee",
@@ -95,6 +138,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ajl5koITKlA"
         }
       ]
     },
@@ -104,7 +151,11 @@
       "github": "EMP189",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "uL--kVdHhSE"
         }
       ]
     },
@@ -114,7 +165,16 @@
     },
     {
       "name": "Muhammad Zain Abid",
-      "github": "MZA1996"
+      "github": "MZA1996",
+        "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "JDnOj22WuNs"
+        }
+      ]
     },
      {
       "name": "Phillip Park",
@@ -122,6 +182,10 @@
         "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "5jwZ7Qb6tpc"
         }
       ]
     },
@@ -136,7 +200,7 @@
         {
             "type": "cv"
         }
-    ]
+      ]
     }
   ]
 }
