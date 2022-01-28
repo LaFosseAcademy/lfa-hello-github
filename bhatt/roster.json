@@ -161,7 +161,16 @@
     },
     {
       "name": "Jakcika Veerasingam",
-      "github": "jakcika"
+      "github": "jakcika",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7379Mb5UAyE"
+        }
+      ]
     },
     {
       "name": "Muhammad Zain Abid",
