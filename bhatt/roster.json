@@ -187,7 +187,16 @@
     },
     {
       "name": "Franklyn Asafo-Adjei",
-      "github": "asafoadjeif"
+      "github": "asafoadjeif",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7m-bJre1XA0"
+        }
+      ]
     },
     {
       "name": "Ana-Victoria Bodnitca",
