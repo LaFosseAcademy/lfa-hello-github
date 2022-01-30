@@ -25,7 +25,16 @@
     },
     {
       "name": "Marina Ivanova",
-      "github": "wotaque"
+      "github": "wotaque",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZmZ_-Q_eTXE"
+        }
+      ]
     },
     {
       "name": "Peter Pilkington",
@@ -33,6 +42,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "nUVB6K_yL1A"
         }
       ]
     },
@@ -64,6 +77,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"QSgMRwAfv38"
         }
       ]
     },
@@ -73,6 +90,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+            "type": "video",
+            "url": "iIXaaCZK0xQ"
         }
       ]
     },
@@ -82,6 +103,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NjUdDwsn5cU"
         }
       ]
     },
@@ -91,6 +116,10 @@
        "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1hwf6bBw4-g"
         }
       ]
     },
@@ -100,6 +129,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"rO8uoAp4g80"
         }
       ]
     },
@@ -112,7 +145,7 @@
         },
         {
           "type": "video",
-          "url": "https://youtu.be/Ajl5koITKlA"
+          "url": "Ajl5koITKlA"
         }
       ]
     },
@@ -122,13 +155,26 @@
       "github": "EMP189",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "uL--kVdHhSE"
         }
       ]
     },
     {
       "name": "Jakcika Veerasingam",
-      "github": "jakcika"
+      "github": "jakcika",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7379Mb5UAyE"
+        }
+      ]
     },
     {
       "name": "Muhammad Zain Abid",
@@ -136,6 +182,10 @@
         "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "JDnOj22WuNs"
         }
       ]
     },
@@ -145,12 +195,25 @@
         "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "5jwZ7Qb6tpc"
         }
       ]
     },
     {
       "name": "Franklyn Asafo-Adjei",
-      "github": "asafoadjeif"
+      "github": "asafoadjeif",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7m-bJre1XA0"
+        }
+      ]
     },
     {
       "name": "Ana-Victoria Bodnitca",
@@ -158,8 +221,12 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "93kxca-8Deg"
         }
-    ]
+      ]
     }
   ]
 }
