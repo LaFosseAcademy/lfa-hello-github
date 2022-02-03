@@ -111,19 +111,6 @@
       ]
     },
     {
-       "name": "Sharen Sellathurai",
-       "github": "SharenSella",
-       "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "1hwf6bBw4-g"
-        }
-      ]
-    },
-    {
       "name": "Julian James",
       "github": "julian-james",
       "materials": [
@@ -212,19 +199,6 @@
         {
           "type": "video",
           "url": "7m-bJre1XA0"
-        }
-      ]
-    },
-    {
-      "name": "Ana-Victoria Bodnitca",
-      "github": "ViViAnna25",
-      "materials": [
-        {
-            "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "93kxca-8Deg"
         }
       ]
     }
