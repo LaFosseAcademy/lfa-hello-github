@@ -72,7 +72,7 @@ NB: If you have left it a while since doing that fork, clone and adding the upst
 
 ### 1. Sync your repo
 - Locate your local repo for this project (clone down your fork again if you deleted it before for any reason) and `cd` into the folder
-- Run `git remote -v` and make sure your output is similar to that in [Step 2](#2.-futureproof-your-fork) above
+- Run `git remote -v` and make sure your output is similar to that in [Step 2](#2-futureproof-your-fork) above
 - Run `git pull upstream main` to get the latest updates from our central version of the repo
 
 ### 2. Make, Stage, Commit, Push your changes, and open a PR
