@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Edward White",
-      "github": "ewhite1999"
+      "github": "ewhite1999",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Wai Lon Ao Ieong",
