@@ -16,7 +16,12 @@
     },
     {
       "name": "Wai Lon Ao Ieong",
-      "github": "rxdvd"
+      "github": "rxdvd",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Zahra Mahmood",
