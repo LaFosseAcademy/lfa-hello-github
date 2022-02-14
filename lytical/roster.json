@@ -30,7 +30,12 @@
     },
     {
       "name": "Zahra Mahmood",
-      "github": "zmahmood98"
+      "github": "zmahmood98",
+      "materials": [
+          {
+            "type": "cv"
+          }
+      ]
     },
     {
       "name": "Jumaanah Alexander",
