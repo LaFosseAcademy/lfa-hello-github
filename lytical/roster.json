@@ -39,7 +39,12 @@
     },
     {
       "name": "Jumaanah Alexander",
-      "github": "jalexxx"
+      "github": "jalexxx",
+      "materials": [
+          {
+            "type": "cv"
+          }
+      ]
     },
     {
       "name": "Noah Platton",
