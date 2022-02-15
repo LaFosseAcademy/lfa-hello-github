@@ -81,7 +81,12 @@
     },
     {
       "name": "Sukhraj Bhandal",
-      "github": "sukhrajsinghb"
+      "github": "sukhrajsinghb",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Bojin Zhou",
