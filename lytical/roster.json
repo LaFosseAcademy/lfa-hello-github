@@ -83,7 +83,12 @@
     },
     {
       "name": "Hamza Saleh",
-      "github": "k3ith99"
+      "github": "k3ith99",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     }
   ]
 }
