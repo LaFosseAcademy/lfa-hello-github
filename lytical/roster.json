@@ -80,7 +80,12 @@
     },
     {
       "name": "Bojin Zhou",
-      "github": "bojin11"
+      "github": "bojin11",
+        "materials": [
+            {
+                "type": "cv"
+            }
+        ]
     },
     {
       "name": "Philip Cotter",
