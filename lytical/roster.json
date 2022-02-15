@@ -52,7 +52,12 @@
     },
     {
       "name": "Samina Khan",
-      "github": "saminakhan999"
+      "github": "saminakhan999",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name":"Roneel Bhagwakar",
