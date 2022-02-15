@@ -43,7 +43,12 @@
     },
     {
       "name": "Noah Platton",
-      "github": "nplatton"
+      "github": "nplatton",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Samina Khan",
