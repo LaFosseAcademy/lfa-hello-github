@@ -94,7 +94,12 @@
     },
     {
       "name": "Philip Cotter",
-      "github": "Phil99fp"
+      "github": "Phil99fp",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ] 
     },
     {
       "name": "Hamza Saleh",
