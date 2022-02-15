@@ -43,11 +43,21 @@
     },
     {
       "name": "Noah Platton",
-      "github": "nplatton"
+      "github": "nplatton",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Samina Khan",
-      "github": "saminakhan999"
+      "github": "saminakhan999",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name":"Roneel Bhagwakar",
@@ -75,7 +85,12 @@
     },
     {
       "name": "Bojin Zhou",
-      "github": "bojin11"
+      "github": "bojin11",
+        "materials": [
+            {
+                "type": "cv"
+            }
+        ]
     },
     {
       "name": "Philip Cotter",

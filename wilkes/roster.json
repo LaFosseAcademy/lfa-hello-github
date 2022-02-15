@@ -1,6 +1,6 @@
 {
   "namesake": {
-    "name": "Maurice Wilkes",
+    "name": "Mary Allen Wilkes",
     "imageUrl": "",
     "materials": [
       {
@@ -93,6 +93,10 @@
     {
       "name": "Anh Nguyen",
       "github": "hihaianh"
+    },
+    {
+      "name": "Jesse Dodoo",
+      "github": "JesseDodoo"
     },
     {
       "name": "Kelvin Wong",
