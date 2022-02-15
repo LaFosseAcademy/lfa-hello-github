@@ -12,15 +12,98 @@
   "students": [
     {
       "name": "Edward White",
-      "github": "ewhite1999"
+      "github": "ewhite1999",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Wai Lon Ao Ieong",
-      "github": "rxdvd"
+      "github": "rxdvd",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Zahra Mahmood",
+      "github": "zmahmood98",
+      "materials": [
+          {
+            "type": "cv"
+          }
+      ]
+    },
+    {
+      "name": "Jumaanah Alexander",
+      "github": "jalexxx"
+    },
+    {
+      "name": "Noah Platton",
+      "github": "nplatton",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Samina Khan",
+      "github": "saminakhan999",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name":"Roneel Bhagwakar",
+      "github":"r0neel"
+    },
+    {
+      "name": "Dafé Akaka",
+      "github": "Dafe-akaka"
+    },
+    {
+      "name": "Giacomo Baldo",
+      "github": "gi-ba-bu"
+    },
+    {
+      "name": "Richard Clutterbuck",
+      "github": "rwclutterbuck"
     },
     {
       "name": "Caprice Ebanks",
       "github": "capriceebanks"
+    },
+    {
+      "name": "Sukhraj Bhandal",
+      "github": "sukhrajsinghb"
+    },
+    {
+      "name": "Bojin Zhou",
+      "github": "bojin11",
+        "materials": [
+            {
+                "type": "cv"
+            }
+        ]
+    },
+    {
+      "name": "Philip Cotter",
+      "github": "Phil99fp"
+    },
+    {
+      "name": "Hamza Saleh",
+      "github": "k3ith99",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     }
   ]
 }

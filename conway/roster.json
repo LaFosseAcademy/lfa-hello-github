@@ -16,6 +16,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Z_bx0xxa0C4"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://jakirul.com/"
         }
       ]
     },
@@ -25,6 +33,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9Z2HusserDE"
         }
       ]
     },
@@ -34,7 +46,15 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+         "type": "video",
+         "url": "7aPb7-tNmzE"
+       },
+       {
+        "type": "portfolio",
+        "url": "https://rajx1.netlify.app"
+      }
       ]
     },
     {
@@ -43,16 +63,28 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type":"video",
+          "url": "PkRm3T-zy5s"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://james-quinn-portfolio.netlify.app/"
         }
       ]
     },
     {
       "name": "Jasmine Raja",
       "github": "rjasmine29",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "t1wRjc5_DyA"
+        }   
       ]
     },
     {
@@ -61,8 +93,12 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "432n8gfi4vQ"
         }
-    ]
+      ]
     },
     {
       "name": "Rahib Rahman",
@@ -70,6 +106,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_w6zC4EKoiI"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://rahib-rahman.netlify.app/"
         }
       ]
     },
@@ -79,6 +123,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ymWaqcLc8KM"
         }
       ]
     },
@@ -88,15 +136,24 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "UCxedQSVFto"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Souheil Fenghour",
       "github": "sf308",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "q0wykUMa1sI"
         }
       ]
     },
@@ -106,51 +163,76 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lVbdMNQrCsE"
         }
       ]
     },
-   {
-     "name": "Bethan Vaughan",
-     "github": "bethanvaughan",
-     "materials": [
-       {
-         "type": "cv"
-       }
+    {
+      "name": "Bethan Vaughan",
+      "github": "bethanvaughan",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url" : "LTMWl4uljsw"
+        }
       ]
-   },
-   {
+    },
+    {
       "name": "Menelaos Kaskiris",
       "github": "mkaskiris",
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "epwbme9H5AI"  
         }
       ]
-   },
+    },
    {
      "name": "Peter Andrews-Briscoe",
      "github": "PeterAndrewBriscoe",
      "materials": [
        {
            "type": "cv"
+       },
+       {
+         "type": "video",
+         "url": "2bprlsRjrWc"
        }
       ]
-     },
+    },
     {
       "name": "Talha Sadak",
       "github": "Talhalalala",
-      "materials":[
+      "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "r9CwCpEf-54"
         }
-      ]
+      ],
+      "placement": true
     },
     {
       "name": "Urselaan Malik",
       "github": "umalik00",
-      "materials":[
+      "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "282rJEJKwYE"
         }
       ]
     }

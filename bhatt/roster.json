@@ -12,77 +12,195 @@
   "students": [
     {
       "name": "Josh Tang",
-      "github": "jt17819"
+      "github": "jt17819",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "DfIUXJ6pByo"
+        }
+      ]
     },
     {
-      "name": "Marina",
-      "github": "wotaque"
+      "name": "Marina Ivanova",
+      "github": "wotaque",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZmZ_-Q_eTXE"
+        }
+      ]
     },
     {
       "name": "Peter Pilkington",
-      "github": "Pilks-pixel"
+      "github": "Pilks-pixel",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "nUVB6K_yL1A"
+        }
+      ]
     },
     {
       "name": "Yagnesh Shukla",
-      "github": "Yag20"
+      "github": "Yag20",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hayden Kidd",
-      "github": "h-kidd"
+      "github": "h-kidd",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "AqYg2qLF0kY"
+        }
+      ]
     },
     {
       "name": "Noamaan Mohamed",
-      "github": "NoamaanMohamed"
+      "github": "NoamaanMohamed",
+      "materials": [
+        {
+            "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"QSgMRwAfv38"
+        }
+      ]
     },
     {
       "name": "Amir Asif",
-      "github": "amirasif01"
+      "github": "amirasif01",
+      "materials": [
+        {
+            "type": "cv"
+        },
+        {
+            "type": "video",
+            "url": "iIXaaCZK0xQ"
+        }
+      ]
     },
     {
       "name": "Tatiana Lezhneva",
-      "github": "Ginger9307"
+      "github": "Ginger9307",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NjUdDwsn5cU"
+        }
+      ]
     },
     {
-       "name": "Sharen Sellathurai",
-       "github": "SharenSella"
-    },
-    {
-       "name": "Julian James",
-       "github": "julian-james"
+      "name": "Julian James",
+      "github": "julian-james",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"rO8uoAp4g80"
+        }
+      ]
     },
     {
       "name": "Brandon Lee",
-      "github": "brandolee15"
+      "github": "brandolee15",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ajl5koITKlA"
+        }
+      ]
     },
+    
     {
       "name": "Eddie Perez",
-      "github": "EMP189"
+      "github": "EMP189",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "uL--kVdHhSE"
+        }
+      ]
     },
     {
       "name": "Jakcika Veerasingam",
-      "github": "jakcika"
+      "github": "jakcika",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7379Mb5UAyE"
+        }
+      ]
     },
     {
       "name": "Muhammad Zain Abid",
-      "github": "MZA1996"
+      "github": "MZA1996",
+        "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "JDnOj22WuNs"
+        }
+      ]
     },
      {
       "name": "Phillip Park",
-      "github": "philine1"
-
-    },
-    {
-      "name": "Safwan De Chalup",
-      "github": "SDC-corp" 
+      "github": "philine1",
+        "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "5jwZ7Qb6tpc"
+        }
+      ]
     },
     {
       "name": "Franklyn Asafo-Adjei",
-      "github": "asafoadjeif"
-    },
-    {
-      "name": "Ana-Vitoria Bodnitca",
-      "github": "ViViAnna25"
+      "github": "asafoadjeif",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7m-bJre1XA0"
+        }
+      ]
     }
   ]
 }
-
