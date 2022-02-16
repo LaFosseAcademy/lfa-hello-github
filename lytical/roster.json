@@ -69,7 +69,12 @@
     },
     {
       "name": "Giacomo Baldo",
-      "github": "gi-ba-bu"
+      "github": "gi-ba-bu",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Richard Clutterbuck",
