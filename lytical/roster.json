@@ -70,7 +70,12 @@
     },
     {
       "name": "Dafé Akaka",
-      "github": "Dafe-akaka"
+      "github": "Dafe-akaka",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Giacomo Baldo",
