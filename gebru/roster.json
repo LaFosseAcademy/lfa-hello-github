@@ -9,5 +9,10 @@
       }
     ]
   },
-  "students": []
+  "students": [
+    {
+      "name": "Yusra Tahir",
+      "github": "yusra-tahir"
+    }
+  ]
 }
