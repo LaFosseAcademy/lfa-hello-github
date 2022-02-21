@@ -44,7 +44,7 @@
     },
     {
       "name": "Anisha Deol",
-      "github": "anishakdeol"
+     "github": "anishakdeol"
     },
     {
       "name": "Sami Tanveer",
@@ -53,6 +53,10 @@
     {
       "name": "Alex Patient",
       "github": "aPatient97"
+    },
+    {
+      "name": "Peter Ly",
+      "github": "peterlydev"
     }
   ]
 }
