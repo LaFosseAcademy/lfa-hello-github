@@ -76,8 +76,11 @@
       "github": "rwclutterbuck"
       "materials": [  
         {
-          "type": "cv",
-          {"type": "portfolio", "url": "https://github.com/rwclutterbuck/awesome-projects"}
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://github.com/rwclutterbuck/awesome-projects"
         }
       ]
     },
