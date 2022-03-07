@@ -87,7 +87,9 @@
       "materials": [
         {
           "type":"cv"
-        }
+          
+        },
+        {"type": "portfolio", "url": "https://hamza-lytical-portfolio.netlify.app/"}
       ]
     }
   ]
