@@ -39,51 +39,111 @@
     },
     {
       "name": "Jumaanah Alexander",
-      "github": "jalexxx"
+      "github": "jalexxx",
+      "materials": [
+          {
+            "type": "cv"
+          }
+      ]
     },
     {
       "name": "Noah Platton",
-      "github": "nplatton"
+      "github": "nplatton",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Samina Khan",
-      "github": "saminakhan999"
+      "github": "saminakhan999",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name":"Roneel Bhagwakar",
-      "github":"r0neel"
+      "github":"r0neel",
+      "materials":[
+        {
+        "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dafé Akaka",
-      "github": "Dafe-akaka"
+      "github": "Dafe-akaka",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Giacomo Baldo",
-      "github": "gi-ba-bu"
+      "github": "gi-ba-bu",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Richard Clutterbuck",
-      "github": "rwclutterbuck"
+      "github": "rwclutterbuck",
+      "materials": [  
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Caprice Ebanks",
-      "github": "capriceebanks"
+      "github": "capriceebanks",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sukhraj Bhandal",
-      "github": "sukhrajsinghb"
+      "github": "sukhrajsinghb",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Bojin Zhou",
-      "github": "bojin11"
+      "github": "bojin11",
+        "materials": [
+            {
+                "type": "cv"
+            }
+        ]
     },
     {
       "name": "Philip Cotter",
-      "github": "Phil99fp"
+      "github": "Phil99fp",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ] 
     },
     {
       "name": "Hamza Saleh",
-      "github": "k3ith99"
+      "github": "k3ith99",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     }
   ]
 }

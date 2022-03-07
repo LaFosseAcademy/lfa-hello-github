@@ -9,5 +9,18 @@
       }
     ]
   },
-  "students": []
+  "students": [
+    {
+      "name": "Yusra Tahir",
+      "github": "yusra-tahir"
+    },
+    {
+      "name": "Trina Yau",
+      "github": "trinayau"
+    },
+    {
+      "name": "Prishal Makwana",
+      "github": "Prishal-git"
+    }
+  ]
 }
