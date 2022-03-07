@@ -67,10 +67,14 @@
     {
       "name": "Samina Khan",
       "github": "saminakhan999",
-      "materials": [
-        {
-          "type": "cv"
-        }
+       "materials": [
+          {
+            "type": "cv"
+          },
+          {
+             "type": "video",
+             "url": "kWs6W58oVvw"
+           }
       ]
     },
     {
