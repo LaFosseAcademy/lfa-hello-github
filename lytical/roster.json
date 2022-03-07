@@ -151,7 +151,10 @@
       "materials": [
         {
           "type":"cv"
-        }
+          
+        },
+        {"type": "portfolio", "url": "https://hamza-port.netlify.app/"},
+        {"type": "video", "url": "UDA5QOZ0nhk"}
       ]
     }
   ]
