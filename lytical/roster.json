@@ -106,6 +106,14 @@
       "materials": [  
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://rwclutterbuck.co.uk"
+        },
+        {
+          "type": "video",
+          "url": "485mnl3OZTE"
         }
       ]
     },
