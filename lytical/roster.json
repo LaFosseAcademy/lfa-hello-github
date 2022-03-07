@@ -140,7 +140,11 @@
       "github": "bojin11",
         "materials": [
             {
-                "type": "cv"
+              "type": "cv"
+            },
+            {
+              "type": "video", 
+              "url": "KxtqmSEh8D0"
             }
         ]
     },
