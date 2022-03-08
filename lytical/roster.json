@@ -92,6 +92,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "g5ZRCSx29qY"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://dafe-portfolio.netlify.app/"
         }
       ]
     },
