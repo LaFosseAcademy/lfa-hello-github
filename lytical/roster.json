@@ -16,7 +16,12 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "wjz3UNTCs4Q"
+      },
+        {"type": "portfolio", "url": "https://edward-white.netlify.app/"}
       ]
     },
     {
@@ -34,7 +39,11 @@
       "materials": [
           {
             "type": "cv"
-          }
+          },
+          {
+             "type": "video",
+             "url": "9BAbgjl5NaA"
+           }
       ]
     },
     {
@@ -58,10 +67,14 @@
     {
       "name": "Samina Khan",
       "github": "saminakhan999",
-      "materials": [
-        {
-          "type": "cv"
-        }
+       "materials": [
+          {
+            "type": "cv"
+          },
+          {
+             "type": "video",
+             "url": "kWs6W58oVvw"
+           }
       ]
     },
     {
@@ -79,6 +92,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "g5ZRCSx29qY"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://dafe-portfolio.netlify.app/"
         }
       ]
     },
@@ -88,6 +109,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "gz51x5oD_Lo"
         }
       ]
     },
@@ -97,6 +122,14 @@
       "materials": [  
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://rwclutterbuck.co.uk"
+        },
+        {
+          "type": "video",
+          "url": "485mnl3OZTE"
         }
       ]
     },
@@ -123,7 +156,12 @@
       "github": "bojin11",
         "materials": [
             {
-                "type": "cv"
+              "type": "cv"
+            },
+            { "type": "portfolio", "url": "https://bojin-zhou-portfolio.netlify.app/" },
+            {
+              "type": "video", 
+              "url": "KxtqmSEh8D0"
             }
         ]
     },
@@ -142,7 +180,10 @@
       "materials": [
         {
           "type":"cv"
-        }
+          
+        },
+        {"type": "portfolio", "url": "https://hamza-port.netlify.app/"},
+        {"type": "video", "url": "UDA5QOZ0nhk"}
       ]
     }
   ]
