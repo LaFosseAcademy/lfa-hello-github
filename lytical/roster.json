@@ -92,6 +92,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "g5ZRCSx29qY"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://dafe-portfolio.netlify.app/"
         }
       ]
     },
@@ -150,6 +158,7 @@
             {
               "type": "cv"
             },
+            { "type": "portfolio", "url": "https://bojin-zhou-portfolio.netlify.app/" },
             {
               "type": "video", 
               "url": "KxtqmSEh8D0"
