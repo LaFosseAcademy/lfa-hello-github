@@ -46,12 +46,16 @@
       "github": "zmahmood98",
       "materials": [
           {
-            "type": "cv"
+             "type": "cv"
           },
           {
              "type": "video",
              "url": "9BAbgjl5NaA"
-           }
+          },
+          {
+             "type": "portfolio",
+             "url": "https://zmahmood.netlify.app/"
+          }
       ]
     },
     {
