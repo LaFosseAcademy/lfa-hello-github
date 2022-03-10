@@ -11,10 +11,6 @@
   },
   "students": [
     {
-      "name": "Alexander Carter-Jones",
-      "github": "AlexanderC-J"
-    },
-    {
       "name": "Sidar Ozbek",
       "github": "sidaroz"
     },
@@ -41,6 +37,42 @@
     {
       "name": "Sarushan Thiyakumar",
       "github": "SarushanThiy"
+    },
+    {
+      "name": "Anisha Deol",
+     "github": "anishakdeol"
+    },
+    {
+      "name": "Sami Tanveer",
+      "github": "Sami1600"
+    },
+    {
+      "name": "Alex Patient",
+      "github": "aPatient97"
+    },
+    {
+      "name": "Peter Ly",
+      "github": "peterlydev"
+    },
+    {
+      "name": "Jaxsan Sivanesan",
+      "github": "Jaxsan2206"
+    },
+    {
+      "name": "Anwar Elmi",
+      "github": "aelmi123"
+    },
+    {
+      "name": "Ousama Bousba Ghobrini",
+      "github": "ousama1234"
+    },
+    {
+      "name": "Hakeem Hanson",
+      "github": "BorreloadDragon"
+    },
+    {
+      "name": "Evelyn Ball",
+      "github":"evelyn516"
     }
   ]
 }

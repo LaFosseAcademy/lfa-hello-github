@@ -37,6 +37,10 @@
         {
           "type": "video",
           "url": "9Z2HusserDE"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://kelvinstephano.netlify.app/"
         }
       ]
     },
@@ -97,6 +101,10 @@
         {
           "type": "video",
           "url": "432n8gfi4vQ"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://rhyscairnscv.netlify.app"
         }
       ]
     },
@@ -143,19 +151,6 @@
         }
       ],
       "placement": true
-    },
-    {
-      "name": "Souheil Fenghour",
-      "github": "sf308",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "q0wykUMa1sI"
-        }
-      ]
     },
     {
       "name": "Angela Dyrmishi",

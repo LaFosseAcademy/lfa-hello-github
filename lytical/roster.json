@@ -16,7 +16,12 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "wjz3UNTCs4Q"
+      },
+        {"type": "portfolio", "url": "https://edward-white.netlify.app/"}
       ]
     },
     {
@@ -25,6 +30,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "j0qhX0JCM_A"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://wailon.netlify.app/"
         }
       ]
     },
@@ -33,13 +46,26 @@
       "github": "zmahmood98",
       "materials": [
           {
-            "type": "cv"
+             "type": "cv"
+          },
+          {
+             "type": "video",
+             "url": "9BAbgjl5NaA"
+          },
+          {
+             "type": "portfolio",
+             "url": "https://zmahmood.netlify.app/"
           }
       ]
     },
     {
       "name": "Jumaanah Alexander",
-      "github": "jalexxx"
+      "github": "jalexxx",
+      "materials": [
+          {
+            "type": "cv"
+          }
+      ]
     },
     {
       "name": "Noah Platton",
@@ -53,27 +79,71 @@
     {
       "name": "Samina Khan",
       "github": "saminakhan999",
-      "materials": [
-        {
-          "type": "cv"
-        }
+       "materials": [
+          {
+            "type": "cv"
+          },
+          {
+             "type": "video",
+             "url": "kWs6W58oVvw"
+           }
       ]
     },
     {
       "name":"Roneel Bhagwakar",
-      "github":"r0neel"
+      "github":"r0neel",
+      "materials":[
+        {
+        "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dafé Akaka",
-      "github": "Dafe-akaka"
+      "github": "Dafe-akaka",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "g5ZRCSx29qY"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://dafe-akaka-portfolio-v2.netlify.app/"
+        }
+      ]
     },
     {
       "name": "Giacomo Baldo",
-      "github": "gi-ba-bu"
+      "github": "gi-ba-bu",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "gz51x5oD_Lo"
+        }
+      ]
     },
     {
       "name": "Richard Clutterbuck",
-      "github": "rwclutterbuck"
+      "github": "rwclutterbuck",
+      "materials": [  
+        {
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://rwclutterbuck.co.uk"
+        },
+        {
+          "type": "video",
+          "url": "485mnl3OZTE"
+        }
+      ]
     },
     {
       "name": "Caprice Ebanks",
@@ -86,20 +156,35 @@
     },
     {
       "name": "Sukhraj Bhandal",
-      "github": "sukhrajsinghb"
+      "github": "sukhrajsinghb",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Bojin Zhou",
       "github": "bojin11",
         "materials": [
             {
-                "type": "cv"
+              "type": "cv"
+            },
+            { "type": "portfolio", "url": "https://bojin-zhou-portfolio.netlify.app/" },
+            {
+              "type": "video", 
+              "url": "KxtqmSEh8D0"
             }
         ]
     },
     {
       "name": "Philip Cotter",
-      "github": "Phil99fp"
+      "github": "Phil99fp",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ] 
     },
     {
       "name": "Hamza Saleh",
@@ -107,7 +192,10 @@
       "materials": [
         {
           "type":"cv"
-        }
+          
+        },
+        {"type": "portfolio", "url": "https://hamza-port.netlify.app/"},
+        {"type": "video", "url": "UDA5QOZ0nhk"}
       ]
     }
   ]

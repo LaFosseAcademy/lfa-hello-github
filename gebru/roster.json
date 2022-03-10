@@ -9,5 +9,26 @@
       }
     ]
   },
-  "students": []
+  "students": [
+    {
+      "name": "Yusra Tahir",
+      "github": "yusra-tahir"
+    },
+    {
+      "name": "Trina Yau",
+      "github": "trinayau"
+    },
+    {
+      "name": "Prishal Makwana",
+      "github": "Prishal-git"
+    },
+    {
+      "name": "Onur Belek",
+      "github": "Eluented"
+    },
+    {
+      "name": "Andrew Kennedy",
+      "github": "akennedy205"
+    }
+  ]
 }
