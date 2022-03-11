@@ -1,27 +1,38 @@
 {
-    "namesake": {
-        "name": "Timnit Gebru",
-        "imageUrl": "https://s34372.pcdn.co/wp-content/uploads/2018/12/rac-07-18-timnit-gebru.jpg",
-        "materials": [{
-            "type": "video",
-            "url": "PWCtoVt1CJM"
-        }]
-    },
-    "students": [{
-            "name": "Yusra Tahir",
-            "github": "yusra-tahir"
-        },
-        {
-            "name": "Trina Yau",
-            "github": "trinayau"
-        },
-        {
-            "name": "Prishal Makwana",
-            "github": "Prishal-git"
-        },
-        {
-            "name": "Dan Willis",
-            "github": "WalkingZ3d"
-        }
+  "namesake": {
+    "name": "Timnit Gebru",
+    "imageUrl": "https://s34372.pcdn.co/wp-content/uploads/2018/12/rac-07-18-timnit-gebru.jpg",
+    "materials": [
+      {
+        "type": "video",
+        "url": "PWCtoVt1CJM"
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Yusra Tahir",
+      "github": "yusra-tahir"
+    },
+    {
+      "name": "Trina Yau",
+      "github": "trinayau"
+    },
+    {
+      "name": "Prishal Makwana",
+      "github": "Prishal-git"
+    },
+    {
+      "name": "Onur Belek",
+      "github": "Eluented"
+    },
+    {
+      "name": "Andrew Kennedy",
+      "github": "akennedy205"
+    },
+    {
+      "name": "David Quigley",
+      "github": "AverKill"
+    }
+  ]
 }
