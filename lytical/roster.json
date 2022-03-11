@@ -94,7 +94,11 @@
           {
              "type": "video",
              "url": "kWs6W58oVvw"
-           }
+          },
+         {
+          "type": "portfolio",
+          "url": "https://saminakhan.netlify.app/"
+         }
       ]
     },
     {
