@@ -207,6 +207,11 @@
       "materials": [
         {
           "type": "cv"
+        },
+        { "type": "portfolio", "url": "https://philip-cotter-portfolio.netlify.app/" },
+        {
+          "type": "video", 
+          "url": "slL1cV1WsC4"
         }
       ] 
     },
