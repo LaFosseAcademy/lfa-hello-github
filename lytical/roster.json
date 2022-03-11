@@ -159,15 +159,16 @@
       "github": "sukhrajsinghb",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         },
         {
-        "type": "video", 
-        "url": "M15JTDrim5w"
-      },
-        { "type": "portfolio",
-          "url": "" 
-      },
+          "type": "video", 
+          "url": "M15JTDrim5w"
+        },
+        { 
+          "type": "portfolio",
+          "url": "https://sukhraj-bhandal.netlify.app" 
+        }
     ]
     },
     {
