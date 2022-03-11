@@ -167,6 +167,12 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio", "url": "https://capricee.netlify.app/"
+        },
+        {
+          "type": "video", "url": "EE7O0iNCNGE"
         }
       ]
     },
