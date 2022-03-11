@@ -144,6 +144,10 @@
           "type": "cv"
         },
         {
+          "type": "portfolio",
+          "url": "https://gbaldo.netlify.app/"
+        },
+        {
           "type": "video",
           "url": "gz51x5oD_Lo"
         }
