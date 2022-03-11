@@ -73,6 +73,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZF1H0qftw58"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://noahs-arkives.netlify.app/"
         }
       ]
     },
