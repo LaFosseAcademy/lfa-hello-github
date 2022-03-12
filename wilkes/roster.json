@@ -32,7 +32,12 @@
     },
     {
       "name": "Marco Porcaro",
-      "github": "MarcoPorcaro1987"
+      "github": "MarcoPorcaro1987",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Rakib Ali",
