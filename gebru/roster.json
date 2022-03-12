@@ -10,8 +10,9 @@
     ]
   },
   "students": [
-    {"name": "Robyn Shortland",
-     "github": "rsho-create"
+    {
+      "name": "Robyn Shortland",
+      "github": "rsho-create"
     },
     { "name": "Liberty Sprackling",
       "github": "LibertySprackling"
