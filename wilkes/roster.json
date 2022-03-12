@@ -48,7 +48,12 @@
     },
     {
       "name": "Ikenna Agulobi",
-      "github": "ike-agu"
+      "github": "ike-agu",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Immanuel Egboche",
