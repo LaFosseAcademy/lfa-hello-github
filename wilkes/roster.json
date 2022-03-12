@@ -28,7 +28,12 @@
     },
     {
       "name": "Heather McGlynn",
-      "github": "HevvsOlivia"
+      "github": "HevvsOlivia",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Marco Porcaro",
