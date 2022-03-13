@@ -72,7 +72,11 @@
     },
     {
       "name": "Zeia Gillies",
-      "github": "Zeiadork"
+      "github": "Zeiadork",
+      "materials": [
+        {
+            "type":"cv"
+        }
     },
     {
       "name": "Okunola Adedokun",
