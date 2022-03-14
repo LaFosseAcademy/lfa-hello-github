@@ -1,6 +1,6 @@
 {
   "namesake": {
-    "name": "Maurice Wilkes",
+    "name": "Mary Allen Wilkes",
     "imageUrl": "",
     "materials": [
       {
@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Andrew Upton",
-      "github": "nottnottloop"
+      "github": "nottnottloop",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Idris Silva",
@@ -20,23 +25,48 @@
     },
     {
       "name": "Dimitris Fanis",
-      "github": "dimi-fn"
+      "github": "dimi-fn",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Henry",
+      "github": "ucehenry"
     },
     {
       "name": "Heather McGlynn",
-      "github": "HevvsOlivia"
+      "github": "HevvsOlivia",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Marco Porcaro",
-      "github": "MarcoPorcaro1987"
+      "github": "MarcoPorcaro1987",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
-      "name":"Rakib Ali",
-      "github":"rakib2067"
+      "name": "Rakib Ali",
+      "github": "rakib2067",
+      "materials":[{"type":"cv"}]
     },
     {
       "name": "Michael Nelson",
-      "github": "mwezn"
+      "github": "mwezn",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Grainger",
@@ -44,23 +74,98 @@
     },
     {
       "name": "Ikenna Agulobi",
-      "github": "ike-agu"
+      "github": "ike-agu",
+      "materials": [
+        { 
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Immanuel Egboche",
-      "github": "ImmanuelEgboche"
+      "github": "ImmanuelEgboche",
+      "materials": [
+        {
+          "type": "cv"
+        }
+       ]
     },
     {
       "name": "Harry Moore",
       "github": "HWMooo"
     },
     {
-      "name": "Paul Dobrescu",
-      "github": "PaulNKD"
+      "name": "Nicolae Paul Dobrescu",
+      "github": "PaulNKD",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Isabel Repetto",
+      "github": "neifors",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Arvin Jhurry",
+      "github": "ArvinJhurry"
+    },
+    {
+      "name": "Zeia Gillies",
+      "github": "Zeiadork",
+      "materials": [
+        {
+            "type":"cv"
+        }
+      ]
     },
     {
       "name": "Okunola Adedokun",
       "github": "OksAde"
+    },
+    {
+      "name": "Alina Laura Vizitiu",
+      "github": "AlinaLauraV"
+    },
+    {
+      "name": "Orla Sinclair",
+      "github": "orlasinclair",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Abdulrahman Awad",
+      "github": "warak3inab"
+    },
+    {
+      "name": "Leanne Sobogun",
+      "github": "leannesobogun"
+    },
+    {
+      "name": "Anh Nguyen",
+      "github": "hihaianh"
+    },
+    {
+      "name": "Jesse Dodoo",
+      "github": "JesseDodoo"
+    },
+    {
+      "name": "Kelvin Wong",
+      "github": "kelvin6118",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }

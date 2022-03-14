@@ -9,5 +9,46 @@
       }
     ]
   },
-  "students": []
+  "students": [
+    {
+      "name": "Yusra Tahir",
+      "github": "yusra-tahir"
+    },
+    {
+      "name": "Trina Yau",
+      "github": "trinayau"
+    },
+    {
+      "name": "Prishal Makwana",
+      "github": "Prishal-git"
+    },
+    {
+      "name": "Onur Belek",
+      "github": "Eluented"
+    },
+    {
+      "name": "Andrew Kennedy",
+      "github": "akennedy205"
+    },
+    {
+      "name": "David Quigley",
+      "github": "AverKill"
+    },
+    {
+      "name": "Doreen Kamushinda",
+      "github": "doreenkam"
+    },
+    {
+      "name": "Liberty Sprackling",
+      "github": "LibertySprackling"
+    },
+    {
+      "name": "Robyn Shortland",
+      "github": "rsho-create"
+    },
+    {
+      "name": "Naomi Emojevbe",
+      "github": "nay-nae"
+    }
+  ]
 }
