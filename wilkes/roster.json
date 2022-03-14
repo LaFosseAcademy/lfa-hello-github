@@ -127,7 +127,12 @@
     },
     {
       "name": "Okunola Adedokun",
-      "github": "OksAde"
+      "github": "OksAde",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Alina Laura Vizitiu",
