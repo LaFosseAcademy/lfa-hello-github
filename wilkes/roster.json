@@ -145,7 +145,12 @@
     },
     {
       "name": "Kelvin Wong",
-      "github": "kelvin6118"
+      "github": "kelvin6118",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
