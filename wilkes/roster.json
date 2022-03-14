@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Andrew Upton",
-      "github": "nottnottloop"
+      "github": "nottnottloop",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Idris Silva",
