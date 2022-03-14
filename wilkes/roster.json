@@ -52,7 +52,12 @@
     },
     {
       "name": "Immanuel Egboche",
-      "github": "ImmanuelEgboche"
+      "github": "ImmanuelEgboche",
+      "materials": [
+        {
+          "type": "cv"
+      }
+      ]
     },
     {
       "name": "Harry Moore",
