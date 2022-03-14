@@ -11,13 +11,6 @@
   },
   "students": [
     {
-      "name": "Robyn Shortland",
-      "github": "rsho-create"
-    },
-    { "name": "Liberty Sprackling",
-      "github": "LibertySprackling"
-    },
-    {
       "name": "Yusra Tahir",
       "github": "yusra-tahir"
     },
@@ -45,7 +38,15 @@
       "name": "Doreen Kamushinda",
       "github": "doreenkam"
     },
-    {      
+    {
+      "name": "Liberty Sprackling",
+      "github": "LibertySprackling"
+    },
+    {
+      "name": "Robyn Shortland",
+      "github": "rsho-create"
+    },
+    {
       "name": "Naomi Emojevbe",
       "github": "nay-nae"
     }
