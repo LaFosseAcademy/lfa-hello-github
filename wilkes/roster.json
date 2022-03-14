@@ -76,7 +76,12 @@
     },
     {
       "name": "Nicolae Paul Dobrescu",
-      "github": "PaulNKD"
+      "github": "PaulNKD",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Isabel Repetto",
