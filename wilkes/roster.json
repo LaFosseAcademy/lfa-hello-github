@@ -90,7 +90,12 @@
     },
     {
       "name": "Isabel Repetto",
-      "github": "neifors"
+      "github": "neifors",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Arvin Jhurry",
