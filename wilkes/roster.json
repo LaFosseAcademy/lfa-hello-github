@@ -110,7 +110,12 @@
     },
     {
       "name": "Orla Sinclair",
-      "github": "orlasinclair"
+      "github": "orlasinclair",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Abdulrahman Awad",
