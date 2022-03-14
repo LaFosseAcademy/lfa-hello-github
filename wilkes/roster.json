@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Andrew Upton",
-      "github": "nottnottloop"
+      "github": "nottnottloop",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Idris Silva",
@@ -20,7 +25,12 @@
     },
     {
       "name": "Dimitris Fanis",
-      "github": "dimi-fn"
+      "github": "dimi-fn",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Henry",
@@ -28,15 +38,26 @@
     },
     {
       "name": "Heather McGlynn",
-      "github": "HevvsOlivia"
+      "github": "HevvsOlivia",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Marco Porcaro",
-      "github": "MarcoPorcaro1987"
+      "github": "MarcoPorcaro1987",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Rakib Ali",
-      "github": "rakib2067"
+      "github": "rakib2067",
+      "materials":[{"type":"cv"}]
     },
     {
       "name": "Michael Nelson",
@@ -59,8 +80,13 @@
       "github": "HWMooo"
     },
     {
-      "name": "Paul Dobrescu",
-      "github": "PaulNKD"
+      "name": "Nicolae Paul Dobrescu",
+      "github": "PaulNKD",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Isabel Repetto",
@@ -72,7 +98,12 @@
     },
     {
       "name": "Zeia Gillies",
-      "github": "Zeiadork"
+      "github": "Zeiadork",
+      "materials": [
+        {
+            "type":"cv"
+        }
+      ]
     },
     {
       "name": "Okunola Adedokun",
@@ -84,7 +115,12 @@
     },
     {
       "name": "Orla Sinclair",
-      "github": "orlasinclair"
+      "github": "orlasinclair",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Abdulrahman Awad",
