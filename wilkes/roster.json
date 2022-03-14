@@ -21,7 +21,12 @@
     },
     {
       "name": "Idris Silva",
-      "github": "idrisimo"
+      "github": "idrisimo",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dimitris Fanis",
