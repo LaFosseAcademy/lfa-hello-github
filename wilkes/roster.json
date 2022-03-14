@@ -25,7 +25,12 @@
     },
     {
       "name": "Dimitris Fanis",
-      "github": "dimi-fn"
+      "github": "dimi-fn",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Henry",
