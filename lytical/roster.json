@@ -114,6 +114,10 @@
         "type": "cv"
         },
         {
+          "type":"video",
+          "url":"0VQT0H5omEM"
+        }
+        {
           "type":"portfolio",
           "url":"https://rons-portfolio.netlify.app/"
         }
