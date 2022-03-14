@@ -20,8 +20,11 @@
         {
           "type": "video",
           "url": "wjz3UNTCs4Q"
-      },
-        {"type": "portfolio", "url": "https://edward-white.netlify.app/"}
+        },
+        {
+          "type": "portfolio",
+          "url": "https://edward-white.netlify.app/"
+        }
       ]
     },
     {
@@ -45,31 +48,34 @@
       "name": "Zahra Mahmood",
       "github": "zmahmood98",
       "materials": [
-          {
-             "type": "cv"
-          },
-          {
-             "type": "video",
-             "url": "9BAbgjl5NaA"
-          },
-          {
-             "type": "portfolio",
-             "url": "https://zmahmood.netlify.app/"
-          }
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9BAbgjl5NaA"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://zmahmood.netlify.app/"
+        }
       ]
     },
     {
       "name": "Jumaanah Alexander",
       "github": "jalexxx",
       "materials": [
-          {
-            "type": "cv"
-          },
-          {
-            "type": "video",  
-            "url": "MuANAtVVw-8"
+        {
+          "type": "cv"
         },
-          {"type": "portfolio", "url": "https://jumaanii.netlify.app/"}
+        {
+          "type": "video",
+          "url": "MuANAtVVw-8"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://jumaanii.netlify.app/"
+        }
       ]
     },
     {
@@ -92,34 +98,34 @@
     {
       "name": "Samina Khan",
       "github": "saminakhan999",
-       "materials": [
-          {
-            "type": "cv"
-          },
-          {
-             "type": "video",
-             "url": "kWs6W58oVvw"
-          },
-         {
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "kWs6W58oVvw"
+        },
+        {
           "type": "portfolio",
           "url": "https://saminakhan.netlify.app/"
-         }
+        }
       ]
     },
     {
-      "name":"Roneel Bhagwakar",
-      "github":"r0neel",
-      "materials":[
+      "name": "Roneel Bhagwakar",
+      "github": "r0neel",
+      "materials": [
         {
-        "type": "cv"
+          "type": "cv"
         },
         {
-          "type":"video",
-          "url":"0VQT0H5omEM"
-        }
+          "type": "video",
+          "url": "0VQT0H5omEM"
+        },
         {
-          "type":"portfolio",
-          "url":"https://rons-portfolio.netlify.app/"
+          "type": "portfolio",
+          "url": "https://rons-portfolio.netlify.app/"
         }
       ]
     },
@@ -160,7 +166,7 @@
     {
       "name": "Richard Clutterbuck",
       "github": "rwclutterbuck",
-      "materials": [  
+      "materials": [
         {
           "type": "cv"
         },
@@ -182,10 +188,12 @@
           "type": "cv"
         },
         {
-          "type": "portfolio", "url": "https://capricee.netlify.app/"
+          "type": "portfolio",
+          "url": "https://capricee.netlify.app/"
         },
         {
-          "type": "video", "url": "EE7O0iNCNGE"
+          "type": "video",
+          "url": "EE7O0iNCNGE"
         }
       ]
     },
@@ -197,28 +205,31 @@
           "type": "cv"
         },
         {
-          "type": "video", 
+          "type": "video",
           "url": "M15JTDrim5w"
         },
-        { 
+        {
           "type": "portfolio",
-          "url": "https://sukhraj-bhandal.netlify.app" 
+          "url": "https://sukhraj-bhandal.netlify.app"
         }
-    ]
+      ]
     },
     {
       "name": "Bojin Zhou",
       "github": "bojin11",
-        "materials": [
-            {
-              "type": "cv"
-            },
-            { "type": "portfolio", "url": "https://bojin-zhou-portfolio.netlify.app/" },
-            {
-              "type": "video", 
-              "url": "KxtqmSEh8D0"
-            }
-        ]
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://bojin-zhou-portfolio.netlify.app/"
+        },
+        {
+          "type": "video",
+          "url": "KxtqmSEh8D0"
+        }
+      ]
     },
     {
       "name": "Philip Cotter",
@@ -227,23 +238,31 @@
         {
           "type": "cv"
         },
-        { "type": "portfolio", "url": "https://philip-cotter-portfolio.netlify.app/" },
         {
-          "type": "video", 
+          "type": "portfolio",
+          "url": "https://philip-cotter-portfolio.netlify.app/"
+        },
+        {
+          "type": "video",
           "url": "slL1cV1WsC4"
         }
-      ] 
+      ]
     },
     {
       "name": "Hamza Saleh",
       "github": "k3ith99",
       "materials": [
         {
-          "type":"cv"
-          
+          "type": "cv"
         },
-        {"type": "portfolio", "url": "https://hamza-port.netlify.app/"},
-        {"type": "video", "url": "UDA5QOZ0nhk"}
+        {
+          "type": "portfolio",
+          "url": "https://hamza-port.netlify.app/"
+        },
+        {
+          "type": "video",
+          "url": "UDA5QOZ0nhk"
+        }
       ]
     }
   ]
