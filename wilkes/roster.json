@@ -61,7 +61,12 @@
     },
     {
       "name": "Michael Nelson",
-      "github": "mwezn"
+      "github": "mwezn",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Grainger",
