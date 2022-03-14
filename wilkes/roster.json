@@ -41,7 +41,8 @@
     },
     {
       "name": "Rakib Ali",
-      "github": "rakib2067"
+      "github": "rakib2067",
+      "materials":[{"type":"cv"}]
     },
     {
       "name": "Michael Nelson",
