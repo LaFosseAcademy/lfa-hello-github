@@ -176,7 +176,12 @@
     },
     {
       "name": "Jesse Dodoo",
-      "github": "JesseDodoo"
+      "github": "JesseDodoo",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kelvin Wong",
