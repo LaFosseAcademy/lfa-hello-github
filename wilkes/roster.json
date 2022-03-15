@@ -151,7 +151,12 @@
     },
     {
       "name": "Alina Laura Vizitiu",
-      "github": "AlinaLauraV"
+      "github": "AlinaLauraV",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Orla Sinclair",
