@@ -102,7 +102,12 @@
     },
     {
       "name": "Harry Moore",
-      "github": "HWMooo"
+      "github": "HWMooo",
+      "materials":[
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nicolae Paul Dobrescu",
