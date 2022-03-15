@@ -129,7 +129,12 @@
     },
     {
       "name": "Arvin Jhurry",
-      "github": "ArvinJhurry"
+      "github": "ArvinJhurry",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Zeia Gillies",
