@@ -169,7 +169,12 @@
     },
     {
       "name": "Abdulrahman Awad",
-      "github": "warak3inab"
+      "github": "warak3inab",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Leanne Sobogun",
