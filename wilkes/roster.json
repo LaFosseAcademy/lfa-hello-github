@@ -183,7 +183,12 @@
     },
     {
       "name": "Leanne Sobogun",
-      "github": "leannesobogun"
+      "github": "leannesobogun",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anh Nguyen",
