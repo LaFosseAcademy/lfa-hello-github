@@ -129,7 +129,12 @@
     },
     {
       "name": "Arvin Jhurry",
-      "github": "ArvinJhurry"
+      "github": "ArvinJhurry",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Zeia Gillies",
@@ -169,15 +174,30 @@
     },
     {
       "name": "Abdulrahman Awad",
-      "github": "warak3inab"
+      "github": "warak3inab",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Leanne Sobogun",
-      "github": "leannesobogun"
+      "github": "leannesobogun",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anh Nguyen",
-      "github": "hihaianh"
+      "github": "hihaianh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Jesse Dodoo",
