@@ -102,7 +102,12 @@
     },
     {
       "name": "Harry Moore",
-      "github": "HWMooo"
+      "github": "HWMooo",
+      "materials":[
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nicolae Paul Dobrescu",
@@ -124,7 +129,12 @@
     },
     {
       "name": "Arvin Jhurry",
-      "github": "ArvinJhurry"
+      "github": "ArvinJhurry",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Zeia Gillies",
@@ -146,7 +156,12 @@
     },
     {
       "name": "Alina Laura Vizitiu",
-      "github": "AlinaLauraV"
+      "github": "AlinaLauraV",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Orla Sinclair",
@@ -159,19 +174,39 @@
     },
     {
       "name": "Abdulrahman Awad",
-      "github": "warak3inab"
+      "github": "warak3inab",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Leanne Sobogun",
-      "github": "leannesobogun"
+      "github": "leannesobogun",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anh Nguyen",
-      "github": "hihaianh"
+      "github": "hihaianh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Jesse Dodoo",
-      "github": "JesseDodoo"
+      "github": "JesseDodoo",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kelvin Wong",
