@@ -187,7 +187,12 @@
     },
     {
       "name": "Anh Nguyen",
-      "github": "hihaianh"
+      "github": "hihaianh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Jesse Dodoo",
