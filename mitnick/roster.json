@@ -11,8 +11,8 @@
   },
   "students": [
     {
-      "name": "Alexander Carter-Jones",
-      "github": "AlexanderC-J"
+      "name": "Melissa Wong",
+      "github": "melmelg"
     },
     {
       "name": "Sidar Ozbek",
@@ -65,6 +65,25 @@
     {
       "name": "Wagner Luiz Melo",
       "github":"LuizWebDev"
+    }
+      "github": "Jaxsan2206"
+    },
+    {
+      "name": "Anwar Elmi",
+      "github": "aelmi123"
+    },
+    {
+      "name": "Ousama Bousba Ghobrini",
+      "github": "ousama1234"
+    },
+    {
+      "name": "Hakeem Hanson",
+      "github": "BorreloadDragon"
+    },
+    {
+      "name": "Evelyn Ball",
+      "github":"evelyn516"
+
     }
   ]
 }
