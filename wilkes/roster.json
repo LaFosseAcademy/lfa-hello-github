@@ -39,7 +39,12 @@
     },
     {
       "name": "Henry",
-      "github": "ucehenry"
+      "github": "ucehenry",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Heather McGlynn",
