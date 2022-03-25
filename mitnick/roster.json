@@ -11,12 +11,12 @@
   },
   "students": [
     {
-      "name": "Sidar Ozbek",
-      "github": "sidaroz"
+      "name": "Melissa Wong",
+      "github": "melmelg"
     },
     {
-      "name": "Luis Berbesi",
-      "github": "berbesiberbesi"
+      "name": "Sidar Ozbek",
+      "github": "sidaroz"
     },
     {
       "name": "Bethan Evans",
@@ -59,6 +59,14 @@
       "github":"Jaxsan2206"
     },
     {
+      "name": "Wagner Luiz Melo",
+      "github":"LuizWebDev"
+    },
+    {
+      "name": "Anwar Elmi",
+      "github": "aelmi123"
+    },
+    {
       "name": "Ousama Bousba Ghobrini",
       "github": "ousama1234"
     },
@@ -69,6 +77,10 @@
     {
       "name": "Evelyn Ball",
       "github":"evelyn516"
+    },
+    {
+      "name": "Rubhan Saravanabavan",
+      "github": "rubhan24"
     }
   ]
 }

@@ -12,15 +12,30 @@
   "students": [
     {
       "name": "Andrew Upton",
-      "github": "nottnottloop"
+      "github": "nottnottloop",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Idris Silva",
-      "github": "idrisimo"
+      "github": "idrisimo",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dimitris Fanis",
-      "github": "dimi-fn"
+      "github": "dimi-fn",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Henry",
@@ -28,79 +43,170 @@
     },
     {
       "name": "Heather McGlynn",
-      "github": "HevvsOlivia"
+      "github": "HevvsOlivia",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Marco Porcaro",
-      "github": "MarcoPorcaro1987"
+      "github": "MarcoPorcaro1987",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Rakib Ali",
-      "github": "rakib2067"
+      "github": "rakib2067",
+      "materials":[{"type":"cv"}]
     },
     {
       "name": "Michael Nelson",
-      "github": "mwezn"
+      "github": "mwezn",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Grainger",
-      "github": "Graingertom"
+      "github": "Graingertom",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Ikenna Agulobi",
-      "github": "ike-agu"
+      "github": "ike-agu",
+      "materials": [
+        { 
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Immanuel Egboche",
-      "github": "ImmanuelEgboche"
+      "github": "ImmanuelEgboche",
+      "materials": [
+        {
+          "type": "cv"
+        }
+                    ]
     },
     {
       "name": "Harry Moore",
-      "github": "HWMooo"
+      "github": "HWMooo",
+      "materials":[
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
-      "name": "Paul Dobrescu",
-      "github": "PaulNKD"
+      "name": "Nicolae Paul Dobrescu",
+      "github": "PaulNKD",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Isabel Repetto",
-      "github": "neifors"
+      "github": "neifors",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Arvin Jhurry",
-      "github": "ArvinJhurry"
+      "github": "ArvinJhurry",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Zeia Gillies",
-      "github": "Zeiadork"
+      "github": "Zeiadork",
+      "materials": [
+        {
+            "type":"cv"
+        }
+      ]
     },
     {
       "name": "Okunola Adedokun",
-      "github": "OksAde"
+      "github": "OksAde",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Alina Laura Vizitiu",
-      "github": "AlinaLauraV"
+      "github": "AlinaLauraV",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Orla Sinclair",
-      "github": "orlasinclair"
+      "github": "orlasinclair",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Abdulrahman Awad",
-      "github": "warak3inab"
+      "github": "warak3inab",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Leanne Sobogun",
-      "github": "leannesobogun"
+      "github": "leannesobogun",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Jesse Dodoo",
-      "github": "JesseDodoo"
+      "github": "JesseDodoo",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kelvin Wong",
-      "github": "kelvin6118"
+      "github": "kelvin6118",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
