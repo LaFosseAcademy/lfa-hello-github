@@ -50,8 +50,12 @@
       "name": "Ikenna Agulobi",
       "github": "ike-agu",
       "materials": [
-        { 
+        {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1w2MTy3CftA"
         }
       ]
     },
