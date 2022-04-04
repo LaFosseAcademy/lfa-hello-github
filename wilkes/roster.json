@@ -62,7 +62,15 @@
     {
       "name": "Rakib Ali",
       "github": "rakib2067",
-      "materials":[{"type":"cv"}]
+      "materials":[
+        {
+          "type":"cv"
+        },
+        {
+          "type": "video",
+          "url": "-uYrZ_M4K_I"
+        }
+      ]
     },
     {
       "name": "Michael Nelson",
