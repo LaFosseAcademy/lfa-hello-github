@@ -99,7 +99,11 @@
       "materials": [
         {
             "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "np_M2NFIfr4"
+      }
     ]
     },
     {
