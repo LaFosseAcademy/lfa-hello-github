@@ -150,6 +150,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "https://youtu.be/9OlU-tuIsKI"
         }
       ]
     },
