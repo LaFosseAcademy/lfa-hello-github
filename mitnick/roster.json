@@ -56,7 +56,12 @@
     },
     {
       "name": "Peter Ly",
-      "github": "peterlydev"
+      "github": "peterlydev",
+      "materials": [
+        {
+          "type" : "cv"
+        }
+      ]
     }
   ]
 }
