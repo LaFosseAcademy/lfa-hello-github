@@ -56,6 +56,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "https://youtu.be/wP4WFkSYfa8"
         }
                     ]
     },
