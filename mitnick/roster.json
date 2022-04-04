@@ -36,7 +36,12 @@
     },
     {
       "name": "Sarushan Thiyakumar",
-      "github": "SarushanThiy"
+      "github": "SarushanThiy",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anisha Deol",
