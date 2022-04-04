@@ -169,7 +169,11 @@
       "materials": [
         {
             "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "https://youtu.be/Ea4X_kf7-XQ"
+      }
       ]
     },
     {
