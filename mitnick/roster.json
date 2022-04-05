@@ -20,7 +20,12 @@
     },
     {
       "name": "Bethan Evans",
-      "github": "beth98an"
+      "github": "beth98an",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Farzana Uddin",
