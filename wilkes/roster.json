@@ -38,6 +38,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "vS-aaqm__bo"
         }
       ]
     },
@@ -51,6 +55,10 @@
       "materials": [
         {
           "type": "cv"
+        }, 
+        {
+          "type": "video",
+          "url": "3Vp60YUs3Fo"
         }
       ]
     },
@@ -60,13 +68,28 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jVaOLBzCyqA"
         }
       ]
     },
     {
       "name": "Rakib Ali",
       "github": "rakib2067",
-      "materials":[{"type":"cv"}]
+      "materials":[
+        {
+          "type":"cv"
+        },
+        {
+          "type": "video",
+          "url": "-uYrZ_M4K_I"
+        },{
+          "type": "portfolio",
+          "url": "https://rakib-ali.netlify.app/"
+        }
+      ]
     },
     {
       "name": "Michael Nelson",
@@ -83,15 +106,23 @@
       "materials": [
         {
             "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "np_M2NFIfr4"
+      }
     ]
     },
     {
       "name": "Ikenna Agulobi",
       "github": "ike-agu",
       "materials": [
-        { 
+        {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1w2MTy3CftA"
         }
       ]
     },
@@ -119,6 +150,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QC-YwOssrAU"
         }
       ]
     },
@@ -146,6 +181,14 @@
       "materials": [
         {
             "type":"cv"
+        },
+        {
+             "type": "video",
+             "url": "ckRdcpDwv8s"
+        },
+        {
+              "type": "portfolio",
+              "url": "Zeia.gay"
         }
       ]
     },
@@ -155,6 +198,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "y1R1sGCmkVk"
         }
     ]
     },
