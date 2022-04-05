@@ -9,5 +9,14 @@
       }
     ]
   },
-  "students": []
+  "students": [
+    {
+      "name": "Tom Millington",
+      "github": "millman97"
+    },
+    {
+      "name": "Chris Pucknell",
+      "github": "xargon666"
+    }
+  ]
 }
