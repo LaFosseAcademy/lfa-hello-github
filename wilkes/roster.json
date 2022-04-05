@@ -132,8 +132,9 @@
       "github": "ArvinJhurry",
       "materials": [
         {
+          "type":"cv",
           "type":"video",
-          "url":"<https://youtu.be/FkmDhmAEVv8>"
+          "url":"<FkmDhmAEVv8>"
 
         }
       ]
