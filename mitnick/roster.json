@@ -37,7 +37,12 @@
     },
     {
       "name": "Nowshad Ahmed",
-      "github": "Nowshad10"
+      "github": "Nowshad10",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sarushan Thiyakumar",
