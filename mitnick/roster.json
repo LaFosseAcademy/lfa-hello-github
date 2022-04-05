@@ -45,7 +45,12 @@
     },
     {
       "name": "Anisha Deol",
-     "github": "anishakdeol"
+     "github": "anishakdeol",
+     "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
       "name": "Sami Tanveer",
