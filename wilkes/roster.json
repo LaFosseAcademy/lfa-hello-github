@@ -132,10 +132,11 @@
       "github": "ArvinJhurry",
       "materials": [
         {
-          "type":"cv",
+          "type":"cv"
+        },
+        {
           "type":"video",
-          "url":"<FkmDhmAEVv8>"
-
+          "url":"FkmDhmAEVv8"
         }
       ]
     },
