@@ -64,7 +64,12 @@
     },
     {
       "name": "Sami Tanveer",
-      "github": "Sami1600"
+      "github": "Sami1600",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Alex Patient",
