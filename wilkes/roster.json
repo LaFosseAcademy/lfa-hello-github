@@ -180,7 +180,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "_onU7e8U1l8"
+      }
       ]
     },
     {
