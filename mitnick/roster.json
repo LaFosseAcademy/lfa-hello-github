@@ -94,7 +94,10 @@
     },
     {
       "name": "Anwar Elmi",
-      "github": "aelmi123"
+      "github": "aelmi123",
+      "materials": [{
+          "type": "cv"
+      }]
     },
     {
       "name": "Ousama Bousba Ghobrini",
