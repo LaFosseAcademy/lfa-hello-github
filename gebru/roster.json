@@ -52,7 +52,12 @@
     },
     {
       "name": "Robyn Shortland",
-      "github": "rsho-create"
+      "github": "rsho-create",
+      "materials": [
+        { 
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Khari - Leigh Miller",
