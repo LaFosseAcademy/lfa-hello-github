@@ -16,7 +16,12 @@
     },
     {
       "name": "Trina Yau",
-      "github": "trinayau"
+      "github": "trinayau",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Prishal Makwana",
