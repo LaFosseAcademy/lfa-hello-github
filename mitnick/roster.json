@@ -16,7 +16,12 @@
     },
     {
       "name": "Sidar Ozbek",
-      "github": "sidaroz"
+      "github": "sidaroz",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Bethan Evans",
