@@ -20,7 +20,12 @@
     },
     {
       "name": "Prishal Makwana",
-      "github": "Prishal-git"
+      "github": "PrishalM"
+      "materials": [
+            {
+                "type": "cv"
+            }
+      ]
     },
     {
       "name": "Albert Stoykov",
