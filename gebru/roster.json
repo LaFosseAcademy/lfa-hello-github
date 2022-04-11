@@ -46,7 +46,12 @@
     },
     {
       "name": "Amarachi Umeloh",
-      "github": "umeloha"
+      "github": "umeloha",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "David Quigley",
