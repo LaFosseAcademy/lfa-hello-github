@@ -24,7 +24,12 @@
     },
     {
       "name": "Albert Stoykov",
-      "github": "AlbertStoykov"
+      "github": "AlbertStoykov",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Onur Belek",
