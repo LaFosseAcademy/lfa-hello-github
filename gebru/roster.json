@@ -25,7 +25,7 @@
     },
     {
       "name": "Prishal Makwana",
-      "github": "PrishalM"
+      "github": "PrishalM",
       "materials": [
             {
                 "type": "cv"
@@ -85,7 +85,12 @@
     },
     {
       "name": "Naomi Emojevbe",
-      "github": "nay-nae"
+      "github": "nay-nae",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {  
       "name": "Diren Nayir",
