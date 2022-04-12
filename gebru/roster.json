@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Yusra Tahir",
-      "github": "yusra-tahir"
+      "github": "yusra-tahir",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Trina Yau",
