@@ -43,7 +43,12 @@
     },
     {
       "name": "Onur Belek",
-      "github": "Eluented"
+      "github": "Eluented",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Andrew Kennedy",
