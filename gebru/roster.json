@@ -125,7 +125,11 @@
     },
     {
       "name": "Dan Willis",
-      "github": "WalkingZ3d"
+      "github": "WalkingZ3d",
+      "materials": [
+        {
+            "type": "cv"
+        }]
     },
     {
       "name": "Michael Harkins-Meloy",
