@@ -133,7 +133,12 @@
     },
     {
       "name": "Thayaan Srisathialingam",
-      "github": "THAYAANS"
+      "github": "THAYAANS",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     }
   ]
 }
