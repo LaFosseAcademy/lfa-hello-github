@@ -101,19 +101,6 @@
       ]
     },
     {
-      "name": "Michael Nelson",
-      "github": "mwezn",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "IirXF-zKXKs"
-        }
-      ]
-    },
-    {
       "name": "Tom Grainger",
       "github": "Graingertom",
       "materials": [
@@ -150,7 +137,7 @@
           "type": "video",
           "url": "wP4WFkSYfa8"
         }
-                    ]
+      ]
     },
     {
       "name": "Harry Moore",
@@ -257,19 +244,6 @@
         {
           "type": "video",
           "url": "Ea4X_kf7-XQ"
-        }
-      ]
-    },
-    {
-      "name": "Abdulrahman Awad",
-      "github": "warak3inab",
-      "materials": [
-        {
-            "type": "cv"
-        },
-        {
-            "type": "video", 
-            "url": "xXZtWiA_XJQ"
         }
       ]
     },
