@@ -16,6 +16,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Oj3YEkeHsYg"
         }
       ]
     },
@@ -25,6 +29,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "sgczYwGzumk"
         }
       ]
     },
@@ -34,12 +42,21 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "vS-aaqm__bo"
         }
       ]
     },
     {
       "name": "Henry",
-      "github": "ucehenry"
+      "github": "ucehenry",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Heather McGlynn",
@@ -47,6 +64,10 @@
       "materials": [
         {
           "type": "cv"
+        }, 
+        {
+          "type": "video",
+          "url": "3Vp60YUs3Fo"
         }
       ]
     },
@@ -56,13 +77,28 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jVaOLBzCyqA"
         }
       ]
     },
     {
       "name": "Rakib Ali",
       "github": "rakib2067",
-      "materials":[{"type":"cv"}]
+      "materials":[
+        {
+          "type":"cv"
+        },
+        {
+          "type": "video",
+          "url": "-uYrZ_M4K_I"
+        },{
+          "type": "portfolio",
+          "url": "https://rakib-ali.netlify.app/"
+        }
+      ]
     },
     {
       "name": "Michael Nelson",
@@ -70,6 +106,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "IirXF-zKXKs"
         }
       ]
     },
@@ -79,15 +119,23 @@
       "materials": [
         {
             "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "np_M2NFIfr4"
+      }
     ]
     },
     {
       "name": "Ikenna Agulobi",
       "github": "ike-agu",
       "materials": [
-        { 
+        {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1w2MTy3CftA"
         }
       ]
     },
@@ -97,6 +145,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "wP4WFkSYfa8"
         }
                     ]
     },
@@ -106,6 +158,10 @@
       "materials":[
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "mDFhFnSDU9U"
         }
       ]
     },
@@ -115,6 +171,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QC-YwOssrAU"
         }
       ]
     },
@@ -124,7 +184,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "_onU7e8U1l8"
+      }
       ]
     },
     {
@@ -133,6 +197,10 @@
       "materials": [
         {
           "type":"cv"
+        },
+        {
+          "type":"video",
+          "url":"FkmDhmAEVv8"
         }
       ]
     },
@@ -142,6 +210,14 @@
       "materials": [
         {
             "type":"cv"
+        },
+        {
+             "type": "video",
+             "url": "ckRdcpDwv8s"
+        },
+        {
+              "type": "portfolio",
+              "url": "Zeia.gay"
         }
       ]
     },
@@ -151,6 +227,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "y1R1sGCmkVk"
         }
     ]
     },
@@ -160,6 +240,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9OlU-tuIsKI"
         }
       ]
     },
@@ -169,6 +253,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ea4X_kf7-XQ"
         }
       ]
     },
@@ -178,6 +266,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+            "type": "video", 
+            "url": "xXZtWiA_XJQ"
         }
       ]
     },
@@ -186,16 +278,8 @@
       "github": "leannesobogun",
       "materials": [
         {
-            "type": "cv"
-        }
-      ]
-    },
-    {
-      "name": "Anh Nguyen",
-      "github": "hihaianh",
-      "materials": [
-        {
-          "type": "cv"
+            "type": "cv",
+            "url": "I76ltK6ZrkE"
         }
       ]
     },

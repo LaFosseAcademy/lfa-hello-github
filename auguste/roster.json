@@ -1,0 +1,42 @@
+{
+  "namesake": {
+    "name": "Donna Auguste",
+    "imageUrl": "https://avatars.githubusercontent.com/t/5782642?s=280&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Tom Millington",
+      "github": "millman97"
+    },
+    {
+      "name": "Chris Pucknell",
+      "github": "xargon666"
+    }, 
+    {
+      "name": "Rebecca Blixt",
+      "github": "rebeccablixt"
+    },
+    {
+      "name": "Aaron Marsh",
+      "github": "Aaron-Marsh"
+    },
+    {
+      "name": "Layla Southcombe",
+      "github": "LaylaSouthcombe"
+    },
+    {
+      "name": "George Miller-McCall",
+      "github": "GMillerMc"
+    },
+    {
+      "name": "Nasiima Mohamed",
+      "github": "Nasiima-Mohamed"
+    }
+  ]
+}
