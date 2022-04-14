@@ -16,15 +16,30 @@
     },
     {
       "name": "Sidar Ozbek",
-      "github": "sidaroz"
+      "github": "sidaroz",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Bethan Evans",
-      "github": "beth98an"
+      "github": "beth98an",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Farzana Uddin",
-      "github": "FarzanaRU00"
+      "github": "FarzanaRU00",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ikenna Agada",
@@ -32,19 +47,39 @@
     },
     {
       "name": "Nowshad Ahmed",
-      "github": "Nowshad10"
+      "github": "Nowshad10",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sarushan Thiyakumar",
-      "github": "SarushanThiy"
+      "github": "SarushanThiy",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anisha Deol",
-     "github": "anishakdeol"
+     "github": "anishakdeol",
+     "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
       "name": "Sami Tanveer",
-      "github": "Sami1600"
+      "github": "Sami1600",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Alex Patient",
@@ -52,11 +87,21 @@
     },
     {
       "name": "Peter Ly",
-      "github": "peterlydev"
+      "github": "peterlydev",
+      "materials": [
+        {
+          "type" : "cv"
+        }
+      ]
     },
     {
       "name": "Jaxsan Sivanesan",
-      "github":"Jaxsan2206"
+      "github":"Jaxsan2206",
+      "materials":[
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Wagner Luiz Melo",
@@ -64,7 +109,10 @@
     },
     {
       "name": "Anwar Elmi",
-      "github": "aelmi123"
+      "github": "aelmi123",
+      "materials": [{
+          "type": "cv"
+      }]
     },
     {
       "name": "Ousama Bousba Ghobrini",

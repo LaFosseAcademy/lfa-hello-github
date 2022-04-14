@@ -9,5 +9,38 @@
       }
     ]
   },
-  "students": []
+  "students": [
+    {
+      "name": "Tom Millington",
+      "github": "millman97"
+    },
+    {
+      "name": "Chris Pucknell",
+      "github": "xargon666"
+    }, 
+    {
+      "name": "Rebecca Blixt",
+      "github": "rebeccablixt"
+    },
+    {
+      "name": "Aaron Marsh",
+      "github": "Aaron-Marsh"
+    },
+    {
+      "name": "Layla Southcombe",
+      "github": "LaylaSouthcombe"
+    },
+    {
+      "name": "George Miller-McCall",
+      "github": "GMillerMc"
+    },
+    {
+      "name": "Nasiima Mohamed",
+      "github": "Nasiima-Mohamed"
+    },
+    {
+      "name": "Alice Kreslins",
+      "github": "alicekres"
+    }
+  ]
 }
