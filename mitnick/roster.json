@@ -16,7 +16,12 @@
     },
     {
       "name": "Sidar Ozbek",
-      "github": "sidaroz"
+      "github": "sidaroz",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Bethan Evans",
@@ -29,7 +34,12 @@
     },
     {
       "name": "Farzana Uddin",
-      "github": "FarzanaRU00"
+      "github": "FarzanaRU00",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ikenna Agada",
@@ -86,7 +96,12 @@
     },
     {
       "name": "Jaxsan Sivanesan",
-      "github":"Jaxsan2206"
+      "github":"Jaxsan2206",
+      "materials":[
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Wagner Luiz Melo",

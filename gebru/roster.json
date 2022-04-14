@@ -12,23 +12,48 @@
   "students": [
     {
       "name": "Yusra Tahir",
-      "github": "yusra-tahir"
+      "github": "yusra-tahir",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Trina Yau",
-      "github": "trinayau"
+      "github": "trinayau",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Prishal Makwana",
-      "github": "Prishal-git"
+      "github": "PrishalM",
+      "materials": [
+            {
+                "type": "cv"
+            }
+      ]
     },
     {
       "name": "Albert Stoykov",
-      "github": "AlbertStoykov"
+      "github": "AlbertStoykov",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Onur Belek",
-      "github": "Eluented"
+      "github": "Eluented",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Andrew Kennedy",
@@ -36,7 +61,12 @@
     },
     {
       "name": "Amarachi Umeloh",
-      "github": "umeloha"
+      "github": "umeloha",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "David Quigley",
@@ -48,11 +78,21 @@
     },
     {
       "name": "Liberty Sprackling",
-      "github": "LibertySprackling"
+      "github": "LibertySprackling",
+      "materials": [
+        { 
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Robyn Shortland",
-      "github": "rsho-create"
+      "github": "rsho-create",
+      "materials": [
+        { 
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Khari - Leigh Miller",
@@ -60,7 +100,12 @@
     },
     {
       "name": "Naomi Emojevbe",
-      "github": "nay-nae"
+      "github": "nay-nae",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {  
       "name": "Diren Nayir",
@@ -80,7 +125,11 @@
     },
     {
       "name": "Dan Willis",
-      "github": "WalkingZ3d"
+      "github": "WalkingZ3d",
+      "materials": [
+        {
+            "type": "cv"
+        }]
     },
     {
       "name": "Michael Harkins-Meloy",
@@ -88,7 +137,12 @@
     },
     {
       "name": "Thayaan Srisathialingam",
-      "github": "THAYAANS"
+      "github": "THAYAANS",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     }
   ]
 }
