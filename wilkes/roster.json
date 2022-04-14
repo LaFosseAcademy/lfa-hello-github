@@ -65,15 +65,6 @@
       "materials":[{"type":"cv"}]
     },
     {
-      "name": "Michael Nelson",
-      "github": "mwezn",
-      "materials": [
-        {
-          "type": "cv"
-        }
-      ]
-    },
-    {
       "name": "Tom Grainger",
       "github": "Graingertom",
       "materials": [
@@ -166,15 +157,6 @@
     {
       "name": "Orla Sinclair",
       "github": "orlasinclair",
-      "materials": [
-        {
-            "type": "cv"
-        }
-      ]
-    },
-    {
-      "name": "Abdulrahman Awad",
-      "github": "warak3inab",
       "materials": [
         {
             "type": "cv"
