@@ -117,7 +117,12 @@
     },
     {
       "name": "Alfred Kelly",
-      "github": "Scralfie"
+      "github": "Scralfie",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Jianli Lin",
