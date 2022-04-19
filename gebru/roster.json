@@ -34,6 +34,14 @@
       "materials": [
             {
                 "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "Rp4mPOBs9NY"
+            },
+            {
+                "type": "portfolio",
+                "url": "https://prish.al"
             }
       ]
     },
