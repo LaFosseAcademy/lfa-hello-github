@@ -113,7 +113,12 @@
     },
     { 
       "name": "Aafthab Ashraff",
-      "github": "iAmash412"
+      "github": "iAmash412",
+      "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
       "name": "Alfred Kelly",
