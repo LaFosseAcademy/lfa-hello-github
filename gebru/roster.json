@@ -34,6 +34,14 @@
       "materials": [
             {
                 "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "Rp4mPOBs9NY"
+            },
+            {
+                "type": "portfolio",
+                "url": "https://prish.al"
             }
       ]
     },
@@ -121,7 +129,8 @@
       "materials": [
         {
             "type": "cv"
-        }]
+        }
+    ]
     },
     {
       "name": "Jianli Lin",
@@ -153,5 +162,15 @@
         }
     ]
     }
+     {
+      "name": "Andrew Kennedy",
+      "github": "akennedy205",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
+    }
+    
   ]
 }
