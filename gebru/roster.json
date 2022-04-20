@@ -134,7 +134,12 @@
     },
     {
       "name": "Jianli Lin",
-      "github": "jianli1028"
+      "github": "jianli1028",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dan Willis",
