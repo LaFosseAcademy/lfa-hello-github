@@ -162,5 +162,15 @@
         }
     ]
     }
+     {
+      "name": "Andrew Kennedy",
+      "github": "akennedy205",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
+    }
+    
   ]
 }
