@@ -34,6 +34,14 @@
       "materials": [
             {
                 "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "Rp4mPOBs9NY"
+            },
+            {
+                "type": "portfolio",
+                "url": "https://prish.al"
             }
       ]
     },
@@ -56,10 +64,6 @@
       ]
     },
     {
-      "name": "Andrew Kennedy",
-      "github": "akennedy205"
-    },
-    {
       "name": "Amarachi Umeloh",
       "github": "umeloha",
       "materials": [
@@ -74,7 +78,12 @@
     },
     {
       "name": "Doreen Kamushinda",
-      "github": "doreenkam"
+      "github": "doreenkam",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Liberty Sprackling",
@@ -113,15 +122,30 @@
     },
     { 
       "name": "Aafthab Ashraff",
-      "github": "iAmash412"
+      "github": "iAmash412",
+      "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
       "name": "Alfred Kelly",
-      "github": "Scralfie"
+      "github": "Scralfie",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Jianli Lin",
-      "github": "jianli1028"
+      "github": "jianli1028",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dan Willis",
@@ -148,6 +172,16 @@
             "type": "cv"
         }
     ]
+    },
+     {
+      "name": "Andrew Kennedy",
+      "github": "akennedy205",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     }
+    
   ]
 }
