@@ -11,20 +11,21 @@
   },
   "students": [
     {
-      "name": "Alexander Carter-Jones",
-      "github": "AlexanderC-J"
+      "name": "Melissa Wong",
+      "github": "melmelg"
     },
     {
       "name": "Sidar Ozbek",
       "github": "sidaroz"
     },
     {
-      "name": "Luis Berbesi",
-      "github": "berbesiberbesi"
-    },
-    {
       "name": "Bethan Evans",
-      "github": "beth98an"
+      "github": "beth98an",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Farzana Uddin",
@@ -36,19 +37,39 @@
     },
     {
       "name": "Nowshad Ahmed",
-      "github": "Nowshad10"
+      "github": "Nowshad10",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sarushan Thiyakumar",
-      "github": "SarushanThiy"
+      "github": "SarushanThiy",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anisha Deol",
-     "github": "anishakdeol"
+     "github": "anishakdeol",
+     "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
       "name": "Sami Tanveer",
-      "github": "Sami1600"
+      "github": "Sami1600",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Alex Patient",
@@ -66,6 +87,34 @@
           "url" : "1R3eiV8WI9E"
         }
       ]
+    },
+    {
+      "name": "Jaxsan Sivanesan",
+      "github":"Jaxsan2206"
+    },
+    {
+      "name": "Wagner Luiz Melo",
+      "github":"LuizWebDev"
+    },
+    {
+      "name": "Anwar Elmi",
+      "github": "aelmi123"
+    },
+    {
+      "name": "Ousama Bousba Ghobrini",
+      "github": "ousama1234"
+    },
+    {
+      "name": "Hakeem Hanson",
+      "github": "BorreloadDragon"
+    },
+    {
+      "name": "Evelyn Ball",
+      "github":"evelyn516"
+    },
+    {
+      "name": "Rubhan Saravanabavan",
+      "github": "rubhan24"
     }
   ]
 }
