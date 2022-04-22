@@ -15,13 +15,9 @@
       "github": "millman97"
     },
     {
-      "name": "Gary Neill",
-      "github": "TurtleScouting"
-    },
-    {
       "name": "Chris Pucknell",
       "github": "xargon666"
-    }, 
+    },
     {
       "name": "Rebecca Blixt",
       "github": "rebeccablixt"
@@ -58,13 +54,17 @@
       "name": "Ali Hamed",
       "github": "alihamedali96"
     },
-    { 
+    {
       "name": "Igor Mirowski",
       "github": "Igormirowski"
     },
     {
       "name": "Gioele Montis",
       "github": "Gioele-M"
+    },
+    {
+      "name": "Gary Neill",
+      "github": "TurtleScouting"
     }
   ]
 }
