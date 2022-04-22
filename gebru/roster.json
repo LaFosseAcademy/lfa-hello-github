@@ -12,27 +12,69 @@
   "students": [
     {
       "name": "Yusra Tahir",
-      "github": "yusra-tahir"
+      "github": "yusra-tahir",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Trina Yau",
-      "github": "trinayau"
+      "github": "trinayau",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://trina-yau.netlify.app/"
+      }
+      ]
     },
     {
       "name": "Prishal Makwana",
-      "github": "Prishal-git"
+      "github": "PrishalM",
+      "materials": [
+            {
+                "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "Rp4mPOBs9NY"
+            },
+            {
+                "type": "portfolio",
+                "url": "https://prish.al"
+            }
+      ]
     },
     {
       "name": "Albert Stoykov",
-      "github": "AlbertStoykov"
+      "github": "AlbertStoykov",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Onur Belek",
-      "github": "Eluented"
+      "github": "Eluented",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
-      "name": "Andrew Kennedy",
-      "github": "akennedy205"
+      "name": "Amarachi Umeloh",
+      "github": "umeloha",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "David Quigley",
@@ -40,15 +82,30 @@
     },
     {
       "name": "Doreen Kamushinda",
-      "github": "doreenkam"
+      "github": "doreenkam",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Liberty Sprackling",
-      "github": "LibertySprackling"
+      "github": "LibertySprackling",
+      "materials": [
+        { 
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Robyn Shortland",
-      "github": "rsho-create"
+      "github": "rsho-create",
+      "materials": [
+        { 
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Khari - Leigh Miller",
@@ -61,7 +118,79 @@
     },
     {
       "name": "Naomi Emojevbe",
-      "github": "nay-nae"
+      "github": "nay-nae",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
+    },
+    {  
+      "name": "Diren Nayir",
+      "github": "Dnayir"
+    },
+    { 
+      "name": "Aafthab Ashraff",
+      "github": "iAmash412",
+      "materials": [
+      {
+        "type": "cv"
+      }
+    ]
+    },
+    {
+      "name": "Alfred Kelly",
+      "github": "Scralfie",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
+    },
+    {
+      "name": "Jianli Lin",
+      "github": "jianli1028",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Dan Willis",
+      "github": "WalkingZ3d",
+      "materials": [
+        {
+            "type": "cv"
+        }]
+    },
+    {
+      "name": "Michael Harkins-Meloy",
+      "github": "Harkins12345",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Thayaan Srisathialingam",
+      "github": "THAYAANS",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
+    },
+     {
+      "name": "Andrew Kennedy",
+      "github": "akennedy205",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     }
+    
   ]
 }

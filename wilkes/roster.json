@@ -16,6 +16,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Oj3YEkeHsYg"
         }
       ]
     },
@@ -25,6 +29,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "sgczYwGzumk"
         }
       ]
     },
@@ -34,12 +42,21 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "vS-aaqm__bo"
         }
       ]
     },
     {
       "name": "Henry",
-      "github": "ucehenry"
+      "github": "ucehenry",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Heather McGlynn",
@@ -47,6 +64,10 @@
       "materials": [
         {
           "type": "cv"
+        }, 
+        {
+          "type": "video",
+          "url": "3Vp60YUs3Fo"
         }
       ]
     },
@@ -56,20 +77,26 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jVaOLBzCyqA"
         }
       ]
     },
     {
       "name": "Rakib Ali",
       "github": "rakib2067",
-      "materials":[{"type":"cv"}]
-    },
-    {
-      "name": "Michael Nelson",
-      "github": "mwezn",
-      "materials": [
+      "materials":[
         {
-          "type": "cv"
+          "type":"cv"
+        },
+        {
+          "type": "video",
+          "url": "-uYrZ_M4K_I"
+        },{
+          "type": "portfolio",
+          "url": "https://rakib-ali.netlify.app/"
         }
       ]
     },
@@ -79,15 +106,23 @@
       "materials": [
         {
             "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "np_M2NFIfr4"
+      }
     ]
     },
     {
       "name": "Ikenna Agulobi",
       "github": "ike-agu",
       "materials": [
-        { 
+        {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1w2MTy3CftA"
         }
       ]
     },
@@ -97,8 +132,12 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "wP4WFkSYfa8"
         }
-                    ]
+      ]
     },
     {
       "name": "Harry Moore",
@@ -106,6 +145,10 @@
       "materials":[
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "mDFhFnSDU9U"
         }
       ]
     },
@@ -115,6 +158,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QC-YwOssrAU"
         }
       ]
     },
@@ -124,12 +171,25 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "_onU7e8U1l8"
+      }
       ]
     },
     {
       "name": "Arvin Jhurry",
-      "github": "ArvinJhurry"
+      "github": "ArvinJhurry",
+      "materials": [
+        {
+          "type":"cv"
+        },
+        {
+          "type":"video",
+          "url":"FkmDhmAEVv8"
+        }
+      ]
     },
     {
       "name": "Zeia Gillies",
@@ -137,6 +197,14 @@
       "materials": [
         {
             "type":"cv"
+        },
+        {
+             "type": "video",
+             "url": "ckRdcpDwv8s"
+        },
+        {
+              "type": "portfolio",
+              "url": "Zeia.gay"
         }
       ]
     },
@@ -146,6 +214,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "y1R1sGCmkVk"
         }
     ]
     },
@@ -155,6 +227,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9OlU-tuIsKI"
         }
       ]
     },
@@ -164,20 +240,25 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ea4X_kf7-XQ"
         }
       ]
     },
     {
-      "name": "Abdulrahman Awad",
-      "github": "warak3inab"
-    },
-    {
       "name": "Leanne Sobogun",
-      "github": "leannesobogun"
-    },
-    {
-      "name": "Anh Nguyen",
-      "github": "hihaianh"
+      "github": "leannesobogun",
+      "materials": [
+        {
+            "type": "cv"
+        },
+        {
+            "type": "video",
+            "url": "I76ltK6ZrkE"
+        }
+      ]
     },
     {
       "name": "Jesse Dodoo",
@@ -194,6 +275,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Qm47i5sUlqA"
         }
       ]
     }
