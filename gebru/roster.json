@@ -109,7 +109,12 @@
     },
     {
       "name": "Khari - Leigh Miller",
-      "github": "kharileigh"
+      "github": "kharileigh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Naomi Emojevbe",
