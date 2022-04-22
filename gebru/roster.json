@@ -127,7 +127,12 @@
     },
     {  
       "name": "Diren Nayir",
-      "github": "Dnayir"
+      "github": "Dnayir",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     { 
       "name": "Aafthab Ashraff",
