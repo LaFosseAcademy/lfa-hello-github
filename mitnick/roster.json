@@ -95,6 +95,10 @@
       "materials": [
         {
           "type" : "cv"
+        },
+        {
+          "type" : "video",
+          "url" : "1R3eiV8WI9E"
         }
       ]
     },
