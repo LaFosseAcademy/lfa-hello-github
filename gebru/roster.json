@@ -25,7 +25,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+          "type": "portfolio",
+          "url": "https://trina-yau.netlify.app/"
+      }
       ]
     },
     {
@@ -64,10 +68,6 @@
       ]
     },
     {
-      "name": "Andrew Kennedy",
-      "github": "akennedy205"
-    },
-    {
       "name": "Amarachi Umeloh",
       "github": "umeloha",
       "materials": [
@@ -78,11 +78,21 @@
     },
     {
       "name": "David Quigley",
-      "github": "AverKill"
+      "github": "AverKill",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Doreen Kamushinda",
-      "github": "doreenkam"
+      "github": "doreenkam",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Liberty Sprackling",
@@ -104,32 +114,48 @@
     },
     {
       "name": "Khari - Leigh Miller",
-      "github": "kharileigh"
+      "github": "kharileigh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {  
+      "name": "Diren Nayir",
+      "github": "Dnayir",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    { 
+      "name": "Aafthab Ashraff",
+      "github": "iAmash412",
+      "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
-      "name": "Naomi Emojevbe",
-      "github": "nay-nae",
+      "name": "Alfred Kelly",
+      "github": "Scralfie",
       "materials": [
         {
             "type": "cv"
         }
     ]
     },
-    {  
-      "name": "Diren Nayir",
-      "github": "Dnayir"
-    },
-    { 
-      "name": "Aafthab Ashraff",
-      "github": "iAmash412"
-    },
-    {
-      "name": "Alfred Kelly",
-      "github": "Scralfie"
-    },
     {
       "name": "Jianli Lin",
-      "github": "jianli1028"
+      "github": "jianli1028",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dan Willis",
@@ -156,6 +182,16 @@
             "type": "cv"
         }
     ]
+    },
+     {
+      "name": "Andrew Kennedy",
+      "github": "akennedy205",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     }
+    
   ]
 }

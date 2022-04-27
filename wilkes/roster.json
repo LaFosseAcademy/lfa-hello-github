@@ -252,7 +252,10 @@
       "github": "leannesobogun",
       "materials": [
         {
-            "type": "cv",
+            "type": "cv"
+        },
+        {
+            "type": "video",
             "url": "I76ltK6ZrkE"
         }
       ]
@@ -272,6 +275,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Qm47i5sUlqA"
         }
       ]
     }
