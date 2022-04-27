@@ -189,6 +189,8 @@
       "materials": [
         {
             "type": "cv"
+            "type": "video",
+            "url": "https://youtu.be/pSXnMD5ug7Q"
         }
     ]
     }
