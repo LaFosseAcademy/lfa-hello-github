@@ -27,6 +27,10 @@
           "type": "cv"
         },
         {
+          "type": "video",
+          "url": "Owt8J1d4N7c"
+        },
+        {
           "type": "portfolio",
           "url": "https://trina-yau.netlify.app/"
       }
@@ -41,7 +45,7 @@
             },
             {
               "type": "video",
-              "url": "Rp4mPOBs9NY"
+              "url": "hQxOuQsNH_o"
             },
             {
                 "type": "portfolio",
@@ -149,8 +153,12 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "TJGJiRkxrCQ"
         }
-    ]
+      ]
     },
     {
       "name": "Jianli Lin",
@@ -167,7 +175,12 @@
       "materials": [
         {
             "type": "cv"
-        }]
+        },
+        {
+                "type": "video",
+                "url": "7rJIuTGfLL8"
+        }
+      ]
     },
     {
       "name": "Michael Harkins-Meloy",
