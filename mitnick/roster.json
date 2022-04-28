@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Melissa Wong",
-      "github": "melmelg"
+      "github": "melmelg", 
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sidar Ozbek",
@@ -43,7 +48,12 @@
     },
     {
       "name": "Ikenna Agada",
-      "github": "ikenna98"
+      "github": "ikenna98",
+      "materials":[
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Nowshad Ahmed",
@@ -87,7 +97,12 @@
     },
     {
       "name": "Alex Patient",
-      "github": "aPatient97"
+      "github": "aPatient97",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Peter Ly",
@@ -117,30 +132,48 @@
     },
     {
       "name": "Wagner Luiz Melo",
-      "github":"LuizWebDev"
+      "github":"LuizWebDev",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anwar Elmi",
       "github": "aelmi123",
-      "materials": [{
+      "materials": [
+        {
           "type": "cv"
-      }]
+      }
+    ]
     },
     {
       "name": "Ousama Bousba Ghobrini",
-      "github": "ousama1234"
-    },
-    {
-      "name": "Hakeem Hanson",
-      "github": "BorreloadDragon"
+      "github": "ousama1234",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Evelyn Ball",
-      "github":"evelyn516"
+      "github":"evelyn516",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Rubhan Saravanabavan",
-      "github": "rubhan24"
+      "github": "rubhan24",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     }
   ]
 }
