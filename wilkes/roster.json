@@ -16,6 +16,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Oj3YEkeHsYg"
         }
       ]
     },
@@ -97,15 +101,6 @@
       ]
     },
     {
-      "name": "Michael Nelson",
-      "github": "mwezn",
-      "materials": [
-        {
-          "type": "cv"
-        }
-      ]
-    },
-    {
       "name": "Tom Grainger",
       "github": "Graingertom",
       "materials": [
@@ -137,8 +132,12 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "wP4WFkSYfa8"
         }
-                    ]
+      ]
     },
     {
       "name": "Harry Moore",
@@ -146,6 +145,10 @@
       "materials":[
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "mDFhFnSDU9U"
         }
       ]
     },
@@ -168,7 +171,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "_onU7e8U1l8"
+      }
       ]
     },
     {
@@ -177,6 +184,10 @@
       "materials": [
         {
           "type":"cv"
+        },
+        {
+          "type":"video",
+          "url":"FkmDhmAEVv8"
         }
       ]
     },
@@ -229,15 +240,10 @@
       "materials": [
         {
             "type": "cv"
-        }
-      ]
-    },
-    {
-      "name": "Abdulrahman Awad",
-      "github": "warak3inab",
-      "materials": [
+        },
         {
-            "type": "cv"
+          "type": "video",
+          "url": "Ea4X_kf7-XQ"
         }
       ]
     },
@@ -247,6 +253,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+            "type": "video",
+            "url": "I76ltK6ZrkE"
         }
       ]
     },
@@ -256,6 +266,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url" : "X_LeitY1pqo"
         }
       ]
     },
@@ -265,6 +279,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Qm47i5sUlqA"
         }
       ]
     }

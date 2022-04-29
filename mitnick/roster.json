@@ -12,11 +12,21 @@
   "students": [
     {
       "name": "Melissa Wong",
-      "github": "melmelg"
+      "github": "melmelg", 
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sidar Ozbek",
-      "github": "sidaroz"
+      "github": "sidaroz",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Bethan Evans",
@@ -29,15 +39,30 @@
     },
     {
       "name": "Farzana Uddin",
-      "github": "FarzanaRU00"
+      "github": "FarzanaRU00",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ikenna Agada",
-      "github": "ikenna98"
+      "github": "ikenna98",
+      "materials":[
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Nowshad Ahmed",
-      "github": "Nowshad10"
+      "github": "Nowshad10",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sarushan Thiyakumar",
@@ -50,47 +75,105 @@
     },
     {
       "name": "Anisha Deol",
-     "github": "anishakdeol"
+     "github": "anishakdeol",
+     "materials": [
+      {
+        "type": "cv"
+      },
+      {
+        "type": "video",
+        "url": "lIjjSQl-5L8"
+      }
+    ]
     },
     {
       "name": "Sami Tanveer",
-      "github": "Sami1600"
+      "github": "Sami1600",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Alex Patient",
-      "github": "aPatient97"
+      "github": "aPatient97",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Peter Ly",
-      "github": "peterlydev"
+      "github": "peterlydev",
+      "materials": [
+        {
+          "type" : "cv"
+        },
+        {
+          "type" : "video",
+          "url" : "1R3eiV8WI9E"
+        }
+      ]
     },
     {
       "name": "Jaxsan Sivanesan",
-      "github":"Jaxsan2206"
+      "github":"Jaxsan2206",
+      "materials":[
+        {
+          "type":"cv"
+        },
+        {
+          "type" : "video",
+          "url" : "4ksGC2PMZS4"
+        }
+      ]
     },
     {
       "name": "Wagner Luiz Melo",
-      "github":"LuizWebDev"
+      "github":"LuizWebDev",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anwar Elmi",
-      "github": "aelmi123"
+      "github": "aelmi123",
+      "materials": [
+        {
+          "type": "cv"
+      }
+    ]
     },
     {
       "name": "Ousama Bousba Ghobrini",
-      "github": "ousama1234"
-    },
-    {
-      "name": "Hakeem Hanson",
-      "github": "BorreloadDragon"
+      "github": "ousama1234",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Evelyn Ball",
-      "github":"evelyn516"
+      "github":"evelyn516",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Rubhan Saravanabavan",
-      "github": "rubhan24"
+      "github": "rubhan24",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     }
   ]
 }
