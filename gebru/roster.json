@@ -124,7 +124,11 @@
       "github": "LibertySprackling",
       "materials": [
         { 
-          "type": "cv"
+          "type": "cv"  
+        },
+        {
+          "type": "video",
+          "url": "mLv7dhI73M0"
         }
       ]
     },
