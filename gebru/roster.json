@@ -16,6 +16,11 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"UgoGIP7E2YQ"
+          
         }
       ]
     },
@@ -81,7 +86,11 @@
       "materials": [
         {
             "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "2Gj5akYAccw"
+      }
     ]
     },
     {
@@ -90,6 +99,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jVLV4fjyDls"
         }
       ]
     },
@@ -99,6 +112,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "xV69Gum5N9I"
         }
     ]
     },
@@ -107,7 +124,11 @@
       "github": "LibertySprackling",
       "materials": [
         { 
-          "type": "cv"
+          "type": "cv"  
+        },
+        {
+          "type": "video",
+          "url": "mLv7dhI73M0"
         }
       ]
     },
