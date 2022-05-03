@@ -11,10 +11,6 @@
   },
   "students": [
     {
-      "name": "Matteo Buscaroli",
-      "github": "buscaroli"
-    },
-    {
       "name": "Tom Millington",
       "github": "millman97"
     },
@@ -89,11 +85,14 @@
     {
       "name": "Amir Ali",
       "github": "aha000111"
-    }
-    ,
+    },
     {
       "name": "Nasim Bilal",
       "github": "n451m"
+    },
+    {
+      "name": "Matteo Buscaroli",
+      "github": "buscaroli"
     }
   ]
 }
