@@ -101,15 +101,6 @@
       ]
     },
     {
-      "name": "Michael Nelson",
-      "github": "mwezn",
-      "materials": [
-        {
-          "type": "cv"
-        }
-      ]
-    },
-    {
       "name": "Tom Grainger",
       "github": "Graingertom",
       "materials": [
@@ -146,7 +137,7 @@
           "type": "video",
           "url": "wP4WFkSYfa8"
         }
-                    ]
+      ]
     },
     {
       "name": "Harry Moore",
@@ -180,7 +171,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "_onU7e8U1l8"
+      }
       ]
     },
     {
@@ -253,24 +248,14 @@
       ]
     },
     {
-      "name": "Abdulrahman Awad",
-      "github": "warak3inab",
+      "name": "Leanne Sobogun",
+      "github": "leannesobogun",
       "materials": [
         {
             "type": "cv"
         },
         {
-            "type": "video", 
-            "url": "xXZtWiA_XJQ"
-        }
-      ]
-    },
-    {
-      "name": "Leanne Sobogun",
-      "github": "leannesobogun",
-      "materials": [
-        {
-            "type": "cv",
+            "type": "video",
             "url": "I76ltK6ZrkE"
         }
       ]
@@ -281,6 +266,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url" : "X_LeitY1pqo"
         }
       ]
     },
@@ -290,6 +279,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Qm47i5sUlqA"
         }
       ]
     }
