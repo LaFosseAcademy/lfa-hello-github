@@ -27,8 +27,11 @@
       "github": "FarzanaRU00",
       "materials": [
         {
-            "type": "cv",
-            "url": "https://youtu.be/VMy7G2h2PUk"
+            "type": "cv"
+        },
+        { 
+            "type": "video",
+            "url": "VMy7G2h2PUk" 
         }
       ]
     },
