@@ -99,7 +99,7 @@
       "github": "Sami1600",
       "materials": [
         {
-          "type": "cv"
+          "type": "cv" 
         }
       ]
     },
@@ -109,7 +109,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+          "type": "video",
+          "url": "QLXXXb1J9ak"
+        }  
       ]
     },
     {
