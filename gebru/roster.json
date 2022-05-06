@@ -11,6 +11,19 @@
   },
   "students": [
     {
+      "name": "Michael Harkins-Meloy",
+      "github": "Harkins12345",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7E2ln-kfPdE"
+        }
+      ]
+    },
+    {
       "name": "Yusra Tahir",
       "github": "yusra-tahir",
       "materials": [
@@ -224,15 +237,6 @@
         {
                 "type": "video",
                 "url": "7rJIuTGfLL8"
-        }
-      ]
-    },
-    {
-      "name": "Michael Harkins-Meloy",
-      "github": "Harkins12345",
-      "materials": [
-        {
-          "type": "cv"
         }
       ]
     },
