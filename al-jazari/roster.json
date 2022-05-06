@@ -10,6 +10,9 @@
     ]
   },
   "students": [
-
+    {
+      "name": "Aaron Smith",
+      "github": "Fastlearner999"
+    }
   ]
 }
