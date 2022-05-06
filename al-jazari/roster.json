@@ -1,0 +1,18 @@
+{
+    "namesake": {
+    "name": "Ismail Al-Jazari",
+    "imageUrl": "",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Aaron Smith",
+      "github": "Fastlearner999"
+    }
+  ]
+}

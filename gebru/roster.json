@@ -11,6 +11,19 @@
   },
   "students": [
     {
+      "name": "Michael Harkins-Meloy",
+      "github": "Harkins12345",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7E2ln-kfPdE"
+        }
+      ]
+    },
+    {
       "name": "Yusra Tahir",
       "github": "yusra-tahir",
       "materials": [
@@ -142,6 +155,10 @@
       "materials": [
         { 
           "type": "cv"
+        },
+        {
+        "type": "video",
+        "url": "8xEfNT1708Y"
         }
       ]
     },
@@ -151,6 +168,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_MDalrSXsOw"
         }
       ]
     },
@@ -220,20 +241,15 @@
       ]
     },
     {
-      "name": "Michael Harkins-Meloy",
-      "github": "Harkins12345",
-      "materials": [
-        {
-          "type": "cv"
-        }
-      ]
-    },
-    {
       "name": "Thayaan Srisathialingam",
       "github": "THAYAANS",
       "materials": [
         {
             "type": "cv"
+        },
+        {
+                "type": "video",
+                "url": "VzLC3FaSZT0"
         }
     ]
     },
@@ -243,6 +259,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+            "type": "video",
+            "url": "pSXnMD5ug7Q"
         }
     ]
     }
