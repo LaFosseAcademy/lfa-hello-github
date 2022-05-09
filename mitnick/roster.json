@@ -51,6 +51,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        { 
+            "type": "video",
+            "url": "VMy7G2h2PUk" 
         }
       ]
     },
@@ -69,6 +73,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "N6qJSKN7vbU"
         }
       ]
     },
@@ -78,6 +86,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1s0axd_GYJw"
         }
       ]
     },
@@ -99,8 +111,12 @@
       "github": "Sami1600",
       "materials": [
         {
-          "type": "cv"
-        }
+          "type": "cv" 
+        },
+        {
+          "type": "video",
+          "url": "QLXXXb1J9ak"
+        }  
       ]
     },
     {
@@ -162,6 +178,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type" : "video",
+          "url" : "U5oXiqTSURU"
         }
       ]
     },
