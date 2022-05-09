@@ -18,9 +18,8 @@
           "type": "cv"
         },
         {
-          "type":"video",
-          "url":"UgoGIP7E2YQ"
-          
+          "type": "video",
+          "url": "UgoGIP7E2YQ"
         }
       ]
     },
@@ -38,24 +37,24 @@
         {
           "type": "portfolio",
           "url": "https://trina-yau.netlify.app/"
-      }
+        }
       ]
     },
     {
       "name": "Prishal Makwana",
       "github": "PrishalM",
       "materials": [
-            {
-                "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "hQxOuQsNH_o"
-            },
-            {
-                "type": "portfolio",
-                "url": "https://prish.al"
-            }
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "hQxOuQsNH_o"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://prish.al"
+        }
       ]
     },
     {
@@ -66,12 +65,12 @@
           "type": "cv"
         },
         {
-              "type": "video",
-              "url": "lAiewrs-IQ0"
-         },
+          "type": "video",
+          "url": "lAiewrs-IQ0"
+        },
         {
-                "type": "portfolio",
-                "url": "https://albertstoykov.co.uk"
+          "type": "portfolio",
+          "url": "https://albertstoykov.co.uk"
         }
       ]
     },
@@ -93,13 +92,13 @@
       "github": "umeloha",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         },
         {
           "type": "video",
           "url": "2Gj5akYAccw"
-      }
-    ]
+        }
+      ]
     },
     {
       "name": "David Quigley",
@@ -119,20 +118,20 @@
       "github": "doreenkam",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         },
         {
           "type": "video",
           "url": "xV69Gum5N9I"
         }
-    ]
+      ]
     },
     {
       "name": "Liberty Sprackling",
       "github": "LibertySprackling",
       "materials": [
-        { 
-          "type": "cv"  
+        {
+          "type": "cv"
         },
         {
           "type": "video",
@@ -144,12 +143,12 @@
       "name": "Robyn Shortland",
       "github": "rsho-create",
       "materials": [
-        { 
+        {
           "type": "cv"
         },
         {
-        "type": "video",
-        "url": "8xEfNT1708Y"
+          "type": "video",
+          "url": "8xEfNT1708Y"
         }
       ]
     },
@@ -159,10 +158,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_MDalrSXsOw"
         }
       ]
     },
-    {  
+    {
       "name": "Diren Nayir",
       "github": "Dnayir",
       "materials": [
@@ -175,25 +178,25 @@
         }
       ]
     },
-    { 
+    {
       "name": "Aafthab Ashraff",
       "github": "iAmash412",
       "materials": [
-      {
-        "type": "cv"
-      },
-      {
-        "type": "video",
-        "url": "FG7TZZQ-epI"
-      }
-    ]
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "FG7TZZQ-epI"
+        }
+      ]
     },
     {
       "name": "Alfred Kelly",
       "github": "Scralfie",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         },
         {
           "type": "video",
@@ -219,11 +222,11 @@
       "github": "WalkingZ3d",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         },
         {
-                "type": "video",
-                "url": "7rJIuTGfLL8"
+          "type": "video",
+          "url": "7rJIuTGfLL8"
         }
       ]
     },
@@ -233,6 +236,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7E2ln-kfPdE"
         }
       ]
     },
@@ -241,23 +248,26 @@
       "github": "THAYAANS",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         },
         {
-                "type": "video",
-                "url": "VzLC3FaSZT0"
+          "type": "video",
+          "url": "VzLC3FaSZT0"
         }
-    ]
+      ]
     },
-     {
+    {
       "name": "Andrew Kennedy",
       "github": "akennedy205",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "pSXnMD5ug7Q"
         }
-    ]
+      ]
     }
-    
   ]
 }

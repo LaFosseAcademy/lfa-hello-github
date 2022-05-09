@@ -10,6 +10,17 @@
     ]
   },
   "students": [
-
+    {
+      "name": "Aaron Smith",
+      "github": "Fastlearner999"
+    },
+    {
+      "name": "Terry Fallows",
+      "github": "TheWeion"
+    },
+    {
+      "name": "Samantha Dorrell",
+      "github": "Tari38"
+    }
   ]
 }
