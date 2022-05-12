@@ -16,6 +16,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ay2QUiCZBOg"
         }
       ]
     },
@@ -64,6 +68,10 @@
       "materials":[
         {
           "type":"cv"
+        },
+        {  
+          "type": "video",
+          "url": "IIshepCrKlM"
         }
       ]
     },
@@ -195,6 +203,10 @@
       "materials": [
         {
           "type":"cv"
+        },
+        {
+          "type" : "video",
+          "url" : "2LotmEG0Emk"
         }
       ]
     },
