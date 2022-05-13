@@ -1,0 +1,42 @@
+{
+    "namesake": {
+    "name": "Ismail Al-Jazari",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6022486?s=280&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Aaron Smith",
+      "github": "Fastlearner999"
+    },
+    {
+      "name": "Terry Fallows",
+      "github": "TheWeion"
+    },
+    {
+      "name": "Samantha Dorrell",
+      "github": "Tari38"
+    },
+    {
+      "name": "Anna Kunta",
+      "github": "Anka21"
+    },
+    {
+      "name": "Hanibal Brhanu",
+      "github": "brhanuh"
+    },
+    {
+        "name": "Vlada Solomiana",
+        "github": "solo-vlada"
+    },
+    {
+      "name": "Ayoub Laissaoui",
+      "github": "NovaDA"
+    }
+  ]
+}

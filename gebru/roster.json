@@ -16,6 +16,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "UgoGIP7E2YQ"
         }
       ]
     },
@@ -27,26 +31,22 @@
           "type": "cv"
         },
         {
-          "type": "portfolio",
-          "url": "https://trina-yau.netlify.app/"
-      }
+          "type": "video",
+          "url": "Owt8J1d4N7c"
+        }
       ]
     },
     {
       "name": "Prishal Makwana",
       "github": "PrishalM",
       "materials": [
-            {
-                "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "Rp4mPOBs9NY"
-            },
-            {
-                "type": "portfolio",
-                "url": "https://prish.al"
-            }
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "hQxOuQsNH_o"
+        }
       ]
     },
     {
@@ -55,6 +55,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lAiewrs-IQ0"
         }
       ]
     },
@@ -64,6 +68,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QEre86fzh50"
         }
       ]
     },
@@ -72,9 +80,13 @@
       "github": "umeloha",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "2Gj5akYAccw"
         }
-    ]
+      ]
     },
     {
       "name": "David Quigley",
@@ -82,6 +94,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jVLV4fjyDls"
         }
       ]
     },
@@ -90,16 +106,24 @@
       "github": "doreenkam",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "xV69Gum5N9I"
         }
-    ]
+      ]
     },
     {
       "name": "Liberty Sprackling",
       "github": "LibertySprackling",
       "materials": [
-        { 
+        {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "mLv7dhI73M0"
         }
       ]
     },
@@ -107,8 +131,12 @@
       "name": "Robyn Shortland",
       "github": "rsho-create",
       "materials": [
-        { 
+        {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "8xEfNT1708Y"
         }
       ]
     },
@@ -118,35 +146,51 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_MDalrSXsOw"
         }
       ]
     },
-    {  
+    {
       "name": "Diren Nayir",
       "github": "Dnayir",
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "RBXXco5ldZs"
         }
       ]
     },
-    { 
+    {
       "name": "Aafthab Ashraff",
       "github": "iAmash412",
       "materials": [
-      {
-        "type": "cv"
-      }
-    ]
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "FG7TZZQ-epI"
+        }
+      ]
     },
     {
       "name": "Alfred Kelly",
       "github": "Scralfie",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "TJGJiRkxrCQ"
         }
-    ]
+      ]
     },
     {
       "name": "Jianli Lin",
@@ -154,6 +198,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "8wUbYOIJvHA"
         }
       ]
     },
@@ -162,8 +210,13 @@
       "github": "WalkingZ3d",
       "materials": [
         {
-            "type": "cv"
-        }]
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7rJIuTGfLL8"
+        }
+      ]
     },
     {
       "name": "Michael Harkins-Meloy",
@@ -171,6 +224,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7E2ln-kfPdE"
         }
       ]
     },
@@ -179,21 +236,26 @@
       "github": "THAYAANS",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "VzLC3FaSZT0"
         }
-    ]
+      ]
     },
-     {
+    {
       "name": "Andrew Kennedy",
       "github": "akennedy205",
       "materials": [
         {
-            "type": "cv"
-            "type": "video",
-            "url": "pSXnMD5ug7Q"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "pSXnMD5ug7Q"
         }
-    ]
+      ]
     }
-    
   ]
 }
