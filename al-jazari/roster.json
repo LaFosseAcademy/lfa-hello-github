@@ -1,7 +1,7 @@
 {
     "namesake": {
     "name": "Ismail Al-Jazari",
-    "imageUrl": "",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6022486?s=280&v=4",
     "materials": [
       {
         "type": "video",
@@ -37,6 +37,10 @@
     {
       "name": "Ayoub Laissaoui",
       "github": "NovaDA"
+    },
+    {
+      "name": "Tom Hacker",
+      "github": "TommyHacker"
     }
   ]
 }
