@@ -1,5 +1,5 @@
 {
-    "namesake": {
+  "namesake": {
     "name": "Ismail Al-Jazari",
     "imageUrl": "https://avatars.githubusercontent.com/t/6022486?s=280&v=4",
     "materials": [
@@ -31,8 +31,8 @@
       "github": "brhanuh"
     },
     {
-        "name": "Vlada Solomiana",
-        "github": "solo-vlada"
+      "name": "Vlada Solomiana",
+      "github": "solo-vlada"
     },
     {
       "name": "Ayoub Laissaoui",
@@ -41,6 +41,46 @@
     {
       "name": "Tom Hacker",
       "github": "TommyHacker"
+    },
+    {
+      "nathan": "Nathan Olds",
+      "github": "nathanolds"
+    },
+    {
+      "name": "Dakshitha Makulugollage",
+      "github": "Dakz1"
+    },
+    {
+      "name": "Ben Tidball",
+      "github": "BenTidball"
+    },
+    {
+      "name": "Marie-Sophie Capel-Duran",
+      "github": "mariesophiecd"
+    },
+    {
+      "name": "Aleksandra Opacic",
+      "github": "Aleopaa"
+    },
+    {
+      "name": "Summira Hussain",
+      "github": "sumshuss"
+    },
+    {
+      "name": "Edgar Ruiz",
+      "github": "CrookedTimber"
+    },
+    {
+      "name": "Wing Yuen",
+      "github": "wingyuen2022"
+    },
+    {
+      "name": "Richard Sigl",
+      "github": "sigltech"
+    },
+    {
+      "name": "Abigail Shadare",
+      "github": "abscoding"
     }
   ]
 }
