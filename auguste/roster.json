@@ -44,7 +44,12 @@
     },
     {
       "name": "Billie Dartnell",
-      "github": "dartbill"
+      "github": "dartbill",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Shoreen Beckford",
