@@ -1,5 +1,5 @@
 {
-    "namesake": {
+  "namesake": {
     "name": "Morgan",
     "imageUrl": "",
     "materials": [
@@ -10,6 +10,9 @@
     ]
   },
   "students": [
-
+    {
+      "name": "Florencia Pezcara",
+      "github": "fpezcara"
+    }
   ]
 }
