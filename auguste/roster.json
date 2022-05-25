@@ -64,7 +64,12 @@
     },
     {
       "name": "Sam Hardiment",
-      "github": "SamHardiment"
+      "github": "SamHardiment",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nadir Khan",
