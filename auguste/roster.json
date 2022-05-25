@@ -40,7 +40,12 @@
     },
     {
       "name": "Alice Kreslins",
-      "github": "alicekres"
+      "github": "alicekres",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Billie Dartnell",
