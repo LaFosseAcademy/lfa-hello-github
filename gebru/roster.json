@@ -12,66 +12,250 @@
   "students": [
     {
       "name": "Yusra Tahir",
-      "github": "yusra-tahir"
+      "github": "yusra-tahir",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "UgoGIP7E2YQ"
+        }
+      ]
     },
     {
       "name": "Trina Yau",
-      "github": "trinayau"
+      "github": "trinayau",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Owt8J1d4N7c"
+        }
+      ]
     },
     {
       "name": "Prishal Makwana",
-      "github": "Prishal-git"
+      "github": "PrishalM",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "hQxOuQsNH_o"
+        }
+      ]
     },
     {
       "name": "Albert Stoykov",
-      "github": "AlbertStoykov"
+      "github": "AlbertStoykov",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lAiewrs-IQ0"
+        }
+      ]
     },
     {
       "name": "Onur Belek",
-      "github": "Eluented"
-    },
-    {
-      "name": "Andrew Kennedy",
-      "github": "akennedy205"
+      "github": "Eluented",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QEre86fzh50"
+        }
+      ]
     },
     {
       "name": "Amarachi Umeloh",
-      "github": "umeloha"
+      "github": "umeloha",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "2Gj5akYAccw"
+        }
+      ]
     },
     {
       "name": "David Quigley",
-      "github": "AverKill"
+      "github": "AverKill",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jVLV4fjyDls"
+        }
+      ]
     },
     {
       "name": "Doreen Kamushinda",
-      "github": "doreenkam"
+      "github": "doreenkam",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "xV69Gum5N9I"
+        }
+      ]
     },
     {
       "name": "Liberty Sprackling",
-      "github": "LibertySprackling"
+      "github": "LibertySprackling",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "mLv7dhI73M0"
+        }
+      ]
     },
     {
       "name": "Robyn Shortland",
-      "github": "rsho-create"
+      "github": "rsho-create",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "8xEfNT1708Y"
+        }
+      ]
     },
     {
       "name": "Khari - Leigh Miller",
-      "github": "kharileigh"
+      "github": "kharileigh",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_MDalrSXsOw"
+        }
+      ]
     },
     {
-      "name": "Naomi Emojevbe",
-      "github": "nay-nae"
-    },
-    {  
       "name": "Diren Nayir",
-      "github": "Dnayir"
-    { 
-      "name": "Aafthab Ashtaff",
-      "github": "iAmash412"
+      "github": "Dnayir",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "RBXXco5ldZs"
+        }
+      ]
+    },
+    {
+      "name": "Aafthab Ashraff",
+      "github": "iAmash412",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "FG7TZZQ-epI"
+        }
+      ]
     },
     {
       "name": "Alfred Kelly",
-      "github": "Scralfie"
+      "github": "Scralfie",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "TJGJiRkxrCQ"
+        }
+      ]
+    },
+    {
+      "name": "Jianli Lin",
+      "github": "jianli1028",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "8wUbYOIJvHA"
+        }
+      ]
+    },
+    {
+      "name": "Dan Willis",
+      "github": "WalkingZ3d",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7rJIuTGfLL8"
+        }
+      ]
+    },
+    {
+      "name": "Michael Harkins-Meloy",
+      "github": "Harkins12345",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7E2ln-kfPdE"
+        }
+      ]
+    },
+    {
+      "name": "Thayaan Srisathialingam",
+      "github": "THAYAANS",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "VzLC3FaSZT0"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Kennedy",
+      "github": "akennedy205",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "pSXnMD5ug7Q"
+        }
+      ]
     }
   ]
 }

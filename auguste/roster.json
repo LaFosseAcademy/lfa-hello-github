@@ -1,0 +1,94 @@
+{
+  "namesake": {
+    "name": "Donna Auguste",
+    "imageUrl": "https://avatars.githubusercontent.com/t/5782642?s=280&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Tom Millington",
+      "github": "millman97"
+    },
+    {
+      "name": "Chris Pucknell",
+      "github": "xargon666"
+    },
+    {
+      "name": "Rebecca Blixt",
+      "github": "rebeccablixt"
+    },
+    {
+      "name": "Aaron Marsh",
+      "github": "Aaron-Marsh"
+    },
+    {
+      "name": "Layla Southcombe",
+      "github": "LaylaSouthcombe"
+    },
+    {
+      "name": "George Miller-McCall",
+      "github": "GMillerMc"
+    },
+    {
+      "name": "Nasiima Mohamed",
+      "github": "Nasiima-Mohamed"
+    },
+    {
+      "name": "Alice Kreslins",
+      "github": "alicekres"
+    },
+    {
+      "name": "Billie Dartnell",
+      "github": "dartbill"
+    },
+    {
+      "name": "Shoreen Beckford",
+      "github": "shoreenb"
+    },
+    {
+      "name": "Ali Hamed",
+      "github": "alihamedali96"
+    },
+    {
+      "name": "Igor Mirowski",
+      "github": "Igormirowski"
+    },
+    {
+      "name": "Gioele Montis",
+      "github": "Gioele-M"
+    },
+    {
+      "name": "Sam Hardiment",
+      "github": "SamHardiment"
+    },
+    {
+      "name": "Nadir Khan",
+      "github": "Nadirkhan98"
+    },
+    {
+      "name": "William Sessions",
+      "github": "Izgardon"
+    },
+    {
+      "name": "Tom Hughes",
+      "github": "tomhughes87"
+    },
+    {
+      "name": "Amir Ali",
+      "github": "aha000111"
+    },
+    {
+      "name": "Nasim Bilal",
+      "github": "n451m"
+    },
+    {
+      "name": "Matteo Buscaroli",
+      "github": "buscaroli"
+    }
+  ]
+}
