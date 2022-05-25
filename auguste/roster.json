@@ -28,7 +28,12 @@
     },
     {
       "name": "Layla Southcombe",
-      "github": "LaylaSouthcombe"
+      "github": "LaylaSouthcombe",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "George Miller-McCall",
