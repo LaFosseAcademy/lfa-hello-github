@@ -20,7 +20,12 @@
     },
     {
       "name": "Rebecca Blixt",
-      "github": "rebeccablixt"
+      "github": "rebeccablixt",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Aaron Marsh",
