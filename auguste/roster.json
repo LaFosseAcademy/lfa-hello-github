@@ -29,7 +29,12 @@
     },
     {
       "name": "Aaron Marsh",
-      "github": "Aaron-Marsh"
+      "github": "Aaron-Marsh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Layla Southcombe",
