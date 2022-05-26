@@ -1,7 +1,7 @@
 {
   "namesake": {
-    "name": "Morgan",
-    "imageUrl": "",
+    "name": "Garrett Augustus Morgan",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6035188?s=280&v=4",
     "materials": [
       {
         "type": "video",
@@ -18,5 +18,6 @@
       "name": "Taro Schenker",
       "github": "TaroSchenker"
     }
+
   ]
 }
