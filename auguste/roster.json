@@ -97,7 +97,12 @@
     },
     {
       "name": "William Sessions",
-      "github": "Izgardon"
+      "github": "Izgardon",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Hughes",
