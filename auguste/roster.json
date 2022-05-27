@@ -29,7 +29,12 @@
     },
     {
       "name": "Aaron Marsh",
-      "github": "Aaron-Marsh"
+      "github": "Aaron-Marsh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Layla Southcombe",
@@ -76,7 +81,12 @@
     },
     {
       "name": "Igor Mirowski",
-      "github": "Igormirowski"
+      "github": "Igormirowski",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Gioele Montis",
@@ -97,7 +107,12 @@
     },
     {
       "name": "William Sessions",
-      "github": "Izgardon"
+      "github": "Izgardon",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Hughes",
@@ -113,7 +128,12 @@
     },
     {
       "name": "Matteo Buscaroli",
-      "github": "buscaroli"
+      "github": "buscaroli",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
