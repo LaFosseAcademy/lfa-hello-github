@@ -91,9 +91,14 @@
         }
       ]
     },
-    {
+      {
       "name": "Nadir Khan",
-      "github": "Nadirkhan98"
+      "github": "Nadirkhan98",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "William Sessions",
