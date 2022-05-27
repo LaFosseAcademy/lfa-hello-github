@@ -113,7 +113,12 @@
     },
     {
       "name": "Matteo Buscaroli",
-      "github": "buscaroli"
+      "github": "buscaroli",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
