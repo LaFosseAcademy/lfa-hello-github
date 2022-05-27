@@ -76,7 +76,12 @@
     },
     {
       "name": "Igor Mirowski",
-      "github": "Igormirowski"
+      "github": "Igormirowski",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Gioele Montis",
