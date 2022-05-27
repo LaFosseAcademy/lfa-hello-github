@@ -20,7 +20,12 @@
     },
     {
       "name": "Rebecca Blixt",
-      "github": "rebeccablixt"
+      "github": "rebeccablixt",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Aaron Marsh",
@@ -28,7 +33,12 @@
     },
     {
       "name": "Layla Southcombe",
-      "github": "LaylaSouthcombe"
+      "github": "LaylaSouthcombe",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "George Miller-McCall",
@@ -40,11 +50,21 @@
     },
     {
       "name": "Alice Kreslins",
-      "github": "alicekres"
+      "github": "alicekres",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Billie Dartnell",
-      "github": "dartbill"
+      "github": "dartbill",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Shoreen Beckford",
@@ -63,12 +83,13 @@
       "github": "Gioele-M"
     },
     {
-      "name": "Gary Neill",
-      "github": "TurtleScouting"
-    },
-    {
       "name": "Sam Hardiment",
-      "github": "SamHardiment"
+      "github": "SamHardiment",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nadir Khan",

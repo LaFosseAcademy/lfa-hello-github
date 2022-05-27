@@ -16,6 +16,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ay2QUiCZBOg"
         }
       ]
     },
@@ -64,6 +68,10 @@
       "materials":[
         {
           "type":"cv"
+        },
+        {  
+          "type": "video",
+          "url": "IIshepCrKlM"
         }
       ]
     },
@@ -125,6 +133,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "gRtj1HWPKXI"
         }
       ]
     },
@@ -160,6 +172,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type" : "video",
+          "url" : "1mubNNKeWn8"
         }
       ]
     },
@@ -169,7 +185,11 @@
       "materials": [
         {
           "type": "cv"
-      }
+        },
+        {
+          "type":"video",
+          "url": "f_dWTyD6OYU"
+        }
     ]
     },
     {
@@ -191,6 +211,10 @@
       "materials": [
         {
           "type":"cv"
+        },
+        {
+          "type" : "video",
+          "url" : "2LotmEG0Emk"
         }
       ]
     },
