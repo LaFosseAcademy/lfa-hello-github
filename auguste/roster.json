@@ -47,7 +47,12 @@
     },
     {
       "name": "George Miller-McCall",
-      "github": "GMillerMc"
+      "github": "GMillerMc",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nasiima Mohamed",
