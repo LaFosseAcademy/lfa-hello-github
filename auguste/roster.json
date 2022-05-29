@@ -51,8 +51,14 @@
     },
     {
       "name": "Nasiima Mohamed",
-      "github": "Nasiima-Mohamed"
-    },
+      "github": "nasiima",
+      "materials": [
+          {
+              "type": "cv"
+          }
+      ]
+  },
+  
     {
       "name": "Alice Kreslins",
       "github": "alicekres",
