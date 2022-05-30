@@ -16,7 +16,12 @@
     },
     {
       "name": "Chris Pucknell",
-      "github": "xargon666"
+      "github": "xargon666",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Rebecca Blixt",
@@ -51,7 +56,7 @@
     },
     {
       "name": "Nasiima Mohamed",
-      "github": "Nasiima-Mohamed"
+      "github": "nasiima"
     },
     {
       "name": "Alice Kreslins",
