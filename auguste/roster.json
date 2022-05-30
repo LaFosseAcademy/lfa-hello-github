@@ -146,7 +146,12 @@
     },
     {
       "name": "Tom Hughes",
-      "github": "tomhughes87"
+      "github": "tomhughes87",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Amir Ali",
