@@ -100,7 +100,12 @@
     },
     {
       "name": "Gioele Montis",
-      "github": "Gioele-M"
+      "github": "Gioele-M",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sam Hardiment",
