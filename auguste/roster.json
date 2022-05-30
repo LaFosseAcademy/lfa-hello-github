@@ -92,7 +92,12 @@
     },
     {
       "name": "Ali Hamed",
-      "github": "alihamedali96"
+      "github": "alihamedali96",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Igor Mirowski",
