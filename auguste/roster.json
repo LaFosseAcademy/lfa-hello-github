@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Tom Millington",
-      "github": "millman97"
+      "github": "millman97",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Chris Pucknell",
