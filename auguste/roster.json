@@ -164,7 +164,12 @@
     },
     {
       "name": "Nasim Bilal",
-      "github": "n451m"
+      "github": "n451m",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Matteo Buscaroli",
