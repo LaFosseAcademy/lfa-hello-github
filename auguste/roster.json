@@ -73,7 +73,12 @@
     },
     {
       "name": "Shoreen Beckford",
-      "github": "shoreenb"
+      "github": "shoreenb",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ali Hamed",
