@@ -1,0 +1,46 @@
+{
+  "namesake": {
+    "name": "Garrett Augustus Morgan",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6035188?s=280&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Florencia Pezcara",
+      "github": "fpezcara"
+    }, 
+    {
+      "name": "Necip Yildizcan",
+      "github": "NecipYildizcan"
+    },
+    {
+      "name": "Taro Schenker",
+      "github": "TaroSchenker"
+    },
+    {
+      "name": "Baki Tuncer",
+      "github": "batuncer"
+    },
+    {
+      "name": "Mihaly Benyi",
+      "github": "benyim27"
+    },
+    {
+      "name": "Harrison Grant",
+      "github": "harryg15"
+    },
+    {
+      "name": "Rameez Khawaja",
+      "github": "rameez-khawaja"
+    },
+    {
+      "name": "Muhammed Ismael Ali",
+      "github": "Ismael76"
+    }
+  ]
+}

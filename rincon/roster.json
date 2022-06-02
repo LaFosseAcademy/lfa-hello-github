@@ -1,0 +1,18 @@
+{
+    "namesake": {
+    "name": "Rincon",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6108159?s=400&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Jason Chan",
+      "github": "jasonchanhk"
+    }
+  ]
+}
