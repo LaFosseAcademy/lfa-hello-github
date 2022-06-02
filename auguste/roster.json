@@ -12,11 +12,21 @@
   "students": [
     {
       "name": "Tom Millington",
-      "github": "millman97"
+      "github": "millman97",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Chris Pucknell",
-      "github": "xargon666"
+      "github": "xargon666",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Rebecca Blixt",
@@ -47,18 +57,22 @@
     },
     {
       "name": "George Miller-McCall",
-      "github": "GMillerMc"
+      "github": "GMillerMc",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nasiima Mohamed",
       "github": "nasiima",
       "materials": [
-          {
-              "type": "cv"
-          }
+        {
+          "type": "cv"
+        }
       ]
-  },
-  
+    },
     {
       "name": "Alice Kreslins",
       "github": "alicekres",
@@ -79,11 +93,21 @@
     },
     {
       "name": "Shoreen Beckford",
-      "github": "shoreenb"
+      "github": "shoreenb",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ali Hamed",
-      "github": "alihamedali96"
+      "github": "alihamedali96",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Igor Mirowski",
@@ -96,7 +120,12 @@
     },
     {
       "name": "Gioele Montis",
-      "github": "Gioele-M"
+      "github": "Gioele-M",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sam Hardiment",
@@ -109,7 +138,12 @@
     },
     {
       "name": "Nadir Khan",
-      "github": "Nadirkhan98"
+      "github": "Nadirkhan98",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "William Sessions",
@@ -122,7 +156,12 @@
     },
     {
       "name": "Tom Hughes",
-      "github": "tomhughes87"
+      "github": "tomhughes87",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Amir Ali",
@@ -130,7 +169,12 @@
     },
     {
       "name": "Nasim Bilal",
-      "github": "n451m"
+      "github": "n451m",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Matteo Buscaroli",
