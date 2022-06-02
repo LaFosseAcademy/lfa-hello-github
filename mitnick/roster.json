@@ -68,6 +68,10 @@
         {  
           "type": "video",
           "url": "IIshepCrKlM"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://ikennas-portfolio.netlify.app/"
         }
       ]
     },
