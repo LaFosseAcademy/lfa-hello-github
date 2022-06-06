@@ -165,7 +165,12 @@
     },
     {
       "name": "Amir Ali",
-      "github": "aha000111"
+      "github": "aha000111",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nasim Bilal",
