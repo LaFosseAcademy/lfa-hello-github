@@ -25,10 +25,14 @@
     {
       "name": "Stefan Yordanov",
       "github": "steff880"
-   },
+    },
     { 
-        "name": "Joshua Warner",
+       "name": "Joshua Warner",
        "github": "JoshPWarner"
-    }
+    },
+     { 
+       "name": "Jonathan Britton",
+       "github": "Jbritttt"
+     }
   ]
 }
