@@ -10,6 +10,9 @@
     ]
   },
   "students": [
+    {"name": "Dmitry Fakanov",
+      "github": "dimiuk"
+},
     {
       "name": "Jason Chan",
       "github": "jasonchanhk"
