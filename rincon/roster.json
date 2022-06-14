@@ -57,19 +57,7 @@
     {
       "name": "Sally Davey",
       "github": "Sdev77"
-    },
-     {
-<<<<<<< HEAD
-        "name": "Sampurna Chapagain",
-        "github": "SampurnaC"
-     },
-     {
-       "name": "James Thompson",
-       "github": "jamesthompson02"
-=======
-       "name": "Aditi Parikh",
-       "github": "aditi2605"
->>>>>>> 726e638afeacdc32bb4c818b7dc9d651f0754252
-     }
+    }
+     
   ]
 }
