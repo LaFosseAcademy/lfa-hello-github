@@ -15,7 +15,10 @@
       "github": "millman97",
       "materials": [
         {
-          "type": "cv",
+          "type": "cv"
+        },
+        {
+          "type": "video",
           "url": "QYESTxrSKYc"
         }
       ]
