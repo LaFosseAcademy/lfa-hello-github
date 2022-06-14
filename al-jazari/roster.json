@@ -16,7 +16,12 @@
     },
     {
       "name": "Terry Fallows",
-      "github": "TheWeion"
+      "github": "TheWeion",
+    	"materials": [
+        {
+          "type": "cv"
+        }
+    ]
     },
     {
       "name": "Samantha Dorrell",
