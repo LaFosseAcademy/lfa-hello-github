@@ -1,5 +1,5 @@
 {
-    "namesake": {
+  "namesake": {
     "name": "Rincon",
     "imageUrl": "https://avatars.githubusercontent.com/t/6108159?s=400&v=4",
     "materials": [
@@ -11,41 +11,52 @@
   },
   "students": [
     {
+      "name": "Dmitry Fakanov",
+      "github": "dimiuk"
+    },
+    {
       "name": "Jason Chan",
       "github": "jasonchanhk"
     },
     {
-      "name" : "Sean Malone",
+      "name": "Sean Malone",
       "github": "Moontoast435"
     },
     {
-       "name": "Nouria Chaouy",
-       "github": "NouriaC"
+      "name": "Nouria Chaouy",
+      "github": "NouriaC"
     },
     {
       "name": "Matthew Richardson",
-       "github": "mRichardson8"
+      "github": "mRichardson8"
     },
     {
       "name": "Stefan Yordanov",
       "github": "steff880"
     },
-    { 
-       "name": "Joshua Warner",
-       "github": "JoshPWarner"
+    {
+      "name": "Joshua Warner",
+      "github": "JoshPWarner"
     },
-     { 
-       "name": "Jonathan Britton",
-       "github": "Jbritttt"
-     },
-     {
-        "name": "Sampurna Chapagain",
-        "github": "SampurnaC"
-     },
-     {
+    {
+      "name": "Jonathan Britton",
+      "github": "Jbritttt"
+    },
+    {
+      "name": "Sampurna Chapagain",
+      "github": "SampurnaC"
+    },
+    {
+      "name": "Karolina Quigley",
+      "github": "codingkompot"
+    },
+    {
+      "name": "Timothy Le",
+      "github": "Peesh98"
+    },
+    {
       "name": "Sally Davey",
       "github": "Sdev77"
-   }
-
+    }
   ]
 }
