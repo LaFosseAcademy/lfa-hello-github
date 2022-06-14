@@ -10,6 +10,9 @@
     ]
   },
   "students": [
+    {"name": "Dmitry Fakanov",
+      "github": "dimiuk"
+},
     {
       "name": "Jason Chan",
       "github": "jasonchanhk"
@@ -34,17 +37,21 @@
        "name": "Joshua Warner",
        "github": "JoshPWarner"
     },
-     { 
-       "name": "Jonathan Britton",
-       "github": "Jbritttt"
-     },
-     {
-        "name": "Sampurna Chapagain",
-        "github": "SampurnaC"
-     },
-     {
-       "name": "Timothy Le",
-       "github": "Peesh98"
-     }
+   { 
+     "name": "Jonathan Britton",
+     "github": "Jbritttt"
+   },
+   {
+      "name": "Sampurna Chapagain",
+      "github": "SampurnaC"
+   },
+   {
+     "name": "Karolina Quigley",
+     "github": "codingkompot"
+   },
+   {
+     "name": "Timothy Le",
+     "github": "Peesh98"
+   }
   ]
 }
