@@ -12,87 +12,203 @@
   "students": [
     {
       "name": "Tom Millington",
-      "github": "millman97"
+      "github": "millman97",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Chris Pucknell",
-      "github": "xargon666"
+      "github": "xargon666",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "hYQ9cn6DSeM"
+        }
+      ]
     },
     {
       "name": "Rebecca Blixt",
-      "github": "rebeccablixt"
+      "github": "rebeccablixt",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Aaron Marsh",
-      "github": "Aaron-Marsh"
+      "github": "Aaron-Marsh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Layla Southcombe",
-      "github": "LaylaSouthcombe"
+      "github": "LaylaSouthcombe",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Nsxs3TxEpBY"
+        }
+      ]
     },
     {
       "name": "George Miller-McCall",
-      "github": "GMillerMc"
+      "github": "GMillerMc",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "EkPqs-ZMAbQ"
+        }
+      ]
     },
     {
       "name": "Nasiima Mohamed",
-      "github": "Nasiima-Mohamed"
+      "github": "nasiima",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Alice Kreslins",
-      "github": "alicekres"
+      "github": "alicekres",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "0NHZDksy0zY"
+        }
+      ]
     },
     {
       "name": "Billie Dartnell",
-      "github": "dartbill"
+      "github": "dartbill",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Shoreen Beckford",
-      "github": "shoreenb"
+      "github": "shoreenb",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ali Hamed",
-      "github": "alihamedali96"
+      "github": "alihamedali96",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Igor Mirowski",
-      "github": "Igormirowski"
+      "github": "Igormirowski",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Gioele Montis",
-      "github": "Gioele-M"
-    },
-    {
-      "name": "Gary Neill",
-      "github": "TurtleScouting"
+      "github": "Gioele-M",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sam Hardiment",
-      "github": "SamHardiment"
+      "github": "SamHardiment",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "25PkcSJgrIs"
+        }
+      ]
     },
     {
       "name": "Nadir Khan",
-      "github": "Nadirkhan98"
+      "github": "Nadirkhan98",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "William Sessions",
-      "github": "Izgardon"
+      "github": "Izgardon",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Hughes",
-      "github": "tomhughes87"
+      "github": "tomhughes87",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Amir Ali",
-      "github": "aha000111"
+      "github": "aha000111",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nasim Bilal",
-      "github": "n451m"
+      "github": "n451m",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Matteo Buscaroli",
-      "github": "buscaroli"
+      "github": "buscaroli",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
