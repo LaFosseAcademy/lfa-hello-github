@@ -37,17 +37,21 @@
        "name": "Joshua Warner",
        "github": "JoshPWarner"
     },
-     { 
-       "name": "Jonathan Britton",
-       "github": "Jbritttt"
-     },
-     {
-        "name": "Sampurna Chapagain",
-        "github": "SampurnaC"
-     },
-     {
-       "name": "Karolina Quigley",
-       "github": "codingkompot"
-     }
+   { 
+     "name": "Jonathan Britton",
+     "github": "Jbritttt"
+   },
+   {
+      "name": "Sampurna Chapagain",
+      "github": "SampurnaC"
+   },
+   {
+     "name": "Karolina Quigley",
+     "github": "codingkompot"
+   },
+   {
+     "name": "Timothy Le",
+     "github": "Peesh98"
+   }
   ]
 }
