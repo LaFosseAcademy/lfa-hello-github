@@ -77,7 +77,10 @@
     },
     {
       "name": "Wing Yuen",
-      "github": "wingyuen2022"
+      "github": "wingyuen2022",
+	"materials": [
+		{"type": "cv"}
+	]
     },
     {
       "name": "Richard Sigl",
