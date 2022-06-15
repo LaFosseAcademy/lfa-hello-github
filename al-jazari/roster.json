@@ -28,7 +28,12 @@
     },
     {
       "name": "Hanibal Brhanu",
-      "github": "brhanuh"
+      "github": "brhanuh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Vlada Solomiana",
