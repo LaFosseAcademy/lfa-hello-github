@@ -79,7 +79,12 @@
     },
     {
       "name": "Summira Hussain",
-      "github": "sumshuss"
+      "github": "sumshuss",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Edgar Ruiz",
