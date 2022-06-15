@@ -52,7 +52,12 @@
     },
     {
       "name": "Ben Tidball",
-      "github": "BenTidball"
+      "github": "BenTidball",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Marie-Sophie Capel-Duran",
