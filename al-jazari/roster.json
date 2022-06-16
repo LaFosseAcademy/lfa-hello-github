@@ -1,7 +1,7 @@
 {
-    "namesake": {
+  "namesake": {
     "name": "Ismail Al-Jazari",
-    "imageUrl": "",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6022486?s=280&v=4",
     "materials": [
       {
         "type": "video",
@@ -16,7 +16,12 @@
     },
     {
       "name": "Terry Fallows",
-      "github": "TheWeion"
+      "github": "TheWeion",
+    	"materials": [
+        {
+          "type": "cv"
+        }
+    ]
     },
     {
       "name": "Samantha Dorrell",
@@ -25,6 +30,83 @@
     {
       "name": "Anna Kunta",
       "github": "Anka21"
+    },
+    {
+      "name": "Hanibal Brhanu",
+      "github": "brhanuh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Vlada Solomiana",
+      "github": "solo-vlada"
+    },
+    {
+      "name": "Ayoub Laissaoui",
+      "github": "NovaDA"
+    },
+    {
+      "name": "Tom Hacker",
+      "github": "TommyHacker"
+    },
+    {
+      "name": "Nathan Olds",
+      "github": "nathanolds"
+    },
+    {
+      "name": "Dakshitha Makulugollage",
+      "github": "Dakz1"
+    },
+    {
+      "name": "Ben Tidball",
+      "github": "BenTidball",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Marie-Sophie Capel-Duran",
+      "github": "mariesophiecd"
+    },
+    {
+      "name": "Aleksandra Opacic",
+      "github": "Aleopaa"
+    },
+    {
+      "name": "Summira Hussain",
+      "github": "sumshuss"
+    },
+    {
+      "name": "Edgar Ruiz",
+      "github": "CrookedTimber"
+    },
+    {
+      "name": "Wing Yuen",
+      "github": "wingyuen2022",
+	"materials": [
+		{"type": "cv"}
+	]
+    },
+    {
+      "name": "Richard Sigl",
+      "github": "sigltech"
+    },
+    {
+      "name": "Abigail Shadare",
+      "github": "abscoding"
+    },
+    {
+      "name": "Syed Javaid",
+      "github": "syedmjavaid"
+    },
+    {
+      "name": "Stuart Judd",
+      "github": "SuperBrava"
     }
   ]
 }
