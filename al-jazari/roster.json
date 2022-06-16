@@ -25,7 +25,12 @@
     },
     {
       "name": "Samantha Dorrell",
-      "github": "Tari38"
+      "github": "Tari38",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anna Kunta",
