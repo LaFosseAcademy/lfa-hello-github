@@ -29,7 +29,12 @@
     },
     {
       "name": "Anna Kunta",
-      "github": "Anka21"
+      "github": "Anka21",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hanibal Brhanu",
