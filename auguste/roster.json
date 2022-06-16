@@ -46,6 +46,10 @@
       "materials": [
         {
           "type": "cv"
+        }, 
+        {
+          "type": "portfolio",
+          "url": "https://rebecca-blixt-portfolio.netlify.app/"
         }
       ]
     },
