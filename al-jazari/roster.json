@@ -75,7 +75,12 @@
     },
     {
       "name": "Aleksandra Opacic",
-      "github": "Aleopaa"
+      "github": "Aleopaa",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Summira Hussain",
