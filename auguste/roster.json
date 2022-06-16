@@ -16,6 +16,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QYESTxrSKYc"
         }
       ]
     },
@@ -25,6 +29,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "hYQ9cn6DSeM"
         }
       ]
     },
@@ -43,6 +51,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NB05CGLfsqI"
         }
       ]
     },
@@ -52,6 +64,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Nsxs3TxEpBY"
         }
       ]
     },
@@ -61,6 +77,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "EkPqs-ZMAbQ"
         }
       ]
     },
@@ -79,6 +99,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "0NHZDksy0zY"
         }
       ]
     },
@@ -97,6 +121,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "RtTsWzXQSIY"
         }
       ]
     },
@@ -115,6 +143,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+         {
+          "type": "video",
+          "url": "5YTwTzD5JdE"
         }
       ]
     },
@@ -133,6 +165,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "25PkcSJgrIs"
         }
       ]
     },
@@ -187,7 +223,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+	{
+	  "type": "video",
+	  "url": "8U5MsYTMoS4"
+	}
       ]
     }
   ]
