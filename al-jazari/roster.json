@@ -50,7 +50,12 @@
     },
     {
       "name": "Tom Hacker",
-      "github": "TommyHacker"
+      "github": "TommyHacker",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Nathan Olds",
