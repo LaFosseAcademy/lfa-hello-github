@@ -83,6 +83,10 @@
         {
           "type": "video",
           "url": "0NHZDksy0zY"
+        },
+        { 
+          "type": "portfolio",
+          "url": "https://alice-kreslins-portfolio.netlify.app" 
         }
       ]
     },
