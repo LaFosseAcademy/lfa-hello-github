@@ -12,11 +12,33 @@
   "students": [
     {
       "name": "Tom Millington",
-      "github": "millman97"
+      "github": "millman97",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QYESTxrSKYc"
+        }
+      ]
     },
     {
       "name": "Chris Pucknell",
-      "github": "xargon666"
+      "github": "xargon666",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "hYQ9cn6DSeM"
+        },
+        {
+          "type": "portfolio", 
+          "url": "http://chrispymedia.co.uk/"
+        }
+      ]
     },
     {
       "name": "Rebecca Blixt",
@@ -24,6 +46,10 @@
       "materials": [
         {
           "type": "cv"
+        }, 
+        {
+          "type": "portfolio",
+          "url": "https://rebecca-blixt-portfolio.netlify.app/"
         }
       ]
     },
@@ -33,6 +59,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NB05CGLfsqI"
         }
       ]
     },
@@ -42,12 +72,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Nsxs3TxEpBY"
         }
       ]
     },
     {
       "name": "George Miller-McCall",
-      "github": "GMillerMc"
+      "github": "GMillerMc",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "EkPqs-ZMAbQ"
+        }
+      ]
     },
     {
       "name": "Alice Kreslins",
@@ -55,6 +98,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "0NHZDksy0zY"
         }
       ]
     },
@@ -82,11 +129,29 @@
     },
     {
       "name": "Shoreen Beckford",
-      "github": "shoreenb"
+      "github": "shoreenb",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "RtTsWzXQSIY"
+        },
+        { 
+          "type": "portfolio", 
+          "url": "https://shoreenbeckford.netlify.app/"
+        }
+      ]
     },
     {
       "name": "Ali Hamed",
-      "github": "alihamedali96"
+      "github": "alihamedali96",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Igor Mirowski",
@@ -94,12 +159,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+         {
+          "type": "video",
+          "url": "5YTwTzD5JdE"
         }
       ]
     },
     {
       "name": "Gioele Montis",
-      "github": "Gioele-M"
+      "github": "Gioele-M",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "6sOXcRbhhOU"
+        }
+      ]
     },
     {
       "name": "Sam Hardiment",
@@ -107,12 +185,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "25PkcSJgrIs"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://github.com/SamHardiment/Portfolio"
         }
       ]
     },
     {
       "name": "Nadir Khan",
-      "github": "Nadirkhan98"
+      "github": "Nadirkhan98",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "William Sessions",
@@ -125,15 +216,30 @@
     },
     {
       "name": "Tom Hughes",
-      "github": "tomhughes87"
+      "github": "tomhughes87",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Amir Ali",
-      "github": "aha000111"
+      "github": "aha000111",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nasim Bilal",
-      "github": "n451m"
+      "github": "n451m",
+       "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Matteo Buscaroli",
@@ -141,7 +247,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+	{
+	  "type": "video",
+	  "url": "8U5MsYTMoS4"
+	}
       ]
     }
   ]

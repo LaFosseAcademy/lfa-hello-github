@@ -16,19 +16,39 @@
     },
     {
       "name": "Terry Fallows",
-      "github": "TheWeion"
+      "github": "TheWeion",
+    	"materials": [
+        {
+          "type": "cv"
+        }
+    ]
     },
     {
       "name": "Samantha Dorrell",
-      "github": "Tari38"
+      "github": "Tari38",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anna Kunta",
-      "github": "Anka21"
+      "github": "Anka21",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hanibal Brhanu",
-      "github": "brhanuh"
+      "github": "brhanuh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Vlada Solomiana",
@@ -40,7 +60,12 @@
     },
     {
       "name": "Tom Hacker",
-      "github": "TommyHacker"
+      "github": "TommyHacker",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Nathan Olds",
@@ -52,7 +77,12 @@
     },
     {
       "name": "Ben Tidball",
-      "github": "BenTidball"
+      "github": "BenTidball",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Marie-Sophie Capel-Duran",
@@ -60,11 +90,21 @@
     },
     {
       "name": "Aleksandra Opacic",
-      "github": "Aleopaa"
+      "github": "Aleopaa",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Summira Hussain",
-      "github": "sumshuss"
+      "github": "sumshuss",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Edgar Ruiz",
@@ -72,7 +112,10 @@
     },
     {
       "name": "Wing Yuen",
-      "github": "wingyuen2022"
+      "github": "wingyuen2022",
+	"materials": [
+		{"type": "cv"}
+	]
     },
     {
       "name": "Richard Sigl",
@@ -88,7 +131,12 @@
     },
     {
       "name": "Stuart Judd",
-      "github": "SuperBrava"
+      "github": "SuperBrava",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
