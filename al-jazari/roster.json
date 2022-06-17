@@ -131,7 +131,12 @@
     },
     {
       "name": "Stuart Judd",
-      "github": "SuperBrava"
+      "github": "SuperBrava",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
