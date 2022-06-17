@@ -42,7 +42,12 @@
     },
     {
       "name": "Vlada Solomiana",
-      "github": "solo-vlada"
+      "github": "solo-vlada",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ayoub Laissaoui",
