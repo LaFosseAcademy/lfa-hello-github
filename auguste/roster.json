@@ -93,15 +93,6 @@
       ]
     },
     {
-      "name": "Nasiima Mohamed",
-      "github": "nasiima",
-      "materials": [
-        {
-          "type": "cv"
-        }
-      ]
-    },
-    {
       "name": "Alice Kreslins",
       "github": "alicekres",
       "materials": [
@@ -120,6 +111,19 @@
       "materials": [
         {
           "type": "cv"
+        }
+      ]
+    },
+     {
+      "name": "Nasiima Mohamed",
+      "github": "nasiima",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "wWs-w1AZE_U"
         }
       ]
     },
