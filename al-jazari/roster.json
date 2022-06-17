@@ -86,7 +86,12 @@
     },
     {
       "name": "Marie-Sophie Capel-Duran",
-      "github": "mariesophiecd"
+      "github": "mariesophiecd",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Aleksandra Opacic",
