@@ -263,6 +263,10 @@
 	{
 	  "type": "video",
 	  "url": "8U5MsYTMoS4"
+	},
+	{
+	  "type": "portfolio",
+	  "url": "https://luminous-chimera-eddc04.netlify.app/"
 	}
       ]
     }
