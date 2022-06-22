@@ -35,7 +35,7 @@
           "url": "hYQ9cn6DSeM"
         },
         {
-          "type": "portfolio", 
+          "type": "portfolio",
           "url": "http://chrispymedia.co.uk/"
         }
       ]
@@ -46,7 +46,7 @@
       "materials": [
         {
           "type": "cv"
-        }, 
+        },
         {
           "type": "portfolio",
           "url": "https://rebecca-blixt-portfolio.netlify.app/"
@@ -103,9 +103,9 @@
           "type": "video",
           "url": "0NHZDksy0zY"
         },
-        { 
+        {
           "type": "portfolio",
-          "url": "https://alice-kreslins-portfolio.netlify.app" 
+          "url": "https://alice-kreslins-portfolio.netlify.app"
         }
       ]
     },
@@ -115,10 +115,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://billiedartnell.netlify.app/"
         }
       ]
     },
-     {
+    {
       "name": "Nasiima Mohamed",
       "github": "nasiima",
       "materials": [
@@ -142,8 +146,8 @@
           "type": "video",
           "url": "RtTsWzXQSIY"
         },
-        { 
-          "type": "portfolio", 
+        {
+          "type": "portfolio",
           "url": "https://shoreenbeckford.netlify.app/"
         }
       ]
@@ -151,11 +155,11 @@
     {
       "name": "Ali Hamed",
       "github": "alihamedali96",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
         },
-         {
+        {
           "type": "video",
           "url": "uz0PHy_pGpg"
         }
@@ -168,7 +172,7 @@
         {
           "type": "cv"
         },
-         {
+        {
           "type": "video",
           "url": "5YTwTzD5JdE"
         }
@@ -207,7 +211,7 @@
     {
       "name": "Nadir Khan",
       "github": "Nadirkhan98",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
         }
@@ -221,15 +225,15 @@
           "type": "cv"
         },
         {
-          "type":"portfolio",
-          "url":"https://www.williamsessions.com/index.php"
+          "type": "portfolio",
+          "url": "https://www.williamsessions.com/index.php"
         }
       ]
     },
     {
       "name": "Tom Hughes",
       "github": "tomhughes87",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
         },
@@ -251,11 +255,11 @@
     {
       "name": "Nasim Bilal",
       "github": "n451m",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
         },
-	 {
+        {
           "type": "video",
           "url": "jBs9AA0GCXg"
         }
@@ -268,14 +272,14 @@
         {
           "type": "cv"
         },
-	{
-	  "type": "video",
-	  "url": "8U5MsYTMoS4"
-	},
-	{
-	  "type": "portfolio",
-	  "url": "https://luminous-chimera-eddc04.netlify.app/"
-	}
+        {
+          "type": "video",
+          "url": "8U5MsYTMoS4"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://luminous-chimera-eddc04.netlify.app/"
+        }
       ]
     }
   ]
