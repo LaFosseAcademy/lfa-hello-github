@@ -142,7 +142,12 @@
     },
     {
       "name": "Syed Javaid",
-      "github": "syedmjavaid"
+      "github": "syedmjavaid",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Stuart Judd",
