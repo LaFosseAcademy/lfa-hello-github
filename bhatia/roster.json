@@ -1,8 +1,18 @@
 {
-    "students": [
-        {
-          "name": "Ioana Gheorghias",
-          "github": "ioanagh27"
-        }
+  "namesake": {
+    "name": "Sabeer Bhatia",
+    "imageUrl": "",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "Ioana Gheorghias",
+      "github": "ioanagh27"
+    }
+  ]
 }
