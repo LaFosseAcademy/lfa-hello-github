@@ -225,11 +225,15 @@
       ]
     },
     {
-      "name": "Nadir Khan",
+      "name": "Nadir Ahmed Khan",
       "github": "Nadirkhan98",
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://app.netlify.com/sites/nadirkhan98-port/overview"
         }
       ]
     },
