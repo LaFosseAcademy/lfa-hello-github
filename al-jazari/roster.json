@@ -16,23 +16,39 @@
     },
     {
       "name": "Terry Fallows",
-      "github": "TheWeion"
+      "github": "TheWeion",
+    	"materials": [
+        {
+          "type": "cv"
+        }
+    ]
     },
     {
       "name": "Samantha Dorrell",
-      "github": "Tari38"
-    },
-    {
-      "name": "Anna Kunta",
-      "github": "Anka21"
+      "github": "Tari38",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hanibal Brhanu",
-      "github": "brhanuh"
+      "github": "brhanuh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Vlada Solomiana",
-      "github": "solo-vlada"
+      "github": "solo-vlada",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ayoub Laissaoui",
@@ -40,39 +56,75 @@
     },
     {
       "name": "Tom Hacker",
-      "github": "TommyHacker"
+      "github": "TommyHacker",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
-      "nathan": "Nathan Olds",
+      "name": "Nathan Olds",
       "github": "nathanolds"
     },
     {
       "name": "Dakshitha Makulugollage",
-      "github": "Dakz1"
+      "github": "Dakz1",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ben Tidball",
-      "github": "BenTidball"
+      "github": "BenTidball",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Marie-Sophie Capel-Duran",
-      "github": "mariesophiecd"
+      "github": "mariesophiecd",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Aleksandra Opacic",
-      "github": "Aleopaa"
+      "github": "Aleopaa",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Summira Hussain",
-      "github": "sumshuss"
+      "github": "sumshuss",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Edgar Ruiz",
-      "github": "CrookedTimber"
+      "github": "CrookedTimber",
+      "materials": [
+        {"type": "cv"}
+      ]
     },
     {
       "name": "Wing Yuen",
-      "github": "wingyuen2022"
+      "github": "wingyuen2022",
+	"materials": [
+		{"type": "cv"}
+	]
     },
     {
       "name": "Richard Sigl",
@@ -81,6 +133,24 @@
     {
       "name": "Abigail Shadare",
       "github": "abscoding"
+    },
+    {
+      "name": "Syed Javaid",
+      "github": "syedmjavaid",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Stuart Judd",
+      "github": "SuperBrava",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
