@@ -28,7 +28,10 @@
     },
     {
       "name": "Dobre Daiana-Melania",
-      "github": "DaianaSHA256"
+      "github": "DaianaSHA256",
+      "materials" : [{
+        "type": "cv"
+      }]
     },
     {
       "name": "Rameez Khawaja",
