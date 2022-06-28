@@ -114,7 +114,10 @@
     },
     {
       "name": "Edgar Ruiz",
-      "github": "CrookedTimber"
+      "github": "CrookedTimber",
+      "materials": [
+        {"type": "cv"}
+      ]
     },
     {
       "name": "Wing Yuen",
