@@ -125,7 +125,12 @@
     },
     {
       "name": "Richard Sigl",
-      "github": "sigltech"
+      "github": "sigltech",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Abigail Shadare",
