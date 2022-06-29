@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Aaron Smith",
-      "github": "Fastlearner999"
+      "github": "Fastlearner999",
+      "materials": [
+        {
+          "type": "cv"
+        }
+    ]
     },
     {
       "name": "Terry Fallows",
