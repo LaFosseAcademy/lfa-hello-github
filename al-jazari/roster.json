@@ -52,7 +52,12 @@
     },
     {
       "name": "Ayoub Laissaoui",
-      "github": "NovaDA"
+      "github": "NovaDA",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Hacker",
