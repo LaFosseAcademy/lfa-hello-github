@@ -147,7 +147,12 @@
     },
     {
       "name": "Abigail Shadare",
-      "github": "abscoding"
+      "github": "abscoding",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Syed Javaid",
