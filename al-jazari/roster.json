@@ -65,7 +65,12 @@
     },
     {
       "name": "Nathan Olds",
-      "github": "nathanolds"
+      "github": "nathanolds",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dakshitha Makulugollage",
