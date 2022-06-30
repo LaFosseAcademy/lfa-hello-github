@@ -12,43 +12,84 @@
   "students": [
     {
       "name": "Aaron Smith",
-      "github": "Fastlearner999"
+      "github": "Fastlearner999",
+      "materials": [
+        {
+          "type": "cv"
+        }
+    ]
     },
     {
       "name": "Terry Fallows",
-      "github": "TheWeion"
+      "github": "TheWeion",
+    	"materials": [
+        {
+          "type": "cv"
+        }
+    ]
     },
     {
       "name": "Samantha Dorrell",
-      "github": "Tari38"
-    },
-    {
-      "name": "Anna Kunta",
-      "github": "Anka21"
+      "github": "Tari38",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hanibal Brhanu",
-      "github": "brhanuh"
+      "github": "brhanuh",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Vlada Solomiana",
-      "github": "solo-vlada"
+      "github": "solo-vlada",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ayoub Laissaoui",
-      "github": "NovaDA"
+      "github": "NovaDA",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Hacker",
-      "github": "TommyHacker"
+      "github": "TommyHacker",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Nathan Olds",
-      "github": "nathanolds"
+      "github": "nathanolds",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dakshitha Makulugollage",
-      "github": "Dakz1"
+      "github": "Dakz1",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ben Tidball",
@@ -63,39 +104,80 @@
     },
     {
       "name": "Marie-Sophie Capel-Duran",
-      "github": "mariesophiecd"
+      "github": "mariesophiecd",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Aleksandra Opacic",
-      "github": "Aleopaa"
+      "github": "Aleopaa",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Summira Hussain",
-      "github": "sumshuss"
+      "github": "sumshuss",
+      "materials": [
+        {
+            "type": "cv"
+        }
+      ]
     },
     {
       "name": "Edgar Ruiz",
-      "github": "CrookedTimber"
+      "github": "CrookedTimber",
+      "materials": [
+        {"type": "cv"}
+      ]
     },
     {
       "name": "Wing Yuen",
-      "github": "wingyuen2022"
+      "github": "wingyuen2022",
+	"materials": [
+		{"type": "cv"}
+	]
     },
     {
       "name": "Richard Sigl",
-      "github": "sigltech"
+      "github": "sigltech",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Abigail Shadare",
-      "github": "abscoding"
+      "github": "abscoding",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Syed Javaid",
-      "github": "syedmjavaid"
+      "github": "syedmjavaid",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Stuart Judd",
-      "github": "SuperBrava"
+      "github": "SuperBrava",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
