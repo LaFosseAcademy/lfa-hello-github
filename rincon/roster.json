@@ -11,10 +11,6 @@
   },
   "students": [
     {
-      "name": "Dmitry Fakanov",
-      "github": "dimiuk"
-    },
-    {
       "name": "Jason Chan",
       "github": "jasonchanhk"
     },
@@ -39,10 +35,6 @@
       "github": "JoshPWarner"
     },
     {
-      "name": "Jonathan Britton",
-      "github": "Jbritttt"
-    },
-    {
       "name": "Sampurna Chapagain",
       "github": "SampurnaC"
     },
@@ -61,6 +53,18 @@
      {
        "name": "Aditi Parikh",
        "github": "aditi2605"
+     },
+    {
+       "name": "James Thompson",
+       "github": "jamesthompson02"
+     },
+     {
+      "name": "Josh Bankole-Williams",
+      "github": "sknvbj"
+     },
+     {
+      "name": "Hassan Naeem",
+      "github": "HassanEng12345"
      }
   ]
 }
