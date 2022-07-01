@@ -248,6 +248,10 @@
           "type": "cv"
         },
         {
+          "type": "video",
+          "url": "LTIGOse05o0"
+        },
+        {
           "type": "portfolio",
           "url": "https://nadirkhan98-port.netlify.app/"
         }
