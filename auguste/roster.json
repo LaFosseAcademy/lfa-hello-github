@@ -295,8 +295,12 @@
           "type": "cv"
         },
         {
+          "type": "video",
+          "url": "WY2OQE8slkw"
+        },
+        {
           "type": "portfolio",
-          "url": "https://willowy-malasada-763794.netlify.app/"
+          "url": "https://tiny-kangaroo-3fe5e0.netlify.app/"
         }
       ]
     },
