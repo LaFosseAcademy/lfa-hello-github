@@ -33,8 +33,7 @@
       "github": "Tari38",
       "materials": [
         {
-          "type": "cv",
-          "url": "https://youtu.be/ZwhB5JfQbEQ"
+          "type": "cv"
         }
       ]
     },
@@ -80,7 +79,10 @@
       "materials": [
         {
           "type": "cv"
-
+        },
+        {
+          "type": "video",
+          "url": "https://youtu.be/ZwhB5JfQbEQ"
         }
       ]
     },
