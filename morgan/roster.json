@@ -23,16 +23,15 @@
       "github": "batuncer"
     },
     {
-      "name": "Mihaly Benyi",
-      "github": "benyim27"
-    },
-    {
       "name": "Harrison Grant",
       "github": "harryg15"
     },
     {
       "name": "Dobre Daiana-Melania",
-      "github": "DaianaSHA256"
+      "github": "DaianaSHA256",
+      "materials" : [{
+        "type": "cv"
+      }]
     },
     {
       "name": "Rameez Khawaja",
@@ -69,10 +68,6 @@
     {
       "name": "Uzair Akhtar",
       "github": "uzair14"
-    },
-    {
-      "name": "Sanna Naseem",
-      "github": "Sanna33"
     },
     {
       "name": "Elliot Heath",

@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Aaron Smith",
-      "github": "Fastlearner999"
+      "github": "Fastlearner999",
+      "materials": [
+        {
+          "type": "cv"
+        }
+    ]
     },
     {
       "name": "Terry Fallows",
@@ -26,15 +31,6 @@
     {
       "name": "Samantha Dorrell",
       "github": "Tari38",
-      "materials": [
-        {
-          "type": "cv"
-        }
-      ]
-    },
-    {
-      "name": "Anna Kunta",
-      "github": "Anka21",
       "materials": [
         {
           "type": "cv"
@@ -61,7 +57,12 @@
     },
     {
       "name": "Ayoub Laissaoui",
-      "github": "NovaDA"
+      "github": "NovaDA",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Hacker",
@@ -74,7 +75,12 @@
     },
     {
       "name": "Nathan Olds",
-      "github": "nathanolds"
+      "github": "nathanolds",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dakshitha Makulugollage",
@@ -123,7 +129,10 @@
     },
     {
       "name": "Edgar Ruiz",
-      "github": "CrookedTimber"
+      "github": "CrookedTimber",
+      "materials": [
+        {"type": "cv"}
+      ]
     },
     {
       "name": "Wing Yuen",
@@ -134,11 +143,21 @@
     },
     {
       "name": "Richard Sigl",
-      "github": "sigltech"
+      "github": "sigltech",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Abigail Shadare",
-      "github": "abscoding"
+      "github": "abscoding",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Syed Javaid",

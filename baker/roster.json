@@ -22,8 +22,8 @@
           "url": "SMJkNFtIYTU"
         },
         {
-            "type": "portfolio",
-            "url": "https://chrisansteadportfolio.netlify.app/"
+          "type": "portfolio",
+          "url": "https://chrisansteadportfolio.netlify.app/"
         }
       ],
       "placement": true
@@ -97,7 +97,6 @@
           "type": "portfolio",
           "url": "https://zbrownportfolio.netlify.app"
         }
-        
       ],
       "placement": true
     },
@@ -166,8 +165,8 @@
           "url": "_n9lN-r-tXI"
         },
         {
-            "type": "portfolio",
-            "url": "https://zerh-portfolio.netlify.app/"
+          "type": "portfolio",
+          "url": "https://zerh-portfolio.netlify.app/"
         }
       ],
       "placement": true
@@ -184,8 +183,8 @@
           "url": "gwfHZTIdGPE"
         },
         {
-            "type": "portfolio",
-            "url": "https://katie-chedgzoy.netlify.app/"
+          "type": "portfolio",
+          "url": "https://katie-chedgzoy.netlify.app/"
         }
       ],
       "placement": true
@@ -194,17 +193,17 @@
       "name": "Oluwaseun Akano",
       "github": "olu-akano",
       "materials": [
-          {
-              "type":"cv"
-          },
-          {
-              "type":"video",
-              "url":"l86HZi5nYYA"
-          }, 
-          {
-              "type": "portfolio",
-              "url": "https://oluwaseun-portfolio.netlify.app/"
-          }
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "l86HZi5nYYA"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://oluwaseun-portfolio.netlify.app/"
+        }
       ],
       "placement": true
     },
@@ -239,7 +238,7 @@
         },
         {
           "type": "portfolio",
-          "url":"https://james-pollington-portfolio.netlify.app"
+          "url": "https://james-pollington-portfolio.netlify.app"
         }
       ],
       "placement": true
@@ -255,27 +254,9 @@
           "type": "video",
           "url": "vj1r_YXBWjI"
         },
-        { 
-          "type": "portfolio", 
-          "url": "https://zainl-portfoliop.netlify.app/" 
-        }
-      ],
-      "placement": true
-    },
-    {
-      "name": "Saja Aabith",
-      "github": "saja-aabith",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "kJmbV73w3UQ"
-        },
         {
           "type": "portfolio",
-          "url": "https://saja-aabith.netlify.app/"
+          "url": "https://zainl-portfoliop.netlify.app/"
         }
       ],
       "placement": true
@@ -311,7 +292,7 @@
         },
         {
           "type": "portfolio",
-          "url":"https://camsgeneralportfolio99.netlify.app/"
+          "url": "https://camsgeneralportfolio99.netlify.app/"
         }
       ],
       "placement": true
