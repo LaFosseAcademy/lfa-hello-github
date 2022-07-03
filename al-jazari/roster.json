@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Aaron Smith",
-      "github": "Fastlearner999"
+      "github": "Fastlearner999",
+      "materials": [
+        {
+          "type": "cv"
+        }
+    ]
     },
     {
       "name": "Terry Fallows",
@@ -52,7 +57,12 @@
     },
     {
       "name": "Ayoub Laissaoui",
-      "github": "NovaDA"
+      "github": "NovaDA",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Hacker",
@@ -65,7 +75,12 @@
     },
     {
       "name": "Nathan Olds",
-      "github": "nathanolds"
+      "github": "nathanolds",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dakshitha Makulugollage",
@@ -128,11 +143,21 @@
     },
     {
       "name": "Richard Sigl",
-      "github": "sigltech"
+      "github": "sigltech",
+      "materials": [
+        {
+            "type": "cv"
+        }
+    ]
     },
     {
       "name": "Abigail Shadare",
-      "github": "abscoding"
+      "github": "abscoding",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Syed Javaid",
