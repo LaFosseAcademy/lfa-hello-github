@@ -17,12 +17,12 @@
         {
           "type": "cv"
         }
-    ]
+      ]
     },
     {
       "name": "Terry Fallows",
       "github": "TheWeion",
-    	"materials": [
+      "materials": [
         {
           "type": "cv"
         },
@@ -30,7 +30,7 @@
           "type": "video",
           "url": "mEQL95h_vQg"
         }
-    ]
+      ]
     },
     {
       "name": "Samantha Dorrell",
@@ -73,7 +73,15 @@
       "github": "TommyHacker",
       "materials": [
         {
-          "type":"cv"
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://tom-hacker.com"
+        },
+        {
+          "type": "video",
+          "url": "https://youtu.be/cjUREfl6i64"
         }
       ]
     },
@@ -127,7 +135,7 @@
       "github": "sumshuss",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         }
       ]
     },
@@ -135,24 +143,28 @@
       "name": "Edgar Ruiz",
       "github": "CrookedTimber",
       "materials": [
-        {"type": "cv"}
+        {
+          "type": "cv"
+        }
       ]
     },
     {
       "name": "Wing Yuen",
       "github": "wingyuen2022",
-	"materials": [
-		{"type": "cv"}
-	]
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Richard Sigl",
       "github": "sigltech",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         }
-    ]
+      ]
     },
     {
       "name": "Abigail Shadare",
