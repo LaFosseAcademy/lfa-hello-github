@@ -131,10 +131,11 @@
       "name": "Edgar Ruiz",
       "github": "CrookedTimber",
       "materials": [
-        {"type": "cv"},{
+        {"type": "cv"},
+        {
           "type": "video",
           "url": "Tejs02bYKAY"
-      }
+        }
       ]
     },
     {
