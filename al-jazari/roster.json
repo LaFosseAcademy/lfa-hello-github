@@ -159,8 +159,10 @@
       "name": "Edgar Ruiz",
       "github": "CrookedTimber",
       "materials": [
+        {"type": "cv"},
         {
-          "type": "cv"
+          "type": "video",
+          "url": "Tejs02bYKAY"
         }
       ]
     },
@@ -168,9 +170,8 @@
       "name": "Wing Yuen",
       "github": "wingyuen2022",
       "materials": [
-        {
-          "type": "cv"
-        }
+        {"type": "cv"},
+        {"type": "video", "url": "-2Zdv5sGqOk"}		
       ]
     },
     {
@@ -178,7 +179,11 @@
       "github": "sigltech",
       "materials": [
         {
-          "type": "cv"
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "cgucNsAEmM8"
         }
       ]
     },
