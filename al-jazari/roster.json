@@ -16,17 +16,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9M4Zzk8aOOk"
         }
-    ]
+      ]
     },
     {
       "name": "Terry Fallows",
       "github": "TheWeion",
-    	"materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "mEQL95h_vQg"
         }
-    ]
+      ]
     },
     {
       "name": "Samantha Dorrell",
@@ -43,6 +51,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "yu2n2NXgZg4"
         }
       ]
     },
@@ -52,6 +64,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "JgbO_hptM1Y"
         }
       ]
     },
@@ -69,7 +85,15 @@
       "github": "TommyHacker",
       "materials": [
         {
-          "type":"cv"
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://tom-hacker.com"
+        },
+        {
+          "type": "video",
+          "url": "https://youtu.be/cjUREfl6i64"
         }
       ]
     },
@@ -79,6 +103,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "https://youtu.be/ZwhB5JfQbEQ"
         }
       ]
     },
@@ -106,6 +134,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"https://youtu.be/h3ZDWDydc3M"
         }
       ]
     },
@@ -123,7 +155,7 @@
       "github": "sumshuss",
       "materials": [
         {
-            "type": "cv"
+          "type": "cv"
         }
       ]
     },
@@ -141,9 +173,10 @@
     {
       "name": "Wing Yuen",
       "github": "wingyuen2022",
-	"materials": [
-		{"type": "cv"}
-	]
+      "materials": [
+        {"type": "cv"},
+        {"type": "video", "url": "-2Zdv5sGqOk"}		
+      ]
     },
     {
       "name": "Richard Sigl",
@@ -151,8 +184,12 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "cgucNsAEmM8"
         }
-    ]
+      ]
     },
     {
       "name": "Abigail Shadare",
