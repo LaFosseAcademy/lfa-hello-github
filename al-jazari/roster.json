@@ -172,9 +172,8 @@
       "name": "Wing Yuen",
       "github": "wingyuen2022",
       "materials": [
-        {
-          "type": "cv"
-        }
+        {"type": "cv"},
+        {"type": "video", "url": "-2Zdv5sGqOk"}		
       ]
     },
     {
