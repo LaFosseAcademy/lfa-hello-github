@@ -181,7 +181,11 @@
       "github": "sigltech",
       "materials": [
         {
-          "type": "cv"
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "cgucNsAEmM8"
         }
       ]
     },
