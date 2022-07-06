@@ -248,6 +248,10 @@
           "type": "cv"
         },
         {
+          "type": "video",
+          "url": "LTIGOse05o0"
+        },
+        {
           "type": "portfolio",
           "url": "https://nadirkhan98-port.netlify.app/"
         }
@@ -259,6 +263,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lBdd_vRsMkI"
         },
         {
           "type": "portfolio",
@@ -291,8 +299,12 @@
           "type": "cv"
         },
         {
+          "type": "video",
+          "url": "WY2OQE8slkw"
+        },
+        {
           "type": "portfolio",
-          "url": "https://willowy-malasada-763794.netlify.app/"
+          "url": "https://tiny-kangaroo-3fe5e0.netlify.app/"
         }
       ]
     },
@@ -322,7 +334,7 @@
         },
         {
           "type": "portfolio",
-          "url": "https://luminous-chimera-eddc04.netlify.app/"
+          "url": "https://buscaroli.netlify.app/"
         }
       ]
     }
