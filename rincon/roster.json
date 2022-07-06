@@ -66,5 +66,10 @@
       "name": "Hassan Naeem",
       "github": "HassanEng12345"
      }
+  ],
+  "materials":[
+    {
+      "type2": "cv"
+    }
   ]
 }
