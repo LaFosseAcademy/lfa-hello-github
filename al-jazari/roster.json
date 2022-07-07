@@ -155,7 +155,11 @@
       "github": "sumshuss",
       "materials": [
         {
-          "type": "cv"
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "gAJqQY-U7CE"
         }
       ]
     },
