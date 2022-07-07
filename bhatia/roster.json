@@ -1,0 +1,62 @@
+{
+  "namesake": {
+    "name": "Sabeer Bhatia",
+    "imageUrl": "",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Ioana Gheorghias",
+      "github": "ioanagh27"
+    },
+    {
+      "name" : "Norbert Majer",
+      "github" : "azotamiota"
+    },
+    {
+      "name" : "Jonathan Britton",
+      "github" : "Jbritttt"
+    },
+    {
+      "name" : "Jason Paul Brooks",
+      "github" : "madCakes"
+    },
+    {
+      "name" : "Aggie Skorska",
+      "github" : "agiskorska"
+    },
+    {
+      "name" : "Edis Emin",
+      "github" : "edisemin"
+    },
+    {
+      "name" : "Callum Cheng",
+      "github": "CallumCheng"
+    },
+    {
+      "name" : "Bishal Rai",
+      "github": "B9ary01"
+    },
+    {
+      "name" : "Vivian Chinweze",
+      "github": "VioletViolaVi"
+    },
+    {
+      "name" : "Caroline Veloso",
+      "github" : "crlnvls"
+    },
+    {
+      "name" : "John Pascual",
+      "github": "tsmjohnpascual"
+    },
+    {
+      "name" : "Michael Mercieca",
+      "github" : "Mike-Mercieca"
+    }
+  ]
+}

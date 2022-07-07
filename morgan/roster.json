@@ -13,22 +13,10 @@
     {
       "name": "Florencia Pezcara",
       "github": "fpezcara"
-    }, 
-    {
-      "name": "Necip Yildizcan",
-      "github": "NecipYildizcan"
     },
     {
       "name": "Taro Schenker",
       "github": "TaroSchenker"
-    },
-    {
-      "name": "Baki Tuncer",
-      "github": "batuncer"
-    },
-    {
-      "name": "Mihaly Benyi",
-      "github": "benyim27"
     },
     {
       "name": "Harrison Grant",
@@ -36,7 +24,10 @@
     },
     {
       "name": "Dobre Daiana-Melania",
-      "github": "DaianaSHA256"
+      "github": "DaianaSHA256",
+      "materials" : [{
+        "type": "cv"
+      }]
     },
     {
       "name": "Rameez Khawaja",
@@ -48,7 +39,7 @@
     },
     {
       "name": "Vincent Okolo",
-      "github": "VAOkolo"	
+      "github": "VAOkolo"
     },
     {
       "name": "Reece Thatcher",
@@ -73,6 +64,10 @@
     {
       "name": "Uzair Akhtar",
       "github": "uzair14"
+    },
+    {
+      "name": "Elliot Heath",
+      "github": "eheath30"
     }
   ]
 }

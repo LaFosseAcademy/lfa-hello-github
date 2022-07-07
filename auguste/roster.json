@@ -20,6 +20,10 @@
         {
           "type": "video",
           "url": "QYESTxrSKYc"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://tom-millington.netlify.app/"
         }
       ]
     },
@@ -33,6 +37,10 @@
         {
           "type": "video",
           "url": "hYQ9cn6DSeM"
+        },
+        {
+          "type": "portfolio",
+          "url": "http://chrispymedia.co.uk/"
         }
       ]
     },
@@ -42,6 +50,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://rebecca-blixt-portfolio.netlify.app/"
         }
       ]
     },
@@ -55,6 +67,10 @@
         {
           "type": "video",
           "url": "NB05CGLfsqI"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://aaronmarsh.netlify.app/"
         }
       ]
     },
@@ -68,6 +84,10 @@
         {
           "type": "video",
           "url": "Nsxs3TxEpBY"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://laylasouthcombe.netlify.app"
         }
       ]
     },
@@ -81,15 +101,10 @@
         {
           "type": "video",
           "url": "EkPqs-ZMAbQ"
-        }
-      ]
-    },
-    {
-      "name": "Nasiima Mohamed",
-      "github": "nasiima",
-      "materials": [
+        },
         {
-          "type": "cv"
+          "type": "portfolio",
+          "url": "https://gmillermc.netlify.app/"
         }
       ]
     },
@@ -103,6 +118,10 @@
         {
           "type": "video",
           "url": "0NHZDksy0zY"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://alice-kreslins-portfolio.netlify.app"
         }
       ]
     },
@@ -112,6 +131,31 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "pHUFGS9a0ng"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://billiedartnell.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Nasiima Mohamed",
+      "github": "nasiima",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "wWs-w1AZE_U"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://nasiima-portfolio.netlify.app/"
         }
       ]
     },
@@ -125,15 +169,23 @@
         {
           "type": "video",
           "url": "RtTsWzXQSIY"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://shoreenbeckford.netlify.app/"
         }
       ]
     },
     {
       "name": "Ali Hamed",
       "github": "alihamedali96",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "uz0PHy_pGpg"
         }
       ]
     },
@@ -144,9 +196,13 @@
         {
           "type": "cv"
         },
-         {
+        {
           "type": "video",
           "url": "5YTwTzD5JdE"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://igor-mirowski-portfolio.netlify.app/"
         }
       ]
     },
@@ -156,6 +212,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "6sOXcRbhhOU"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://gioele-portfolio.netlify.app/"
         }
       ]
     },
@@ -169,15 +233,27 @@
         {
           "type": "video",
           "url": "25PkcSJgrIs"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://github.com/SamHardiment/Portfolio"
         }
       ]
     },
     {
       "name": "Nadir Khan",
       "github": "Nadirkhan98",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "LTIGOse05o0"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://nadirkhan98-port.netlify.app/"
         }
       ]
     },
@@ -187,15 +263,31 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lBdd_vRsMkI"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://www.williamsessions.com/index.php"
         }
       ]
     },
     {
       "name": "Tom Hughes",
       "github": "tomhughes87",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "rGvIh993bV4"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://tom-hughes-portfolio.netlify.app/"
         }
       ]
     },
@@ -205,15 +297,27 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "WY2OQE8slkw"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://tiny-kangaroo-3fe5e0.netlify.app/"
         }
       ]
     },
     {
       "name": "Nasim Bilal",
       "github": "n451m",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jBs9AA0GCXg"
         }
       ]
     },
@@ -224,10 +328,14 @@
         {
           "type": "cv"
         },
-	{
-	  "type": "video",
-	  "url": "8U5MsYTMoS4"
-	}
+        {
+          "type": "video",
+          "url": "8U5MsYTMoS4"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://buscaroli.netlify.app/"
+        }
       ]
     }
   ]
