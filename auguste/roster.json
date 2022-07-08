@@ -52,6 +52,10 @@
           "type": "cv"
         },
         {
+          "type": "video",
+          "url": "xMSc04rAcRE"
+        },
+        {
           "type": "portfolio",
           "url": "https://rebecca-blixt-portfolio.netlify.app/"
         }
@@ -236,7 +240,7 @@
         },
         {
           "type": "portfolio",
-          "url": "https://github.com/SamHardiment/Portfolio"
+          "url": "https://samghardiment.netlify.app/"
         }
       ]
     },
@@ -246,6 +250,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "LTIGOse05o0"
         },
         {
           "type": "portfolio",
@@ -259,6 +267,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lBdd_vRsMkI"
         },
         {
           "type": "portfolio",
@@ -326,7 +338,7 @@
         },
         {
           "type": "portfolio",
-          "url": "https://luminous-chimera-eddc04.netlify.app/"
+          "url": "https://buscaroli.netlify.app/"
         }
       ]
     }
