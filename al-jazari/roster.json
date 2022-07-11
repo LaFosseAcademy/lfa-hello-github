@@ -16,17 +16,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9M4Zzk8aOOk"
         }
-    ]
+      ]
     },
     {
       "name": "Terry Fallows",
       "github": "TheWeion",
-    	"materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "mEQL95h_vQg"
         }
-    ]
+      ]
     },
     {
       "name": "Samantha Dorrell",
@@ -43,6 +51,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "yu2n2NXgZg4"
         }
       ]
     },
@@ -52,6 +64,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "JgbO_hptM1Y"
         }
       ]
     },
@@ -61,6 +77,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "m7hG40JQZI"
         }
       ]
     },
@@ -69,7 +89,11 @@
       "github": "TommyHacker",
       "materials": [
         {
-          "type":"cv"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "cjUREfl6i64"
         }
       ]
     },
@@ -79,6 +103,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZwhB5JfQbEQ"
         }
       ]
     },
@@ -88,6 +116,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M9CQ90oQIcs"
         }
       ]
     },
@@ -106,6 +138,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"h3ZDWDydc3M"
         }
       ]
     },
@@ -115,6 +151,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type":"video",
+          "url": "jWoWZX_8jlk"
         }
       ]
     },
@@ -124,6 +164,10 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "gAJqQY-U7CE"
         }
       ]
     },
@@ -131,15 +175,20 @@
       "name": "Edgar Ruiz",
       "github": "CrookedTimber",
       "materials": [
-        {"type": "cv"}
+        {"type": "cv"},
+        {
+          "type": "video",
+          "url": "Tejs02bYKAY"
+        }
       ]
     },
     {
       "name": "Wing Yuen",
       "github": "wingyuen2022",
-	"materials": [
-		{"type": "cv"}
-	]
+      "materials": [
+        {"type": "cv"},
+        {"type": "video", "url": "-2Zdv5sGqOk"}		
+      ]
     },
     {
       "name": "Richard Sigl",
@@ -147,8 +196,12 @@
       "materials": [
         {
             "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "cgucNsAEmM8"
         }
-    ]
+      ]
     },
     {
       "name": "Abigail Shadare",
@@ -165,6 +218,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QKYxUiicKYY"
         }
       ]
     },
@@ -174,6 +231,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NJpqeMJe-ck"
         }
       ]
     }
