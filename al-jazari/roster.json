@@ -16,6 +16,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9M4Zzk8aOOk"
         }
       ]
     },
@@ -73,6 +77,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "m7hG40JQZI"
         }
       ]
     },
@@ -84,12 +92,8 @@
           "type": "cv"
         },
         {
-          "type": "portfolio",
-          "url": "https://tom-hacker.com"
-        },
-        {
           "type": "video",
-          "url": "https://youtu.be/cjUREfl6i64"
+          "url": "cjUREfl6i64"
         }
       ]
     },
@@ -102,7 +106,7 @@
         },
         {
           "type": "video",
-          "url": "https://youtu.be/ZwhB5JfQbEQ"
+          "url": "ZwhB5JfQbEQ"
         }
       ]
     },
@@ -112,6 +116,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M9CQ90oQIcs"
         }
       ]
     },
@@ -133,7 +141,7 @@
         },
         {
           "type":"video",
-          "url":"https://youtu.be/h3ZDWDydc3M"
+          "url":"h3ZDWDydc3M"
         }
       ]
     },
@@ -143,6 +151,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type":"video",
+          "url": "jWoWZX_8jlk"
         }
       ]
     },
@@ -151,7 +163,11 @@
       "github": "sumshuss",
       "materials": [
         {
-          "type": "cv"
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "gAJqQY-U7CE"
         }
       ]
     },
@@ -159,8 +175,10 @@
       "name": "Edgar Ruiz",
       "github": "CrookedTimber",
       "materials": [
+        {"type": "cv"},
         {
-          "type": "cv"
+          "type": "video",
+          "url": "Tejs02bYKAY"
         }
       ]
     },
@@ -168,9 +186,8 @@
       "name": "Wing Yuen",
       "github": "wingyuen2022",
       "materials": [
-        {
-          "type": "cv"
-        }
+        {"type": "cv"},
+        {"type": "video", "url": "-2Zdv5sGqOk"}		
       ]
     },
     {
@@ -178,7 +195,11 @@
       "github": "sigltech",
       "materials": [
         {
-          "type": "cv"
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "cgucNsAEmM8"
         }
       ]
     },
@@ -197,6 +218,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QKYxUiicKYY"
         }
       ]
     },
@@ -206,6 +231,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NJpqeMJe-ck"
         }
       ]
     }
