@@ -11,7 +11,8 @@
     },
     "students": [
       {
-        
+        "name": "Matthew Lo",
+        "github": "matthewlohl"
       }
     ]
 }
