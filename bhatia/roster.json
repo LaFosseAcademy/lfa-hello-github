@@ -48,7 +48,12 @@
     },
     {
       "name" : "Vivian Chinweze",
-      "github": "VioletViolaVi"
+      "github": "VioletViolaVi",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name" : "Caroline Veloso",
