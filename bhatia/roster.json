@@ -11,6 +11,11 @@
   },
   "students": [
     {
+      "name": "Pete Cunliffe",
+      "github": "codenameStarmunch"
+
+    },
+    {
       "name": "Ioana Gheorghias",
       "github": "ioanagh27"
     },
