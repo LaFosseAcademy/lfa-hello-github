@@ -16,6 +16,15 @@
 
     },
     {
+      "name" : "Caroline Veloso",
+      "github" : "crlnvls",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
       "name": "Ioana Gheorghias",
       "github": "ioanagh27"
     },
@@ -54,10 +63,6 @@
     {
       "name" : "Vivian Chinweze",
       "github": "VioletViolaVi"
-    },
-    {
-      "name" : "Caroline Veloso",
-      "github" : "crlnvls"
     },
     {
       "name" : "John Pascual",
