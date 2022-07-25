@@ -92,12 +92,8 @@
           "type": "cv"
         },
         {
-          "type": "portfolio",
-          "url": "https://tom-hacker.com"
-        },
-        {
           "type": "video",
-          "url": "https://youtu.be/cjUREfl6i64"
+          "url": "cjUREfl6i64"
         }
       ]
     },
@@ -110,7 +106,7 @@
         },
         {
           "type": "video",
-          "url": "https://youtu.be/ZwhB5JfQbEQ"
+          "url": "ZwhB5JfQbEQ"
         }
       ]
     },
@@ -120,6 +116,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M9CQ90oQIcs"
         }
       ]
     },
@@ -151,6 +151,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type":"video",
+          "url": "jWoWZX_8jlk"
         }
       ]
     },
@@ -159,7 +163,11 @@
       "github": "sumshuss",
       "materials": [
         {
-          "type": "cv"
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "gAJqQY-U7CE"
         }
       ]
     },
@@ -210,6 +218,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QKYxUiicKYY"
         }
       ]
     },
