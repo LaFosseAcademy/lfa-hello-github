@@ -129,7 +129,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+	{
+	 "type": "video",
+	 "url": "pfu1WzGhr3Y"
+	}
       ]
     },
     {
@@ -231,6 +235,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NJpqeMJe-ck"
         }
       ]
     }

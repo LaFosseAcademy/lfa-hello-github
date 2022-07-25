@@ -1,0 +1,18 @@
+{
+    "namesake": {
+      "name": "Carol Shaw",
+      "imageUrl": "https://avatars.githubusercontent.com/t/6329228?s=280&v=4",
+      "materials": [
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
+    },
+    "students": [
+      {
+        "name": "Liam Bolton",
+        "github": "Leehamb99"
+      }
+    ]
+}
