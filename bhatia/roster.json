@@ -21,7 +21,12 @@
     },
     {
       "name" : "Norbert Majer",
-      "github" : "azotamiota"
+      "github" : "azotamiota",
+      "materials" : [
+        {
+          "type" : "cv"
+        }
+      ]
     },
     {
       "name" : "Jonathan Britton",
