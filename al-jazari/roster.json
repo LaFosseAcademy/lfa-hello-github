@@ -12,16 +12,29 @@
   "students": [
     {
       "name": "Aaron Smith",
-      "github": "Fastlearner999"
+      "github": "Fastlearner999",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9M4Zzk8aOOk"
+        }
+      ]
     },
     {
       "name": "Terry Fallows",
       "github": "TheWeion",
-    	"materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "mEQL95h_vQg"
         }
-    ]
+      ]
     },
     {
       "name": "Samantha Dorrell",
@@ -29,12 +42,12 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "zVz-8YBm1YU"
         }
       ]
-    },
-    {
-      "name": "Anna Kunta",
-      "github": "Anka21"
     },
     {
       "name": "Hanibal Brhanu",
@@ -42,28 +55,77 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "yu2n2NXgZg4"
         }
       ]
     },
     {
       "name": "Vlada Solomiana",
-      "github": "solo-vlada"
+      "github": "solo-vlada",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "JgbO_hptM1Y"
+        }
+      ]
     },
     {
       "name": "Ayoub Laissaoui",
-      "github": "NovaDA"
+      "github": "NovaDA",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_m7hG40JQZI"
+        }
+      ]
     },
     {
       "name": "Tom Hacker",
-      "github": "TommyHacker"
+      "github": "TommyHacker",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "cjUREfl6i64"
+        }
+      ]
     },
     {
       "name": "Nathan Olds",
-      "github": "nathanolds"
+      "github": "nathanolds",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZwhB5JfQbEQ"
+        }
+      ]
     },
     {
       "name": "Dakshitha Makulugollage",
-      "github": "Dakz1"
+      "github": "Dakz1",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M9CQ90oQIcs"
+        }
+      ]
     },
     {
       "name": "Ben Tidball",
@@ -71,47 +133,118 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+	{
+	 "type": "video",
+	 "url": "pfu1WzGhr3Y"
+	}
       ]
     },
     {
       "name": "Marie-Sophie Capel-Duran",
-      "github": "mariesophiecd"
+      "github": "mariesophiecd",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"h3ZDWDydc3M"
+        }
+      ]
     },
     {
       "name": "Aleksandra Opacic",
-      "github": "Aleopaa"
+      "github": "Aleopaa",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type":"video",
+          "url": "jWoWZX_8jlk"
+        }
+      ]
     },
     {
       "name": "Summira Hussain",
-      "github": "sumshuss"
+      "github": "sumshuss",
+      "materials": [
+        {
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "gAJqQY-U7CE"
+        }
+      ]
     },
     {
       "name": "Edgar Ruiz",
-      "github": "CrookedTimber"
+      "github": "CrookedTimber",
+      "materials": [
+        {"type": "cv"},
+        {
+          "type": "video",
+          "url": "Tejs02bYKAY"
+        }
+      ]
     },
     {
       "name": "Wing Yuen",
       "github": "wingyuen2022",
-	"materials": [
-		{"type": "cv"}
-	]
+      "materials": [
+        {"type": "cv"},
+        {"type": "video", "url": "-2Zdv5sGqOk"}		
+      ]
     },
     {
       "name": "Richard Sigl",
-      "github": "sigltech"
+      "github": "sigltech",
+      "materials": [
+        {
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "cgucNsAEmM8"
+        }
+      ]
     },
     {
       "name": "Abigail Shadare",
-      "github": "abscoding"
+      "github": "abscoding",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Syed Javaid",
-      "github": "syedmjavaid"
+      "github": "syedmjavaid",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QKYxUiicKYY"
+        }
+      ]
     },
     {
       "name": "Stuart Judd",
-      "github": "SuperBrava"
+      "github": "SuperBrava",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NJpqeMJe-ck"
+        }
+      ]
     }
   ]
 }
