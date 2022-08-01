@@ -11,8 +11,21 @@
     },
     "students": [
       {
+        "name": "Liam Bolton",
+        "github": "Leehamb99"
+      },
+      {
+        "name": "Bradley Neve",
+        "github": "bradneve"
+      },
+      {
+        "name": "Isobel Melvin",
+        "github": "Littlerou"
+      }, 
+      {
         "name": "Matthew Lo",
         "github": "matthewlohl"
-      }
+      },
+
     ]
 }
