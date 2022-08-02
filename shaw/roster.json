@@ -27,9 +27,19 @@
         "github": "matthewlohl"
       },
       {
+<<<<<<< HEAD
         "name": "Syedul Jakerin Ahmed",
         "github": "jakerinahmed"
       }
+=======
+        "name": "Shaeeb Ali",
+        "github": "shaeebali"
+      },
+      {
+        "name": "Duncan Cornish",
+        "github": "duncancornish"
+      }  
+>>>>>>> 0a736f63c7dfcb45f53e62398a47317c443a4f67
 
     ]
 }
