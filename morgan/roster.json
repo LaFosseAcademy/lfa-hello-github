@@ -19,16 +19,12 @@
       "github": "TaroSchenker"
     },
     {
-      "name": "Baki Tuncer",
-      "github": "batuncer"
-    },
-    {
       "name": "Harrison Grant",
       "github": "harryg15"
     },
     {
       "name": "Dobre Daiana-Melania",
-      "github": "DaianaSHA256",
+      "github": "DDaiana",
       "materials" : [{
         "type": "cv"
       }]
@@ -56,10 +52,6 @@
     {
       "name": "Thilakshan Balasubramaniam",
       "github": "thilak9"
-    },
-    {
-      "name": "Gharzay Wali",
-      "github": "Illyazz"
     },
     {
       "name": "Allan Stocco",

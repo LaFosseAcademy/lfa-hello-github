@@ -52,6 +52,10 @@
           "type": "cv"
         },
         {
+          "type": "video",
+          "url": "xMSc04rAcRE"
+        },
+        {
           "type": "portfolio",
           "url": "https://rebecca-blixt-portfolio.netlify.app/"
         }
@@ -87,7 +91,7 @@
         },
         {
           "type": "portfolio",
-          "url": "https://laylasouthcombe.netlify.app"
+          "url": "https://laylasouthcombe-fp.netlify.app"
         }
       ]
     },
@@ -155,7 +159,7 @@
         },
         {
           "type": "portfolio",
-          "url": "https://nasiima-portfolio.netlify.app/"
+          "url": "https://nasiima-profile.netlify.app/"
         }
       ]
     },
@@ -186,6 +190,10 @@
         {
           "type": "video",
           "url": "uz0PHy_pGpg"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://alihamedali.netlify.app/"
         }
       ]
     },
@@ -236,7 +244,7 @@
         },
         {
           "type": "portfolio",
-          "url": "https://github.com/SamHardiment/Portfolio"
+          "url": "https://samghardiment.netlify.app/"
         }
       ]
     },
@@ -246,6 +254,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "LTIGOse05o0"
         },
         {
           "type": "portfolio",
@@ -259,6 +271,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lBdd_vRsMkI"
         },
         {
           "type": "portfolio",
@@ -291,8 +307,12 @@
           "type": "cv"
         },
         {
+          "type": "video",
+          "url": "WY2OQE8slkw"
+        },
+        {
           "type": "portfolio",
-          "url": "https://willowy-malasada-763794.netlify.app/"
+          "url": "https://cheery-mermaid-193794.netlify.app"
         }
       ]
     },
@@ -306,6 +326,10 @@
         {
           "type": "video",
           "url": "jBs9AA0GCXg"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://nasim-portfolio-22.netlify.app/"
         }
       ]
     },
@@ -322,7 +346,7 @@
         },
         {
           "type": "portfolio",
-          "url": "https://luminous-chimera-eddc04.netlify.app/"
+          "url": "https://buscaroli.netlify.app/"
         }
       ]
     }
