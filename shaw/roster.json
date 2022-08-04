@@ -1,35 +1,42 @@
 {
-    "namesake": {
-      "name": "Carol Shaw",
-      "imageUrl": "https://avatars.githubusercontent.com/t/6329228?s=280&v=4",
-      "materials": [
-        {
-          "type": "video",
-          "url": ""
-        }
-      ]
-    },
-    "students": [
+  "namesake": {
+    "name": "Carol Shaw",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6329228?s=280&v=4",
+    "materials": [
       {
-        "name": "Liam Bolton",
-        "github": "Leehamb99"
-      },
-      {
-        "name": "Bradley Neve",
-        "github": "bradneve"
-      },
-      {
-        "name": "Isobel Melvin",
-        "github": "Littlerou"
-      }, 
-      {
-        "name": "Matthew Lo",
-        "github": "matthewlohl"
-      },
-      {
-        "name": "Syedul Jakerin Ahmed",
-        "github": "jakerinahmed"
+        "type": "video",
+        "url": ""
       }
-
     ]
+  },
+  "students": [
+    {
+      "name": "Liam Bolton",
+      "github": "Leehamb99"
+    },
+    {
+      "name": "Bradley Neve",
+      "github": "bradneve"
+    },
+    {
+      "name": "Isobel Melvin",
+      "github": "Littlerou"
+    },
+    {
+      "name": "Matthew Lo",
+      "github": "matthewlohl"
+    },
+    {
+      "name": "Shaeeb Ali",
+      "github": "shaeebali"
+    },
+    {
+      "name": "Duncan Cornish",
+      "github": "duncancornish"
+    },
+    {
+      "name": "Syedul Jakerin Ahmed",
+      "github": "jakerinahmed"
+    }
+  ]
 }
