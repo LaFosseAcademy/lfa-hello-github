@@ -55,7 +55,13 @@
     },
     {
       "name": "Allan Stocco",
-      "github": "allanstocco"
+      "github": "allanstocco",
+      "materials": [
+        {
+          "type": "portfolio",
+          "url": "https://allanstocco.netlify.app/"
+        }
+      ]
     },
     {
       "name": "Uzair Akhtar",
