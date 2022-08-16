@@ -26,7 +26,12 @@
     },
     {
       "name": "Ioana Gheorghias",
-      "github": "ioanagh27"
+      "github": "ioanagh27",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name" : "Norbert Majer",
