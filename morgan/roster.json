@@ -64,6 +64,9 @@
     {
       "name": "Elliot Heath",
       "github": "eheath30"
+      "materials" : [{
+        "type": "cv"
+      }]
     }
   ]
 }
