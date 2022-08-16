@@ -64,6 +64,9 @@
       "github": "allanstocco",
       "materials": [
         {
+          "type": "cv"
+        },
+        {
           "type": "portfolio",
           "url": "https://allanstocco.netlify.app/"
         },
