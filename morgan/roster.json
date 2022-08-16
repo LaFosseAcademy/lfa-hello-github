@@ -20,7 +20,12 @@
     },
     {
       "name": "Harrison Grant",
-      "github": "harryg15"
+      "github": "harryg15",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dobre Daiana-Melania",
@@ -75,7 +80,7 @@
     },
     {
       "name": "Elliot Heath",
-      "github": "eheath30"
+      "github": "eheath30",
       "materials" : [
       {
         "type": "cv"
