@@ -13,26 +13,27 @@
     {
       "name": "Florencia Pezcara",
       "github": "fpezcara"
-    }, 
-    {
-      "name": "Necip Yildizcan",
-      "github": "NecipYildizcan"
     },
     {
       "name": "Taro Schenker",
       "github": "TaroSchenker"
     },
     {
-      "name": "Baki Tuncer",
-      "github": "batuncer"
-    },
-    {
-      "name": "Mihaly Benyi",
-      "github": "benyim27"
-    },
-    {
       "name": "Harrison Grant",
       "github": "harryg15"
+    },
+    {
+      "name": "Dobre Daiana-Melania",
+      "github": "DDaiana",
+      "materials" : [
+      {
+        "type": "cv"
+      },
+      {
+        "type": "video",
+        "url": "tZ6ogY95GbI"
+      }
+    ]
     },
     {
       "name": "Rameez Khawaja",
@@ -41,6 +42,49 @@
     {
       "name": "Muhammed Ismael Ali",
       "github": "Ismael76"
+    },
+    {
+      "name": "Vincent Okolo",
+      "github": "VAOkolo"
+    },
+    {
+      "name": "Reece Thatcher",
+      "github": "reececilon"
+    },
+    {
+      "name": "Saamiya Yousuf",
+      "github": "Saamiya96"
+    },
+    {
+      "name": "Thilakshan Balasubramaniam",
+      "github": "thilak9"
+    },
+    {
+      "name": "Allan Stocco",
+      "github": "allanstocco",
+      "materials": [
+        {
+          "type": "portfolio",
+          "url": "https://allanstocco.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Uzair Akhtar",
+      "github": "uzair14"
+    },
+    {
+      "name": "Elliot Heath",
+      "github": "eheath30"
+      "materials" : [
+      {
+        "type": "cv"
+      },
+      {
+        "type": "video",
+        "url": "LVT_R_iaPDo"
+      }
+    ]
     }
   ]
 }

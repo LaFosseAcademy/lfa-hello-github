@@ -1,5 +1,5 @@
 {
-    "namesake": {
+  "namesake": {
     "name": "Rincon",
     "imageUrl": "https://avatars.githubusercontent.com/t/6108159?s=400&v=4",
     "materials": [
@@ -13,6 +13,58 @@
     {
       "name": "Jason Chan",
       "github": "jasonchanhk"
-    }
+    },
+    {
+      "name": "Sean Malone",
+      "github": "Moontoast435"
+    },
+    {
+      "name": "Nouria Chaouy",
+      "github": "NouriaC"
+    },
+    {
+      "name": "Matthew Richardson",
+      "github": "mRichardson8"
+    },
+    {
+      "name": "Stefan Yordanov",
+      "github": "steff880"
+    },
+    {
+      "name": "Joshua Warner",
+      "github": "JoshPWarner"
+    },
+    {
+      "name": "Sampurna Chapagain",
+      "github": "SampurnaC"
+    },
+    {
+      "name": "Karolina Quigley",
+      "github": "codingkompot"
+    },
+    {
+      "name": "Timothy Le",
+      "github": "Peesh98"
+    },
+    {
+      "name": "Sally Davey",
+      "github": "Sdev77"
+    },
+     {
+       "name": "Aditi Parikh",
+       "github": "aditi2605"
+     },
+    {
+       "name": "James Thompson",
+       "github": "jamesthompson02"
+     },
+     {
+      "name": "Josh Bankole-Williams",
+      "github": "sknvbj"
+     },
+     {
+      "name": "Hassan Naeem",
+      "github": "HassanEng12345"
+     }
   ]
 }

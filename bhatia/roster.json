@@ -1,0 +1,81 @@
+{
+  "namesake": {
+    "name": "Sabeer Bhatia",
+    "imageUrl": "",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Pete Cunliffe",
+      "github": "codenameStarmunch"
+
+    },
+    {
+      "name" : "Caroline Veloso",
+      "github" : "crlnvls",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Ioana Gheorghias",
+      "github": "ioanagh27"
+    },
+    {
+      "name" : "Norbert Majer",
+      "github" : "azotamiota",
+      "materials" : [
+        {
+          "type" : "cv"
+        }
+      ]
+    },
+    {
+      "name" : "Jonathan Britton",
+      "github" : "Jbritttt"
+    },
+    {
+      "name" : "Jason Paul Brooks",
+      "github" : "madCakes"
+    },
+    {
+      "name" : "Aggie Skorska",
+      "github" : "agiskorska"
+    },
+    {
+      "name" : "Edis Emin",
+      "github" : "edisemin"
+    },
+    {
+      "name" : "Callum Cheng",
+      "github": "CallumCheng"
+    },
+     {
+      "name" : "Nasim Ahmed",
+      "github": "nasim1903"
+     },
+     { 
+      "name" : "Bishal Rai",
+      "github": "B9ary01"
+    },
+    {
+      "name" : "John Pascual",
+      "github": "tsmjohnpascual"
+    },
+    {
+      "name" : "Michael Mercieca",
+      "github" : "Mike-Mercieca"
+    },
+    {
+      "name" : "Mohammed Goni",
+      "github" : "MoGoni52"
+    }
+  ]
+}
