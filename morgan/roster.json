@@ -64,9 +64,15 @@
     {
       "name": "Elliot Heath",
       "github": "eheath30"
-      "materials" : [{
+      "materials" : [
+      {
         "type": "cv"
-      }]
+      },
+      {
+        "type": "video",
+        "url": "LVT_R_iaPDo"
+      }
+    ]
     }
   ]
 }
