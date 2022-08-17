@@ -12,7 +12,16 @@
   "students": [
     {
       "name": "Jason Chan",
-      "github": "jasonchanhk"
+      "github": "jasonchanhk",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "8Zl5yMflb9k"
+        }
+      ]
     },
     {
       "name": "Sean Malone",
