@@ -16,7 +16,16 @@
     },
     {
       "name": "Taro Schenker",
-      "github": "TaroSchenker"
+      "github": "TaroSchenker",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M0eIWGBnPBs"
+        }
+      ]
     },
     {
       "name": "Harrison Grant",
