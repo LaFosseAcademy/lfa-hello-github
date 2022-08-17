@@ -16,7 +16,16 @@
     },
     {
       "name": "Taro Schenker",
-      "github": "TaroSchenker"
+      "github": "TaroSchenker",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M0eIWGBnPBs"
+        }
+      ]
     },
     {
       "name": "Harrison Grant",
@@ -34,15 +43,15 @@
     {
       "name": "Dobre Daiana-Melania",
       "github": "DDaiana",
-      "materials" : [
-      {
-        "type": "cv"
-      },
-      {
-        "type": "video",
-        "url": "tZ6ogY95GbI"
-      }
-    ]
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "tZ6ogY95GbI"
+        }
+      ]
     },
     {
       "name": "Rameez Khawaja",
@@ -73,8 +82,15 @@
       "github": "allanstocco",
       "materials": [
         {
+          "type": "cv"
+        },
+        {
           "type": "portfolio",
           "url": "https://allanstocco.netlify.app/"
+        },
+        {
+          "type": "video",
+          "url": "5QRlPR1AERU"
         }
       ]
     },
@@ -85,15 +101,15 @@
     {
       "name": "Elliot Heath",
       "github": "eheath30",
-      "materials" : [
-      {
-        "type": "cv"
-      },
-      {
-        "type": "video",
-        "url": "LVT_R_iaPDo"
-      }
-    ]
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "LVT_R_iaPDo"
+        }
+      ]
     }
   ]
 }
