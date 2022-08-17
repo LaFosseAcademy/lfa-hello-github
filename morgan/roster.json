@@ -50,7 +50,20 @@
     },
     {
       "name": "Muhammed Ismael Ali",
-      "github": "Ismael76"
+      "github": "Ismael76",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://ismael-ali.netlify.app/"
+        },
+        {
+          "type": "video",
+          "url": "LYGa9bQAHbo"
+        }
+      ]
     },
     {
       "name": "Vincent Okolo",
