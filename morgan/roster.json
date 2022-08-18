@@ -46,7 +46,16 @@
     },
     {
       "name": "Rameez Khawaja",
-      "github": "rameez-khawaja"
+      "github": "rameez-khawaja",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZmT2BVlI1dg"
+        }
+      ]
     },
     {
       "name": "Muhammed Ismael Ali",
