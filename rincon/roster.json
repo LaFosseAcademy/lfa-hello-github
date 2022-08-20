@@ -19,7 +19,10 @@
       "github": "Moontoast435",
       "materials": [
         {
-          "type": "cv",
+          "type": "cv"
+        },
+        {
+          "type": "video",
           "url": "bzuebvrJzKI"
         }
       ]
