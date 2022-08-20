@@ -8,5 +8,12 @@
           "url": ""
         }
       ]
-    }
+    },
+
+    "students" : [
+      {
+        "name": "Chiara De Matteis",
+        "github": "ChiaraDM"
+      }
+    ]
 }
