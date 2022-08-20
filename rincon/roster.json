@@ -16,7 +16,12 @@
     },
     {
       "name": "Sean Malone",
-      "github": "Moontoast435"
+      "github": "Moontoast435",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nouria Chaouy",
