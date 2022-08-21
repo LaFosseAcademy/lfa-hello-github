@@ -52,7 +52,16 @@
     },
      {
        "name": "Aditi Parikh",
-       "github": "aditi2605"
+       "github": "aditi2605",
+       "materials": [
+        {
+          "type":"cv"
+        },
+        {
+          "type":"video",
+          "url":"https://www.youtube.com/watch?v=qXV54sChCw0"
+        }
+       ]
      },
     {
        "name": "James Thompson",
