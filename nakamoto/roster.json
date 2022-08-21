@@ -8,5 +8,11 @@
           "url": ""
         }
       ]
-    }
+    },
+    "students": [
+      {
+        "name": "Jamie Hitch",
+        "github": "Jamie-Hitch"
+      }
+    ]
 }
