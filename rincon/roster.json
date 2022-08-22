@@ -28,7 +28,16 @@
     },
     {
       "name": "Stefan Yordanov",
-      "github": "steff880"
+      "github": "steff880",
+      "materials":[
+        {
+          "type2": "cv"
+        },
+        {
+          "type": "video",
+          "url": "sakPac6LNGE"
+        }
+      ]
     },
     {
       "name": "Joshua Warner",
@@ -66,14 +75,6 @@
       "name": "Hassan Naeem",
       "github": "HassanEng12345"
      }
-  ],
-  "materials":[
-    {
-      "type2": "cv"
-    },
-    {
-      "type": "video",
-      "url": "sakPac6LNGE"
-    }
   ]
+  
 }
