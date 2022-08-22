@@ -1,5 +1,5 @@
 {
-    "namesake": {
+  "namesake": {
     "name": "Rincon",
     "imageUrl": "https://avatars.githubusercontent.com/t/6108159?s=400&v=4",
     "materials": [
@@ -12,11 +12,114 @@
   "students": [
     {
       "name": "Jason Chan",
-      "github": "jasonchanhk"
+      "github": "jasonchanhk",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "8Zl5yMflb9k"
+        }
+      ]
     },
     {
-      "name" : "Sean Malone",
-      "github": "Moontoast435"
-    }
+      "name": "Sean Malone",
+      "github": "Moontoast435",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "bzuebvrJzKI"
+        }
+      ]
+    },
+    {
+      "name": "Nouria Chaouy",
+      "github": "NouriaC"
+    },
+    {
+      "name": "Matthew Richardson",
+      "github": "mRichardson8",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "f8De7fz94FE"
+        }
+      ]
+    },
+    {
+      "name": "Stefan Yordanov",
+      "github": "steff880",
+      "materials":[
+        {
+          "type2": "cv"
+        },
+        {
+          "type": "video",
+          "url": "sakPac6LNGE"
+        }
+      ]
+    },
+    {
+      "name": "Joshua Warner",
+      "github": "JoshPWarner"
+    },
+    {
+      "name": "Sampurna Chapagain",
+      "github": "SampurnaC",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "yWxb1pZiWo0"
+        }
+      ]
+    },
+    {
+      "name": "Karolina Quigley",
+      "github": "codingkompot"
+    },
+    {
+      "name": "Timothy Le",
+      "github": "Peesh98"
+    },
+    {
+      "name": "Sally Davey",
+      "github": "Sdev77"
+    },
+     {
+       "name": "Aditi Parikh",
+       "github": "aditi2605"
+     },
+    {
+       "name": "James Thompson",
+       "github": "jamesthompson02",
+       "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "RDBoBExlsWA"
+        }
+       ]
+     },
+     {
+      "name": "Josh Bankole-Williams",
+      "github": "sknvbj"
+     },
+     {
+      "name": "Hassan Naeem",
+      "github": "HassanEng12345"
+     }
   ]
+  
 }

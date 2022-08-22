@@ -16,6 +16,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QYESTxrSKYc"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://tom-millington.netlify.app/"
         }
       ]
     },
@@ -25,6 +33,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "hYQ9cn6DSeM"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://chrispy-portfolio.netlify.app"
         }
       ]
     },
@@ -34,6 +50,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "xMSc04rAcRE"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://rebecca-blixt-portfolio.netlify.app/"
         }
       ]
     },
@@ -43,6 +67,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "NB05CGLfsqI"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://aaronmarsh.netlify.app/"
         }
       ]
     },
@@ -52,6 +84,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Nsxs3TxEpBY"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://laylasouthcombe-fp.netlify.app"
         }
       ]
     },
@@ -61,15 +101,14 @@
       "materials": [
         {
           "type": "cv"
-        }
-      ]
-    },
-    {
-      "name": "Nasiima Mohamed",
-      "github": "nasiima",
-      "materials": [
+        },
         {
-          "type": "cv"
+          "type": "video",
+          "url": "EkPqs-ZMAbQ"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://gmillermc.netlify.app/"
         }
       ]
     },
@@ -79,6 +118,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "0NHZDksy0zY"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://alice-kreslins-portfolio.netlify.app"
         }
       ]
     },
@@ -88,6 +135,31 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "pHUFGS9a0ng"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://billiedartnell.netlify.app/"
+        }
+      ]
+    },
+    {
+      "name": "Nasiima Mohamed",
+      "github": "nasiima",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "wWs-w1AZE_U"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://nasiima-profile.netlify.app/"
         }
       ]
     },
@@ -97,15 +169,31 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "RtTsWzXQSIY"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://shoreenbeckford.netlify.app/"
         }
       ]
     },
     {
       "name": "Ali Hamed",
       "github": "alihamedali96",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "uz0PHy_pGpg"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://alihamedali.netlify.app/"
         }
       ]
     },
@@ -115,6 +203,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "5YTwTzD5JdE"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://igor-mirowski-portfolio.netlify.app/"
         }
       ]
     },
@@ -124,6 +220,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "6sOXcRbhhOU"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://gioele-portfolio.netlify.app/"
         }
       ]
     },
@@ -133,15 +237,31 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "25PkcSJgrIs"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://samghardiment.netlify.app/"
         }
       ]
     },
     {
       "name": "Nadir Khan",
       "github": "Nadirkhan98",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "LTIGOse05o0"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://nadirkhan98-port.netlify.app/"
         }
       ]
     },
@@ -151,15 +271,31 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lBdd_vRsMkI"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://www.williamsessions.com/index.php"
         }
       ]
     },
     {
       "name": "Tom Hughes",
       "github": "tomhughes87",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "rGvIh993bV4"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://tom-hughes-portfolio.netlify.app/"
         }
       ]
     },
@@ -169,15 +305,31 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "WY2OQE8slkw"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://cheery-mermaid-193794.netlify.app"
         }
       ]
     },
     {
       "name": "Nasim Bilal",
       "github": "n451m",
-       "materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jBs9AA0GCXg"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://nasim-portfolio-22.netlify.app/"
         }
       ]
     },
@@ -187,6 +339,14 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "8U5MsYTMoS4"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://buscaroli.netlify.app/"
         }
       ]
     }

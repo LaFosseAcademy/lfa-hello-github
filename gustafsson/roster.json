@@ -1,0 +1,18 @@
+{
+  "namesake": {
+    "name": "Poppy Gustafsson",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6468762?s=280&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }      ]
+  },
+
+  "students": [
+    {
+      "name": "Matt Chan",
+      "github": "MattChan96"
+    }
+  ]
+}
