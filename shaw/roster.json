@@ -1,0 +1,70 @@
+{
+  "namesake": {
+    "name": "Carol Shaw",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6329228?s=280&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Liam Bolton",
+      "github": "Leehamb99"
+    },
+    {
+      "name": "Bradley Neve",
+      "github": "bradneve"
+    },
+    {
+      "name": "Isobel Melvin",
+      "github": "Littlerou"
+    },
+    {
+      "name": "Matthew Lo",
+      "github": "matthewlohl"
+    },
+    {
+      "name": "Shaeeb Ali",
+      "github": "shaeebali"
+    },
+    {
+      "name": "Duncan Cornish",
+      "github": "duncancornish"
+    },
+    {
+      "name": "Syedul Jakerin Ahmed",
+      "github": "jakerinahmed"
+    },
+    {
+      "name": "Matthew Blackman",
+      "github": "ultimafinal1"
+    },
+    {
+      "name": "Zulaika Ali",
+      "github": "zulaika-a"
+    },
+    {
+      "name": "Karl Dudley",
+      "github": "karldudley"
+    },
+    {
+      "name": "Ayokunmi Soyannwo",
+      "github": "AyokunmiSoyannwo"
+    },
+    {
+      "name": "Stefan Mircea",
+      "github": "Babole"
+    },
+    {
+      "name": "Michael Rodrigo Vinluan",
+      "github": "mike-rv"
+    },
+    {
+      "name": "Camila Pessoa",
+      "github": "Nevashka"
+    }
+  ]
+}

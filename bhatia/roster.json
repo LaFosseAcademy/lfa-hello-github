@@ -11,12 +11,36 @@
   },
   "students": [
     {
+      "name": "Pete Cunliffe",
+      "github": "codenameStarmunch"
+
+    },
+    {
+      "name" : "Caroline Veloso",
+      "github" : "crlnvls",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
       "name": "Ioana Gheorghias",
-      "github": "ioanagh27"
+      "github": "ioanagh27",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name" : "Norbert Majer",
-      "github" : "azotamiota"
+      "github" : "azotamiota",
+      "materials" : [
+        {
+          "type" : "cv"
+        }
+      ]
     },
     {
       "name" : "Jonathan Britton",
@@ -38,17 +62,13 @@
       "name" : "Callum Cheng",
       "github": "CallumCheng"
     },
-    {
+     {
+      "name" : "Nasim Ahmed",
+      "github": "nasim1903"
+     },
+     { 
       "name" : "Bishal Rai",
       "github": "B9ary01"
-    },
-    {
-      "name" : "Vivian Chinweze",
-      "github": "VioletViolaVi"
-    },
-    {
-      "name" : "Caroline Veloso",
-      "github" : "crlnvls"
     },
     {
       "name" : "John Pascual",
@@ -57,6 +77,10 @@
     {
       "name" : "Michael Mercieca",
       "github" : "Mike-Mercieca"
+    },
+    {
+      "name" : "Mohammed Goni",
+      "github" : "MoGoni52"
     }
   ]
 }
