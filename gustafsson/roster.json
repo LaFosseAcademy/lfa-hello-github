@@ -9,3 +9,9 @@
       }      ]
   }
 }
+"students": [
+  {
+    "name": "Matt Chan",
+    "github": "MattChan96"
+  }
+]
