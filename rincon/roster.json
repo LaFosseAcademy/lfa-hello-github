@@ -92,7 +92,16 @@
      },
     {
        "name": "James Thompson",
-       "github": "jamesthompson02"
+       "github": "jamesthompson02",
+       "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "RDBoBExlsWA"
+        }
+       ]
      },
      {
       "name": "Josh Bankole-Williams",
