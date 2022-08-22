@@ -107,7 +107,16 @@
     },
     {
       "name": "Reece Thatcher",
-      "github": "reececilon"
+      "github": "reececilon",
+      "material": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "U3xwkrfGmK0"
+        }
+      ]
     },
     {
       "name": "Saamiya Yousuf",
