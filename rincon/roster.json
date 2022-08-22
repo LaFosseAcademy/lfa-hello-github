@@ -12,11 +12,29 @@
   "students": [
     {
       "name": "Jason Chan",
-      "github": "jasonchanhk"
+      "github": "jasonchanhk",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "8Zl5yMflb9k"
+        }
+      ]
     },
     {
       "name": "Sean Malone",
-      "github": "Moontoast435"
+      "github": "Moontoast435",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "bzuebvrJzKI"
+        }
+      ]
     },
     {
       "name": "Nouria Chaouy",
@@ -24,7 +42,16 @@
     },
     {
       "name": "Matthew Richardson",
-      "github": "mRichardson8"
+      "github": "mRichardson8",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "f8De7fz94FE"
+        }
+      ]
     },
     {
       "name": "Stefan Yordanov",

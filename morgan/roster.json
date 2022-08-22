@@ -12,7 +12,16 @@
   "students": [
     {
       "name": "Florencia Pezcara",
-      "github": "fpezcara"
+      "github": "fpezcara",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "IB2sLiTel1I"
+        }
+      ]
     },
     {
       "name": "Taro Schenker",
@@ -29,7 +38,16 @@
     },
     {
       "name": "Harrison Grant",
-      "github": "harryg15"
+      "github": "harryg15",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "TI4Wvt3Mwzw"
+        }
+      ]
     },
     {
       "name": "Dobre Daiana-Melania",
@@ -46,15 +64,46 @@
     },
     {
       "name": "Rameez Khawaja",
-      "github": "rameez-khawaja"
+      "github": "rameez-khawaja",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZmT2BVlI1dg"
+        }
+      ]
     },
     {
       "name": "Muhammed Ismael Ali",
-      "github": "Ismael76"
+      "github": "Ismael76",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://ismael-ali.netlify.app/"
+        },
+        {
+          "type": "video",
+          "url": "LYGa9bQAHbo"
+        }
+      ]
     },
     {
       "name": "Vincent Okolo",
-      "github": "VAOkolo"
+      "github": "VAOkolo",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jyoSgezWv-g"
+        }
+      ]
     },
     {
       "name": "Reece Thatcher",
@@ -95,6 +144,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://elliotheath.netlify.app/"
         },
         {
           "type": "video",
