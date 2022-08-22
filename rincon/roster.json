@@ -63,7 +63,16 @@
     },
     {
       "name": "Sampurna Chapagain",
-      "github": "SampurnaC"
+      "github": "SampurnaC",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "yWxb1pZiWo0"
+        }
+      ]
     },
     {
       "name": "Karolina Quigley",
