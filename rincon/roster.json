@@ -38,7 +38,16 @@
     },
     {
       "name": "Nouria Chaouy",
-      "github": "NouriaC"
+      "github": "NouriaC",
+      "materials":[
+        {
+          "type":"cv"
+        },
+        {
+          "type":"video",
+          "url": "FiEviRtZJDU"
+        }
+      ]
     },
     {
       "name": "Matthew Richardson",
