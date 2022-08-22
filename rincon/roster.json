@@ -42,7 +42,16 @@
     },
     {
       "name": "Matthew Richardson",
-      "github": "mRichardson8"
+      "github": "mRichardson8",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "f8De7fz94FE"
+        }
+      ]
     },
     {
       "name": "Stefan Yordanov",
