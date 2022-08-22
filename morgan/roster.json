@@ -85,7 +85,16 @@
     },
     {
       "name": "Vincent Okolo",
-      "github": "VAOkolo"
+      "github": "VAOkolo",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jyoSgezWv-g"
+        }
+      ]
     },
     {
       "name": "Reece Thatcher",
