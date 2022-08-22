@@ -111,7 +111,16 @@
     },
     {
       "name": "Saamiya Yousuf",
-      "github": "Saamiya96"
+      "github": "Saamiya96",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "yFtGRo2y0h0"
+        }
+      ]
     },
     {
       "name": "Thilakshan Balasubramaniam",
