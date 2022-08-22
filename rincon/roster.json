@@ -25,7 +25,16 @@
     },
     {
       "name": "Sean Malone",
-      "github": "Moontoast435"
+      "github": "Moontoast435",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "bzuebvrJzKI"
+        }
+      ]
     },
     {
       "name": "Nouria Chaouy",
