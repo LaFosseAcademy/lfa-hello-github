@@ -12,7 +12,16 @@
   "students": [
     {
       "name": "Florencia Pezcara",
-      "github": "fpezcara"
+      "github": "fpezcara",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "IB2sLiTel1I"
+        }
+      ]
     },
     {
       "name": "Taro Schenker",
@@ -55,7 +64,16 @@
     },
     {
       "name": "Rameez Khawaja",
-      "github": "rameez-khawaja"
+      "github": "rameez-khawaja",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZmT2BVlI1dg"
+        }
+      ]
     },
     {
       "name": "Muhammed Ismael Ali",
@@ -76,7 +94,16 @@
     },
     {
       "name": "Vincent Okolo",
-      "github": "VAOkolo"
+      "github": "VAOkolo",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jyoSgezWv-g"
+        }
+      ]
     },
     {
       "name": "Reece Thatcher",

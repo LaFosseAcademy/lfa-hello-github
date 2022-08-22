@@ -7,11 +7,12 @@
         "type": "video",
         "url": ""
       }      ]
-  }
+  },
+
+  "students": [
+    {
+      "name": "Matt Chan",
+      "github": "MattChan96"
+    }
+  ]
 }
-"students": [
-  {
-    "name": "Matt Chan",
-    "github": "MattChan96"
-  }
-]

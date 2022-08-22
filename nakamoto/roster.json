@@ -8,5 +8,16 @@
           "url": ""
         }
       ]
-    }
+    },
+
+    "students" : [
+      {
+        "name": "Chiara De Matteis",
+        "github": "ChiaraDM"
+      },
+      {
+        "name": "Jamie Hitch",
+        "github": "Jamie-Hitch"
+      }
+    ]
 }
