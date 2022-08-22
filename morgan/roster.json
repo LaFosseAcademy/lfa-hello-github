@@ -145,7 +145,16 @@
     },
     {
       "name": "Uzair Akhtar",
-      "github": "uzair14"
+      "github": "uzair14",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "LElTFqPzOJo"
+        }
+      ]
     },
     {
       "name": "Elliot Heath",
