@@ -12,7 +12,16 @@
   "students": [
     {
       "name": "Florencia Pezcara",
-      "github": "fpezcara"
+      "github": "fpezcara",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "IB2sLiTel1I"
+        }
+      ]
     },
     {
       "name": "Taro Schenker",
