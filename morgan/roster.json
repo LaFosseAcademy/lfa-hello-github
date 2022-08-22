@@ -29,7 +29,16 @@
     },
     {
       "name": "Harrison Grant",
-      "github": "harryg15"
+      "github": "harryg15",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "TI4Wvt3Mwzw"
+        }
+      ]
     },
     {
       "name": "Dobre Daiana-Melania",
