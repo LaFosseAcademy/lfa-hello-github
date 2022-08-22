@@ -106,6 +106,10 @@
           "type": "cv"
         },
         {
+          "type": "portfolio",
+          "url": "https://elliotheath.netlify.app/"
+        },
+        {
           "type": "video",
           "url": "LVT_R_iaPDo"
         }
