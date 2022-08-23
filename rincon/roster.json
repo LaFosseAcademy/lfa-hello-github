@@ -68,7 +68,12 @@
     },
     {
       "name": "Joshua Warner",
-      "github": "JoshPWarner"
+      "github": "JoshPWarner",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sampurna Chapagain",
