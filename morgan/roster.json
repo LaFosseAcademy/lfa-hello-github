@@ -124,7 +124,16 @@
     },
     {
       "name": "Thilakshan Balasubramaniam",
-      "github": "thilak9"
+      "github": "thilak9",
+      "materials":[ 
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "YYmShm1y5U8"
+        }
+      ]
     },
     {
       "name": "Allan Stocco",
