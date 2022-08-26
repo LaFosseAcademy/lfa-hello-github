@@ -107,7 +107,16 @@
     },
     {
       "name": "Reece Thatcher",
-      "github": "reececilon"
+      "github": "reececilon",
+      "material": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "U3xwkrfGmK0"
+        }
+      ]
     },
     {
       "name": "Saamiya Yousuf",
@@ -124,7 +133,16 @@
     },
     {
       "name": "Thilakshan Balasubramaniam",
-      "github": "thilak9"
+      "github": "thilak9",
+      "materials":[ 
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "YYmShm1y5U8"
+        }
+      ]
     },
     {
       "name": "Allan Stocco",
