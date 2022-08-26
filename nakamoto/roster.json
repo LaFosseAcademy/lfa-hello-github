@@ -1,32 +1,35 @@
 {
-    "namesake": {
-      "name": "Satoshi Nakamoto",
-      "imageUrl": "https://avatars.githubusercontent.com/t/6463279?s=280&v=4",
-      "materials": [
-        {
-          "type": "video",
-          "url": ""
-        }
-      ]
-    },
-
-    "students" : [
+  "namesake": {
+    "name": "Satoshi Nakamoto",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6463279?s=280&v=4",
+    "materials": [
       {
-        "name": "Chiara De Matteis",
-        "github": "ChiaraDM"
-      },
-      {
-        "name": "Jamie Hitch",
-        "github": "Jamie-Hitch"
-      },
-      {
-        "name": "Mourad Lasga Terceras",
-        "github": "MCXpak"
-      },
-      {
-        "name": "Ayesha Rahim",
-        "github": "ayesha-24"
+        "type": "video",
+        "url": ""
       }
-
     ]
+  },
+
+  "students" : [
+    {
+      "name": "Chiara De Matteis",
+      "github": "ChiaraDM"
+    },
+    {
+      "name": "Jamie Hitch",
+      "github": "Jamie-Hitch"
+    },
+    {
+      "name": "Mourad Lasga Terceras",
+      "github": "MCXpak"
+    },
+    {
+      "name": "Ayesha Rahim",
+      "github": "ayesha-24"
+    },
+    {
+      "name": "Ryan Ung",
+      "github": "ryanung1"
+    }
+  ]
 }
