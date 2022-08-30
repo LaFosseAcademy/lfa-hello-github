@@ -107,7 +107,16 @@
     },
     {
       "name": "Timothy Le",
-      "github": "Peesh98"
+      "github": "Peesh98",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "XRnZ1PNa0vE"
+        }
+      ]
     },
     {
       "name": "Sally Davey",
