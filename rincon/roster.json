@@ -168,7 +168,16 @@
      },
      {
       "name": "Josh Bankole-Williams",
-      "github": "sknvbj"
+      "github": "sknvbj",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "6MaOC3zE1uw"
+        }
+       ]
      },
      {
       "name": "Hassan Naeem",
