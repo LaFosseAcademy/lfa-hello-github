@@ -34,6 +34,10 @@
       "materials" : [
         {
           "type" : "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://norbert-majer.netlify.app/"
         }
       ]
     },
