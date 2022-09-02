@@ -50,19 +50,6 @@
       ]
     },
     {
-      "name": "Dobre Daiana-Melania",
-      "github": "DDaiana",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "tZ6ogY95GbI"
-        }
-      ]
-    },
-    {
       "name": "Rameez Khawaja",
       "github": "rameez-khawaja",
       "materials": [
@@ -108,7 +95,7 @@
     {
       "name": "Reece Thatcher",
       "github": "reececilon",
-      "material": [
+      "materials": [
         {
           "type": "cv"
         },
