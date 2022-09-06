@@ -24,7 +24,12 @@
     },
     {
       "name": "Matthew Lo",
-      "github": "matthewlohl"
+      "github": "matthewlohl",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Shaeeb Ali",
