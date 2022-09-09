@@ -87,6 +87,10 @@
           "type": "cv"
         },
         {
+          "type": "portfolio",
+          "url": "https://vincentokolo.netlify.app/"
+        },
+        {
           "type": "video",
           "url": "jyoSgezWv-g"
         }
