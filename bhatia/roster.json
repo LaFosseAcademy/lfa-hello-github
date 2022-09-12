@@ -67,7 +67,13 @@
     },
     {
       "name" : "Michael Mercieca",
-      "github" : "Mike-Mercieca"
+      "github" : "Mike-Mercieca",
+      "materials" : [
+        {
+          "type" : "video",
+          "url" : "<https://www.youtube.com/watch?v=HQQpmIS7qbM&ab_channel=futureproof>"
+        }
+      ]
     },
     {
       "name" : "Mohammed Goni",
