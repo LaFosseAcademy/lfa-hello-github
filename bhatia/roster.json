@@ -59,7 +59,12 @@
      },
      { 
       "name" : "Bishal Rai",
-      "github": "B9ary01"
+      "github": "B9ary01",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name" : "John Pascual",
