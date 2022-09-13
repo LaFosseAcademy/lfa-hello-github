@@ -72,7 +72,16 @@
     },
     {
       "name" : "John Pascual",
-      "github": "tsmjohnpascual"
+      "github": "tsmjohnpascual",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "akL-8HXp7QM"
+        }
+      ]
     },
     {
       "name" : "Michael Mercieca",
