@@ -55,7 +55,16 @@
     },
     {
       "name" : "Aggie Skorska",
-      "github" : "agiskorska"
+      "github" : "agiskorska",
+       "materials": [
+        {
+          "type": "cv"
+        }, 
+        {
+          "type" : "video",
+          "url" : "umyjt1m_Kc8"
+        }
+      ]
     },
     {
       "name" : "Edis Emin",
