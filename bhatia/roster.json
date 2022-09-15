@@ -68,7 +68,16 @@
     },
     {
       "name" : "Edis Emin",
-      "github" : "edisemin"
+      "github" : "edisemin",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lyPeb7KQgJ4"
+        }
+      ]
     },
     {
       "name" : "Callum Cheng",
