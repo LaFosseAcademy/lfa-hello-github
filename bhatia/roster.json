@@ -51,7 +51,16 @@
     },
     {
       "name" : "Jason Paul Brooks",
-      "github" : "madCakes"
+      "github" : "madCakes",
+      "materials": [
+        {
+          "type": "cv"
+        }, 
+        {
+          "type" : "video",
+          "url" : "mPbNDcbzJbU"
+        }
+      ]
     },
     {
       "name" : "Aggie Skorska",
