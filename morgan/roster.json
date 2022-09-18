@@ -35,6 +35,10 @@
           "type": "cv"
         },
         {
+          "type": "portfolio",
+          "url": "https://harrisongportfolio.netlify.app/"
+        },
+        {
           "type": "video",
           "url": "TI4Wvt3Mwzw"
         }
