@@ -46,7 +46,11 @@
         {
           "type": "video",
           "url": "TI4Wvt3Mwzw"
-        }
+        },
+        {
+          "type": "portfolio",
+          "url": "https://harrisongportfolio.netlify.app/"
+        },
       ]
     },
     {
