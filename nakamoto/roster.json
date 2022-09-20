@@ -53,7 +53,12 @@
     },
     {
       "name": "Elliot Robinson",
-      "github": "eagrcode"
+      "github": "eagrcode",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Giulia Leoni",
