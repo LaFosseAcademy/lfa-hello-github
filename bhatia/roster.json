@@ -90,7 +90,16 @@
     },
     {
       "name" : "Callum Cheng",
-      "github": "CallumCheng"
+      "github": "CallumCheng",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "rcMWNSrXxbU"
+        }
+      ]
     },
      {
       "name" : "Nasim Ahmed",
