@@ -156,6 +156,10 @@
           "type": "cv"
         },
         {
+          "type": "portfolio",
+          "url": "https://uzair-akhtar-portfolio.netlify.app/"
+        },
+        {
           "type": "video",
           "url": "LElTFqPzOJo"
         }
