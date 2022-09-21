@@ -16,6 +16,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "LZEVH1dG3fg"
         }
       ]
     },
@@ -25,6 +29,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "fjCGOEMnjlU"
         }
       ]
     },
@@ -34,36 +42,90 @@
       "materials" : [
         {
           "type" : "cv"
+        },
+        {
+          "type": "video",
+          "url": "ugp2clURq8E"
         }
       ]
     },
     {
       "name" : "Jason Paul Brooks",
-      "github" : "madCakes"
+      "github" : "madCakes",
+      "materials": [
+        {
+          "type": "cv"
+        }, 
+        {
+          "type" : "video",
+          "url" : "mPbNDcbzJbU"
+        }
+      ]
     },
     {
       "name" : "Aggie Skorska",
-      "github" : "agiskorska"
+      "github" : "agiskorska",
+       "materials": [
+        {
+          "type": "cv"
+        }, 
+        {
+          "type" : "video",
+          "url" : "umyjt1m_Kc8"
+        }
+      ]
     },
     {
       "name" : "Edis Emin",
-      "github" : "edisemin"
+      "github" : "edisemin",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lyPeb7KQgJ4"
+        }
+      ]
     },
     {
       "name" : "Callum Cheng",
-      "github": "CallumCheng"
+      "github": "CallumCheng",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "rcMWNSrXxbU"
+        }
+      ]
     },
-     {
-      "name" : "Nasim Ahmed",
-      "github": "nasim1903"
-     },
      { 
       "name" : "Bishal Rai",
-      "github": "B9ary01"
+      "github": "B9ary01",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+         "type": "video",
+          "url": "yaHD_Ux1fTM"
+        } 
+      ]
     },
     {
       "name" : "John Pascual",
-      "github": "tsmjohnpascual"
+      "github": "tsmjohnpascual",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "akL-8HXp7QM"
+        }
+      ]
     },
     {
       "name" : "Michael Mercieca",
