@@ -44,6 +44,10 @@
           "type": "cv"
         },
         {
+          "type": "portfolio",
+          "url": "https://harrisongportfolio.netlify.app/"
+        },
+        {
           "type": "video",
           "url": "TI4Wvt3Mwzw"
         }
@@ -85,6 +89,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://vincentokolo.netlify.app/"
         },
         {
           "type": "video",
@@ -154,6 +162,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://uzair-akhtar-portfolio.netlify.app/"
         },
         {
           "type": "video",
