@@ -24,11 +24,12 @@
     },
     {
       "name": "Matthew Lo",
-      "github": "matthewlohl"
-    },
-    {
-      "name": "Shaeeb Ali",
-      "github": "shaeebali"
+      "github": "matthewlohl",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Duncan Cornish",
@@ -57,10 +58,6 @@
     {
       "name": "Stefan Mircea",
       "github": "Babole"
-    },
-    {
-      "name": "Michael Rodrigo Vinluan",
-      "github": "mike-rv"
     },
     {
       "name": "Camila Pessoa",

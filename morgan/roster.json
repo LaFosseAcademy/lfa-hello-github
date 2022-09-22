@@ -44,21 +44,12 @@
           "type": "cv"
         },
         {
-          "type": "video",
-          "url": "TI4Wvt3Mwzw"
-        }
-      ]
-    },
-    {
-      "name": "Dobre Daiana-Melania",
-      "github": "DDaiana",
-      "materials": [
-        {
-          "type": "cv"
+          "type": "portfolio",
+          "url": "https://harrisongportfolio.netlify.app/"
         },
         {
           "type": "video",
-          "url": "tZ6ogY95GbI"
+          "url": "TI4Wvt3Mwzw"
         }
       ]
     },
@@ -100,6 +91,10 @@
           "type": "cv"
         },
         {
+          "type": "portfolio",
+          "url": "https://vincentokolo.netlify.app/"
+        },
+        {
           "type": "video",
           "url": "jyoSgezWv-g"
         }
@@ -107,7 +102,16 @@
     },
     {
       "name": "Reece Thatcher",
-      "github": "reececilon"
+      "github": "reececilon",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "U3xwkrfGmK0"
+        }
+      ]
     },
     {
       "name": "Saamiya Yousuf",
@@ -124,7 +128,16 @@
     },
     {
       "name": "Thilakshan Balasubramaniam",
-      "github": "thilak9"
+      "github": "thilak9",
+      "materials":[ 
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "YYmShm1y5U8"
+        }
+      ]
     },
     {
       "name": "Allan Stocco",
@@ -149,6 +162,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://uzair-akhtar-portfolio.netlify.app/"
         },
         {
           "type": "video",

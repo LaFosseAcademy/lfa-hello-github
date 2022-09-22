@@ -38,7 +38,16 @@
     },
     {
       "name": "Nouria Chaouy",
-      "github": "NouriaC"
+      "github": "NouriaC",
+      "materials":[
+        {
+          "type":"cv"
+        },
+        {
+          "type":"video",
+          "url": "FiEviRtZJDU"
+        }
+      ]
     },
     {
       "name": "Matthew Richardson",
@@ -58,7 +67,7 @@
       "github": "steff880",
       "materials":[
         {
-          "type2": "cv"
+          "type": "cv"
         },
         {
           "type": "video",
@@ -68,37 +77,56 @@
     },
     {
       "name": "Joshua Warner",
-      "github": "JoshPWarner"
+      "github": "JoshPWarner",
+       "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "8XBWNcCSrF4"
+        }
+      ]
     },
     {
-      "name": "Sampurna Chapagain",
-      "github": "SampurnaC",
+      "name": "Karolina Quigley",
+      "github": "codingkompot",
       "materials": [
         {
           "type": "cv"
         },
         {
           "type": "video",
-          "url": "yWxb1pZiWo0"
+          "url": "mJm6G366W5o"
         }
       ]
     },
     {
-      "name": "Karolina Quigley",
-      "github": "codingkompot"
-    },
-    {
       "name": "Timothy Le",
-      "github": "Peesh98"
+      "github": "Peesh98",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "XRnZ1PNa0vE"
+        }
+      ]
     },
     {
       "name": "Sally Davey",
-      "github": "Sdev77"
+      "github": "Sdev77",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "smvFn7olxG0"
+        }
+      ]
     },
-     {
-       "name": "Aditi Parikh",
-       "github": "aditi2605"
-     },
     {
        "name": "James Thompson",
        "github": "jamesthompson02",
@@ -114,11 +142,16 @@
      },
      {
       "name": "Josh Bankole-Williams",
-      "github": "sknvbj"
-     },
-     {
-      "name": "Hassan Naeem",
-      "github": "HassanEng12345"
+      "github": "sknvbj",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "6MaOC3zE1uw"
+        }
+       ]
      }
   ]
   
