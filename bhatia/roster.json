@@ -119,6 +119,9 @@
       "github" : "Mike-Mercieca",
       "materials" : [
         {
+          "type": "cv"
+        },
+        {
           "type" : "video",
           "url" : "HQQpmIS7qbM"
         }
