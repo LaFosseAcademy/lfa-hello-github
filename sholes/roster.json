@@ -9,7 +9,23 @@
         }      ]
     },
   
-    "students": [
-    ]
+    "students": [{
+      "name": "Young Kim",
+      "project": "",
+      "imageUrl": "",
+      "materials": [
+        {
+          "type": "portfolio",
+          "url": ""
+        },
+        {
+          "type": "video",
+          "url": ""
+        },
+        {
+          "type": "cv"
+        }
+      ]
+    }]
   }
   
