@@ -10,6 +10,10 @@
     },
   
     "students": [
+      {
+        "name": "Mason Dietrich",
+        "github": "Arqestra"
+      }
     ]
   }
   
