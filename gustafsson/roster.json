@@ -48,7 +48,12 @@
     },
     {
       "name": "Ahmed Muhammed",
-      "github": "Ahmed78613"
+      "github": "Ahmed78613",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kai Yu Leung",

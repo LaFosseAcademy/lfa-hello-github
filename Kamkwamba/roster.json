@@ -1,0 +1,18 @@
+{
+  "namesake": {
+    "name": "William Kamkwamba",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6611561?s=280&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+   "students": [
+            {
+                "name": "Liam Brock",
+                "github": "liambrockpy"
+            }
+        ]
+}
