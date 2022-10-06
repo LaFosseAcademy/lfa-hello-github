@@ -11,24 +11,9 @@
   
     "students": [
       {
-<<<<<<< HEAD
         "name": "Mason Dietrich",
         "github": "Arqestra"
-      }
-=======
-        "name": "Young Kim",
-        "github": "CKIMM7"
-      },
-      {
-        "name": "Bradley Gichangi",
-        "github": "bradgichangi"
-      },
-      {
-        "name": "Abdul Kamara",
-        "github": "abdul-san"
-      }
-
->>>>>>> c1baf7d0bb3a62764e795569fb71154c9e9f0266
-    ]
+      } ]
+    
   }
   
