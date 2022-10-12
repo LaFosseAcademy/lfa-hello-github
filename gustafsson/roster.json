@@ -53,7 +53,12 @@
     },
     {
       "name": "Kai Yu Leung",
-      "github": "kaiyuleung"
+      "github": "kaiyuleung",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Thamiem Noori ",
