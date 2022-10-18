@@ -20,7 +20,17 @@
     },
     {
       "name": "Isobel Melvin",
-      "github": "Littlerou"
+      "github": "Littlerou",
+      "materials": [
+        {
+          "type": "cv"
+          
+        },
+        {
+          "type": "video",
+          "url": "https://youtu.be/8axhE_oXza4"
+        }
+      ]
     },
     {
       "name": "Matthew Lo",
