@@ -16,7 +16,12 @@
     },
     {
       "name": "Bradley Neve",
-      "github": "bradneve"
+      "github": "bradneve",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Isobel Melvin",
