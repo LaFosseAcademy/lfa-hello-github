@@ -45,7 +45,16 @@
     },
     {
       "name": "Zulaika Ali",
-      "github": "zulaika-a"
+      "github": "zlka",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1h-FXfLKuCs"
+        }
+      ]
     },
     {
       "name": "Karl Dudley",
