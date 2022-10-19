@@ -20,6 +20,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=I8ygNvKj9RY&ab_channel=futureproof"
         }
       ]
     },
