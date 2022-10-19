@@ -57,7 +57,16 @@
     },
     {
       "name": "Camila Pessoa",
-      "github": "Nevashka"
+      "github": "Nevashka",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZS4J2oxupEA"
+        }
+      ]
     }
   ]
 }
