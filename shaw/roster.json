@@ -28,6 +28,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "OOPTyzFijYU"
         }
       ]
     },
@@ -41,11 +45,33 @@
     },
     {
       "name": "Zulaika Ali",
-      "github": "zulaika-a"
+      "github": "zlka",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1h-FXfLKuCs"
+        }
+      ]
     },
     {
       "name": "Karl Dudley",
-      "github": "karldudley"
+      "github": "karldudley",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "tPMRWMvZiB0"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://karl-fp-portfolio.netlify.app/"
+        }
+      ]
     },
     {
       "name": "Ayokunmi Soyannwo",
@@ -57,7 +83,16 @@
     },
     {
       "name": "Camila Pessoa",
-      "github": "Nevashka"
+      "github": "Nevashka",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZS4J2oxupEA"
+        }
+      ]
     }
   ]
 }
