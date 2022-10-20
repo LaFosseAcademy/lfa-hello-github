@@ -56,7 +56,16 @@
     },
     {
       "name": "Duncan Cornish",
-      "github": "duncancornish"
+      "github": "duncancornish",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "nJpTXh1i9kw"
+        }
+      ]
     },
     {
       "name": "Syedul Jakerin Ahmed",
