@@ -41,7 +41,16 @@
     },
     {
       "name": "Syedul Jakerin Ahmed",
-      "github": "jakerinahmed"
+      "github": "jakerinahmed",
+      "materials" : [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "fkWlWKt-oGc"
+        }
+      ]
     },
     {
       "name": "Zulaika Ali",
