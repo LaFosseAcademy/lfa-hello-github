@@ -12,7 +12,16 @@
   "students": [
     {
       "name": "Liam Bolton",
-      "github": "Leehamb99"
+      "github": "Leehamb99",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "GY-dHymKJsg"
+        }
+      ]
     },
     {
       "name": "Bradley Neve",
