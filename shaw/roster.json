@@ -25,7 +25,16 @@
     },
     {
       "name": "Bradley Neve",
-      "github": "bradneve"
+      "github": "bradneve",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "I8ygNvKj9RY"
+        }
+      ]
     },
     {
       "name": "Isobel Melvin",
