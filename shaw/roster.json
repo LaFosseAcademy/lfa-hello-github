@@ -125,7 +125,16 @@
     },
     {
       "name": "Stefan Mircea",
-      "github": "Babole"
+      "github": "Babole",
+      "materials" : [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "KpMx27VDnWk"
+        }
+      ]
     },
     {
       "name": "Camila Pessoa",
