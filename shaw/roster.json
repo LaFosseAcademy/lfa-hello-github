@@ -121,7 +121,16 @@
     },
     {
       "name": "Ayokunmi Soyannwo",
-      "github": "AyokunmiSoyannwo"
+      "github": "Mounaiyk",
+      "materials": [
+        {
+          "type":"cv"
+        },
+        {
+          "type":"video",
+          "url":"DFZlENdVgtc"
+        }
+       ]
     },
     {
       "name": "Stefan Mircea",
