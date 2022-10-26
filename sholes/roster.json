@@ -12,7 +12,8 @@
     "students": [
       {
         "name": "Young Kim",
-        "github": "CKIMM7"
+        "github": "CKIMM7",
+        "materials": [{"type2":"CV"}]
       },
       {
         "name": "Bradley Gichangi",
