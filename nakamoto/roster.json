@@ -134,7 +134,16 @@
     },
     { 
       "name": "Samuele Pagano", 
-      "github": "Samupaga"
+      "github": "Samupaga", 
+      "materials": [
+        {
+          "type": "cv"
+        }, 
+        {
+          "type": "video", 
+          "url": "XKuXAo-iCVk"
+        }
+      ]
     },
     {
       "name": "Felix Saiz",
