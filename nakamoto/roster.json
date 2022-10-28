@@ -62,7 +62,12 @@
     },
     {
       "name": "Giulia Leoni",
-      "github": "GiuliaLeoni"
+      "github": "GiuliaLeoni",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     { 
       "name": "Samuele Pagano", 
