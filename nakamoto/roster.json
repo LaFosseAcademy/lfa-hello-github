@@ -13,7 +13,16 @@
   "students" : [
     {
       "name": "Chiara De Matteis",
-      "github": "ChiaraDM"
+      "github": "ChiaraDM",
+      "materials" : [
+        {
+          "type" : "cv"
+        },
+        {
+          "type" : "video",
+          "url" : "eYCEcjGySHg"
+        }
+      ]
     },
     {
       "name": "Jamie Hitch",
