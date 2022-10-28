@@ -104,7 +104,16 @@
     },
     {
       "name": "Kai Stevens",
-      "github": "Kai-Stevens"
+      "github": "Kai-Stevens",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Yl1jrDhzp8E"
+        }
+      ]
     },
     {
       "name": "Beth Field",
