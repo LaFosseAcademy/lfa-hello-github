@@ -17,7 +17,16 @@
     },
     {
       "name": "Jamie Hitch",
-      "github": "Jamie-Hitch"
+      "github": "Jamie-Hitch",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "yIHzezpQ6to"
+        }
+      ]
     },
     {
       "name": "Mourad Lasga Terceras",
