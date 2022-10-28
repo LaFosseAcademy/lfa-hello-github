@@ -34,7 +34,16 @@
     },
     {
         "name": "Emma Marks",
-        "github": "emmamarks27"
+        "github": "emmamarks27",
+        "materials" : [
+          {
+            "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "p997gJPbftg"
+          }
+        ]
     },
     {
         "name": "Edison Andres Carrasco Molina",
