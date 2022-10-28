@@ -64,7 +64,16 @@
     },
     {
       "name": "Ryan Ung",
-      "github": "ryanung1"
+      "github": "ryanung1",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9hQXil1fR9I"
+        }
+      ]
     },
     {
       "name": "Kai Stevens",
