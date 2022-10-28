@@ -45,7 +45,16 @@
     },
     {
       "name": "Beth Field",
-      "github": "BethField"
+      "github": "BethField",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+         "type": "video",
+          "url": "https://www.youtube.com/watch?v=ac-jJPTaSeM"
+        }
+      ]
     },
     {
       "name": "Khamarl Christie",
