@@ -21,7 +21,16 @@
     },
     {
       "name": "Mourad Lasga Terceras",
-      "github": "MCXpak"
+      "github": "MCXpak",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "XX8ujtahql4"
+        }
+      ]
     },
     {
         "name": "Emma Marks",
