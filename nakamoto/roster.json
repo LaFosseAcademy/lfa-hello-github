@@ -78,7 +78,16 @@
     },
     {
       "name": "Ayesha Rahim",
-      "github": "ayesha-24"
+      "github": "ayesha-24",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "csDlxgCSWTc"
+        }
+      ]
     },
     {
       "name": "Ryan Ung",
