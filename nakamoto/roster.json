@@ -58,7 +58,12 @@
     },
     {
       "name": "Khamarl Christie",
-      "github": "Khamarl"
+      "github": "Khamarl",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Elliot Robinson",
