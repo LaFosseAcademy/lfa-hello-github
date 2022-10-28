@@ -124,8 +124,16 @@
     },
     { 
       "name": "Vanessa Aglagoh", 
-      "github": "vaglag"
+      "github": "vaglag",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "VqKezMHUpaI"
+        }
+      ]
     }
-
   ]
 }
