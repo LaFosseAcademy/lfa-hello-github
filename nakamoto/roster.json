@@ -29,7 +29,16 @@
     },
     {
         "name": "Edison Andres Carrasco Molina",
-        "github": "andrescm1998"
+        "github": "andrescm1998",
+        "materials": [
+          {
+            "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "IEn3RCeYtK4"
+          }
+        ]
     },
     {
       "name": "Ayesha Rahim",
