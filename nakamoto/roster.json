@@ -70,7 +70,12 @@
     },
     {
       "name": "Felix Saiz",
-      "github": "fsaiz97"
+      "github": "fsaiz97",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     { 
       "name": "Vanessa Aglagoh", 
