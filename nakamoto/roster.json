@@ -13,31 +13,94 @@
   "students" : [
     {
       "name": "Chiara De Matteis",
-      "github": "ChiaraDM"
+      "github": "ChiaraDM",
+      "materials" : [
+        {
+          "type" : "cv"
+        },
+        {
+          "type" : "video",
+          "url" : "eYCEcjGySHg"
+        }
+      ]
     },
     {
       "name": "Jamie Hitch",
-      "github": "Jamie-Hitch"
+      "github": "Jamie-Hitch",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "yIHzezpQ6to"
+        }
+      ]
     },
     {
       "name": "Mourad Lasga Terceras",
-      "github": "MCXpak"
+      "github": "MCXpak",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "XX8ujtahql4"
+        }
+      ]
     },
     {
         "name": "Emma Marks",
-        "github": "emmamarks27"
+        "github": "emmamarks27",
+        "materials" : [
+          {
+            "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "p997gJPbftg"
+          }
+        ]
     },
     {
         "name": "Edison Andres Carrasco Molina",
-        "github": "andrescm1998"
+        "github": "andrescm1998",
+        "materials": [
+          {
+            "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "IEn3RCeYtK4"
+          }
+        ]
     },
     {
       "name": "Ayesha Rahim",
-      "github": "ayesha-24"
+      "github": "ayesha-24",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "csDlxgCSWTc"
+        }
+      ]
     },
     {
       "name": "Ryan Ung",
-      "github": "ryanung1"
+      "github": "ryanung1",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9hQXil1fR9I"
+        }
+      ]
     },
     {
       "name": "Kai Stevens",
@@ -58,7 +121,12 @@
     },
     {
       "name": "Khamarl Christie",
-      "github": "Khamarl"
+      "github": "Khamarl",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Elliot Robinson",
