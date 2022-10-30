@@ -32,7 +32,10 @@
       },
       { 
         "name": "Anna Huang",
-        "github": "anaxz"
+        "github": "anaxz",
+        "materials": [{
+            "type2": "cv"
+          }]    
       },
       {
         "name": "Cameron Findlay",
