@@ -165,7 +165,16 @@
     },
     {
       "name": "Felix Saiz",
-      "github": "fsaiz97"
+      "github": "fsaiz97",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+            "type": "video",
+            "url": "j1htjun3UaI"
+        }
+      ]
     },
     { 
       "name": "Vanessa Aglagoh", 
