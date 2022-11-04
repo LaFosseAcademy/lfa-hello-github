@@ -9,28 +9,32 @@
       }
     ]
   },
-   "students": [
-            {
-                "name": "Liam Brock",
-                "github": "liambrockpy"
-            },
-            {
-                "name": "Adam Dowsett",
-                "github": "Adam-Dowsett"
-            },
-            {
-                "name": "Adam Minchella",
-                "github": "adamminchella"
-            },
-            {
-                "name": "Russell Ampomah",
-                "github": "rnba12",
-            },
-            {
-              "name": "Mizna Uppal",
-              "github": "mizupp"
-            },
-            {
+  "students": [
+    {
+      "name": "Liam Brock",
+      "github": "liambrockpy"
+    },
+    {
+      "name": "Adam Dowsett",
+      "github": "Adam-Dowsett"
+    },
+    {
+      "name": "Adam Minchella",
+      "github": "adamminchella"
+    },
+    {
+      "name": "Russell Ampomah",
+      "github": "rnba12"
+    },
+    {
+      "name": "Mizna Uppal",
+      "github": "mizupp"
+    },
+    {
+    "name": "Pollyanna Fenne"
+    "github": "PollyFenne
+    },
+    {
               "name": "Joshua Phan",
               "github": "JLP2000"
             }
