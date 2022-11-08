@@ -12,15 +12,43 @@
   "students": [
     {
       "name": "Liam Bolton",
-      "github": "Leehamb99"
+      "github": "Leehamb99",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "GY-dHymKJsg"
+        }
+      ]
     },
     {
       "name": "Bradley Neve",
-      "github": "bradneve"
+      "github": "bradneve",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "I8ygNvKj9RY"
+        }
+      ]
     },
     {
       "name": "Isobel Melvin",
-      "github": "Littlerou"
+      "github": "Littlerou",
+      "materials": [
+        {
+          "type": "cv"
+          
+        },
+        {
+          "type": "video",
+          "url": "8axhE_oXza4"
+        }
+      ]
     },
     {
       "name": "Matthew Lo",
@@ -28,36 +56,107 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "OOPTyzFijYU"
         }
       ]
     },
     {
       "name": "Duncan Cornish",
-      "github": "duncancornish"
+      "github": "duncancornish",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "nJpTXh1i9kw"
+        }
+      ]
     },
     {
       "name": "Syedul Jakerin Ahmed",
-      "github": "jakerinahmed"
+      "github": "jakerinahmed",
+      "materials" : [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "fkWlWKt-oGc"
+        }
+      ]
     },
     {
       "name": "Zulaika Ali",
-      "github": "zulaika-a"
+      "github": "zlka",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1h-FXfLKuCs"
+        }
+      ]
     },
     {
       "name": "Karl Dudley",
-      "github": "karldudley"
+      "github": "karldudley",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "tPMRWMvZiB0"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://karl-fp-portfolio.netlify.app/"
+        }
+      ]
     },
     {
       "name": "Ayokunmi Soyannwo",
-      "github": "AyokunmiSoyannwo"
+      "github": "Mounaiyk",
+      "materials": [
+        {
+          "type":"cv"
+        },
+        {
+          "type":"video",
+          "url":"DFZlENdVgtc"
+        }
+       ]
     },
     {
       "name": "Stefan Mircea",
-      "github": "Babole"
+      "github": "Babole",
+      "materials" : [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "KpMx27VDnWk"
+        }
+      ]
     },
     {
       "name": "Camila Pessoa",
-      "github": "Nevashka"
+      "github": "Nevashka",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ZS4J2oxupEA"
+        }
+      ]
     }
   ]
 }

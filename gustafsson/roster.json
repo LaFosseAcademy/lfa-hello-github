@@ -44,10 +44,6 @@
       "github": "ammipw"
     },
     {
-      "name": "Taher Khatieb",
-      "github": "Tca0"
-    },
-    {
       "name": "Ahmed Muhammed",
       "github": "Ahmed78613",
       "materials": [
@@ -58,10 +54,15 @@
     },
     {
       "name": "Kai Yu Leung",
-      "github": "kaiyuleung"
+      "github": "kaiyuleung",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
-      "name": "Thamiem Noori ",
+      "name": "Thamiem Noori",
       "github": "thamiem-n"
     },
     {
