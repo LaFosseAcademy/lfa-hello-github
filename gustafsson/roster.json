@@ -28,7 +28,12 @@
     },
     {
       "name": "Brendan Joseph Geoghegan",
-      "github": "Brendan-Geoghegan"
+      "github": "Brendan-Geoghegan",
+      "materials":[
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Oliver Catelan-Robinson",
