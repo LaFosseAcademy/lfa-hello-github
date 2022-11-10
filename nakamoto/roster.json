@@ -143,10 +143,6 @@
       "materials": [
         {
           "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "https://youtu.be/UI9kasPxRcg"
         }
       ]
     },
@@ -156,6 +152,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "UI9kasPxRcg"
         }
       ]
     },
