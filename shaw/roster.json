@@ -97,9 +97,13 @@
           "type": "cv"
         },
         {
+          "type": "portfolio",
+          "url": "https://zulaika.netlify.app/"
+        },
+        {
           "type": "video",
           "url": "1h-FXfLKuCs"
-        }
+        } 
       ]
     },
     {
