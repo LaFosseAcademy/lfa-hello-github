@@ -81,7 +81,16 @@
     },
     {
       "name": "George Wood",
-      "github": "georgewood749"
+      "github": "georgewood749",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=rX-mFzsmwPU"
+        }
+      ]
     },
     {
       "name": "Kornelia Oles",
