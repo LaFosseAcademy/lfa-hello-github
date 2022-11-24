@@ -51,7 +51,16 @@
     },
     {
       "name": "Oliver Catelan-Robinson",
-      "github": "oscr1998"
+      "github": "oscr1998",
+       "materials":[
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "U6mfGLOCH_M"
+        }
+      ]
     },
     {
       "name": "Ami Baruwa-Etti",
