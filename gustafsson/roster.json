@@ -20,7 +20,12 @@
     },
     {
       "name": "Aimy Varghese",
-      "github": "aimyv"
+      "github": "aimyv",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dave Siddle",
