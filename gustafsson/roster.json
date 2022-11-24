@@ -24,7 +24,12 @@
     },
     {
       "name": "Dave Siddle",
-      "github": "siddav83"
+      "github": "siddav83",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Brendan Joseph Geoghegan",
