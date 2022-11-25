@@ -16,7 +16,16 @@
     },
     {
       "name": "Sean Millington",
-      "github": "Keeshaune"
+      "github": "Keeshaune",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "z0lEfWGt_2o"
+        }
+      ]
     },
     {
       "name": "Aimy Varghese",
