@@ -20,7 +20,16 @@
     },
     {
       "name": "Aimy Varghese",
-      "github": "aimyv"
+      "github": "aimyv",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "TEt0fWRapqo"
+        }
+      ]
     },
     {
       "name": "Dave Siddle",
@@ -37,11 +46,29 @@
     },
     {
       "name": "Brendan Joseph Geoghegan",
-      "github": "Brendan-Geoghegan"
+      "github": "Brendan-Geoghegan",
+      "materials":[
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "0Lcgc7HIWPQ"
+        }
+      ]
     },
     {
       "name": "Oliver Catelan-Robinson",
-      "github": "oscr1998"
+      "github": "oscr1998",
+       "materials":[
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "U6mfGLOCH_M"
+        }
+      ]
     },
     {
       "name": "Ami Baruwa-Etti",
@@ -53,6 +80,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "HHQJhzdPZD4"
         }
       ]
     },
@@ -62,6 +93,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "xcAVi0H0rGI"
         }
       ]
     },
@@ -75,7 +110,16 @@
     },
     {
       "name": "George Wood",
-      "github": "georgewood749"
+      "github": "georgewood749",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "rX-mFzsmwPU"
+        }
+      ]
     },
     {
       "name": "Kornelia Oles",

@@ -143,12 +143,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "qDuddSiA3uU"
         }
       ]
     },
     {
       "name": "Giulia Leoni",
-      "github": "GiuliaLeoni"
+      "github": "GiuliaLeoni",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "UI9kasPxRcg"
+        }
+      ]
     },
     { 
       "name": "Samuele Pagano", 
