@@ -72,7 +72,16 @@
     },
     {
       "name": "Ami Baruwa-Etti",
-      "github": "ammipw"
+      "github": "ammipw",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "70dR2yczDvU"
+        }
+      ]
     },
     {
       "name": "Ahmed Muhammed",
