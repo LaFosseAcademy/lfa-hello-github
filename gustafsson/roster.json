@@ -102,7 +102,16 @@
     },
     {
       "name": "Thamiem Noori",
-      "github": "thamiem-n"
+      "github": "thamiem-n",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "W9EZkZeDOk0"
+        }
+      ]
     },
     {
       "name": "Peter Edwards",
