@@ -132,7 +132,16 @@
     },
     {
       "name": "Kornelia Oles",
-      "github": "kroles1"
+      "github": "kroles1",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "XK-K7adgusk"
+        }
+      ]
     }
   ]
 }
