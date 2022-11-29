@@ -141,9 +141,18 @@
       ]
     },
     {
-      "name": "Peter Edwards",
-      "github": "GimmeDaLute"
-    },
+       "name": "Peter Edwards",
+       "github": "GimmeDaLute",
+       "materials": [
+         {
+           "type": "cv"
+         },
+         {
+           "type": "video",
+           "url": "kZeqkLSp1u8"
+         }
+       ]
+     },
     {
       "name": "George Wood",
       "github": "georgewood749",
