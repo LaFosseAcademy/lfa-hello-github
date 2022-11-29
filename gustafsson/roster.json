@@ -12,7 +12,16 @@
   "students": [
     {
       "name": "Matt Chan",
-      "github": "MattChan96"
+      "github": "MattChan96",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ccpNruRQgvo"
+        }
+        ]
     },
     {
       "name": "Sean Millington",
