@@ -39,7 +39,10 @@
       },
       {
         "name": "Cameron Findlay",
-        "github": "Findlay20"
+        "github": "Findlay20",
+        "materials": [{
+          "type": "cv"
+        }]
       },
       {
         "name":"Adedayo Titiloye",
