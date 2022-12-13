@@ -1,50 +1,60 @@
 {
-    "namesake": {
-      "name": "Christopher Sholes",
-      "imageUrl": "https://avatars.githubusercontent.com/t/6649436?s=280&v=4",
-      "materials": [
-        {
-          "type": "video",
-          "url": ""
-        }      ]
-    },
-  
-    "students": [
+  "namesake": {
+    "name": "Christopher Sholes",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6649436?s=280&v=4",
+    "materials": [
       {
-        "name": "Young Kim",
-        "github": "CKIMM7"
-      },
-      {
-        "name": "Bradley Gichangi",
-        "github": "bradgichangi"
-      },
-      {
-        "name": "Kelechi Okoli",
-        "github": "mrkstechs"
-      },
-      {
-        "name": "Abdul Kamara",
-        "github": "abdul-san"
-      },
-      { 
-        "name": "Mason Dietrich",
-        "github": "Arqestra"
-      },
-      { 
-        "name": "Anna Huang",
-        "github": "anaxz",
-        "materials": [{
-            "type": "cv"
-          }]    
-      },
-      {
-        "name": "Cameron Findlay",
-        "github": "Findlay20"
-      },
-      {
-        "name":"Adedayo Titiloye",
-        "github": "DayoTitiloye-code"
+        "type": "video",
+        "url": ""
       }
     ]
-  }
-  
+  },
+  "students": [
+    {
+      "name": "Young Kim",
+      "github": "CKIMM7"
+    },
+    {
+      "name": "Bradley Gichangi",
+      "github": "bradgichangi"
+    },
+    {
+      "name": "Kelechi Okoli",
+      "github": "mrkstechs"
+    },
+    {
+      "name": "Abdul Kamara",
+      "github": "abdul-san"
+    },
+    {
+      "name": "Mason Dietrich",
+      "github": "Arqestra",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M47i9k2AR3k"
+        }
+      ]
+    },
+    {
+      "name": "Anna Huang",
+      "github": "anaxz",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Cameron Findlay",
+      "github": "Findlay20"
+    },
+    {
+      "name": "Adedayo Titiloye",
+      "github": "DayoTitiloye-code"
+    }
+  ]
+}
