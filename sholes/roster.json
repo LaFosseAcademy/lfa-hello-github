@@ -15,7 +15,11 @@
         "github": "CKIMM7",
         "materials": [
           {
-            "type2":"CV"
+            "type":"CV"
+          },
+          {
+            "type":"video",
+            "url": "https://youtu.be/dddrxqmlBJs"
           }
         ]
       },
@@ -37,7 +41,10 @@
       },
       { 
         "name": "Anna Huang",
-        "github": "anaxz"
+        "github": "anaxz",
+        "materials": [{
+            "type": "cv"
+          }]    
       },
       {
         "name": "Cameron Findlay",
