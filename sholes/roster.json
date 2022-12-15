@@ -24,7 +24,13 @@
       },
       {
         "name": "Abdul Kamara",
-        "github": "abdul-san"
+        "github": "abdul-san",
+        "materials": [
+          {
+            "type2": "cv",
+            "type": "video",
+            "url": "https://youtu.be/e80xdyx5g-o"
+          }      ]
       },
       { 
         "name": "Mason Dietrich",
