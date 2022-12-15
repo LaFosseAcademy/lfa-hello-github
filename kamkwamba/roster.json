@@ -16,7 +16,12 @@
     },
     {
       "name": "Adam Dowsett",
-      "github": "Adam-Dowsett"
+      "github": "Adam-Dowsett",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Adam Minchella",
