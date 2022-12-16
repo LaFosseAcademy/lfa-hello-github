@@ -32,7 +32,12 @@
     },
     {
     "name": "Pollyanna Fenne",
-    "github": "PollyFenne"
+    "github": "PollyFenne",
+    "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
      "name": "Joshua Phan",
