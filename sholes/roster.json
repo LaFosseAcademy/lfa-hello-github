@@ -16,7 +16,16 @@
       },
       {
         "name": "Bradley Gichangi",
-        "github": "bradgichangi"
+        "github": "bradgichangi",
+        "materials": [
+          {
+            "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "0X6c2JRrJNU"
+          }
+        ]
       },
       {
         "name": "Kelechi Okoli",
