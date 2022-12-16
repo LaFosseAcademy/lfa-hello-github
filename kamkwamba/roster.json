@@ -25,7 +25,10 @@
     },
     {
       "name": "Adam Minchella",
-      "github": "adamminchella"
+      "github": "adamminchella",
+      "materials": [
+        {"type": "cv"}
+      ]
     },
     {
       "name": "Russell Ampomah",
