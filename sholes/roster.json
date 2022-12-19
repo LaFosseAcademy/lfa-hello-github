@@ -37,7 +37,16 @@
       },
       { 
         "name": "Mason Dietrich",
-        "github": "Arqestra"
+        "github": "Arqestra",
+        "materials": [
+          {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M47i9k2AR3k"
+        }
+      ]
       },
       { 
         "name": "Anna Huang",
