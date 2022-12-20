@@ -36,7 +36,13 @@
     },
     {
       "name": "Mizna Uppal",
-      "github": "mizupp"
+      "github": "mizupp",
+      "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
     },
     {
     "name": "Pollyanna Fenne",
