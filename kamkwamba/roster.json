@@ -16,11 +16,19 @@
     },
     {
       "name": "Adam Dowsett",
-      "github": "Adam-Dowsett"
+      "github": "Adam-Dowsett",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Adam Minchella",
-      "github": "adamminchella"
+      "github": "adamminchella",
+      "materials": [
+        {"type": "cv"}
+      ]
     },
     {
       "name": "Russell Ampomah",
@@ -32,7 +40,12 @@
     },
     {
     "name": "Pollyanna Fenne",
-    "github": "PollyFenne"
+    "github": "PollyFenne",
+    "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
      "name": "Joshua Phan",
