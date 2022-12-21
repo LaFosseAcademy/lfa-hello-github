@@ -38,11 +38,14 @@
       "name": "Mizna Uppal",
       "github": "mizupp",
       "materials": [
-      {
-        "type": "video",
-        "url": ""
-      }
-    ]
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
     "name": "Pollyanna Fenne",
