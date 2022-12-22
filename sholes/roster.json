@@ -41,10 +41,13 @@
         "github": "abdul-san",
         "materials": [
           {
-            "type2": "cv",
-            "type": "video",
-            "url": "e80xdyx5g-o"
-          }      ]
+            "type": "cv"
+          },
+          {
+          "type": "video",
+          "url": "e80xdyx5g-o"
+          }      
+      ]
       },
       { 
         "name": "Mason Dietrich",
