@@ -12,7 +12,16 @@
     "students": [
       {
         "name": "Young Kim",
-        "github": "CKIMM7"
+        "github": "CKIMM7",
+        "materials": [
+          {
+            "type":"CV"
+          },
+          {
+            "type":"video",
+            "url": "dddrxqmlBJs"
+          }
+        ]
       },
       {
         "name": "Bradley Gichangi",
