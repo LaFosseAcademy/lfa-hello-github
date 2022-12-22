@@ -89,11 +89,15 @@
       {
         "name":"Adedayo Titiloye",
         "github": "DayoTitiloye-code",
-        "materials": [{
-            "type":"cv",
-            "type2": "video",
+        "materials": [
+          {
+            "type":"cv"
+          },
+          {
+            "type": "video",
             "url": "85Nde-75gcQ"
-        }]
+          }
+        ]
       }
     ]
   }
