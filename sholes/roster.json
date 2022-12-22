@@ -25,7 +25,16 @@
       },
       {
         "name": "Bradley Gichangi",
-        "github": "bradgichangi"
+        "github": "bradgichangi",
+        "materials": [
+          {
+            "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "0X6c2JRrJNU"
+          }
+        ]
       },
       {
         "name": "Kelechi Okoli",
@@ -33,26 +42,59 @@
       },
       {
         "name": "Abdul Kamara",
-        "github": "abdul-san"
+        "github": "abdul-san",
+        "materials": [
+          {
+            "type2": "cv",
+            "type": "video",
+            "url": "e80xdyx5g-o"
+          }      ]
       },
       { 
         "name": "Mason Dietrich",
-        "github": "Arqestra"
+        "github": "Arqestra",
+        "materials": [
+          {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M47i9k2AR3k"
+        }
+      ]
       },
       { 
         "name": "Anna Huang",
         "github": "anaxz",
         "materials": [{
             "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "drvQAtbSZvw"
           }]    
       },
       {
         "name": "Cameron Findlay",
-        "github": "Findlay20"
+        "github": "Findlay20",
+        "materials": [
+          {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "w--tgiOYkrs"
+        }
+      ]
       },
       {
         "name":"Adedayo Titiloye",
-        "github": "DayoTitiloye-code"
+        "github": "DayoTitiloye-code",
+        "materials": [{
+            "type":"cv",
+            "type2": "video",
+            "url": "85Nde-75gcQ"
+        }]
       }
     ]
   }

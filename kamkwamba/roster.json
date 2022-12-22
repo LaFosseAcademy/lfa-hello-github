@@ -1,0 +1,59 @@
+{
+  "namesake": {
+    "name": "William Kamkwamba",
+    "imageUrl": "https://avatars.githubusercontent.com/t/6611561?s=280&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Liam Brock",
+      "github": "liambrockpy"
+    },
+    {
+      "name": "Adam Dowsett",
+      "github": "Adam-Dowsett",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Adam Minchella",
+      "github": "adamminchella",
+      "materials": [
+        {"type": "cv"}
+      ]
+    },
+    {
+      "name": "Russell Ampomah",
+      "github": "rnba12"
+    },
+    {
+      "name": "Mizna Uppal",
+      "github": "mizupp"
+    },
+    {
+    "name": "Pollyanna Fenne",
+    "github": "PollyFenne",
+    "materials": [
+      {
+        "type": "cv"
+      }
+    ]
+    },
+    {
+     "name": "Joshua Phan",
+     "github": "JLP2000"
+    },
+    {
+    "name": "Sheena Diep",
+    "github": "shedp"
+    }
+   ]
+}
