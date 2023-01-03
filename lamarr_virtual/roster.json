@@ -11,8 +11,12 @@
   },
   "students": [
     {
-      "name": "",
-      "github": ""
+      "name": "Mohamed Abdalla",
+      "github": "Mohakim231"
+    },
+    {
+      "name": "Charlie Thurlow",
+      "github": "CharliePT"
     }
   ]
 }

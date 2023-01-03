@@ -12,7 +12,16 @@
     "students": [
       {
         "name": "Young Kim",
-        "github": "CKIMM7"
+        "github": "CKIMM7",
+        "materials": [
+          {
+            "type":"CV"
+          },
+          {
+            "type":"video",
+            "url": "dddrxqmlBJs"
+          }
+        ]
       },
       {
         "name": "Bradley Gichangi",
@@ -28,12 +37,17 @@
         ]
       },
       {
-        "name": "Kelechi Okoli",
-        "github": "mrkstechs"
-      },
-      {
         "name": "Abdul Kamara",
-        "github": "abdul-san"
+        "github": "abdul-san",
+        "materials": [
+          {
+            "type": "cv"
+          },
+          {
+          "type": "video",
+          "url": "e80xdyx5g-o"
+          }      
+      ]
       },
       { 
         "name": "Mason Dietrich",
@@ -53,6 +67,10 @@
         "github": "anaxz",
         "materials": [{
             "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "drvQAtbSZvw"
           }]    
       },
       {
@@ -71,11 +89,15 @@
       {
         "name":"Adedayo Titiloye",
         "github": "DayoTitiloye-code",
-        "materials": [{
-            "type":"cv",
-            "type2": "video",
+        "materials": [
+          {
+            "type":"cv"
+          },
+          {
+            "type": "video",
             "url": "85Nde-75gcQ"
-        }]
+          }
+        ]
       }
     ]
   }
