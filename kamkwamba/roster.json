@@ -12,7 +12,16 @@
   "students": [
     {
       "name": "Liam Brock",
-      "github": "liambrockpy"
+      "github": "liambrockpy",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=xPL2HypAJEs"
+        }
+      ]
     },
     {
       "name": "Adam Dowsett",
