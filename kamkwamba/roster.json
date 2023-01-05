@@ -58,7 +58,16 @@
     },
     {
     "name": "Sheena Diep",
-    "github": "shedp"
+    "github": "shedp",
+    "materials": [
+      {
+        "type": "cv"
+      },
+      {
+        "type": "video",
+        "url": "nUt1JGOGO8Y"
+      }
+    ]
     }
    ]
 }
