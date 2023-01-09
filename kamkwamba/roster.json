@@ -48,7 +48,9 @@
     "github": "PollyFenne",
     "materials": [
       {
-        "type": "cv"
+        "type": "cv",
+        "type": "video",
+        "url": "https://youtu.be/YUt5nttS7WI"
       }
     ]
     },
