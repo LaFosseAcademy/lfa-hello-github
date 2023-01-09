@@ -27,7 +27,14 @@
       "name": "Adam Minchella",
       "github": "adamminchella",
       "materials": [
-        {"type": "cv"}
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QQtIUfLtQhc"
+        }
+
       ]
     },
     {
