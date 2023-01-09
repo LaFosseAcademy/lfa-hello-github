@@ -29,7 +29,10 @@
     },
     {
       "name": "Adam Minchella",
-      "github": "adamminchella"
+      "github": "adamminchella",
+      "materials": [
+        {"type": "cv"}
+      ]
     },
     {
       "name": "Russell Ampomah",
@@ -37,11 +40,21 @@
     },
     {
       "name": "Mizna Uppal",
-      "github": "mizupp"
+      "github": "mizupp",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
     "name": "Pollyanna Fenne",
-    "github": "PollyFenne"
+    "github": "PollyFenne",
+    "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
      "name": "Joshua Phan",
