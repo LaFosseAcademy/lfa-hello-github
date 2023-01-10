@@ -88,7 +88,16 @@
     },
     {
      "name": "Joshua Phan",
-     "github": "JLP2000"
+     "github": "JLP2000",
+     "materials": [
+      {
+        "type": "cv"
+      },
+      {
+        "type": "video",
+        "url": "zm6z-bXZ738"
+      }
+     ]
     },
     {
     "name": "Sheena Diep",
