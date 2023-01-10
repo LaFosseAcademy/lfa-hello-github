@@ -45,7 +45,16 @@
     },
     {
       "name": "Russell Ampomah",
-      "github": "rnba12"
+      "github": "rnba12",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "-v2H4Xsjwso"
+        }
+       ]
     },
     {
       "name": "Mizna Uppal",
