@@ -11,12 +11,20 @@
   },
   "students": [
     {
-      "name": "Richard Swainson",
-      "github": "rickys93"
+      "name": "Mohamed Abdalla",
+      "github": "Mohakim231"
     },
     {
-      "name": "",
-      "github": ""
+      "name": "Charlie Thurlow",
+      "github": "CharliePT"
+    },
+    {
+      "name": "Gabrielle Monaen",
+      "github": "GabrielleMonaen"
+    },
+    {
+      "name": "Richard Swainson",
+      "github": "rickys93"
     }
   ]
 }
