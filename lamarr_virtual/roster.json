@@ -9,6 +9,7 @@
       }
     ]
   },
+  
   "students": [
     {
       "name": "Mohamed Abdalla",
@@ -33,6 +34,10 @@
     {
       "name": "Tess Cunningham",
       "github": "tessc14"
+    },
+    {
+      "name": "Kyrylo Rybalko",
+      "github": "kay-dev-uk"
     }
   ]
 }
