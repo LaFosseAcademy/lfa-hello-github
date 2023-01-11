@@ -12,35 +12,108 @@
   "students": [
     {
       "name": "Liam Brock",
-      "github": "liambrockpy"
+      "github": "liambrockpy",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "xPL2HypAJEs"
+        }
+      ]
     },
     {
       "name": "Adam Dowsett",
-      "github": "Adam-Dowsett"
+      "github": "Adam-Dowsett",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type":"video",
+          "url": "HLlUY0tfh5M"
+        }
+      ]
     },
     {
       "name": "Adam Minchella",
-      "github": "adamminchella"
+      "github": "adamminchella",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QQtIUfLtQhc"
+        }
+
+      ]
     },
     {
       "name": "Russell Ampomah",
-      "github": "rnba12"
+      "github": "rnba12",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "-v2H4Xsjwso"
+        }
+       ]
     },
     {
       "name": "Mizna Uppal",
-      "github": "mizupp"
+      "github": "mizupp",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "pD6pJZxt3dQ"
+        }
+      ]
     },
     {
     "name": "Pollyanna Fenne",
-    "github": "PollyFenne"
+    "github": "PollyFenne",
+    "materials": [
+      {
+        "type": "cv"
+      },
+      {
+        "type": "video",
+        "url": "YUt5nttS7WI"
+      }
+    ]
     },
     {
      "name": "Joshua Phan",
-     "github": "JLP2000"
+     "github": "JLP2000",
+     "materials": [
+      {
+        "type": "cv"
+      },
+      {
+        "type": "video",
+        "url": "zm6z-bXZ738"
+      }
+     ]
     },
     {
     "name": "Sheena Diep",
-    "github": "shedp"
+    "github": "shedp",
+    "materials": [
+      {
+        "type": "cv"
+      },
+      {
+        "type": "video",
+        "url": "nUt1JGOGO8Y"
+      }
+    ]
     }
    ]
 }
