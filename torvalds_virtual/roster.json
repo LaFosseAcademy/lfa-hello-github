@@ -1,0 +1,19 @@
+{
+  "namesake": {
+    "name": "Linus Torvalds",
+    "imageUrl": "",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  
+  "students": [
+    {
+    "name": "",
+    "github": ""
+    },
+  ]
+}
