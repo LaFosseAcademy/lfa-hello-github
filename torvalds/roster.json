@@ -11,8 +11,28 @@
     },
     "students": [
       {
+        "name": "Stefan Syrett",
+        "github": "sord-dev"
+      },
+      {
         "name": "Anatolia Winter",
         "github": "anawinter53"
+      },
+      {
+        "name": "Joe Waddicor",
+        "github": "woejaddicor"
+      },
+      {
+        "name": "Josef Jakubiak",
+        "github": "BritishBambi"
+      },
+      {
+        "name": "Mihai Tranca",
+        "github": "mikevic18"
+      },
+      {
+        "name": "Silvia Neves",
+        "github": "Sil-Tatiana"
       }
       ]
   }
