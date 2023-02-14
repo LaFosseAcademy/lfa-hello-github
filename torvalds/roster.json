@@ -11,6 +11,18 @@
     },
     "students": [
       {
+        "name": "Stefan Syrett",
+        "github": "sord-dev"
+      },
+      {
+        "name": "Anatolia Winter",
+        "github": "anawinter53"
+      },
+      {
+        "name": "Julia Lima de Alencar Barbosa",
+        "github": "juliaalencarb"
+      },
+      {
         "name": "Joe Waddicor",
         "github": "woejaddicor"
       },
@@ -25,6 +37,10 @@
       {
         "name": "Silvia Neves",
         "github": "Sil-Tatiana"
+      },
+      {
+        "name": "Erhan Ulusal",
+        "github": "Electrolytful"
       },
       {
         "name": "Sheikh Khaled Ahmed",
