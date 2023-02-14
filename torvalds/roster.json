@@ -11,6 +11,10 @@
     },
     "students": [
       {
+        "name": "Stefan Syrett",
+        "github": "sord-dev"
+      },
+      {
         "name": "Joe Waddicor",
         "github": "woejaddicor"
       },
