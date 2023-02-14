@@ -11,12 +11,12 @@
     },
     "students": [
       {
-        "name": "",
-        "github": ""
-      },
-      {
         "name": "Joe Waddicor",
         "github": "woejaddicor"
-      }
+      },
+      {
+        "name": "Josef Jakubiak",
+        "github": "BritishBambi"
+      },
       ]
   }
