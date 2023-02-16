@@ -52,7 +52,12 @@
     },
     {
       "name": "Gabrielle Monaen",
-      "github": "GabrielleMonaen"
+      "github": "GabrielleMonaen",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Richard Swainson",
