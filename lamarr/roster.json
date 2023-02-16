@@ -16,7 +16,12 @@
     },
     {
       "name": "Shojib Deb",
-      "github": "Shorizon"
+      "github": "Shorizon",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dominika Militowska",
@@ -24,7 +29,12 @@
     },
     {
       "name": "Gabriel Baskin-Ridley",
-      "github": "baskin-ridley"
+      "github": "baskin-ridley",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Martin Torrado Mouzo",
@@ -69,7 +79,12 @@
     },
     {
       "name": "Tess Cunningham",
-      "github": "tessc14"
+      "github": "tessc14",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kyrylo Rybalko",
