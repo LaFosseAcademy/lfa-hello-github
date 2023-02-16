@@ -1,0 +1,79 @@
+{
+  "namesake": {
+    "name": "Hedy Lamarr",
+    "imageUrl": "https://avatars.githubusercontent.com/t/7103241?s=280&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Sadik Islam",
+      "github": "sadik312"
+    },
+    {
+      "name": "Shojib Deb",
+      "github": "Shorizon"
+    },
+    {
+      "name": "Dominika Militowska",
+      "github": "dmilitowska"
+    },
+    {
+      "name": "Gabriel Baskin-Ridley",
+      "github": "baskin-ridley"
+    },
+    {
+      "name": "Martin Torrado Mouzo",
+      "github": "Breegul"
+    },
+    {
+      "name": "Mark Halstead",
+      "github": "Mark-Halstead"
+    },
+    {
+      "name": "Saeed Abdulle",
+      "github": "Saabdulle"
+    },
+    {
+      "name": "Cameron Amoateng",
+      "github": "caamote"
+    },
+    {
+      "name": "Mohamed Abdalla",
+      "github": "Mohakim231"
+    },
+    {
+      "name": "Charlie Thurlow",
+      "github": "CharliePT"
+    },
+    {
+      "name": "Gabrielle Monaen",
+      "github": "GabrielleMonaen",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Richard Swainson",
+      "github": "rickys93"
+    },
+    {
+      "name": "Brandon Dowell",
+      "github": "Branleaf"
+    },
+    {
+      "name": "Tess Cunningham",
+      "github": "tessc14"
+    },
+    {
+      "name": "Kyrylo Rybalko",
+      "github": "kay-dev-uk"
+    }
+  ]
+}
