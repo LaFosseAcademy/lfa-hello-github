@@ -68,7 +68,12 @@
     },
     {
       "name": "Charlie Thurlow",
-      "github": "CharliePT"
+      "github": "CharliePT",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Gabrielle Monaen",
