@@ -36,7 +36,12 @@
       }, 
       {
         "name": "Cameron Amoateng",
-        "github": "caamote"
+        "github": "caamote",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       }
     ]
   }
