@@ -69,7 +69,12 @@
     },
     {
       "name": "Tess Cunningham",
-      "github": "tessc14"
+      "github": "tessc14",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kyrylo Rybalko",
