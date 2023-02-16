@@ -25,7 +25,12 @@
     },
     {
       "name": "Dominika Militowska",
-      "github": "dmilitowska"
+      "github": "dmilitowska",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Gabriel Baskin-Ridley",
