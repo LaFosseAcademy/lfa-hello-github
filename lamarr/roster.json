@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Sadik Islam",
-      "github": "sadik312"
+      "github": "sadik312",
+	  "materials": [
+	  	{
+	   	  "type": "cv"
+	  	}
+	  ]
     },
     {
       "name": "Shojib Deb",
