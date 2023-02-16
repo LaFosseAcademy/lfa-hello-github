@@ -43,7 +43,12 @@
     },
     {
       "name": "Martin Torrado Mouzo",
-      "github": "Breegul"
+      "github": "Breegul",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Mark Halstead",
