@@ -16,7 +16,12 @@
     },
     {
       "name": "Shojib Deb",
-      "github": "Shorizon"
+      "github": "Shorizon",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dominika Militowska",
