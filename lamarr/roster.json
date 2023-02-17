@@ -123,7 +123,12 @@
     },
     {
       "name": "Kyrylo Rybalko",
-      "github": "kay-dev-uk"
+      "github": "kay-dev-uk",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
