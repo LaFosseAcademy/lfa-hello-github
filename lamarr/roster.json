@@ -81,7 +81,12 @@
     },
     {
       "name": "Richard Swainson",
-      "github": "rickys93"
+      "github": "rickys93",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Brandon Dowell",
