@@ -79,7 +79,12 @@
     },
     {
       "name": "Mohamed Abdalla",
-      "github": "Mohakim231"
+      "github": "Mohakim231",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Charlie Thurlow",
