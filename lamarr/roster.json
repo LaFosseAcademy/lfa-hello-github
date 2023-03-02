@@ -30,7 +30,12 @@
     },
     {
       "name": "Dominika Militowska",
-      "github": "dmilitowska"
+      "github": "dmilitowska",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Gabriel Baskin-Ridley",
@@ -52,23 +57,39 @@
     },
     {
       "name": "Mark Halstead",
-      "github": "Mark-Halstead"
+      "github": "Mark-Halstead",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Saeed Abdulle",
-      "github": "Saabdulle"
-    },
-    {
-      "name": "Cameron Amoateng",
-      "github": "caamote"
+      "github": "Saabdulle",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Mohamed Abdalla",
-      "github": "Mohakim231"
+      "github": "Mohakim231",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Charlie Thurlow",
-      "github": "CharliePT"
+      "github": "CharliePT",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Gabrielle Monaen",
@@ -94,7 +115,12 @@
     },
     {
       "name": "Brandon Dowell",
-      "github": "Branleaf"
+      "github": "Branleaf",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tess Cunningham",
@@ -107,7 +133,12 @@
     },
     {
       "name": "Kyrylo Rybalko",
-      "github": "kay-dev-uk"
+      "github": "kay-dev-uk",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
