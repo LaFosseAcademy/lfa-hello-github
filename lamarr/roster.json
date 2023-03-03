@@ -91,7 +91,11 @@
       "github": "CharliePT",
       "materials": [
         {
-          "type": "cv"
+          "type": "cv"  
+        },
+        {
+          "type": "video",
+          "url": "QLcqQHy5qRg"
         }
       ]
     },
