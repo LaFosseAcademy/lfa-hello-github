@@ -29,7 +29,16 @@
       },
       {
         "name": "Gabriel Baskin-Ridley",
-        "github": "baskin-ridley"
+        "github": "baskin-ridley",
+        "materials": [
+          {
+            "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "Z5nWtwkIQHU"
+          }
+          ]
       },
       {
         "name": "Martin Torrado Mouzo",
