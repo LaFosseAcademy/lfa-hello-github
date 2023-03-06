@@ -46,7 +46,13 @@
       },
       {
         "name": "Mark Halstead",
-        "github": "Mark-Halstead"
+        "github": "Mark-Halstead",
+        "materials": [
+        {
+          "type": "video",
+          "url": "oQ4atw_mpko"
+        }
+      ]
       },
       {
         "name": "Saeed Abdulle",
