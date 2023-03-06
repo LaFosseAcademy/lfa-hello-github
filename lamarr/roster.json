@@ -29,6 +29,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"RXY_9_HtilA"
         }
       ]
     },
