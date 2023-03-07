@@ -13,15 +13,15 @@
     {
       "name": "Sadik Islam",
       "github": "sadik312",
-	  "materials": [
-	  	{
-	   	  "type": "cv"
-	  	},
-		{
-			"type": "video",
-			"type": "vgnfJ98w1jE"
-		}
-	  ]
+      "materials": [
+	{
+	 "type": "cv"
+	},
+	{
+	  "type": "video",
+	  "type": "vgnfJ98w1jE"
+	}
+      ]
     },
     {
       "name": "Shojib Deb",
@@ -60,7 +60,7 @@
           "type": "video",
           "url": "Z5nWtwkIQHU"
         }
-        ]
+       ]
     },
     {
       "name": "Martin Torrado Mouzo",
