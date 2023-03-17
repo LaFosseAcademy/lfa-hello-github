@@ -52,7 +52,11 @@
       },
       {
         "name": "Steve Totev",
-        "github": "bossSteve03"
+        "github": "bossSteve03",
+        "materials": [
+        {
+          "type": "cv"
+        }
       },
       {
         "name": "M. Haroon Nasir",
