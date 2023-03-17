@@ -36,7 +36,12 @@
       },
       {
         "name": "Silvia Neves",
-        "github": "Sil-Tatiana"
+        "github": "Sil-Tatiana",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Erhan Ulusal",
@@ -76,11 +81,11 @@
       },
       {
         "name": "Jack Perkins",
-        "github": "wag154" 
+        "github": "wag154"
       },
       {
         "name": "Cosgun Hussein",
         "github": "MisterCxmpy"
-      } 
+      }
       ]
   }
