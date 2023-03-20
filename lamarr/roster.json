@@ -14,13 +14,13 @@
       "name": "Sadik Islam",
       "github": "sadik312",
       "materials": [
-	{
-	 "type": "cv"
-	},
-	{
-	  "type": "video",
-	  "url": "vgnfJ98w1jE"
-	}
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "vgnfJ98w1jE"
+        }
       ]
     },
     {
@@ -31,8 +31,8 @@
           "type": "cv"
         },
         {
-          "type":"video",
-          "url":"RXY_9_HtilA"
+          "type": "video",
+          "url": "RXY_9_HtilA"
         }
       ]
     },
@@ -44,8 +44,8 @@
           "type": "cv"
         },
         {
-          "type" : "video",
-          "url" : "MiOoXCtPcQo"
+          "type": "video",
+          "url": "MiOoXCtPcQo"
         }
       ]
     },
@@ -60,7 +60,7 @@
           "type": "video",
           "url": "Z5nWtwkIQHU"
         }
-       ]
+      ]
     },
     {
       "name": "Martin Torrado Mouzo",
@@ -70,8 +70,8 @@
           "type": "cv"
         },
         {
-          "type" : "video",
-          "url" : "t4oqfDwa5-M"
+          "type": "video",
+          "url": "t4oqfDwa5-M"
         }
       ]
     },
@@ -108,10 +108,10 @@
         {
           "type": "cv"
         },
-	{
-	  "type": "video",
-	  "url": "Q1x5Wc3SRtQ"
-	}
+        {
+          "type": "video",
+          "url": "Q1x5Wc3SRtQ"
+        }
       ]
     },
     {
@@ -119,7 +119,7 @@
       "github": "CharliePT",
       "materials": [
         {
-          "type": "cv"  
+          "type": "cv"
         },
         {
           "type": "video",
@@ -135,8 +135,8 @@
           "type": "cv"
         },
         {
-	  "type": "video",
-	  "url": "x35oaP72rFg"
+          "type": "video",
+          "url": "x35oaP72rFg"
         }
       ]
     },
@@ -148,21 +148,8 @@
           "type": "cv"
         },
         {
-          "type":"video",
-          "url":"6t-WeZ-R3O0"
-        }
-      ]
-    },
-    {
-      "name": "Brandon Dowell",
-      "github": "Branleaf",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
           "type": "video",
-          "url": "jwGtWjOLEtg"
+          "url": "6t-WeZ-R3O0"
         }
       ]
     },
@@ -175,7 +162,7 @@
         },
         {
           "type": "video",
-          "url" : "M3vp89t3ysk"
+          "url": "M3vp89t3ysk"
         }
       ]
     },
