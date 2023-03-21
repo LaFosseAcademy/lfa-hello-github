@@ -9,5 +9,10 @@
       }
     ]
   },
-  "students": []
+  "students": [
+    {
+      "name": "Diego Ramos",
+      "github": "diegorramos84"
+    }
+  ]
 }
