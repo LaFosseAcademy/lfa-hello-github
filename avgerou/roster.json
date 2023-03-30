@@ -37,6 +37,23 @@
     {
       "name": "Daniel Phillip",
       "github": "dphillip11"
-    }
+    },
+    {
+      "name": "Chris Pucknell",
+      "github": "xargon666",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "hYQ9cn6DSeM"
+        },
+        {
+          "type": "portfolio",
+          "url": "https://chrispy-portfolio.netlify.app"
+        }
+      ]
+    },
   ]
 }

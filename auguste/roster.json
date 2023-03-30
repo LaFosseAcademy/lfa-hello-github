@@ -332,23 +332,6 @@
           "url": "https://buscaroli.netlify.app/"
         }
       ]
-    },
-    {
-      "name": "Avni Piro",
-      "github": "PiroAvni",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": ""
-        },
-        {
-          "type": "portfolio",
-          "url": "https://www.avnipiro.dev"
-        }
-      ]
     }
   ]
 }
