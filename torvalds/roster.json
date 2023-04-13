@@ -12,7 +12,12 @@
     "students": [
       {
         "name": "Stefan Syrett",
-        "github": "sord-dev"
+        "github": "sord-dev",
+        "materials": [
+            {
+            "type": "cv"
+            }
+          ]
       },
       {
         "name": "Anatolia Winter",
