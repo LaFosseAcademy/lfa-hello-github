@@ -45,7 +45,12 @@
       },
       {
         "name": "Erhan Ulusal",
-        "github": "Electrolytful"
+        "github": "Electrolytful",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Sheikh Khaled Ahmed",
