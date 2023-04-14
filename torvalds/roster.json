@@ -29,6 +29,11 @@
       {
         "name": "Josef Jakubiak",
         "github": "BritishBambi"
+        "materials": [
+            {
+            "type": "cv"
+            }
+        ]
       },
       {
         "name": "Mihai Tranca",
