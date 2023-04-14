@@ -68,7 +68,12 @@
       },
       {
         "name": "Vitali Goubski",
-        "github": "Vitali-G"
+        "github": "Vitali-G",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       }
       ]
   }
