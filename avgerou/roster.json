@@ -37,7 +37,7 @@
     {
       "name": "Chey Brown",
       "github": "Chey-DB"
-    }, 
+    },
     {
       "name": "Avni Piro",
       "github": "PiroAvni"
@@ -68,7 +68,7 @@
     },
     {
       "name": "Jack Moore",
-      "github": "JackDMoore"     
+      "github": "JackDMoore"
     },
     {
       "name": "Angela Demiri",
@@ -88,7 +88,7 @@
     },
     {
       "name": "Leah Thomas",
-      "github": "Leahjthom" 
+      "github": "Leahjthom"
     },
     {
       "name": "Tobi Akinola",
@@ -131,12 +131,16 @@
       "github": "Beckibuzz93"
     },
     {
-       "name": "Nurudeen Adesina",
+      "name": "Nurudeen Adesina",
       "github": "A-Nuru"
     },
     {
-       "name": "Kenen DSouza",
+      "name": "Kenen DSouza",
       "github": "kenenx"
+    },
+    {
+      "name": "Azeem Falade",
+      "github": "ABF22"
     }
   ]
 }
