@@ -90,7 +90,12 @@
       },
       {
         "name": "Cosgun Hussein",
-        "github": "MisterCxmpy"
+        "github": "MisterCxmpy",
+          "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       }
       ]
   }
