@@ -84,9 +84,13 @@
         "name": "Lewis Takavarasha",
         "github": "Sonagi-R"
       },
-      {
+   {
         "name": "Jack Perkins",
-        "github": "wag154"
+        "github": "wag154",
+        "materials":[
+          {
+          "type" : "cv"
+        }]
       },
       {
         "name": "Cosgun Hussein",
