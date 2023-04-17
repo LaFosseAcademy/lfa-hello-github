@@ -16,7 +16,12 @@
       },
       {
         "name": "Anatolia Winter",
-        "github": "anawinter53"
+        "github": "anawinter53",
+        "materials": [
+            {
+            "type": "cv"
+            }
+        ]
       },
       {
         "name": "Julia Lima de Alencar Barbosa",
