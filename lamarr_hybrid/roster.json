@@ -29,7 +29,16 @@
       },
       {
         "name": "Gabriel Baskin-Ridley",
-        "github": "baskin-ridley"
+        "github": "baskin-ridley",
+        "materials": [
+          {
+            "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "Z5nWtwkIQHU"
+          }
+          ]
       },
       {
         "name": "Martin Torrado Mouzo",
@@ -37,7 +46,13 @@
       },
       {
         "name": "Mark Halstead",
-        "github": "Mark-Halstead"
+        "github": "Mark-Halstead",
+        "materials": [
+        {
+          "type": "video",
+          "url": "oQ4atw_mpko"
+        }
+      ]
       },
       {
         "name": "Saeed Abdulle",
