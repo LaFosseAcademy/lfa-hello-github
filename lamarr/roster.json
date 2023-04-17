@@ -13,11 +13,15 @@
     {
       "name": "Sadik Islam",
       "github": "sadik312",
-	  "materials": [
-	  	{
-	   	  "type": "cv"
-	  	}
-	  ]
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "vgnfJ98w1jE"
+        }
+      ]
     },
     {
       "name": "Shojib Deb",
@@ -25,12 +29,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "RXY_9_HtilA"
         }
       ]
     },
     {
       "name": "Dominika Militowska",
-      "github": "dmilitowska"
+      "github": "dmilitowska",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "MiOoXCtPcQo"
+        }
+      ]
     },
     {
       "name": "Gabriel Baskin-Ridley",
@@ -38,6 +55,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Z5nWtwkIQHU"
         }
       ]
     },
@@ -47,28 +68,64 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "t4oqfDwa5-M"
         }
       ]
     },
     {
       "name": "Mark Halstead",
-      "github": "Mark-Halstead"
+      "github": "Mark-Halstead",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "oQ4atw_mpko"
+        }
+      ]
     },
     {
       "name": "Saeed Abdulle",
-      "github": "Saabdulle"
-    },
-    {
-      "name": "Cameron Amoateng",
-      "github": "caamote"
+      "github": "Saabdulle",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "T9aVLbZ5w8I"
+        }
+      ]
     },
     {
       "name": "Mohamed Abdalla",
-      "github": "Mohakim231"
+      "github": "Mohakim231",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Q1x5Wc3SRtQ"
+        }
+      ]
     },
     {
       "name": "Charlie Thurlow",
-      "github": "CharliePT"
+      "github": "CharliePT",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "QLcqQHy5qRg"
+        }
+      ]
     },
     {
       "name": "Gabrielle Monaen",
@@ -76,16 +133,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "x35oaP72rFg"
         }
       ]
     },
     {
       "name": "Richard Swainson",
-      "github": "rickys93"
-    },
-    {
-      "name": "Brandon Dowell",
-      "github": "Branleaf"
+      "github": "rickys93",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "6t-WeZ-R3O0"
+        }
+      ]
     },
     {
       "name": "Tess Cunningham",
@@ -93,12 +159,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M3vp89t3ysk"
         }
       ]
     },
     {
       "name": "Kyrylo Rybalko",
-      "github": "kay-dev-uk"
+      "github": "kay-dev-uk",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "z0hCl9MUL0Y"
+        }
+      ]
     }
   ]
 }

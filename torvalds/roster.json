@@ -12,23 +12,48 @@
     "students": [
       {
         "name": "Stefan Syrett",
-        "github": "sord-dev"
+        "github": "sord-dev",
+        "materials": [
+            {
+            "type": "cv"
+            }
+          ]
       },
       {
         "name": "Anatolia Winter",
-        "github": "anawinter53"
+        "github": "anawinter53",
+        "materials": [
+            {
+            "type": "cv"
+            }
+        ]
       },
       {
         "name": "Julia Lima de Alencar Barbosa",
-        "github": "juliaalencarb"
+        "github": "juliaalencarb",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Joe Waddicor",
-        "github": "woejaddicor"
+        "github": "woejaddicor",
+        "materials": [
+          {
+            "type":"cv"
+          }
+        ]
       },
       {
         "name": "Josef Jakubiak",
         "github": "BritishBambi"
+        "materials": [
+            {
+            "type": "cv"
+            }
+        ]
       },
       {
         "name": "Mihai Tranca",
@@ -36,23 +61,48 @@
       },
       {
         "name": "Silvia Neves",
-        "github": "Sil-Tatiana"
+        "github": "Sil-Tatiana ",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Erhan Ulusal",
-        "github": "Electrolytful"
+        "github": "Electrolytful",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Sheikh Khaled Ahmed",
-        "github": "ei-sei"
+        "github": "ei-sei",
+         "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Farhan Sidat",
-        "github": "farhan3311"
+        "github": "farhan3311",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Steve Totev",
-        "github": "bossSteve03"
+        "github": "bossSteve03",
+        "materials": [
+            {
+            "type": "cv"
+            }
+        ]
       },
       {
         "name": "M. Haroon Nasir",
@@ -61,9 +111,55 @@
       {
         "name": "Bart Rayson",
         "github": "brayson98",
-        "materials": {
-        "type": "cv"
-        }
-      }
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
+      },
+      {
+        "name": "Rosie Jones",
+        "github": "rjj21",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
+      },
+      {
+        "name": "Vitali Goubski",
+        "github": "Vitali-G",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
+      },
+      {
+        "name": "Lewis Takavarasha",
+        "github": "Sonagi-R",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
+      },
+   {
+        "name": "Jack Perkins",
+        "github": "wag154",
+        "materials":[
+          {
+          "type" : "cv"
+        }]
+      },
+      {
+        "name": "Cosgun Hussein",
+        "github": "MisterCxmpy",
+          "materials": [
+          {
+            "type": "cv"
+          }
+        ]
+      },
       ]
   }
