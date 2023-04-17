@@ -39,7 +39,12 @@
       },
       {
         "name": "Joe Waddicor",
-        "github": "woejaddicor"
+        "github": "woejaddicor",
+        "materials": [
+          {
+            "type":"cv"
+          }
+        ]
       },
       {
         "name": "Josef Jakubiak",
