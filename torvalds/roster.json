@@ -112,7 +112,12 @@
       },
       {
         "name": "Lewis Takavarasha",
-        "github": "Sonagi-R"
+        "github": "Sonagi-R",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
    {
         "name": "Jack Perkins",
