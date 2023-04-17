@@ -74,7 +74,12 @@
       },
       {
         "name": "Sheikh Khaled Ahmed",
-        "github": "ei-sei"
+        "github": "ei-sei",
+         "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Farhan Sidat",
