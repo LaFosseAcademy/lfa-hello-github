@@ -30,7 +30,12 @@
       },
       {
         "name": "Julia Lima de Alencar Barbosa",
-        "github": "juliaalencarb"
+        "github": "juliaalencarb",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Joe Waddicor",
