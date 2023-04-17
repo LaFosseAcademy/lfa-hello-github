@@ -60,7 +60,10 @@
       },
       {
         "name": "Bart Rayson",
-        "github": "brayson98"
+        "github": "brayson98",
+        "materials": {
+        "type": "cv"
+        }
       }
       ]
   }
