@@ -68,7 +68,12 @@
       },
       {
         "name": "Farhan Sidat",
-        "github": "farhan3311"
+        "github": "farhan3311",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Steve Totev",
