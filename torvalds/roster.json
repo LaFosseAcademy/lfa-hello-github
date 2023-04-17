@@ -48,7 +48,7 @@
       },
       {
         "name": "Josef Jakubiak",
-        "github": "BritishBambi"
+        "github": "BritishBambi",
         "materials": [
             {
             "type": "cv"
@@ -80,7 +80,7 @@
       {
         "name": "Sheikh Khaled Ahmed",
         "github": "ei-sei",
-         "materials": [
+        "materials": [
           {
             "type": "cv"
           }
@@ -166,6 +166,6 @@
             "type": "cv"
           }
         ]
-      },
+      }
       ]
   }
