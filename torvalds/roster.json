@@ -144,18 +144,19 @@
           }
         ]
       },
-   {
+      {
         "name": "Jack Perkins",
         "github": "wag154",
-        "materials":[
+        "materials": [
           {
-          "type" : "cv"
-        }]
+            "type" : "cv"
+          }
+        ]
       },
       {
         "name": "Cosgun Hussein",
         "github": "MisterCxmpy",
-          "materials": [
+        "materials": [
           {
             "type": "cv"
           }
