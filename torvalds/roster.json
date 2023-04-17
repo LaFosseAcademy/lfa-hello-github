@@ -106,7 +106,12 @@
       },
       {
         "name": "M. Haroon Nasir",
-        "github": "MHaroonNasir"
+        "github": "MHaroonNasir",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Bart Rayson",
