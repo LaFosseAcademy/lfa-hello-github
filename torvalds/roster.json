@@ -114,7 +114,12 @@
       },
       {
         "name": "Rosie Jones",
-        "github": "rjj21"
+        "github": "rjj21",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Vitali Goubski",
