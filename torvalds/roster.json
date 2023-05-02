@@ -57,7 +57,12 @@
       },
       {
         "name": "Mihai Tranca",
-        "github": "mikevic18"
+        "github": "mikevic18",
+        "materials": [
+          {
+            "type": "cv"
+          }
+        ]
       },
       {
         "name": "Silvia Neves",
