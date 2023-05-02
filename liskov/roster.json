@@ -10,6 +10,9 @@
       ]
     },
     "students": [
-      {}
+      { 
+      "name": "Alex Earle",
+      "github": "ajearle11"
+      }
     ]
   }
