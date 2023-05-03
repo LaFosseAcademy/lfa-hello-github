@@ -52,7 +52,11 @@
         "materials": [
           {
             "type": "cv"
-          }
+          },
+        {
+          "type": "video",
+          "url": "v5ZW-FINRDI"
+        }
         ]
       },
       {
