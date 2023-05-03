@@ -95,6 +95,19 @@
         ]
       },
       {
+        "name": "Vitali Goubski",
+        "github": "Vitali-G",
+        "materials": [
+          {
+            "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "uTEepAxNJBc"
+          }
+        ]
+      },
+      {
         "name": "M. Haroon Nasir",
         "github": "MHaroonNasir"
       },
@@ -105,15 +118,6 @@
       {
         "name": "Rosie Jones",
         "github": "rjj21"
-      },
-      {
-        "name": "Vitali Goubski",
-        "github": "Vitali-G",
-        "materials": [
-          {
-            "type": "cv"
-          }
-        ]
       },
       {
         "name": "Lewis Takavarasha",
