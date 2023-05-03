@@ -34,8 +34,7 @@
         "materials": [
           {
             "type": "cv"
-          }
-        ]
+          }        ]
       },
       {
         "name": "Joe Waddicor",
@@ -43,6 +42,10 @@
         "materials": [
           {
             "type":"cv"
+          },
+          {
+            "type2": "video",
+            "url": "https://www.youtube.com/watch?v=vduv0Efv_zY"
           }
         ]
       },
