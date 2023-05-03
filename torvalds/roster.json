@@ -69,7 +69,11 @@
         "materials": [
           {
             "type": "cv"
-          }
+          },
+            {
+              "type": "video",
+              "url": "TqKmzjqCLHQ"
+            }
         ]
       },
       {
