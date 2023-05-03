@@ -70,6 +70,10 @@
         "materials": [
           {
             "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=nJ4W4I-9mYA"
           }
         ]
       },
