@@ -137,6 +137,19 @@
         ]
       },
       {
+        "name": "Vitali Goubski",
+        "github": "Vitali-G",
+        "materials": [
+          {
+            "type": "cv"
+          },
+          {
+            "type": "video",
+            "url": "uTEepAxNJBc"
+          }
+        ]
+      },
+      {
         "name": "M. Haroon Nasir",
         "github": "MHaroonNasir",
         "materials": [
@@ -164,15 +177,6 @@
           {
             "type": "video",
             "url": "https://youtu.be/nbu7bS-uwSc"
-          }
-        ]
-      },
-      {
-        "name": "Vitali Goubski",
-        "github": "Vitali-G",
-        "materials": [
-          {
-            "type": "cv"
           }
         ]
       },
