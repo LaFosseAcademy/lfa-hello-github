@@ -38,7 +38,12 @@
         "materials": [
           {
             "type": "cv"
-          }        ]
+          },
+          {
+            "type": "video",
+            "url": "https://youtu.be/6x3YUZ-uf4k"
+          }
+        ]
       },
       {
         "name": "Joe Waddicor",
