@@ -10,6 +10,9 @@
       ]
     },
     "students": [
-      {}
+      {
+        "name": "Harry Turner-Burns",
+      "github": "HarryTB2112"
+    }
     ]
   }
