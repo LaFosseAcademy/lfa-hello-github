@@ -10,9 +10,25 @@
       ]
     },
     "students": [
+      { 
+        "name": "Alex Earle",
+        "github": "ajearle11"
+      },
+      {
+        "name": "YF Chau",
+        "github": "sixwoodhk"
+      },
       {
         "name": "Harry Turner-Burns",
-      "github": "HarryTB2112"
-    }
+        "github": "HarryTB2112"
+      },
+      {
+        "name":"Joshua Murray",
+        "github":"JoshMurray99"
+      },
+      {
+        "name":"Lais Moraes",
+        "github":"laisjmvet"
+      }
     ]
   }
