@@ -24,7 +24,12 @@
     },
     {
       "name": "Mithurssan Santhirakumar",
-      "github": "mithurssan"
+      "github": "mithurssan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Burzynski",
