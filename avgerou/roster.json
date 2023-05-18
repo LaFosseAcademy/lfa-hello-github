@@ -33,7 +33,12 @@
     },
     {
       "name": "Tom Burzynski",
-      "github": "Tellur89"
+      "github": "Tellur89",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Daniel Ogunsanya",
