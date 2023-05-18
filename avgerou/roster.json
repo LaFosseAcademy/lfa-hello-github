@@ -24,7 +24,12 @@
     },
     {
       "name": "Mithurssan Santhirakumar",
-      "github": "mithurssan"
+      "github": "mithurssan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Burzynski",
@@ -120,7 +125,12 @@
     },
     {
       "name": "Dohee Lee",
-      "github": "doheelee0328"
+      "github": "doheelee0328",
+      "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
     },
     {
       "name": "Rebecca Lewis",
@@ -132,7 +142,12 @@
     },
     {
       "name": "Kenen DSouza",
-      "github": "kenenx"
+      "github": "kenenx",
+      "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
       "name": "Azeem Falade",
