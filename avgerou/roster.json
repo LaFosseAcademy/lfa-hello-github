@@ -56,7 +56,12 @@
     },
     {
       "name": "Christopher Sharpe",
-      "github": "CingSharped"
+      "github": "CingSharped",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
 
   ]
