@@ -142,7 +142,12 @@
     },
     {
       "name": "Kenen DSouza",
-      "github": "kenenx"
+      "github": "kenenx",
+      "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
       "name": "Azeem Falade",
