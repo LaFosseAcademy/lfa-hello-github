@@ -49,7 +49,12 @@
     },
     {
       "name": "Nicole French",
-      "github": "NaNNaNNaNNaNBoolean"
+      "github": "NaNNaNNaNNaNBoolean",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Geraldine Ho",
