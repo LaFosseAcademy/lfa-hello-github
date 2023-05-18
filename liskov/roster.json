@@ -10,7 +10,13 @@
       ]
     },
     "students": [
-      {"name":"Joshua Murray",
-    "github":"JoshMurray99"}
+      {
+        "name":"Joshua Murray",
+        "github":"JoshMurray99"
+      },
+      {
+        "name":"Lais Moraes",
+        "github":"laisjmvet"
+      }
     ]
   }
