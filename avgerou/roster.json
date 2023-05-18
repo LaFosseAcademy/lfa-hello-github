@@ -132,7 +132,13 @@
     },
     {
       "name": "Muhammad Yaaseen Rossan",
-      "github": "yrossan"
+      "github": "yrossan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+      
     },
     {
       "name": "Ajaya Budhathoki",
