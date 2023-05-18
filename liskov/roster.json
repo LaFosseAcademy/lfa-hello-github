@@ -11,8 +11,16 @@
     },
     "students": [
       { 
-      "name": "Alex Earle",
-      "github": "ajearle11"
+        "name": "Alex Earle",
+        "github": "ajearle11"
+      },
+      {
+        "name":"Joshua Murray",
+        "github":"JoshMurray99"
+      },
+      {
+        "name":"Lais Moraes",
+        "github":"laisjmvet"
       }
     ]
   }
