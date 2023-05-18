@@ -10,9 +10,14 @@
       ]
     },
     "students": [
+
       { 
         "name": "Alex Earle",
         "github": "ajearle11"
+      },
+      {
+        "name": "YF Chau",
+        "github": "sixwoodhk"
       },
       {
         "name":"Joshua Murray",
