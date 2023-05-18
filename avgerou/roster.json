@@ -80,7 +80,12 @@
     },
     {
       "name": "Thanushiyan Poobalasingam",
-      "github": "nngw"
+      "github": "nngw",
+      "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
     },
     {
       "name": "Jack Moore",
