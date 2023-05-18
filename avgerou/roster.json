@@ -45,7 +45,12 @@
     },
     {
       "name": "Avni Piro",
-      "github": "PiroAvni"
+      "github": "PiroAvni",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nicole French",
