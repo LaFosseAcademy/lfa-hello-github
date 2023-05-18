@@ -15,16 +15,30 @@
       "github": "diegorramos84"
     },
     {
-      "name": "Tomislav Dinev ",
+      "name": "George Hill",
+      "github": "georgeophill"
+    },
+    {
+      "name": "Tomislav Dinev",
       "github": "dinevtomislav"
     },
     {
       "name": "Mithurssan Santhirakumar",
-      "github": "mithurssan"
+      "github": "mithurssan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Burzynski",
-      "github": "Tellur89"
+      "github": "Tellur89",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Daniel Ogunsanya",
@@ -35,21 +49,129 @@
       "github": "Chey-DB"
     },
     {
-      "name": "Daniel Phillip",
-      "github": "dphillip11"
-    },
-    {
-      "name": "Nicole French",
-      "github": "NaNNaNNaNNaNBoolean"
-    },
-    {
-      "name": "Geraldine Ho",
-      "github": "ThegeralbeanQD",
-      "materials":[
+      "name": "Avni Piro",
+      "github": "PiroAvni",
+      "materials": [
         {
           "type": "cv"
         }
       ]
+    },
+    {
+      "name": "Nicole French",
+      "github": "NaNNaNNaNNaNBoolean",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Geraldine Ho",
+      "github": "ThegeralbeanQD",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Sharpe",
+      "github": "CingSharped"
+    },
+    {
+      "name": "Joao Patacas",
+      "github": "jpatacas"
+    },
+    {
+      "name": "Thanushiyan Poobalasingam",
+      "github": "nngw"
+    },
+    {
+      "name": "Jack Moore",
+      "github": "JackDMoore"
+    },
+    {
+      "name": "Angela Demiri",
+      "github": "angela2264"
+    },
+    {
+      "name": "Sean O'Beirne",
+      "github": "Swanobe"
+    },
+    {
+      "name": "Aiswarya Gurung",
+      "github": "ashugurung"
+    },
+    {
+      "name": "Francesca Adu",
+      "github": "FrancescaAdu"
+    },
+    {
+      "name": "Leah Thomas",
+      "github": "Leahjthom"
+    },
+    {
+      "name": "Tobi Akinola",
+      "github": "tobi-j-a"
+    },
+    {
+      "name": "Matt Porter",
+      "github": "Thiefstep"
+    },
+    {
+      "name": "Valdir Fonseca",
+      "github": "vfonseca85"
+    },
+    {
+      "name": "Mustafa Hassan",
+      "github": "mustafah1"
+    },
+    {
+      "name": "Alina Hafeez",
+      "github": "Linaintech"
+    },
+    {
+      "name": "Muhammad Omar",
+      "github": "theCodingWhiz"
+    },
+    {
+      "name": "Muhammad Yaaseen Rossan",
+      "github": "yrossan"
+    },
+    {
+      "name": "Ajaya Budhathoki",
+      "github": "AjayaBudha"
+    },
+    {
+      "name": "Dohee Lee",
+      "github": "doheelee0328",
+      "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Lewis",
+      "github": "Beckibuzz93"
+    },
+    {
+      "name": "Nurudeen Adesina",
+      "github": "A-Nuru"
+    },
+    {
+      "name": "Kenen DSouza",
+      "github": "kenenx",
+      "materials": [
+      {
+        "type": "cv"
+      }
+    ]
+    },
+    {
+      "name": "Azeem Falade",
+      "github": "ABF22"
     }
   ]
 }
