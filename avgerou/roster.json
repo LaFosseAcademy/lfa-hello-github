@@ -97,7 +97,12 @@
     },
     {
       "name": "Sean O'Beirne",
-      "github": "Swanobe"
+      "github": "Swanobe",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Aiswarya Gurung",
