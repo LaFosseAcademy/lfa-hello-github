@@ -20,7 +20,12 @@
     },
     {
       "name": "Tomislav Dinev",
-      "github": "dinevtomislav"
+      "github": "dinevtomislav",
+      "materials": [
+        {
+          "type2":"cv"
+        }
+      ]
     },
     {
       "name": "Mithurssan Santhirakumar",
