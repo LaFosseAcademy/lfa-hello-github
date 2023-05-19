@@ -160,7 +160,12 @@
     },
     {
       "name": "Nurudeen Adesina",
-      "github": "A-Nuru"
+      "github": "A-Nuru",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kenen DSouza",
