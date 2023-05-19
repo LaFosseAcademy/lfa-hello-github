@@ -140,7 +140,12 @@
     },
     {
       "name": "Rebecca Lewis",
-      "github": "Beckibuzz93"
+      "github": "Beckibuzz93",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
