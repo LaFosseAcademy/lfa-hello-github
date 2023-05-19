@@ -19,16 +19,26 @@
       "github": "georgeophill"
     },
     {
-      "name": "Tomislav Dinev ",
+      "name": "Tomislav Dinev",
       "github": "dinevtomislav"
     },
     {
       "name": "Mithurssan Santhirakumar",
-      "github": "mithurssan"
+      "github": "mithurssan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Burzynski",
-      "github": "Tellur89"
+      "github": "Tellur89",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Daniel Ogunsanya",
@@ -37,22 +47,28 @@
     {
       "name": "Chey Brown",
       "github": "Chey-DB"
-    }, 
+    },
     {
       "name": "Avni Piro",
-      "github": "PiroAvni"
+      "github": "PiroAvni",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nicole French",
-      "github": "NaNNaNNaNNaNBoolean"
+      "github": "NaNNaNNaNNaNBoolean",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Geraldine Ho",
       "github": "ThegeralbeanQD"
-    },
-    {
-      "name": "Mohammad Ali Qasim Syed",
-      "github": "Ali-Qasim"
     },
     {
       "name": "Christopher Sharpe",
@@ -67,12 +83,8 @@
       "github": "nngw"
     },
     {
-      "name": "Driheli Nunes",
-      "github": "drihnati"
-    },
-    {
       "name": "Jack Moore",
-      "github": "JackDMoore"     
+      "github": "JackDMoore"
     },
     {
       "name": "Angela Demiri",
@@ -92,7 +104,7 @@
     },
     {
       "name": "Leah Thomas",
-      "github": "Leahjthom" 
+      "github": "Leahjthom"
     },
     {
       "name": "Tobi Akinola",
@@ -127,16 +139,21 @@
       "github": "AjayaBudha"
     },
     {
-      "name": "Chung Yin Leung",
-      "github": "CYLeun"
-    },
-    {
       "name": "Dohee Lee",
-      "github": "doheelee0328"
+      "github": "doheelee0328",
+      "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
     },
     {
-      "name": "Bhavya Palanichamy",
-      "github": "Bhavya89207"
+      "name": "Rebecca Lewis",
+      "github": "Beckibuzz93"
+    },
+    {
+      "name": "Nurudeen Adesina",
+      "github": "A-Nuru"
     },
     {
       "name": "Rebecca Lewis",
@@ -146,6 +163,18 @@
           "type": "cv"
         }
       ]
+    },
+      "name": "Kenen DSouza",
+      "github": "kenenx",
+      "materials": [
+      {
+        "type": "cv"
+      }
+    ]
+    },
+    {
+      "name": "Azeem Falade",
+      "github": "ABF22"
     }
   ]
 }
