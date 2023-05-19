@@ -109,7 +109,12 @@
     },
     {
       "name": "Leah Thomas",
-      "github": "Leahjthom"
+      "github": "Leahjthom",
+       "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
     },
     {
       "name": "Matt Porter",
