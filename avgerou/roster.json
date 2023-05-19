@@ -85,7 +85,12 @@
     },
     {
       "name": "Thanushiyan Poobalasingam",
-      "github": "nngw"
+      "github": "nngw",
+      "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
     },
     {
       "name": "Jack Moore",
@@ -112,10 +117,6 @@
       "github": "Leahjthom"
     },
     {
-      "name": "Tobi Akinola",
-      "github": "tobi-j-a"
-    },
-    {
       "name": "Matt Porter",
       "github": "Thiefstep"
     },
@@ -137,7 +138,13 @@
     },
     {
       "name": "Muhammad Yaaseen Rossan",
-      "github": "yrossan"
+      "github": "yrossan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+      
     },
     {
       "name": "Ajaya Budhathoki",
