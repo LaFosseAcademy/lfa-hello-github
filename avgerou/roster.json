@@ -101,7 +101,12 @@
     },
     {
       "name": "Aiswarya Gurung",
-      "github": "ashugurung"
+      "github": "ashugurung",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Francesca Adu",
