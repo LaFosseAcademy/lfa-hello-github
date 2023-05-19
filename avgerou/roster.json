@@ -121,7 +121,12 @@
     },
     {
       "name": "Mustafa Hassan",
-      "github": "mustafah1"
+      "github": "mustafah1",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Alina Hafeez",
