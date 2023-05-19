@@ -117,7 +117,12 @@
     },
     {
       "name": "Valdir Fonseca",
-      "github": "vfonseca85"
+      "github": "vfonseca85",
+      "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
     },
     {
       "name": "Mustafa Hassan",
