@@ -68,7 +68,12 @@
     },
     {
       "name": "Geraldine Ho",
-      "github": "ThegeralbeanQD"
+      "github": "ThegeralbeanQD",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Christopher Sharpe",
