@@ -140,7 +140,13 @@
     },
     {
       "name": "Alina Hafeez",
-      "github": "Linaintech"
+      "github": "Linaintech",
+      "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
+
     },
     {
       "name": "Muhammad Omar",
