@@ -123,7 +123,12 @@
     },
     {
       "name": "Angela Demiri",
-      "github": "angela2264"
+      "github": "angela2264",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sean O'Beirne",
