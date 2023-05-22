@@ -2,3 +2,4 @@
 cohortBuild
 node_modules
 .vscode
+.idea/
