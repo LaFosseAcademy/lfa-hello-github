@@ -12,19 +12,43 @@
   "students": [
     {
       "name": "Diego Ramos",
-      "github": "diegorramos84"
+      "github": "diegorramos84",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
-      "name": "Tomislav Dinev ",
-      "github": "dinevtomislav"
+      "name": "George Hill",
+      "github": "georgeophill"
+    },
+    {
+      "name": "Tomislav Dinev",
+      "github": "dinevtomislav",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Mithurssan Santhirakumar",
-      "github": "mithurssan"
+      "github": "mithurssan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Tom Burzynski",
-      "github": "Tellur89"
+      "github": "Tellur89",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Daniel Ogunsanya",
@@ -36,19 +60,30 @@
     },
     {
       "name": "Avni Piro",
-      "github": "PiroAvni"
+      "github": "PiroAvni",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nicole French",
-      "github": "NaNNaNNaNNaNBoolean"
+      "github": "NaNNaNNaNNaNBoolean",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Geraldine Ho",
-      "github": "ThegeralbeanQD"
-    },
-    {
-      "name": "Mohammad Ali Qasim Syed",
-      "github": "Ali-Qasim"
+      "github": "ThegeralbeanQD",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Christopher Sharpe",
@@ -62,6 +97,154 @@
           "type": "cv"
         }
       ]
+    },
+    {
+      "name": "Thanushiyan Poobalasingam",
+      "github": "nngw",
+      "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
+    },
+    {
+      "name": "Jack Moore",
+      "github": "JackDMoore",
+            "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
+    },
+    {
+      "name": "Angela Demiri",
+      "github": "angela2264"
+    },
+    {
+      "name": "Sean O'Beirne",
+      "github": "Swanobe",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Aiswarya Gurung",
+      "github": "ashugurung"
+    },
+    {
+      "name": "Francesca Adu",
+      "github": "FrancescaAdu"
+    },
+    {
+      "name": "Leah Thomas",
+      "github": "Leahjthom",
+       "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
+    },
+    {
+      "name": "Matt Porter",
+      "github": "Thiefstep"
+    },
+    {
+      "name": "Valdir Fonseca",
+      "github": "vfonseca85",
+      "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
+    },
+    {
+      "name": "Mustafa Hassan",
+      "github": "mustafah1",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Alina Hafeez",
+      "github": "Linaintech",
+      "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
+
+    },
+    {
+      "name": "Muhammad Omar",
+      "github": "theCodingWhiz",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Muhammad Yaaseen Rossan",
+      "github": "yrossan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+      
+    },
+    {
+      "name": "Ajaya Budhathoki",
+      "github": "AjayaBudha",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Dohee Lee",
+      "github": "doheelee0328",
+      "materials":[
+        {
+          "type":"cv"
+        }
+      ]
+    },
+    {
+      "name": "Nurudeen Adesina",
+      "github": "A-Nuru",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Lewis",
+      "github": "Beckibuzz93",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Kenen DSouza",
+      "github": "kenenx",
+      "materials": [
+      {
+        "type": "cv"
+      }
+    ]
+    },
+    {
+      "name": "Azeem Falade",
+      "github": "ABF22"
     }
   ]
 }
