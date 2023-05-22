@@ -28,7 +28,7 @@
       "github": "dinevtomislav",
       "materials": [
         {
-          "type":"cv"
+          "type": "cv"
         }
       ]
     },
@@ -87,7 +87,12 @@
     },
     {
       "name": "Christopher Sharpe",
-      "github": "CingSharped"
+      "github": "CingSharped",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Joao Patacas",
@@ -101,18 +106,18 @@
     {
       "name": "Thanushiyan Poobalasingam",
       "github": "nngw",
-      "materials":[
+      "materials": [
         {
-          "type":"cv" 
+          "type": "cv"
         }
       ]
     },
     {
       "name": "Jack Moore",
       "github": "JackDMoore",
-            "materials":[
+      "materials": [
         {
-          "type":"cv" 
+          "type": "cv"
         }
       ]
     },
@@ -140,9 +145,9 @@
     {
       "name": "Leah Thomas",
       "github": "Leahjthom",
-       "materials":[
+      "materials": [
         {
-          "type":"cv" 
+          "type": "cv"
         }
       ]
     },
@@ -153,9 +158,9 @@
     {
       "name": "Valdir Fonseca",
       "github": "vfonseca85",
-      "materials":[
+      "materials": [
         {
-          "type":"cv" 
+          "type": "cv"
         }
       ]
     },
@@ -171,12 +176,11 @@
     {
       "name": "Alina Hafeez",
       "github": "Linaintech",
-      "materials":[
+      "materials": [
         {
-          "type":"cv" 
+          "type": "cv"
         }
       ]
-
     },
     {
       "name": "Muhammad Omar",
@@ -195,7 +199,6 @@
           "type": "cv"
         }
       ]
-      
     },
     {
       "name": "Ajaya Budhathoki",
@@ -209,9 +212,9 @@
     {
       "name": "Dohee Lee",
       "github": "doheelee0328",
-      "materials":[
+      "materials": [
         {
-          "type":"cv"
+          "type": "cv"
         }
       ]
     },
@@ -237,10 +240,10 @@
       "name": "Kenen DSouza",
       "github": "kenenx",
       "materials": [
-      {
-        "type": "cv"
-      }
-    ]
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Azeem Falade",
