@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Diego Ramos",
-      "github": "diegorramos84"
+      "github": "diegorramos84",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "George Hill",
@@ -160,7 +165,7 @@
       "github": "doheelee0328",
       "materials":[
         {
-          "type":"cv" 
+          "type":"cv"
         }
       ]
     },
