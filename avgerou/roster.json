@@ -99,7 +99,12 @@
     },
     {
       "name": "Jack Moore",
-      "github": "JackDMoore"
+      "github": "JackDMoore",
+            "materials":[
+        {
+          "type":"cv" 
+        }
+      ]
     },
     {
       "name": "Angela Demiri",
