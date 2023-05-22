@@ -11,10 +11,6 @@
   },
   "students": [
     {
-      "name": "Yaasif Mohammed",
-      "github": "Yaasif1"
-    },
-    {
       "name": "Alex Earle",
       "github": "ajearle11"
     },
@@ -39,8 +35,28 @@
       "github": "anthonychan1211"
     },
     {
+      "name": "Abbie Wills",
+      "github": "AbbieWills"
+    },
+    {
       "name": "Abdul Salim",
       "github": "Salim1704"
+    },
+    {
+      "name": "Justice Unanka Eke",
+      "github": "Jdiva1234"
+    },
+    {
+      "name": "Guy Vernon",
+      "github": "Gilheim"
+    },
+    {
+      "name": "Zeinab Roumieh",
+      "github": "zeinabro"
+    },
+    {
+      "name": "Yaasif Mohammed",
+      "github": "Yaasif1"
     }
   ]
 }
