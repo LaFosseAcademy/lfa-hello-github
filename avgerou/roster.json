@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Diego Ramos",
-      "github": "diegorramos84"
+      "github": "diegorramos84",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "George Hill",
@@ -20,7 +25,12 @@
     },
     {
       "name": "Tomislav Dinev",
-      "github": "dinevtomislav"
+      "github": "dinevtomislav",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Mithurssan Santhirakumar",
@@ -68,36 +78,66 @@
     },
     {
       "name": "Geraldine Ho",
-      "github": "ThegeralbeanQD"
+      "github": "ThegeralbeanQD",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Christopher Sharpe",
-      "github": "CingSharped"
+      "github": "CingSharped",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Joao Patacas",
-      "github": "jpatacas"
+      "github": "jpatacas",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Thanushiyan Poobalasingam",
       "github": "nngw",
-      "materials":[
+      "materials": [
         {
-          "type":"cv" 
+          "type": "cv"
         }
       ]
     },
     {
       "name": "Jack Moore",
-      "github": "JackDMoore"
+      "github": "JackDMoore",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Angela Demiri",
-      "github": "angela2264"
+      "github": "angela2264",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sean O'Beirne",
-      "github": "Swanobe"
+      "github": "Swanobe",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Aiswarya Gurung",
@@ -118,7 +158,12 @@
     },
     {
       "name": "Leah Thomas",
-      "github": "Leahjthom"
+      "github": "Leahjthom",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Matt Porter",
@@ -126,19 +171,39 @@
     },
     {
       "name": "Valdir Fonseca",
-      "github": "vfonseca85"
+      "github": "vfonseca85",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Mustafa Hassan",
-      "github": "mustafah1"
+      "github": "mustafah1",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Alina Hafeez",
-      "github": "Linaintech"
+      "github": "Linaintech",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Muhammad Omar",
-      "github": "theCodingWhiz"
+      "github": "theCodingWhiz",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Muhammad Yaaseen Rossan",
@@ -148,37 +213,51 @@
           "type": "cv"
         }
       ]
-      
     },
     {
       "name": "Ajaya Budhathoki",
-      "github": "AjayaBudha"
+      "github": "AjayaBudha",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dohee Lee",
       "github": "doheelee0328",
-      "materials":[
+      "materials": [
         {
-          "type":"cv" 
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Nurudeen Adesina",
+      "github": "A-Nuru",
+      "materials": [
+        {
+          "type": "cv"
         }
       ]
     },
     {
       "name": "Rebecca Lewis",
-      "github": "Beckibuzz93"
-    },
-    {
-      "name": "Nurudeen Adesina",
-      "github": "A-Nuru"
+      "github": "Beckibuzz93",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kenen DSouza",
       "github": "kenenx",
       "materials": [
-      {
-        "type": "cv"
-      }
-    ]
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Azeem Falade",
