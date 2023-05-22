@@ -148,7 +148,12 @@
     },
     {
       "name": "Ajaya Budhathoki",
-      "github": "AjayaBudha"
+      "github": "AjayaBudha",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dohee Lee",
