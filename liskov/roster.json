@@ -1,60 +1,62 @@
 {
-    "namesake": {
-      "name": "Barbara Liskov",
-      "imageUrl": "https://avatars.githubusercontent.com/t/7808695?s=400&v=4",
-      "materials": [
-        {
-          "type": "video",
-          "url": ""
-        }
-      ]
-    },
-    "students": [
-      { 
-        "name": "Alex Earle",
-        "github": "ajearle11"
-      },
+  "namesake": {
+    "name": "Barbara Liskov",
+    "imageUrl": "https://avatars.githubusercontent.com/t/7808695?s=400&v=4",
+    "materials": [
       {
-        "name": "YF Chau",
-        "github": "sixwoodhk"
-      },
-      {
-        "name": "Harry Turner-Burns",
-        "github": "HarryTB2112"
-      },
-      {
-        "name":"Joshua Murray",
-        "github":"JoshMurray99"
-      },
-      {
-        "name":"Lais Moraes",
-        "github":"laisjmvet"
-      },
-      {
-        "name": "Anthony Long Yin Chan",
-        "github": "anthonychan1211"
-      },
-      {
-        "name": "Abbie Wills",
-        "github": "AbbieWills"
-      },
-      {
-        "name": "Abdul Salim",
-        "github": "Salim1704"
-      },
-      {
-        "name": "Justice Unanka Eke",
-        "github": "Jdiva1234"
-      },
-      {
-        "name": "Guy Vernon",
-        "github": "Gilheim"
-      },
-      {
-        "name": "Zeinab Roumieh",
-        "github": "zeinabro"
+        "type": "video",
+        "url": ""
       }
     ]
-  }
-
-  
+  },
+  "students": [
+    {
+      "name": "Alex Earle",
+      "github": "ajearle11"
+    },
+    {
+      "name": "YF Chau",
+      "github": "sixwoodhk"
+    },
+    {
+      "name": "Harry Turner-Burns",
+      "github": "HarryTB2112"
+    },
+    {
+      "name": "Joshua Murray",
+      "github": "JoshMurray99"
+    },
+    {
+      "name": "Lais Moraes",
+      "github": "laisjmvet"
+    },
+    {
+      "name": "Anthony Long Yin Chan",
+      "github": "anthonychan1211"
+    },
+    {
+      "name": "Abbie Wills",
+      "github": "AbbieWills"
+    },
+    {
+      "name": "Abdul Salim",
+      "github": "Salim1704"
+    },
+    {
+      "name": "Justice Unanka Eke",
+      "github": "Jdiva1234"
+    },
+    {
+      "name": "Guy Vernon",
+      "github": "Gilheim"
+    },
+    {
+      "name": "Zeinab Roumieh",
+      "github": "zeinabro"
+    },
+    {
+      "name": "Yaasif Mohammed",
+      "github": "Yaasif1"
+    }
+  ]
+}
