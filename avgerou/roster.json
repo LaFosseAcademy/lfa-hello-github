@@ -165,12 +165,17 @@
       ]
     },
     {
-      "name": "Rebecca Lewis",
-      "github": "Beckibuzz93"
-    },
-    {
       "name": "Nurudeen Adesina",
       "github": "A-Nuru"
+    },
+    {
+      "name": "Rebecca Lewis",
+      "github": "Beckibuzz93",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kenen DSouza",
