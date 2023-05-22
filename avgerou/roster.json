@@ -91,7 +91,12 @@
     },
     {
       "name": "Joao Patacas",
-      "github": "jpatacas"
+      "github": "jpatacas",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Thanushiyan Poobalasingam",
