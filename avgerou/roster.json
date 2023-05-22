@@ -145,7 +145,12 @@
     },
     {
       "name": "Francesca Adu",
-      "github": "FrancescaAdu"
+      "github": "FrancescaAdu",
+      "materials": [
+        {
+          "type": "cv" 
+        }
+      ]
     },
     {
       "name": "Leah Thomas",
