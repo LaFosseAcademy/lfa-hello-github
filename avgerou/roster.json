@@ -170,7 +170,12 @@
     },
     {
       "name": "Muhammad Omar",
-      "github": "theCodingWhiz"
+      "github": "theCodingWhiz",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Muhammad Yaaseen Rossan",
