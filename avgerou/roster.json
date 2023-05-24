@@ -257,7 +257,12 @@
     },
     {
       "name": "Azeem Falade",
-      "github": "ABF22"
+      "github": "ABF22",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
