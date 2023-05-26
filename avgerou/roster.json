@@ -73,6 +73,9 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type2": "cv"
         }
       ]
     },
