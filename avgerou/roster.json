@@ -21,7 +21,16 @@
     },
     {
       "name": "George Hill",
-      "github": "georgeophill"
+      "github": "georgeophill",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "k-tTHII6s_E"
+        }
+      ]
     },
     {
       "name": "Tomislav Dinev",
