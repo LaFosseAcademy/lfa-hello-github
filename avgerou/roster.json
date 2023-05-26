@@ -38,6 +38,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "rNG9ARM9Ym0"
         }
       ]
     },
@@ -148,7 +152,7 @@
       "github": "FrancescaAdu",
       "materials": [
         {
-          "type": "cv" 
+          "type": "cv"
         }
       ]
     },
