@@ -89,7 +89,10 @@
       "github": "NaNNaNNaNNaNBoolean",
       "materials": [
         {
-          "type": "cv",
+          "type": "cv"
+        },
+        {
+          "type": "video",
           "url": "iGtLDjOWZxI"
         }
       ]
