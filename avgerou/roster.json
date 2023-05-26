@@ -21,7 +21,16 @@
     },
     {
       "name": "George Hill",
-      "github": "georgeophill"
+      "github": "georgeophill",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "k-tTHII6s_E"
+        }
+      ]
     },
     {
       "name": "Tomislav Dinev",
@@ -29,6 +38,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1xodf4lOj9c"
         }
       ]
     },
@@ -38,6 +51,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "rNG9ARM9Ym0"
         }
       ]
     },
@@ -149,7 +166,7 @@
       "github": "FrancescaAdu",
       "materials": [
         {
-          "type": "cv" 
+          "type": "cv"
         }
       ]
     },
@@ -164,7 +181,16 @@
     },
     {
       "name": "Matt Porter",
-      "github": "Thiefstep"
+      "github": "Thiefstep",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "KcANhzK8kK8"
+        }
+      ]
     },
     {
       "name": "Valdir Fonseca",
