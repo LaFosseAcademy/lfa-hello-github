@@ -69,7 +69,12 @@
     },
     {
       "name": "Daniel Ogunsanya",
-      "github": "danteoguns11"
+      "github": "danteoguns11",
+      "materials": [
+        {
+          "type2": "cv"
+        }
+      ]
     },
     {
       "name": "Chey Brown",
