@@ -167,7 +167,16 @@
     },
     {
       "name": "Matt Porter",
-      "github": "Thiefstep"
+      "github": "Thiefstep",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "KcANhzK8kK8"
+        }
+      ]
     },
     {
       "name": "Valdir Fonseca",
