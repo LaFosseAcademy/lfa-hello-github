@@ -21,7 +21,16 @@
     },
     {
       "name": "George Hill",
-      "github": "georgeophill"
+      "github": "georgeophill",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "k-tTHII6s_E"
+        }
+      ]
     },
     {
       "name": "Tomislav Dinev",
@@ -29,6 +38,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1xodf4lOj9c"
         }
       ]
     },
@@ -38,6 +51,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "rNG9ARM9Ym0"
         }
       ]
     },
@@ -73,6 +90,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "iGtLDjOWZxI"
         }
       ]
     },
@@ -127,7 +148,12 @@
     },
     {
       "name": "Angela Demiri",
-      "github": "angela2264"
+      "github": "angela2264",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sean O'Beirne",
@@ -144,7 +170,16 @@
     },
     {
       "name": "Francesca Adu",
-      "github": "FrancescaAdu"
+      "github": "FrancescaAdu",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "R6vMb6q5ywc"
+        }
+      ]
     },
     {
       "name": "Leah Thomas",
@@ -157,7 +192,16 @@
     },
     {
       "name": "Matt Porter",
-      "github": "Thiefstep"
+      "github": "Thiefstep",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "KcANhzK8kK8"
+        }
+      ]
     },
     {
       "name": "Valdir Fonseca",
@@ -251,7 +295,12 @@
     },
     {
       "name": "Azeem Falade",
-      "github": "ABF22"
+      "github": "ABF22",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
