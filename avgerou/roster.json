@@ -280,6 +280,11 @@
       "materials": [
         {
           "type": "cv"
+        },
+
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MEkXoIATf4k"
         }
       ]
     },
