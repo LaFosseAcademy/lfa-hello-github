@@ -107,7 +107,8 @@
       "materials": [
         {
           "type": "cv"
-        }, {
+        },
+        {
           "type": "video",
           "url": "F5R9NZN_uz8"
         }
@@ -179,7 +180,7 @@
         },
         {
           "type": "video",
-          "URL": "V5gP9AmZglY"
+          "url": "V5gP9AmZglY"
         }
       ]
     },
