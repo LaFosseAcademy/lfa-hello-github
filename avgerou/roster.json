@@ -73,7 +73,15 @@
     },
     {
       "name": "Chey Brown",
-      "github": "Chey-DB"
+      "github": "Chey-DB",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        { "type": "video",
+         "url": "9tDXAYopksI"
+        }
+      ]
     },
     {
       "name": "Avni Piro",
