@@ -137,8 +137,11 @@
       "github": "nngw",
       "materials": [
         {
-          "type": "cv",
-          "url": "v=f0_PgroVtrc"
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "watch?v=f0_PgroVtrc"
         }
       ]
     },
