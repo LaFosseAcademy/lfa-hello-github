@@ -16,7 +16,13 @@
       "materials": [
         {
           "type": "cv"
+
+        },
+        {
+          "type": "video",
+          "url": "M7E4e24V9hQ"
         }
+
       ]
     },
     {
@@ -64,6 +70,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "c5LQBhLrM3A"
         }
       ]
     },
@@ -73,7 +83,15 @@
     },
     {
       "name": "Chey Brown",
-      "github": "Chey-DB"
+      "github": "Chey-DB",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        { "type": "video",
+         "url": "9tDXAYopksI"
+        }
+      ]
     },
     {
       "name": "Avni Piro",
@@ -112,6 +130,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "UJaAWp-IRz0"
         }
       ]
     },
@@ -148,6 +170,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "z5qXLCdGkU"
         }
       ]
     },
@@ -157,6 +183,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "39P5fefYru0"
         }
       ]
     },
@@ -250,6 +280,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "z8xGJYY_xCw"
         }
       ]
     },
@@ -259,6 +293,10 @@
       "materials": [
         {
           "type": "cv"
+        }, 
+        {
+          "type":"video",
+          "url":"H4OKgbMnpnI"
         }
       ]
     },
@@ -286,6 +324,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url":"62_gMxOdU5Y"
         }
       ]
     },
@@ -295,6 +337,11 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type":"video",
+          "url": "pE7_7NdPLS4" 
+
         }
       ]
     }
