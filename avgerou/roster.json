@@ -15,9 +15,14 @@
       "github": "diegorramos84",
       "materials": [
         {
-          "type": "cv",
+          "type": "cv"
+
+        },
+        {
+          "type": "video",
           "url": "M7E4e24V9hQ"
         }
+
       ]
     },
     {
