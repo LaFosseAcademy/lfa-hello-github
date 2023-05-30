@@ -307,11 +307,6 @@
       "materials": [
         {
           "type": "cv"
-        },
-        {
-          "type":"video",
-          "url": "https://youtu.be/pE7_7NdPLS4" 
-
         }
       ]
     }
