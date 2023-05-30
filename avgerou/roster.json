@@ -73,7 +73,16 @@
     },
     {
       "name": "Daniel Ogunsanya",
-      "github": "danteoguns11"
+      "github": "danteoguns11",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "HzjUCR99L4c"
+        }
+      ]
     },
     {
       "name": "Chey Brown",
@@ -82,8 +91,9 @@
         {
           "type": "cv"
         },
-        { "type": "video",
-         "url": "9tDXAYopksI"
+        {
+          "type": "video",
+          "url": "9tDXAYopksI"
         }
       ]
     },
@@ -283,10 +293,10 @@
       "materials": [
         {
           "type": "cv"
-        }, 
+        },
         {
-          "type":"video",
-          "url":"H4OKgbMnpnI"
+          "type": "video",
+          "url": "H4OKgbMnpnI"
         }
       ]
     },
@@ -317,7 +327,7 @@
         },
         {
           "type": "video",
-          "url":"62_gMxOdU5Y"
+          "url": "62_gMxOdU5Y"
         }
       ]
     },
@@ -329,9 +339,8 @@
           "type": "cv"
         },
         {
-          "type":"video",
-          "url": "pE7_7NdPLS4" 
-
+          "type": "video",
+          "url": "pE7_7NdPLS4"
         }
       ]
     }
