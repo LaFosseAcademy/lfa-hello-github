@@ -93,7 +93,10 @@
             "materials":[
         {
           "type":"cv",
-          "url": "https://youtu.be/V5gP9AmZglY" 
+        }
+        {
+          "type":"video",
+          "URL": "V5gP9AmZglY"
         }
       ]
     },
