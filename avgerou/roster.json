@@ -220,7 +220,16 @@
     },
     {
       "name": "Aiswarya Gurung",
-      "github": "ashugurung"
+      "github": "ashugurung",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ohh4NKsDnXU"
+        }
+      ]
     },
     {
       "name": "Francesca Adu",
