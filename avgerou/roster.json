@@ -342,6 +342,11 @@
       "materials": [
         {
           "type": "cv"
+        },
+
+        {
+          "type": "video",
+          "url": "MEkXoIATf4k"
         }
       ]
     },
