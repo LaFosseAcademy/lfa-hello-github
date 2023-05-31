@@ -240,8 +240,13 @@
       "github": "Leahjthom",
       "materials": [
         {
-          "type": "cv"
-        }
+          "type":"cv" 
+        },
+        {
+        "type": "video",
+        "url": "nZ_GjUVJ-s8"
+      }
+       
       ]
     },
     {
