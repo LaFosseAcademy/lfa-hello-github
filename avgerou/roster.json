@@ -16,6 +16,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M7E4e24V9hQ"
         }
       ]
     },
@@ -64,16 +68,38 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "c5LQBhLrM3A"
         }
       ]
     },
     {
       "name": "Daniel Ogunsanya",
-      "github": "danteoguns11"
+      "github": "danteoguns11",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "HzjUCR99L4c"
+        }
+      ]
     },
     {
       "name": "Chey Brown",
-      "github": "Chey-DB"
+      "github": "Chey-DB",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9tDXAYopksI"
+        }
+      ]
     },
     {
       "name": "Avni Piro",
@@ -81,6 +107,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "F5R9NZN_uz8"
         }
       ]
     },
@@ -103,6 +133,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "qvtUcvHhT7w"
         }
       ]
     },
@@ -112,6 +146,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "UJaAWp-IRz0"
         }
       ]
     },
@@ -121,6 +159,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "I2Q9IJLhnNw"
         }
       ]
     },
@@ -130,6 +172,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "f0_PgroVtrc"
         }
       ]
     },
@@ -139,6 +185,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "V5gP9AmZglY"
         }
       ]
     },
@@ -148,6 +198,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_z5qXLCdGkU"
         }
       ]
     },
@@ -157,12 +211,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "39P5fefYru0"
         }
       ]
     },
     {
       "name": "Aiswarya Gurung",
-      "github": "ashugurung"
+      "github": "ashugurung",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ohh4NKsDnXU"
+        }
+      ]
     },
     {
       "name": "Francesca Adu",
@@ -182,8 +249,13 @@
       "github": "Leahjthom",
       "materials": [
         {
-          "type": "cv"
-        }
+          "type":"cv" 
+        },
+        {
+        "type": "video",
+        "url": "nZ_GjUVJ-s8"
+      }
+       
       ]
     },
     {
@@ -205,6 +277,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "sA7YlSL0Otk"
         }
       ]
     },
@@ -223,6 +299,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Iqu_to0WjBk"
         }
       ]
     },
@@ -241,6 +321,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "dcKwzn5bSks"
         }
       ]
     },
@@ -250,6 +334,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "z8xGJYY_xCw"
         }
       ]
     },
@@ -259,6 +347,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "H4OKgbMnpnI"
         }
       ]
     },
@@ -268,6 +360,11 @@
       "materials": [
         {
           "type": "cv"
+        },
+
+        {
+          "type": "video",
+          "url": "MEkXoIATf4k"
         }
       ]
     },
@@ -277,6 +374,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "BZ7vYI1Z_E0"
         }
       ]
     },
@@ -286,6 +387,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "62_gMxOdU5Y"
         }
       ]
     },
@@ -295,6 +400,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "pE7_7NdPLS4"
         }
       ]
     }
