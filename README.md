@@ -1,6 +1,6 @@
 ### Study Notes
 
-[git CLI cheatsheet](https://github.com/getfutureproof/fp_guides_wiki/wiki/git-CLI-Cheatsheet)
+[git CLI cheatsheet](https://github.com/getfutureproof/lfa_guides_wiki/wiki/git-CLI-Cheatsheet)
 
 # Instructions
 🥳 **Are you coming here for the first time?** \
@@ -14,7 +14,7 @@ _Head on down to [Returners](#returners) for tips on how to make this smooth for
 ### 1. Fork & Clone
 
 - Hit 'Fork' on this repo (it's in the top right!)
-- Make sure you are now looking at **your fork** (it will say `<your-github-username>/fp_study_notes_hello_github` at the top of the page)
+- Make sure you are now looking at **your fork** (it will say `<your-github-username>/lfa_study_notes_hello_github` at the top of the page)
 - Click the green 'Code' button and copy the SSH option if you have already setup git in your terminal, or the HTTPS option if not.
 - Clone down **your fork** using `git clone <what you copied>` in your terminal
 - Move into the project folder with `cd fp_study_notes_hello_github`
@@ -22,14 +22,14 @@ _Head on down to [Returners](#returners) for tips on how to make this smooth for
 ### 2. futureproof your fork
 _Okay, bad pun but it's true! Throughout the course we will be asking you to contribute to this repo again, so we want to make sure you can always get the latest version to work on_
 
-- Add us as a remote with `git remote add upstream https://github.com/getfutureproof/fp_study_notes_hello_github.git`
+- Add us as a remote with `git remote add upstream https://github.com/getfutureproof/lfa_study_notes_hello_github.git`
 - Check that all is well so far by running `git remote -v` - You should see something similar to the following:
 
 ```
-origin	  https://github.com/<your-github-username>/fp_study_notes_hello_github.git (fetch)
-origin	  https://github.com/<your-github-username>/fp_study_notes_hello_github.git (push)
-upstream	https://github.com/getfutureproof/fp_study_notes_hello_github.git (fetch)
-upstream	https://github.com/getfutureproof/fp_study_notes_hello_github.git (push)
+origin	  https://github.com/<your-github-username>/lfa_study_notes_hello_github.git (fetch)
+origin	  https://github.com/<your-github-username>/lfa_study_notes_hello_github.git (push)
+upstream	https://github.com/getfutureproof/lfa_study_notes_hello_github.git (fetch)
+upstream	https://github.com/getfutureproof/lfa_study_notes_hello_github.git (push)
 ```
 
 ### 3. Make a Change
@@ -63,7 +63,7 @@ NB: If you have left it a while since doing that fork, clone and adding the upst
 
 ### 6. Make your first PR
 
-- You made your own fork of this, now use the GitHub browser interface to see if you can make a Pull Request back to `getfutureproof/fp_study_notes_hello_github`. Try and request review from @getfutureproof-admin. We will merge your PR when we receive it!
+- You made your own fork of this, now use the GitHub browser interface to see if you can make a Pull Request back to `getfutureproof/lfa_study_notes_hello_github`. Try and request review from @getfutureproof-admin. We will merge your PR when we receive it!
 
 
 ---
