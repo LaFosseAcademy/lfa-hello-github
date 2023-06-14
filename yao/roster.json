@@ -1,7 +1,11 @@
 {
     "namesake": {
       "name": "Andrew Yao",
+<<<<<<< HEAD
       "imageUrl": "",
+=======
+      "imageUrl": "https://avatars.githubusercontent.com/t/8070788?s=116&v=4",
+>>>>>>> f0548e4 (Avatar Added)
       "materials": [
         {
           "type": "video",
