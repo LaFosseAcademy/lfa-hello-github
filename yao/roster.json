@@ -9,7 +9,10 @@
         }
       ]
     },
-    "students": [ 
-
+    "students": [
+      {
+      "name": "Franki Callard",
+      "github": "francescalily"
+      }
     ]
 }
