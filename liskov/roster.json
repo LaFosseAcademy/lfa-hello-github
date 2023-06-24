@@ -16,7 +16,7 @@
     },
     {
       "name": "YF Chau",
-      "github": "sixwoodhk"
+      "github": "yf-chau"
     },
     {
       "name": "Harry Turner-Burns",
@@ -43,10 +43,6 @@
       "github": "Salim1704"
     },
     {
-      "name": "Justice Unanka Eke",
-      "github": "Jdiva1234"
-    },
-    {
       "name": "Guy Vernon",
       "github": "Gilheim"
     },
@@ -63,10 +59,6 @@
       "github": "elliotclowes"
     },
     {
-      "name": "Ramis Kamil",
-      "github": "ramcizer"
-    },
-    {
       "name": "Joe Fountain",
       "github": "JoeyF92"
     },
@@ -81,10 +73,6 @@
     {
       "name": "Hasancan Cifci",
       "github": "hasancan99"
-    },
-    {
-      "name": "Alexander Costi",
-      "github": "costi-a"
     },
     {
       "name": "Kieran Scutt",
@@ -106,6 +94,47 @@
           "type:":"cv"
         }
       ]
+      "github": "modernsapien"
+    },
+    {
+      "name": "M. Samin Chowdhury",
+      "github": "samin1001"
+    },
+    {
+      "name": "Sabrina Wright",
+      "github": "Sabrina-L-W"
+    },
+    {
+      "name": "Oliver Thomas",
+      "github": "OliverThomas2001"
+    },
+    {
+      "name": "Hafso Salad",
+      "github": "hafso20"
+    },
+    {
+      "name": "Hussein Raji",
+      "github": "11HuRaji"
+    },
+    {
+      "name": "Dhiviya Sanjayan",
+      "github": "DhiviyaSanjayan"
+    },
+    {
+      "name": "Jacob Brooks",
+      "github": "JacobBrooks0"
+    },
+        {
+      "name": "Santhi sree Addanki",
+      "github": "santhi26"
+    },
+        {
+      "name": "Anastasija Kuznecova",
+      "github": "Nastasia777"
+    },
+        {
+      "name": "Roberta Capuano",
+      "github": "Bibi0506"
     }
   ]
 }

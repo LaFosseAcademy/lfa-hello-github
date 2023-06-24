@@ -1,0 +1,23 @@
+{
+    "namesake": {
+      "name": "Andrew Yao",
+      "imageUrl": "https://avatars.githubusercontent.com/t/8070788?s=116&v=4",
+      "materials": [
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
+    },
+    "students": [
+      {
+      "name": "Franki Callard",
+      "github": "francescalily"
+      },
+      {
+        "name": "Ollie Byrne",
+        "github": "ollie-byrne99"
+    }
+
+    ]
+}
