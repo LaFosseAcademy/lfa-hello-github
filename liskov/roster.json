@@ -97,10 +97,15 @@
     {
       "name": "Mahir Jalil",
       "github": "mahirjalil"
-    }
+    },
     {
       "name": "Daniel Scott",
-      "github": "modernsapien"
+      "github": "modernsapien",
+      "materials": [
+        {
+          "type:":"cv"
+        }
+      ]
     }
   ]
 }
