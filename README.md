@@ -17,7 +17,7 @@ _Head on down to [Returners](#returners) for tips on how to make this smooth for
 - Make sure you are now looking at **your fork** (it will say `<your-github-username>/lfa_study_notes_hello_github` at the top of the page)
 - Click the green 'Code' button and copy the SSH option if you have already setup git in your terminal, or the HTTPS option if not.
 - Clone down **your fork** using `git clone <what you copied>` in your terminal
-- Move into the project folder with `cd fp_study_notes_hello_github`
+- Move into the project folder with `cd lfa_study_notes_hello_github`
 
 ### 2. futureproof your fork
 _Okay, bad pun but it's true! Throughout the course we will be asking you to contribute to this repo again, so we want to make sure you can always get the latest version to work on_
