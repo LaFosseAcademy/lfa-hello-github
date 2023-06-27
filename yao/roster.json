@@ -11,13 +11,16 @@
     },
     "students": [
       {
-      "name": "Franki Callard",
-      "github": "francescalily"
+        "name": "Franki Callard",
+        "github": "francescalily"
       },
       {
         "name": "Ollie Byrne",
         "github": "ollie-byrne99"
-    }
-
+      },
+      {
+        "name": "James Ly",
+        "github": "RemnantEcho"
+      }
     ]
 }
