@@ -28,7 +28,12 @@
     },
     {
       "name": "Lais Moraes",
-      "github": "laisjmvet"
+      "github": "laisjmvet",
+      "material": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anthony Long Yin Chan",
