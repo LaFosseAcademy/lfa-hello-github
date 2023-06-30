@@ -21,10 +21,14 @@
     {
         "name": "Sam McGinnes",
         "github": "emptybagelman"
-    }
+    },
     {
         "name": "Rubina Kumari", 
-        "github": "rkumari2",
+        "github": "rkumari2"
+    },
+    {
+        "name": "Ralph Cox", 
+        "github": "essexgit"
     }
     ]
 }
