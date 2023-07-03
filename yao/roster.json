@@ -11,24 +11,28 @@
     },
     "students": [
       {
-      "name": "Franki Callard",
-      "github": "francescalily"
+        "name": "Franki Callard",
+        "github": "francescalily"
       },
       {
         "name": "Ollie Byrne",
         "github": "ollie-byrne99"
-    },
-    {
+      },
+      {
         "name": "Sam McGinnes",
         "github": "emptybagelman"
-    },
-    {
+      },
+      {
         "name": "Rubina Kumari", 
         "github": "rkumari2"
-    },
-    {
+      },
+      {
         "name": "Ralph Cox", 
         "github": "essexgit"
-    }
+      },
+      {
+        "name": "Valentin Abrutin", 
+        "github": "valentin-ab"
+      }
     ]
 }
