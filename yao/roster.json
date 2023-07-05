@@ -3,12 +3,12 @@
     "name": "Andrew Yao",
     "imageUrl": "https://avatars.githubusercontent.com/t/8070788?s=116&v=4",
     "materials": [
-      {
-        "type": "video",
-        "url": ""
-      }
-    ]
-  },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
+    },
   "students": [
     {
       "name": "Franki Callard",
@@ -57,6 +57,10 @@
     {
       "name": "Ravia Saini",
       "github": "tryingbiomedeng"
+    },
+    {
+       "name": "Krista Daniel",
+       "github": "Krista-9"
     },
     {
       "name": "Ndianaobong Samuel",
