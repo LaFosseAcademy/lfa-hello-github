@@ -1,66 +1,74 @@
 {
-    "namesake": {
-      "name": "Andrew Yao",
-      "imageUrl": "https://avatars.githubusercontent.com/t/8070788?s=116&v=4",
-      "materials": [
+  "namesake": {
+    "name": "Andrew Yao",
+    "imageUrl": "https://avatars.githubusercontent.com/t/8070788?s=116&v=4",
+    "materials": [
         {
           "type": "video",
           "url": ""
         }
       ]
     },
-    "students": [
-      {
-        "name": "Franki Callard",
-        "github": "francescalily"
-      },
-      {
-        "name": "Ollie Byrne",
-        "github": "ollie-byrne99"
-      },
-      {
-        "name": "James Ly",
-        "github": "RemnantEcho"
-      },
-      {
-        "name": "Sam McGinnes",
-        "github": "emptybagelman"
-      },
-      {
-        "name": "Rubina Kumari", 
-        "github": "rkumari2"
-      },
-      {
-        "name": "Ralph Cox", 
-        "github": "essexgit"
-      },
-      {
-        "name": "Camille Francis",
-        "github": "Cams-Plan"
-      },
-      {
-        "name": "Robbie Stamp",
-        "github": "RobbieStam"
-      },
-      {
-        "name": "Valentin Abrutin", 
-        "github": "valentin-ab"
-      },
-      {
-        "name": "Barbara Fajardo", 
-        "github": "bdf092"
-      },
-      {
-        "name": "Salina Thapa", 
-        "github": "salinathapa"
-      },
-        {
-        "name": "Ravia Saini",
-        "github": "tryingbiomedeng"
-        },
-      {
+  "students": [
+    {
+      "name": "Franki Callard",
+      "github": "francescalily"
+    },
+    {
+      "name": "Ollie Byrne",
+      "github": "ollie-byrne99"
+    },
+    {
+      "name": "James Ly",
+      "github": "RemnantEcho"
+    },
+    {
+      "name": "Sam McGinnes",
+      "github": "emptybagelman"
+    },
+    {
+      "name": "Rubina Kumari",
+      "github": "rkumari2"
+    },
+    {
+      "name": "Ralph Cox",
+      "github": "essexgit"
+    },
+    {
+      "name": "Camille Francis",
+      "github": "Cams-Plan"
+    },
+    {
+      "name": "Robbie Stamp",
+      "github": "RobbieStam"
+    },
+    {
+      "name": "Valentin Abrutin",
+      "github": "valentin-ab"
+    },
+    {
+      "name": "Barbara Fajardo",
+      "github": "bdf092"
+    },
+    {
+      "name": "Salina Thapa",
+      "github": "salinathapa"
+    },
+    {
+      "name": "Ravia Saini",
+      "github": "tryingbiomedeng"
+    },
+    {
+       "name": "Krista Daniel",
+       "github": "Krista-9"
+    },
+    {
+      "name": "Ndianaobong Samuel",
+      "github": "ndianaobong"
+    },
+    {
         "name": "Filomena Francisco",
         "github": "fillygee"
-      }
-    ]
+    }
+  ]
 }
