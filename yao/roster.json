@@ -3,12 +3,12 @@
     "name": "Andrew Yao",
     "imageUrl": "https://avatars.githubusercontent.com/t/8070788?s=116&v=4",
     "materials": [
-        {
-          "type": "video",
-          "url": ""
-        }
-      ]
-    },
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
   "students": [
     {
       "name": "Franki Callard",
@@ -88,7 +88,7 @@
     },
     {
       "name": "Hasan Shahid",
-      "github":"hasanshahid99"
+      "github": "hasanshahid99"
     },
     {
       "name": "Gyle Hendrix Pasicolan",
@@ -97,6 +97,10 @@
     {
       "name": "Kristian Spiropali",
       "github": "Kspiropali"
+    },
+    {
+      "name": "Yosief Ghebrengus",
+      "github": "Yosief-azmarino"
     }
   ]
 }
