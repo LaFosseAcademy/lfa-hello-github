@@ -16,12 +16,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M7E4e24V9hQ"
         }
       ]
     },
     {
       "name": "George Hill",
-      "github": "georgeophill"
+      "github": "georgeophill",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "k-tTHII6s_E"
+        }
+      ]
     },
     {
       "name": "Tomislav Dinev",
@@ -42,6 +55,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "rNG9ARM9Ym0"
         }
       ]
     },
@@ -51,16 +68,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "c5LQBhLrM3A"
         }
       ]
     },
     {
-      "name": "Daniel Ogunsanya",
-      "github": "danteoguns11"
-    },
-    {
       "name": "Chey Brown",
-      "github": "Chey-DB"
+      "github": "Chey-DB",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9tDXAYopksI"
+        }
+      ]
     },
     {
       "name": "Avni Piro",
@@ -68,6 +94,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "F5R9NZN_uz8"
         }
       ]
     },
@@ -77,6 +107,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "iGtLDjOWZxI"
         }
       ]
     },
@@ -86,6 +120,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "qvtUcvHhT7w"
         }
       ]
     },
@@ -95,6 +133,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "UJaAWp-IRz0"
         }
       ]
     },
@@ -104,6 +146,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "I2Q9IJLhnNw"
         }
       ]
     },
@@ -113,6 +159,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "f0_PgroVtrc"
         }
       ]
     },
@@ -122,6 +172,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "V5gP9AmZglY"
         }
       ]
     },
@@ -131,6 +185,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_z5qXLCdGkU"
         }
       ]
     },
@@ -140,19 +198,36 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "39P5fefYru0"
         }
       ]
     },
     {
       "name": "Aiswarya Gurung",
-      "github": "ashugurung"
+      "github": "ashugurung",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ohh4NKsDnXU"
+        }
+      ]
     },
     {
       "name": "Francesca Adu",
       "github": "FrancescaAdu",
       "materials": [
         {
-          "type": "cv" 
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "R6vMb6q5ywc"
         }
       ]
     },
@@ -161,13 +236,26 @@
       "github": "Leahjthom",
       "materials": [
         {
-          "type": "cv"
-        }
+          "type":"cv" 
+        },
+        {
+        "type": "video",
+        "url": "nZ_GjUVJ-s8"
+      }
       ]
     },
     {
       "name": "Matt Porter",
-      "github": "Thiefstep"
+      "github": "Thiefstep",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "KcANhzK8kK8"
+        }
+      ]
     },
     {
       "name": "Valdir Fonseca",
@@ -175,6 +263,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "sA7YlSL0Otk"
         }
       ]
     },
@@ -184,6 +276,10 @@
       "materials": [
         {
           "type": "cv"
+        }, 
+        {
+          "type": "video",
+          "url": "DPTTB7k8IUM"
         }
       ]
     },
@@ -193,6 +289,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Iqu_to0WjBk"
         }
       ]
     },
@@ -202,15 +302,10 @@
       "materials": [
         {
           "type": "cv"
-        }
-      ]
-    },
-    {
-      "name": "Muhammad Yaaseen Rossan",
-      "github": "yrossan",
-      "materials": [
+        },
         {
-          "type": "cv"
+          "type": "video",
+          "url": "X9YqG2FO6bU"
         }
       ]
     },
@@ -220,6 +315,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "z8xGJYY_xCw"
         }
       ]
     },
@@ -229,6 +328,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "H4OKgbMnpnI"
         }
       ]
     },
@@ -238,6 +341,11 @@
       "materials": [
         {
           "type": "cv"
+        },
+
+        {
+          "type": "video",
+          "url": "MEkXoIATf4k"
         }
       ]
     },
@@ -247,6 +355,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "BZ7vYI1Z_E0"
         }
       ]
     },
@@ -256,6 +368,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "62_gMxOdU5Y"
         }
       ]
     },
@@ -265,6 +381,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "pE7_7NdPLS4"
         }
       ]
     }
