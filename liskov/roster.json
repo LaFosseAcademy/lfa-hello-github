@@ -24,7 +24,12 @@
     },
     {
       "name": "Joshua Murray",
-      "github": "JoshMurray99"
+      "github": "JoshMurray99",
+      "material": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Lais Moraes",
