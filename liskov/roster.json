@@ -130,7 +130,12 @@
     },
     {
       "name": "Sabrina Wright",
-      "github": "Sabrina-L-W"
+      "github": "Sabrina-L-W",
+      "material": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Oliver Thomas",
