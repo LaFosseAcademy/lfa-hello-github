@@ -41,7 +41,12 @@
     },
     {
       "name": "Abbie Wills",
-      "github": "AbbieWills"
+      "github": "AbbieWills",
+      "material": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Abdul Salim",
