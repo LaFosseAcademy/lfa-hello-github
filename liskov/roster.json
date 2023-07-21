@@ -83,7 +83,12 @@
     },
     {
       "name": "Marcell Batta",
-      "github": "ioptyu2"
+      "github": "ioptyu2",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hasancan Cifci",
