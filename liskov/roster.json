@@ -95,7 +95,12 @@
     },
     {
       "name": "Sumeetpal Choat",
-      "github": "SumeetChoat"
+      "github": "SumeetChoat",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Mahir Jalil",
