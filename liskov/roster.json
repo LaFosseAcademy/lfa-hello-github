@@ -94,7 +94,12 @@
     },
     {
       "name": "Mahir Jalil",
-      "github": "mahirjalil"
+      "github": "mahirjalil",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Amal Burhan",
