@@ -72,7 +72,12 @@
     },
     {
       "name": "Yaasif Mohammed",
-      "github": "Yaasif1"
+      "github": "Yaasif1",
+      "material": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Elliot Clowes",
