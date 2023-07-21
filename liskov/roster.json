@@ -60,7 +60,12 @@
     },
     {
       "name": "Abdul Salim",
-      "github": "Salim1704"
+      "github": "Salim1704",
+      "material": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Guy Vernon",
