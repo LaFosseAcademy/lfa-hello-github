@@ -167,7 +167,12 @@
     },
     {
       "name": "Dhiviya Sanjayan",
-      "github": "DhiviyaSanjayan"
+      "github": "DhiviyaSanjayan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Jacob Brooks",
