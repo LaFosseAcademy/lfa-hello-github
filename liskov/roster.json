@@ -42,7 +42,12 @@
     },
     {
       "name": "Anthony Long Yin Chan",
-      "github": "anthonychan1211"
+      "github": "anthonychan1211",
+      "material": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Abbie Wills",
