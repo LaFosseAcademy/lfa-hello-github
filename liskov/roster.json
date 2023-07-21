@@ -16,7 +16,12 @@
     },
     {
       "name": "YF Chau",
-      "github": "yf-chau"
+      "github": "yf-chau",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Harry Turner-Burns",
@@ -25,7 +30,7 @@
     {
       "name": "Joshua Murray",
       "github": "JoshMurray99",
-      "material": [
+      "materials": [
         {
           "type": "cv"
         }
@@ -34,7 +39,7 @@
     {
       "name": "Lais Moraes",
       "github": "laisjmvet",
-      "material": [
+      "materials": [
         {
           "type": "cv"
         }
@@ -42,12 +47,17 @@
     },
     {
       "name": "Anthony Long Yin Chan",
-      "github": "anthonychan1211"
+      "github": "anthonychan1211",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Abbie Wills",
       "github": "AbbieWills",
-      "material": [
+      "materials": [
         {
           "type": "cv"
         }
@@ -55,7 +65,12 @@
     },
     {
       "name": "Abdul Salim",
-      "github": "Salim1704"
+      "github": "Salim1704",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Guy Vernon",
@@ -67,7 +82,12 @@
     },
     {
       "name": "Yaasif Mohammed",
-      "github": "Yaasif1"
+      "github": "Yaasif1",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Elliot Clowes",
@@ -83,7 +103,12 @@
     },
     {
       "name": "Marcell Batta",
-      "github": "ioptyu2"
+      "github": "ioptyu2",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hasancan Cifci",
