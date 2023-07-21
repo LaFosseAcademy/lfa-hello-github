@@ -16,7 +16,12 @@
     },
     {
       "name": "YF Chau",
-      "github": "yf-chau"
+      "github": "yf-chau",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Harry Turner-Burns",
@@ -25,7 +30,7 @@
     {
       "name": "Joshua Murray",
       "github": "JoshMurray99",
-      "material": [
+      "materials": [
         {
           "type": "cv"
         }
@@ -34,7 +39,7 @@
     {
       "name": "Lais Moraes",
       "github": "laisjmvet",
-      "material": [
+      "materials": [
         {
           "type": "cv"
         }
@@ -47,7 +52,7 @@
     {
       "name": "Abbie Wills",
       "github": "AbbieWills",
-      "material": [
+      "materials": [
         {
           "type": "cv"
         }
