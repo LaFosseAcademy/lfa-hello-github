@@ -25,7 +25,12 @@
     },
     {
       "name": "Harry Turner-Burns",
-      "github": "HarryTB2112"
+      "github": "HarryTB2112",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Joshua Murray",
