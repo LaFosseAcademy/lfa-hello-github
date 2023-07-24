@@ -83,7 +83,12 @@
     },
     {
       "name": "Zeinab Roumieh",
-      "github": "zeinabro"
+      "github": "zeinabro",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Yaasif Mohammed",
