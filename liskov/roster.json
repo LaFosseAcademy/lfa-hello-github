@@ -216,7 +216,12 @@
     },
     {
       "name": "Jacob Brooks",
-      "github": "JacobBrooks0"
+      "github": "JacobBrooks0",
+        "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Santhi sree Addanki",
