@@ -110,7 +110,12 @@
     },
     {
       "name": "Joe Fountain",
-      "github": "JoeyF92"
+      "github": "JoeyF92",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Danise Rosales",
