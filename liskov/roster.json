@@ -99,8 +99,14 @@
     },
     {
       "name": "Danise Rosales",
-      "github": "daniserosales"
+      "github": "daniserosales",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
+    
     {
       "name": "Marcell Batta",
       "github": "ioptyu2",
