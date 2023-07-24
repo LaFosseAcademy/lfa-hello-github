@@ -116,7 +116,12 @@
     },
     {
       "name": "Kieran Scutt",
-      "github": "kieranscutt"
+      "github": "kieranscutt",
+      "materials":[
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sumeetpal Choat",
