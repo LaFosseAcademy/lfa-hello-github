@@ -168,7 +168,12 @@
     },
     {
       "name": "Amal Burhan",
-      "github": "amalburhan"
+      "github": "amalburhan",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]     
     },
     {
       "name": "Daniel Scott",
