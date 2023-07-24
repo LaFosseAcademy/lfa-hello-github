@@ -218,7 +218,12 @@
     },
     {
       "name": "Hussein Raji",
-      "github": "11HuRaji"
+      "github": "11HuRaji",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dhiviya Sanjayan",
