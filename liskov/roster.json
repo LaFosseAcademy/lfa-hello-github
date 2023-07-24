@@ -79,7 +79,12 @@
     },
     {
       "name": "Guy Vernon",
-      "github": "Gilheim"
+      "github": "Gilheim",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Zeinab Roumieh",
