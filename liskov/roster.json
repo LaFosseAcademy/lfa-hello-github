@@ -182,7 +182,12 @@
     },
     {
       "name": "M. Samin Chowdhury",
-      "github": "samin1001"
+      "github": "samin1001",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sabrina Wright",
@@ -220,7 +225,12 @@
     },
     {
       "name": "Anastasija Kuznecova",
-      "github": "Nastasia777"
+      "github": "Nastasia777",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Roberta Capuano",
