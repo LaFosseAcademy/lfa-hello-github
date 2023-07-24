@@ -142,7 +142,12 @@
     },
     {
       "name": "Hasancan Cifci",
-      "github": "hasancan99"
+      "github": "hasancan99",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Kieran Scutt",
