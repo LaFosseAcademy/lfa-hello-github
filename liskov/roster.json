@@ -126,7 +126,6 @@
         }
       ]
     },
-    
     {
       "name": "Marcell Batta",
       "github": "ioptyu2",
@@ -176,7 +175,7 @@
       "github": "modernsapien",
       "materials": [
         {
-          "type:":"cv"
+          "type":"cv"
         }
       ]
     },
