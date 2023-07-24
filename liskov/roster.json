@@ -106,7 +106,12 @@
     },
     {
       "name": "Elliot Clowes",
-      "github": "elliotclowes"
+      "github": "elliotclowes",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Joe Fountain",
