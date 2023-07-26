@@ -16,20 +16,35 @@
     },
     {
       "name": "YF Chau",
-      "github": "yf-chau"
+      "github": "yf-chau",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Harry Turner-Burns",
-      "github": "HarryTB2112"
+      "github": "HarryTB2112",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Joshua Murray",
-      "github": "JoshMurray99"
+      "github": "JoshMurray99",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Lais Moraes",
       "github": "laisjmvet",
-      "material": [
+      "materials": [
         {
           "type": "cv"
         }
@@ -37,75 +52,165 @@
     },
     {
       "name": "Anthony Long Yin Chan",
-      "github": "anthonychan1211"
+      "github": "anthonychan1211",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Abbie Wills",
-      "github": "AbbieWills"
+      "github": "AbbieWills",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Abdul Salim",
-      "github": "Salim1704"
+      "github": "Salim1704",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Guy Vernon",
-      "github": "Gilheim"
+      "github": "Gilheim",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Zeinab Roumieh",
-      "github": "zeinabro"
+      "github": "zeinabro",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Yaasif Mohammed",
-      "github": "Yaasif1"
+      "github": "Yaasif1",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Elliot Clowes",
-      "github": "elliotclowes"
+      "github": "elliotclowes",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Joe Fountain",
-      "github": "JoeyF92"
+      "github": "JoeyF92",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Danise Rosales",
-      "github": "daniserosales"
+      "github": "daniserosales",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Marcell Batta",
-      "github": "ioptyu2"
+      "github": "ioptyu2",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hasancan Cifci",
-      "github": "hasancan99"
+      "github": "hasancan99",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Kieran Scutt",
-      "github": "kieranscutt"
+      "github": "kieranscutt",
+      "materials":[
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sumeetpal Choat",
-      "github": "SumeetChoat"
+      "github": "SumeetChoat",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Mahir Jalil",
-      "github": "mahirjalil"
+      "github": "mahirjalil",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Amal Burhan",
-      "github": "amalburhan"
+      "github": "amalburhan",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]     
     },
     {
       "name": "Daniel Scott",
-      "github": "modernsapien"
+      "github": "modernsapien",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "M. Samin Chowdhury",
-      "github": "samin1001"
+      "github": "samin1001",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sabrina Wright",
-      "github": "Sabrina-L-W"
+      "github": "Sabrina-L-W",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Oliver Thomas",
@@ -113,25 +218,45 @@
     },
     {
       "name": "Hussein Raji",
-      "github": "11HuRaji"
+      "github": "11HuRaji",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dhiviya Sanjayan",
-      "github": "DhiviyaSanjayan"
+      "github": "DhiviyaSanjayan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Jacob Brooks",
-      "github": "JacobBrooks0"
-    },
+      "github": "JacobBrooks0",
+        "materials": [
         {
+          "type": "cv"
+        }
+      ]
+    },
+    {
       "name": "Santhi sree Addanki",
       "github": "santhi26"
     },
-        {
+    {
       "name": "Anastasija Kuznecova",
-      "github": "Nastasia777"
-    },
+      "github": "Nastasia777",
+      "materials": [
         {
+          "type": "cv"
+        }
+      ]
+    },
+    {
       "name": "Roberta Capuano",
       "github": "Bibi0506"
     }
