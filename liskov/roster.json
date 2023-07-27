@@ -268,7 +268,12 @@
     },
     {
       "name": "Roberta Capuano",
-      "github": "Bibi0506"
+      "github": "Bibi0506",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
