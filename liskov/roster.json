@@ -250,7 +250,12 @@
     },
     {
       "name": "Santhi sree Addanki",
-      "github": "santhi26"
+      "github": "santhi26",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anastasija Kuznecova",
