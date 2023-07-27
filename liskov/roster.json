@@ -13,6 +13,11 @@
     {
       "name": "Alex Earle",
       "github": "ajearle11"
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "YF Chau",
