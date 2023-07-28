@@ -157,7 +157,7 @@
     {
       "name": "Kieran Scutt",
       "github": "kieranscutt",
-      "materials":[
+      "materials": [
         {
           "type": "cv"
         }
@@ -220,9 +220,9 @@
     {
       "name": "Oliver Thomas",
       "github": "OliverThomas2001",
-      "materials":[
+      "materials": [
         {
-          "type" : "cv"
+          "type": "cv"
         }
       ]
     },
@@ -247,7 +247,7 @@
     {
       "name": "Jacob Brooks",
       "github": "JacobBrooks0",
-        "materials": [
+      "materials": [
         {
           "type": "cv"
         }
