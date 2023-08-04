@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Alex Earle",
-      "github": "ajearle11"
+      "github": "ajearle11",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "YF Chau",
@@ -156,7 +161,7 @@
     {
       "name": "Kieran Scutt",
       "github": "kieranscutt",
-      "materials":[
+      "materials": [
         {
           "type": "cv"
         }
@@ -218,11 +223,21 @@
     },
     {
       "name": "Oliver Thomas",
-      "github": "OliverThomas2001"
+      "github": "OliverThomas2001",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hussein Raji",
-      "github": "11HuRaji"
+      "github": "11HuRaji",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Dhiviya Sanjayan",
@@ -236,7 +251,7 @@
     {
       "name": "Jacob Brooks",
       "github": "JacobBrooks0",
-        "materials": [
+      "materials": [
         {
           "type": "cv"
         }
@@ -244,7 +259,12 @@
     },
     {
       "name": "Santhi sree Addanki",
-      "github": "santhi26"
+      "github": "santhi26",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Anastasija Kuznecova",
@@ -257,7 +277,12 @@
     },
     {
       "name": "Roberta Capuano",
-      "github": "Bibi0506"
+      "github": "Bibi0506",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
