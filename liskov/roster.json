@@ -123,6 +123,10 @@
       "github": "JoeyF92",
       "materials": [
         {
+        "type": "video",
+        "url": "https://youtu.be/AvPTQ6SEw8Y"
+      }
+        {
           "type": "cv"
         }
       ]
