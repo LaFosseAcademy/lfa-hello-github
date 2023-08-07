@@ -167,8 +167,12 @@
       "github": "hasancan99",
       "materials": [
         {
-          "type": "cv"
-        }
+          "type":"cv"
+        },
+        {
+        "type": "video",
+        "url": "https://youtu.be/7ClE8bxWJyg"
+      }
       ]
     },
     {
