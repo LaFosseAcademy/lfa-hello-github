@@ -52,7 +52,12 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=6r4KPjn0UgA&t=1s&ab_channel=LaFosseAcademy"
         }
+
       ]
     },
     {
