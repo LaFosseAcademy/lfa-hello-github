@@ -230,7 +230,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+        {
+        "type": "video",
+        "url": "https://youtu.be/9fn8_gofhdc"
+      }
       ]
     },
     {
