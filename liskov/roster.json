@@ -37,7 +37,7 @@
         },
         {
           "type": "video",
-          "url": "https://youtu.be/AwKfoLndyfQ"
+          "url": "AwKfoLndyfQ"
         }
       ]
     },
@@ -59,9 +59,8 @@
         },
         {
           "type": "video",
-          "url": "https://www.youtube.com/watch?v=6r4KPjn0UgA&t=1s&ab_channel=LaFosseAcademy"
+          "url": "6r4KPjn0UgA"
         }
-
       ]
     },
     {
@@ -118,7 +117,7 @@
         },
         {
           "type": "video",
-          "url": "https://youtu.be/oLiSJCZkECA"
+          "url": "oLiSJCZkECA"
         }
       ]
     },
@@ -136,11 +135,11 @@
       "github": "JoeyF92",
       "materials": [
         {
-        "type": "video",
-        "url": "https://youtu.be/AvPTQ6SEw8Y"
-      },
-        {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "i2i0w1xFUzE"
         }
       ]
     },
@@ -162,7 +161,7 @@
         },
         {
           "type": "video",
-          "url": "https://www.youtube.com/watch?v=Q3vb5XEF88o"
+          "url": "Q3vb5XEF88o"
         }
       ]
     },
@@ -174,9 +173,9 @@
           "type":"cv"
         },
         {
-        "type": "video",
-        "url": "https://youtu.be/7ClE8bxWJyg"
-      }
+          "type": "video",
+          "url": "7ClE8bxWJyg"
+        }
       ]
     },
     {
@@ -306,11 +305,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
         {
-        "type": "video",
-        "url": "https://youtu.be/LgniXEyXY_c"
-      }
+          "type": "video",
+          "url": "LgniXEyXY_c"
+        }
       ]
     }
   ]
