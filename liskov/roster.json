@@ -95,7 +95,9 @@
       "github": "modernsapien",
       "materials": [
         {
-          "type:":"cv"
+          "type:":"cv",
+          "type": "video",
+        "url": "https://www.youtube.com/watch?v=mlRnchWydQM"
         }
       ]
     },
