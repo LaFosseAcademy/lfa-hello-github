@@ -247,6 +247,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"https://youtu.be/Px-_7e2j2iU"
         }
       ]
     },
