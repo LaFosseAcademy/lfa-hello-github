@@ -72,7 +72,10 @@
       "github": "anthonychan1211",
       "materials": [
         {
-          "type": "cv",
+          "type": "cv"
+        },
+        {
+          "type": "video",
           "url": "q-VJFuKtm-k"
         }
       ]
@@ -232,7 +235,7 @@
       "github": "modernsapien",
       "materials": [
         {
-          "type:":"cv"
+          "type":"cv"
         },
         {
           "type": "video",
