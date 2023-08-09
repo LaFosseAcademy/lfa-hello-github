@@ -120,6 +120,10 @@
       "materials":[
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lc97_d7MApE"
         }
       ]
     },
