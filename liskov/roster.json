@@ -232,7 +232,11 @@
       "github": "modernsapien",
       "materials": [
         {
-          "type":"cv"
+          "type:":"cv"
+        },
+        {
+          "type": "video",
+          "url": "mlRnchWydQM"
         }
       ]
     },
