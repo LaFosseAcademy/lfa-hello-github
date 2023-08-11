@@ -169,6 +169,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "eZvThMyF0TY"
         }
       ]
     },
