@@ -1,26 +1,6 @@
 [
   {
-    "name": "Beth Michelle Schofield",
-    "title": "Senior Engineering Trainer"
-  },
-  {
-    "name": "Claire Cullimore",
-    "title": "Engineering Trainer"
-  },
-  {
     "name": "Romeo Saint-Albin",
-    "title": "Engineering Trainer"
-  },
-  {
-    "name": "Sergi Navarro",
-    "title": "Senior Engineering Trainer"
-  },
-  {
-    "name": "Jagan Devaraj",
-    "title": "Senior Engineering Trainer"
-  },
-  {
-    "name": "Mike Soltysiak",
     "title": "Engineering Trainer"
   },
   {
@@ -36,19 +16,11 @@
     "title": "Engineering Trainer"
   },
   {
-    "name": "Dan Keefe",
-    "title": "Senior Engineering Trainer"
-  },
-  {
     "name": "Sarah Soutoul",
     "title": "Senior Engineering Trainer"
   },
   {
     "name": "Simon Clemson",
     "title": "Engineering Trainer"
-  },
-  {
-    "name": "Tom Crowther",
-    "title": "Senior Engineering Trainer"
   }
 ]
