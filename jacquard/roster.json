@@ -1,0 +1,30 @@
+{
+    "namesake": {
+        "name": "Joseph Marie Jacquard",
+        "imageUrl": "https://avatars.githubusercontent.com/t/8437845?s=116&v=4",
+        "materials": [
+            {
+                "type": "video",
+                "url": ""
+            }
+        ]
+    },
+    "students": [
+        {
+            "name": "Mohammed Nadim Ahmed",
+            "github": "Nadim-001"
+        },
+        {
+            "name": "Andrew Amirthanayagam",
+            "github": "AndrewAmir003"
+        },
+        {
+            "name": "Kabuki Oti",
+            "github": "Kabuki-Oti"
+        },
+        {
+            "name": "Jermaine Jatau",
+            "github": "TwoJays14"
+        }
+    ]
+}
