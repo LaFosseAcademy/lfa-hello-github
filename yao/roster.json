@@ -69,7 +69,12 @@
     },
     {
       "name": "Emre Duzgun",
-      "github": "eduzgun"
+      "github": "eduzgun",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Balram Singh",
