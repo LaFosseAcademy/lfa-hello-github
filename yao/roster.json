@@ -126,7 +126,12 @@
     },
     {
       "name": "Alex Slater",
-      "github": "aslaterm32"
+      "github": "aslaterm32",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sam Mocock",
