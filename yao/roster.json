@@ -68,7 +68,12 @@
     },
     {
       "name": "Barbara Fajardo",
-      "github": "bdf092"
+      "github": "bdf092",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Salina Thapa",
