@@ -59,7 +59,12 @@
     },
     {
       "name": "Valentin Abrutin",
-      "github": "valentin-ab"
+      "github": "valentin-ab",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Barbara Fajardo",
