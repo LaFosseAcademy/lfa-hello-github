@@ -136,7 +136,10 @@
     },
     {
       "name": "Charlie Mitchell",
-      "github": "EndlessEndless1999"
+      "github": "EndlessEndless1999",
+      "materials": {
+        "type": "cv"
+      }
     }
   ]
 }
