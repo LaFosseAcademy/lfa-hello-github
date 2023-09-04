@@ -122,7 +122,12 @@
     },
     {
       "name": "Sam Merrick",
-      "github": "nplsam"
+      "github": "nplsam",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Alex Slater",
