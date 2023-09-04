@@ -71,7 +71,12 @@
     },
     {
       "name": "Ravia Saini",
-      "github": "tryingbiomedeng"
+      "github": "tryingbiomedeng",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Filomena Francisco",
