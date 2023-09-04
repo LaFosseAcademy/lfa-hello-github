@@ -45,7 +45,12 @@
     },
     {
       "name": "Robbie Stamp",
-      "github": "RobbieStam"
+      "github": "RobbieStam",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Valentin Abrutin",
