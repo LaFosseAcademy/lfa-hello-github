@@ -125,7 +125,12 @@
     },
     {
       "name": "Sam Mocock",
-      "github": "SamM71"
+      "github": "SamM71",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Lanxe Yu",
