@@ -36,7 +36,12 @@
     },
     {
       "name": "Camille Francis",
-      "github": "Cams-Plan"
+      "github": "Cams-Plan",
+      "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
       "name": "Robbie Stamp",
