@@ -139,7 +139,12 @@
     },
     {
       "name": "Lanxe Yu",
-      "github": "lanxeyu"
+      "github": "lanxeyu",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ranti Adeniyi",
