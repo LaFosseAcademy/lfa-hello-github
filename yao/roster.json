@@ -20,7 +20,12 @@
     },
     {
       "name": "Ollie Byrne",
-      "github": "ollie-byrne99"
+      "github": "ollie-byrne99",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "James Ly",
