@@ -60,7 +60,12 @@
     },
     {
       "name": "Filomena Francisco",
-      "github": "fillygee"
+      "github": "fillygee",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Emre Duzgun",
