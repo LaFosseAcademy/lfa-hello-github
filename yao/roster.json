@@ -108,7 +108,10 @@
     },
     {
       "name": "Balram Singh",
-      "github": "bobzila1202"
+      "github": "bobzila1202",
+      "materials": [{
+        "type": "cv"
+    }]
     },
     {
       "name": "Nathan Smith",
