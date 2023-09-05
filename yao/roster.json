@@ -77,7 +77,12 @@
     },
     {
       "name": "Salina Thapa",
-      "github": "salinathapa"
+      "github": "salinathapa",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ravia Saini",
