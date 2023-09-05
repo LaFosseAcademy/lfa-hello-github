@@ -12,7 +12,16 @@
   "students": [
     {
       "name": "Alex Earle",
-      "github": "ajearle11"
+      "github": "ajearle11",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "N7kVo39EvZg"
+        }
+      ]
     },
     {
       "name": "YF Chau",
@@ -20,6 +29,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "4ZkEGHLBN30"
         }
       ]
     },
@@ -29,6 +42,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "AwKfoLndyfQ"
         }
       ]
     },
@@ -38,6 +55,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "M4j5-MaCPlo"
         }
       ]
     },
@@ -47,6 +68,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "6r4KPjn0UgA"
         }
       ]
     },
@@ -56,6 +81,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "q-VJFuKtm-k"
         }
       ]
     },
@@ -65,6 +94,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "DOuJxCLIyzg"
         }
       ]
     },
@@ -74,6 +107,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+         {
+          "type": "video",
+          "url": "cldQJD_7IIg"
         }
       ]
     },
@@ -83,6 +120,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "U59xind-o_0"
         }
       ]
     },
@@ -92,6 +133,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "CF9ycghPIZ8"
         }
       ]
     },
@@ -101,6 +146,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "oLiSJCZkECA"
         }
       ]
     },
@@ -110,6 +159,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "S0LFdyNedy8"
         }
       ]
     },
@@ -119,6 +172,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "i2i0w1xFUzE"
         }
       ]
     },
@@ -128,6 +185,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "eZvThMyF0TY"
         }
       ]
     },
@@ -137,6 +198,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Q3vb5XEF88o"
         }
       ]
     },
@@ -145,16 +210,24 @@
       "github": "hasancan99",
       "materials": [
         {
-          "type": "cv"
+          "type":"cv"
+        },
+        {
+          "type": "video",
+          "url": "7ClE8bxWJyg"
         }
       ]
     },
     {
       "name": "Kieran Scutt",
       "github": "kieranscutt",
-      "materials":[
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "lc97_d7MApE"
         }
       ]
     },
@@ -164,6 +237,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "xEPtpwfISiM"
         }
       ]
     },
@@ -173,6 +250,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "1J67Kac8lKA"
         }
       ]
     },
@@ -182,6 +263,10 @@
       "materials": [
         {
           "type":"cv"
+        },
+        {
+          "type": "video",
+          "url": "fC1mrEjUBqA"
         }
       ]     
     },
@@ -191,6 +276,10 @@
       "materials": [
         {
           "type":"cv"
+        },
+        {
+          "type": "video",
+          "url": "mlRnchWydQM"
         }
       ]
     },
@@ -200,6 +289,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "9fn8_gofhdc"
         }
       ]
     },
@@ -209,12 +302,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "pl7gW6LhUDg"
         }
       ]
     },
     {
       "name": "Oliver Thomas",
-      "github": "OliverThomas2001"
+      "github": "OliverThomas2001",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"Px-_7e2j2iU"
+        }
+      ]
     },
     {
       "name": "Hussein Raji",
@@ -231,21 +337,38 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ghs0vZWLIoU"
         }
       ]
     },
     {
       "name": "Jacob Brooks",
       "github": "JacobBrooks0",
-        "materials": [
+      "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "KFuYX6CrcBI"
         }
       ]
     },
     {
       "name": "Santhi sree Addanki",
-      "github": "santhi26"
+      "github": "santhi26",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "KFuYX6CrcBI"
+        }
+      ]
     },
     {
       "name": "Anastasija Kuznecova",
@@ -253,12 +376,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "pcFMN1ieBMU"
         }
       ]
     },
     {
       "name": "Roberta Capuano",
-      "github": "Bibi0506"
+      "github": "Bibi0506",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "LgniXEyXY_c"
+        }
+      ]
     }
   ]
 }
