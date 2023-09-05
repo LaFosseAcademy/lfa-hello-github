@@ -189,7 +189,12 @@
     },
     {
       "name": "Nicolas Sanschagrin",
-      "github": "nicibob7"
+      "github": "nicibob7",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
