@@ -132,7 +132,12 @@
     },
     {
       "name": "Kristian Spiropali",
-      "github": "Kspiropali"
+      "github": "Kspiropali",
+      "materials": [
+	    {
+		"type":"cv"	
+      	    }
+      ]
     },
     {
       "name": "Duncan Caplan",
