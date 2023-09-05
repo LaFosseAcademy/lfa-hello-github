@@ -116,7 +116,11 @@
     },
     {
       "name": "Hasan Shahid",
-      "github": "hasanshahid99"
+      "github": "hasanshahid99",
+      "materials": [{
+        "type": "cv"
+    }]
+      
     },
     {
       "name": "Kristian Spiropali",
