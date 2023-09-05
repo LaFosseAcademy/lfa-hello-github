@@ -34,7 +34,12 @@
     },
     {
       "name": "James Ly",
-      "github": "RemnantEcho"
+      "github": "RemnantEcho",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sam McGinnes",
