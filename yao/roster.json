@@ -38,7 +38,12 @@
     },
     {
       "name": "Sam McGinnes",
-      "github": "emptybagelman"
+      "github": "emptybagelman",
+      "materials": [
+	{
+	  "type":"cv"
+	}
+    ]
     },
     {
       "name": "Rubina Kumari",
