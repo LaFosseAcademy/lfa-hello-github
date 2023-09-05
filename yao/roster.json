@@ -12,7 +12,12 @@
   "students": [
     {
       "name": "Franki Callard",
-      "github": "francescalily"
+      "github": "francescalily",
+      "materials": [
+        {
+        "type": "cv"
+        }
+      ]
     },
     {
       "name": "Chelsea Mogwo",
