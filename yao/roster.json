@@ -156,7 +156,12 @@
     },
     {
       "name": "Duncan Caplan",
-      "github": "DuncanCaplan"
+      "github": "DuncanCaplan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Stephanie Fung",
