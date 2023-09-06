@@ -135,7 +135,10 @@
     },
     {
       "name": "Nathan Smith",
-      "github": "SmithNJ13"
+      "github": "SmithNJ13",
+      "materials": [{
+        "type": "cv"
+        }]
     },
     {
       "name": "Hasan Shahid",
