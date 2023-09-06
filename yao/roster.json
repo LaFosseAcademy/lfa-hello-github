@@ -205,7 +205,12 @@
     },
     {
       "name": "Ranti Adeniyi",
-      "github": "rantirules"
+      "github": "rantirules",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Marcus Mirecki",
