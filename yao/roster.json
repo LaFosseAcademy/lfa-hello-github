@@ -135,7 +135,10 @@
     },
     {
       "name": "Nathan Smith",
-      "github": "SmithNJ13"
+      "github": "SmithNJ13",
+      "materials": [{
+        "type": "cv"
+        }]
     },
     {
       "name": "Hasan Shahid",
@@ -156,7 +159,12 @@
     },
     {
       "name": "Duncan Caplan",
-      "github": "DuncanCaplan"
+      "github": "DuncanCaplan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Stephanie Fung",
