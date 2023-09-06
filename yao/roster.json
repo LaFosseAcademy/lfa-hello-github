@@ -21,7 +21,12 @@
     },
     {
       "name": "Chelsea Mogwo",
-      "github": "chelsea-mogwo"
+      "github": "chelsea-mogwo",
+      "materials": [
+        {
+        "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ollie Byrne",
