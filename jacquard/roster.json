@@ -1,0 +1,106 @@
+{
+    "namesake": {
+        "name": "Joseph Marie Jacquard",
+        "imageUrl": "https://avatars.githubusercontent.com/t/8437845?s=116&v=4",
+        "materials": [
+            {
+                "type": "video",
+                "url": ""
+            }
+        ]
+    },
+    "students": [
+        {
+            "name": "Mohammed Nadim Ahmed",
+            "github": "Nadim-001"
+        },
+        {
+            "name": "Andrew Amirthanayagam",
+            "github": "AndrewAmir003"
+        },
+        {
+            "name": "Kabuki Oti",
+            "github": "Kabuki-Oti"
+        },
+        {
+            "name": "Jabir Ali",
+            "github": "jabz80"
+        },
+        {
+            "name": "Jermaine Jatau",
+            "github": "TwoJays14"
+        },
+        {
+            "name": "Adil Wadud",
+            "github": "Didz-1"
+        },
+        {
+            "name": "Kieran Whitfield",
+            "github": "KWhitfieldHull"
+        },
+        {
+            "name": "Mirnal Thapa",
+            "github": "mgr-mirnal"
+        },
+        {
+            "name": "Vadim Zotov",
+            "github": "milanych"
+        },
+        {
+            "name": "Tayeeb Islam",
+            "githb": "Tayeeb27"
+        },
+        {
+            "name": "Max Lehain",
+            "github": "MaxwellLeh"
+        },
+        {
+            "name": "Ildiko Magda",
+            "github": "IldikoMagda"
+        },
+        {
+            "name": "Pradeep Bali",
+            "github": "Pau1ieB"
+        },
+        {
+            "name": "Ollie Balabil",
+            "github": "olliebalabil"
+        },
+        {
+            "name": "Constantinos Stylianou",
+            "github": "cstylianou98"
+        },
+        {
+            "name": "Muhammad Mahmudul Hasan",
+            "github": "MuhammadMHasan"
+        },
+        {
+            "name": "Anoop Singh Bhandal",
+            "github": "AnoopBhandal"
+        },
+        {
+            "name": "Ishaaq Baig",
+            "github": "ishaaq08"
+        },
+        {
+            "name": "James Threadgill",
+            "github": "JamesThreadgill97"
+        },
+        {
+            "name": "Abdulrahman Teklies",
+            "github": "AbdulrahmanTe"
+        },
+        {
+            "name": "David Evans",
+            "github": "EvansD13"
+        },
+        {
+            "name": "Connor Hayes",
+            "github": "Conmhayes"
+        },
+        {
+            "name": "Khaifa Bamikole",
+            "github": "cal1pa"
+        }
+    ]
+}

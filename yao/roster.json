@@ -12,99 +12,234 @@
   "students": [
     {
       "name": "Franki Callard",
-      "github": "francescalily"
+      "github": "francescalily",
+      "materials": [
+        {
+        "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Chelsea Mogwo",
+      "github": "chelsea-mogwo"
     },
     {
       "name": "Ollie Byrne",
-      "github": "ollie-byrne99"
+      "github": "ollie-byrne99",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "James Ly",
-      "github": "RemnantEcho"
+      "github": "RemnantEcho",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Sam McGinnes",
-      "github": "emptybagelman"
+      "github": "emptybagelman",
+      "materials": [
+	{
+	  "type":"cv"
+	}
+    ]
     },
     {
       "name": "Rubina Kumari",
       "github": "rkumari2"
     },
     {
-      "name": "Ralph Cox",
-      "github": "essexgit"
-    },
-    {
       "name": "Camille Francis",
-      "github": "Cams-Plan"
+      "github": "Cams-Plan",
+      "materials": [
+      {
+        "type": "cv"
+      }
+    ]
     },
     {
       "name": "Robbie Stamp",
-      "github": "RobbieStam"
+      "github": "RobbieStam",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Valentin Abrutin",
-      "github": "valentin-ab"
+      "github": "valentin-ab",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Barbara Fajardo",
-      "github": "bdf092"
+      "github": "bdf092",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Salina Thapa",
-      "github": "salinathapa"
+      "github": "salinathapa",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ravia Saini",
-      "github": "tryingbiomedeng"
-    },
-    {
-      "name": "Krista Daniel",
-      "github": "Krista-9"
-    },
-    {
-      "name": "Ndianaobong Samuel",
-      "github": "ndianaobong"
+      "github": "tryingbiomedeng",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Filomena Francisco",
-      "github": "fillygee"
+      "github": "fillygee",
+      "materials": [
+        {
+          "type":"cv"
+        }
+      ]
     },
     {
       "name": "Emre Duzgun",
-      "github": "eduzgun"
-    },
-    {
-      "name": "Nicolas Sanschagrin",
-      "github": "nicibob7"
+      "github": "eduzgun",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Balram Singh",
-      "github": "bobzila1202"
+      "github": "bobzila1202",
+      "materials": [{
+        "type": "cv"
+    }]
     },
     {
       "name": "Nathan Smith",
-      "github": "SmithNJ13"
+      "github": "SmithNJ13",
+      "materials": [{
+        "type": "cv"
+        }]
     },
     {
       "name": "Hasan Shahid",
-      "github": "hasanshahid99"
-    },
-    {
-      "name": "Gyle Hendrix Pasicolan",
-      "github": "GHMint"
+      "github": "hasanshahid99",
+      "materials": [{
+        "type": "cv"
+    }]
+      
     },
     {
       "name": "Kristian Spiropali",
-      "github": "Kspiropali"
-    },
-    {
-      "name": "Yosief Ghebrengus",
-      "github": "Yosief-azmarino"
+      "github": "Kspiropali",
+      "materials": [
+	    {
+		"type":"cv"	
+      	    }
+      ]
     },
     {
       "name": "Duncan Caplan",
-      "github": "DuncanCaplan"
+      "github": "DuncanCaplan",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Stephanie Fung",
+      "github": "stephf2",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Sam Merrick",
+      "github": "nplsam",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Alex Slater",
+      "github": "aslaterm32",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Sam Mocock",
+      "github": "SamM71",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Lanxe Yu",
+      "github": "lanxeyu",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Ranti Adeniyi",
+      "github": "rantirules",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+    },
+    {
+      "name": "Marcus Mirecki",
+      "github": "marcus-am"
+    },
+    {
+      "name": "Charlie Mitchell",
+
+      "github": "EndlessEndless1999",
+      "materials": [{
+        "type": "cv"
+      }]
+    },
+    {
+      "name": "Nicolas Sanschagrin",
+      "github": "nicibob7",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     }
   ]
 }
