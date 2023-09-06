@@ -42,9 +42,16 @@
             "name": "Mirnal Thapa",
             "github": "mgr-mirnal"
         },
+            "name": "Vadim Zotov",
+            "github": "milanych"
+        },
+        {
+            "name": "Tayeeb Islam",
+            "githb": "Tayeeb27"
+        },
         {
             "name": "Max Lehain",
             "github": "MaxwellLeh"
-        },
+        }
     ]
 }
