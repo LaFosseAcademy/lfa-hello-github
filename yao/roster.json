@@ -52,7 +52,10 @@
     },
     {
       "name": "Rubina Kumari",
-      "github": "rkumari2"
+      "github": "rkumari2", 
+	    "materials": [
+		{"type": "cv"}
+	]
     },
     {
       "name": "Camille Francis",
