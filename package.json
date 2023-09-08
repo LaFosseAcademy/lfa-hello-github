@@ -1,15 +1,15 @@
 {
-  "name": "fp_study_notes_hello_github",
+  "name": "lfa_hello_github",
   "version": "1.0.0",
   "description": "[git CLI cheatsheet](https://github.com/getfutureproof/fp_guides_wiki/wiki/git-CLI-Cheatsheet)",
   "keywords": [],
-  "homepage": "https://github.com/getfutureproof/fp_study_notes_hello_github#readme",
+  "homepage": "https://github.com/LaFosseAcademy/lfa-hello-github#readme",
   "bugs": {
-    "url": "https://github.com/getfutureproof/fp_study_notes_hello_github/issues"
+    "url": "https://github.com/LaFosseAcademy/lfa-hello-github/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getfutureproof/fp_study_notes_hello_github.git"
+    "url": "git+https://github.com/LaFosseAcademy/lfa-hello-github.git"
   },
   "license": "ISC",
   "author": "",
