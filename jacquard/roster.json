@@ -10,10 +10,6 @@
         ]
     },
     "students": [
-          {
-            "name" :"Hanieh Zaab",
-            "github":"Hanieh73"
-        },
         {
             "name": "Mohammed Nadim Ahmed",
             "github": "Nadim-001"
@@ -146,8 +142,10 @@
         {
             "name": "Olga Khristoliubova",
             "github": "OlgaKhristo"
+        },
+        {
+            "name" :"Hanieh Zaab",
+            "github":"Hanieh73"
         }
-
-      
     ]
 }
