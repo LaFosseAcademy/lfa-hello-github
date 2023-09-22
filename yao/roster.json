@@ -47,7 +47,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+	{
+	  "type":"video",
+	  "url":"U2YzwWVTx08"
+	}
       ]
     },
     {
