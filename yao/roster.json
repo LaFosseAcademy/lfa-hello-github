@@ -25,6 +25,10 @@
       "materials": [
         {
         "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "FKzSa8V6vtI"
         }
       ]
     },
@@ -47,7 +51,11 @@
       "materials": [
         {
           "type": "cv"
-        }
+        },
+	{
+	  "type":"video",
+	  "url":"U2YzwWVTx08"
+	}
       ]
     },
     {
@@ -62,9 +70,15 @@
     {
       "name": "Rubina Kumari",
       "github": "rkumari2", 
-	    "materials": [
-		{"type": "cv"}
-	]
+      "materials": [
+	{
+	   "type": "cv"
+	}, 
+	{
+	   "type": "video",
+	   "url": "np_uV___YCY"
+	}
+    ]
     },
     {
       "name": "Camille Francis",
@@ -81,6 +95,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "sw9hwzF1P1o"
         }
       ]
     },
@@ -126,7 +144,11 @@
       "materials": [
         {
           "type":"cv"
-        }
+        }, 
+	{
+	 "type": "video",
+	 "url": "7Bnn1K3FHUE"
+	}
       ]
     },
     {
@@ -135,6 +157,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "MbintHCyBJo"
         }
       ]
     },
@@ -211,6 +237,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "I2p1TGh1bso"
         }
       ]
     },
