@@ -1,0 +1,27 @@
+{
+    "namesake": {
+        "name": "La Fosse Academy Presents",
+        "imageUrl": "",
+        "materials": [
+            {
+                "type": "video",
+                "url": ""
+            }
+        ]
+    },
+    "students": [
+        {
+          "name": "Harry Turner-Burns",
+          "github": "HarryTB2112",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "AwKfoLndyfQ"
+            }
+          ]
+        }
+    ]
+}
