@@ -254,7 +254,12 @@
       "github": "EndlessEndless1999",
       "materials": [{
         "type": "cv"
-      }]
+      },
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=6Ack9kf1JAE"
+      }
+    ]
     },
     {
       "name": "Nicolas Sanschagrin",
