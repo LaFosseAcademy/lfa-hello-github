@@ -62,9 +62,15 @@
     {
       "name": "Rubina Kumari",
       "github": "rkumari2", 
-	    "materials": [
-		{"type": "cv"}
-	]
+      "materials": [
+	{
+	   "type": "cv"
+	}, 
+	{
+	   "type": "video",
+	   "url": "np_uV___YCY"
+	}
+    ]
     },
     {
       "name": "Camille Francis",
