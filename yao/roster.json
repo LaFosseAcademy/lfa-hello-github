@@ -164,8 +164,12 @@
       "name": "Hasan Shahid",
       "github": "hasanshahid99",
       "materials": [{
-        "type": "cv",
+        "type": "cv"
+      },
+      {
+        "type":"video",
         "url": "_60_P295BCM"
+      }
     }]
       
     },
