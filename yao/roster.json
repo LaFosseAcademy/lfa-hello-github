@@ -15,7 +15,7 @@
       "github": "francescalily",
       "materials": [
         {
-        "type": "cv"
+          "type": "cv"
         }
       ]
     },
@@ -24,7 +24,7 @@
       "github": "chelsea-mogwo",
       "materials": [
         {
-        "type": "cv"
+          "type": "cv"
         },
         {
           "type": "video",
@@ -52,42 +52,42 @@
         {
           "type": "cv"
         },
-	{
-	  "type":"video",
-	  "url":"U2YzwWVTx08"
-	}
+        {
+          "type": "video",
+          "url": "U2YzwWVTx08"
+        }
       ]
     },
     {
       "name": "Sam McGinnes",
       "github": "emptybagelman",
       "materials": [
-	{
-	  "type":"cv"
-	}
-    ]
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Rubina Kumari",
-      "github": "rkumari2", 
+      "github": "rkumari2",
       "materials": [
-	{
-	   "type": "cv"
-	}, 
-	{
-	   "type": "video",
-	   "url": "np_uV___YCY"
-	}
-    ]
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "np_uV___YCY"
+        }
+      ]
     },
     {
       "name": "Camille Francis",
       "github": "Cams-Plan",
       "materials": [
-      {
-        "type": "cv"
-      }
-    ]
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Robbie Stamp",
@@ -143,12 +143,12 @@
       "github": "fillygee",
       "materials": [
         {
-          "type":"cv"
-        }, 
-	{
-	 "type": "video",
-	 "url": "7Bnn1K3FHUE"
-	}
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "7Bnn1K3FHUE"
+        }
       ]
     },
     {
@@ -167,37 +167,41 @@
     {
       "name": "Balram Singh",
       "github": "bobzila1202",
-      "materials": [{
-        "type": "cv"
-    }]
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Nathan Smith",
       "github": "SmithNJ13",
-      "materials": [{
-        "type": "cv"
-        }]
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Hasan Shahid",
       "github": "hasanshahid99",
-      "materials": [{
-        "type": "cv"
-      },
-      {
-        "type":"video",
-        "url": "_60_P295BCM"
-      }
-    }]
-      
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "_60_P295BCM"
+        }
+      ]
     },
     {
       "name": "Kristian Spiropali",
       "github": "Kspiropali",
       "materials": [
-	    {
-		"type":"cv"	
-      	    }
+        {
+          "type": "cv"
+        }
       ]
     },
     {
@@ -281,16 +285,16 @@
     },
     {
       "name": "Charlie Mitchell",
-
       "github": "EndlessEndless1999",
-      "materials": [{
-        "type": "cv"
-      },
-      {
-        "type": "video",
-        "url": "6Ack9kf1JAE"
-      }
-    ]
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "6Ack9kf1JAE"
+        }
+      ]
     },
     {
       "name": "Nicolas Sanschagrin",
