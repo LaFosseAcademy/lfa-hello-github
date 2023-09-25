@@ -189,6 +189,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=vJ5RW_wSUYY"
         }
       ]
     }
