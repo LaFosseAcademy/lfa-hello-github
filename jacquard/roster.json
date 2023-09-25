@@ -14,13 +14,10 @@
             "name": "Mohammed Nadim Ahmed",
             "github": "Nadim-001"
         },
+        
         {
             "name": "Andrew Amirthanayagam",
             "github": "AndrewAmir003"
-        },
-        {
-            "name": "Kabuki Oti",
-            "github": "Kabuki-Oti"
         },
         {
             "name": "Jabir Ali",
@@ -51,16 +48,8 @@
             "githb": "Tayeeb27"
         },
         {
-            "name": "Max Lehain",
-            "github": "MaxwellLeh"
-        },
-  	    {
             "name": "Ildiko Magda",
             "github": "IldikoMagda"
-        },
-        {
-            "name": "Pradeep Bali",
-            "github": "Pau1ieB"
         },
         {
             "name": "Ollie Balabil",
@@ -69,6 +58,82 @@
         {
             "name": "Constantinos Stylianou",
             "github": "cstylianou98"
+        },
+        {
+            "name": "Anoop Singh Bhandal",
+            "github": "AnoopBhandal"
+        },
+        {
+            "name": "Ishaaq Baig",
+            "github": "ishaaq08"
+        },
+        {
+            "name": "James Threadgill",
+            "github": "JamesThreadgill97"
+        },
+        {
+            "name": "Abdulrahman Teklies",
+            "github": "AbdulrahmanTe"
+        },
+        {
+            "name": "David Evans",
+            "github": "EvansD13"
+        },
+        {
+            "name": "Connor Hayes",
+            "github": "Conmhayes"
+        },
+        {
+            "name": "Khalifa Bamikole",
+            "github": "cal1pa"
+        },
+        {
+            "name": "Stephen Murray",
+            "github": "stephenmurray3"
+        },
+        {
+            "name": "Justin Graham",
+            "githb": "JustaGlitch"
+        },
+        {
+            "name": "Karina Ahrens",
+            "github": "Karinahrens"
+        },
+        {
+            "name": "Bee van Zyl",
+            "github": "BeeVanZyl"
+        },
+        {
+            "name": "Sidique Abdullah",
+            "github": "swthes"
+        },
+        {
+            "name": "Bruno Radoja",
+            "github": "Yare2911"
+        },
+        {
+            "name": "Pablo Romero",
+            "github": "pablo-romeroclavijo"
+        },
+        {
+            "name": "Aarti Joshi",
+            "github": "aarti-joshi"
+        },
+        {
+            "name": "Michelle Valderama",
+            "github": "MitchyVee"
+        },
+        {
+            "name": "Olga Khristoliubova",
+            "github": "OlgaKhristo"
+        },
+        {
+            "name": "Hanieh Zaab",
+            "github": "Hanieh73"
+        },
+        {
+            "name": "Abi Udayakumar",
+            "github": "AbiUser"
         }
     ]
 }

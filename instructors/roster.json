@@ -1,7 +1,7 @@
 [
   {
     "name": "Romeo S",
-    "title": "Engineering Trainer"
+    "title": "Senior Engineering Trainer"
   },
   {
     "name": "Emile S",
@@ -21,6 +21,10 @@
   },
   {
     "name": "Tom B",
+    "title": "Senior Engineering Trainer"
+  },
+  {
+    "name": "Astha S",
     "title": "Senior Engineering Trainer"
   }
 ]
