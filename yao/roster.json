@@ -182,6 +182,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ViUS11KgTXg"
         }
       ]
     },
