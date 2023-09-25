@@ -293,7 +293,12 @@
     },
     {
       "name": "Marcus Mirecki",
-      "github": "marcus-am"
+      "github": "marcus-am",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Charlie Mitchell",
