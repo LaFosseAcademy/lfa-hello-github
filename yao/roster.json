@@ -58,7 +58,6 @@
         },
         {
           "type": "video",
-          "url": "U2YzwWVTx08"
         }
       ]
     },
@@ -67,7 +66,8 @@
       "github": "emptybagelman",
       "materials": [
         {
-          "type": "cv"
+          "type": "cv",
+          "url": "U2YzwWVTx08"
         }
       ]
     },
