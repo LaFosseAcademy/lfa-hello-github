@@ -64,7 +64,7 @@ upstream	https://github.com/LaFosseAcademy/lfa-hello-github.git (push)
 
 ### 7. Make your first PR
 
-- You made your own fork of this, in the web browser go to your repo `https://github.com/<your-github-username>/lfa-hello-github` to see if you can make a Pull Request back to `LaFosseAcademy/lfa-hello-github`. Try and request review from @rom-30. We will merge your PR when we receive it!
+- You made your own fork of this, in the web browser go to your repo `https://github.com/<your-github-username>/lfa-hello-github` to see if you can make a Pull Request back to `LaFosseAcademy/lfa-hello-github`. Try and request review from @rom-30 or @moniafavaro. We will merge your PR when we receive it!
 
 
 ---
