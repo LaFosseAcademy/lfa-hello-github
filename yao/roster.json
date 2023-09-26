@@ -66,8 +66,11 @@
       "github": "emptybagelman",
       "materials": [
         {
-          "type": "cv",
-          "url": "U2YzwWVTx08"
+          "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"U2YzwWVTx08"
         }
       ]
     },
