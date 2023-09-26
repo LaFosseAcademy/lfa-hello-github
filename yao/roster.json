@@ -55,9 +55,6 @@
       "materials": [
         {
           "type": "cv"
-        },
-        {
-          "type": "video",
         }
       ]
     },
