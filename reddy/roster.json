@@ -1,22 +1,26 @@
 {
-  "namesake": {
-      "name": "Raj Reddy",
-      "imageUrl": "https://avatars.githubusercontent.com/t/8663895?s=116&v=4",
-      "materials": [
-          {
-              "type": "video",
-              "url": ""
-          }
-      ]
-  },
-  "students": [
-    {
-        "name": "Alex Botha",
-        "github": "alexbotha"
+    "namesake": {
+        "name": "Raj Reddy",
+        "imageUrl": "https://avatars.githubusercontent.com/t/8663895?s=116&v=4",
+        "materials": [
+            {
+                "type": "video",
+                "url": ""
+            }
+        ]
     },
-    {
-        "name": "David Fraser",
-        "github": "DavidFra5er"
-    }
-  ]
+    "students": [
+        {
+            "name": "Alex Botha",
+            "github": "alexbotha"
+        },
+        {
+            "name": "David Fraser",
+            "github": "DavidFra5er"
+        },
+        {
+            "name": "Yosief Ghebrengus",
+            "github": "Yosief-azmarino"
+        }
+    ]
 }
