@@ -1,62 +1,62 @@
 {
   "namesake": {
-      "name": "Raj Reddy",
-      "imageUrl": "https://avatars.githubusercontent.com/t/8663895?s=116&v=4",
-      "materials": [
-          {
-              "type": "video",
-              "url": ""
-          }
-      ]
+    "name": "Raj Reddy",
+    "imageUrl": "https://avatars.githubusercontent.com/t/8663895?s=116&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
   },
   "students": [
     {
-        "name": "Alex Botha",
-        "github": "alexbotha"
+      "name": "Alex Botha",
+      "github": "alexbotha"
     },
     {
-        "name": "David Fraser",
-        "github": "DavidFra5er"
+      "name": "David Fraser",
+      "github": "DavidFra5er"
     },
     {
-        "name":"Khider Tariq",
-        "github": "khidertar"
+      "name": "Khider Tariq",
+      "github": "khidertar"
     },
     {
-        "name": "Joanna Chojnowska",
-        "github": "asiek728"
+      "name": "Joanna Chojnowska",
+      "github": "asiek728"
     },
     {
-        "name": "Ashraf Said",
-        "github": "nine96as"
+      "name": "Ashraf Said",
+      "github": "nine96as"
     },
     {
-        "name": "Joel Gooday",
-        "github": "jgooday48"
+      "name": "Joel Gooday",
+      "github": "jgooday48"
     },
     {
-        "name": "Emma Collins-Opon",
-        "github": "ECO786786"
+      "name": "Emma Collins-Opon",
+      "github": "ECO786786"
     },
     {
-        "name": "Billy Scott Price",
-        "github": "Bill2703"
+      "name": "Billy Scott Price",
+      "github": "Bill2703"
     },
     {
-        "name": "Sara Madeira",
-        "github": "smadeira22"
+      "name": "Sara Madeira",
+      "github": "smadeira22"
     },
     {
-        "name": "Erica Inamura",
-        "github": "EricaIna"
+      "name": "Erica Inamura",
+      "github": "EricaIna"
     },
     {
-        "name": "Tahha Butt",
-        "github": "tahha00"
+      "name": "Tahha Butt",
+      "github": "tahha00"
     },
     {
-        "name": "Abid Miah",
-        "github": "Abid-M"
+      "name": "Abid Miah",
+      "github": "Abid-M"
     }
   ]
 }
