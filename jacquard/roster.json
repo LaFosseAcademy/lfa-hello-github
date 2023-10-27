@@ -45,7 +45,12 @@
         },
         {
             "name": "Tayeeb Islam",
-            "githb": "Tayeeb27"
+            "github": "Tayeeb27",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Ildiko Magda",
