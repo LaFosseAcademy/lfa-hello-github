@@ -66,7 +66,6 @@
       "name": "Alex Warden",
       "github": "AlexWarden2"
     },
-
     {
       "name":"Parjal Rai", 
       "github": "pockche123"
@@ -102,6 +101,10 @@
     { 
       "name": "Joseph Barnett",
       "github": "Joseph-Barnett"
-    } 
+    },
+    {
+      "name": "Yosief Ghebrengus",
+      "github": "Yosief-azmarino"
+    }
   ]
 }
