@@ -14,7 +14,6 @@
             "name": "Mohammed Nadim Ahmed",
             "github": "Nadim-001"
         },
-        
         {
             "name": "Andrew Amirthanayagam",
             "github": "AndrewAmir003"
@@ -33,7 +32,12 @@
         },
         {
             "name": "Kieran Whitfield",
-            "github": "KWhitfieldHull"
+            "github": "KWhitfieldHull",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Mirnal Thapa",
