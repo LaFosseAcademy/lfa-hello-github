@@ -1,26 +1,110 @@
 {
-    "namesake": {
-        "name": "Raj Reddy",
-        "imageUrl": "https://avatars.githubusercontent.com/t/8663895?s=116&v=4",
-        "materials": [
-            {
-                "type": "video",
-                "url": ""
-            }
-        ]
-    },
-    "students": [
-        {
-            "name": "Alex Botha",
-            "github": "alexbotha"
-        },
-        {
-            "name": "David Fraser",
-            "github": "DavidFra5er"
-        },
-        {
-            "name": "Yosief Ghebrengus",
-            "github": "Yosief-azmarino"
-        }
+  "namesake": {
+    "name": "Raj Reddy",
+    "imageUrl": "https://avatars.githubusercontent.com/t/8663895?s=116&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
     ]
+  },
+  "students": [
+    {
+      "name": "David Fraser",
+      "github": "DavidFra5er"
+    },
+    {
+      "name": "Khider Tariq",
+      "github": "khidertar"
+    },
+    {
+      "name": "Joanna Chojnowska",
+      "github": "asiek728"
+    },
+    {
+      "name": "Ashraf Said",
+      "github": "nine96as"
+    },
+    {
+      "name": "Joel Gooday",
+      "github": "jgooday48"
+    },
+    {
+      "name": "Emma Collins-Opon",
+      "github": "ECO786786"
+    },
+    {
+      "name": "Billy Scott Price",
+      "github": "Bill2703"
+    },
+    {
+      "name": "Sara Madeira",
+      "github": "smadeira22"
+    },
+    {
+      "name": "Erica Inamura",
+      "github": "EricaIna"
+    },
+    {
+      "name": "Tahha Butt",
+      "github": "tahha00"
+    },
+    {
+      "name": "Abid Miah",
+      "github": "Abid-M"
+    },
+    {
+      "name": "Jarvis Ditcher",
+      "github": "J-arv1s"
+    },
+    {
+      "name": "Booshrat E Sharmin",
+      "github": "Booshrat"
+    },
+    {
+      "name": "Alex Warden",
+      "github": "AlexWarden2"
+    },
+    {
+      "name":"Parjal Rai", 
+      "github": "pockche123"
+    },
+    {
+      "name": "Esham Younas",
+      "github": "Esham156"
+    },
+    {
+      "name": "Gajani Yoganandan",
+      "github": "gajani-yoga"
+    },
+    {
+      "name":"Tatiana Alchikova", 
+      "github": "TatyanaA"
+    },
+    {
+      "name": "Hassan Tanveer",
+      "github": "Hasssan-Tanveer"
+    },
+    {
+      "name":"Samanta Grimalyte", 
+      "github": "Sam"
+    },
+    {
+      "name": "Sherine Bollarapu",
+      "github": "SherineB0"
+    },
+    {
+      "name": "Stephan Clarke",
+      "github": "S-njc"
+    },
+    { 
+      "name": "Joseph Barnett",
+      "github": "Joseph-Barnett"
+    },
+    {
+      "name": "Yosief Ghebrengus",
+      "github": "Yosief-azmarino"
+    }
+  ]
 }
