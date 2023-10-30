@@ -16,11 +16,16 @@
         },
         {
             "name": "Andrew Amirthanayagam",
-            "github": "AndrewAmir003"
+            "github": "AndrewAmir003",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
-            "name": "Kabuki Oti",
-            "github": "Kabuki-Oti"
+            "name": "Jabir Ali",
+            "github": "jabz80"
         },
         {
             "name": "Jermaine Jatau",
@@ -30,6 +35,156 @@
                     "type": "cv"    
                 }
             ]
+        },
+        {
+            "name": "Adil Wadud",
+            "github": "Didz-1",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Kieran Whitfield",
+            "github": "KWhitfieldHull",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Mirnal Thapa",
+            "github": "mgr-mirnal"
+        },
+        {
+            "name": "Vadim Zotov",
+            "github": "milanych",
+            "materials": [
+                {
+                "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Tayeeb Islam",
+            "github": "Tayeeb27",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Ildiko Magda",
+            "github": "IldikoMagda",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Ollie Balabil",
+            "github": "olliebalabil"
+        },
+        {
+            "name": "Constantinos Stylianou",
+            "github": "cstylianou98",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Anoop Singh Bhandal",
+            "github": "AnoopBhandal",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Ishaaq Baig",
+            "github": "ishaaq08",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "James Threadgill",
+            "github": "JamesThreadgill97"
+        },
+        {
+            "name": "Abdulrahman Teklies",
+            "github": "AbdulrahmanTe"
+        },
+        {
+            "name": "David Evans",
+            "github": "EvansD13"
+        },
+        {
+            "name": "Connor Hayes",
+            "github": "Conmhayes",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Khalifa Bamikole",
+            "github": "cal1pa"
+        },
+        {
+            "name": "Stephen Murray",
+            "github": "stephenmurray3"
+        },
+        {
+            "name": "Justin Graham",
+            "githb": "JustaGlitch"
+        },
+        {
+            "name": "Karina Ahrens",
+            "github": "Karinahrens"
+        },
+        {
+            "name": "Bee van Zyl",
+            "github": "BeeVanZyl"
+        },
+        {
+            "name": "Sidique Abdullah",
+            "github": "swthes"
+        },
+        {
+            "name": "Bruno Radoja",
+            "github": "Yare2911"
+        },
+        {
+            "name": "Pablo Romero",
+            "github": "pablo-romeroclavijo"
+        },
+        {
+            "name": "Olga Khristoliubova",
+            "github": "OlgaKhristo",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        },
+        {
+            "name": "Hanieh Zaab",
+            "github": "Hanieh73"
+        },
+        {
+            "name": "Abi Udayakumar",
+            "github": "AbiUser"
         }
     ]
 }
