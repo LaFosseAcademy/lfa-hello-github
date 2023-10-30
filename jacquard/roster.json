@@ -80,7 +80,12 @@
         },
         {
             "name": "Anoop Singh Bhandal",
-            "github": "AnoopBhandal"
+            "github": "AnoopBhandal",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Ishaaq Baig",
