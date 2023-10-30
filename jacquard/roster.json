@@ -29,7 +29,12 @@
         },
         {
             "name": "Jermaine Jatau",
-            "github": "TwoJays14"
+            "github": "TwoJays14",
+            "materials": [
+                {
+                    "type": "cv"    
+                }
+            ]
         },
         {
             "name": "Adil Wadud",
