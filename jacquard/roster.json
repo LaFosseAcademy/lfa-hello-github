@@ -81,7 +81,12 @@
         },
         {
             "name": "Connor Hayes",
-            "github": "Conmhayes"
+            "github": "Conmhayes",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Khalifa Bamikole",
