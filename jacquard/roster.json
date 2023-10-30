@@ -155,7 +155,12 @@
         },
         {
             "name": "Bee van Zyl",
-            "github": "BeeVanZyl"
+            "github": "BeeVanZyl",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Sidique Abdullah",
