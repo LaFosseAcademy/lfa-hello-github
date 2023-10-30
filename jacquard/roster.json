@@ -84,7 +84,12 @@
         },
         {
             "name": "Ishaaq Baig",
-            "github": "ishaaq08"
+            "github": "ishaaq08",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "James Threadgill",
