@@ -68,7 +68,12 @@
         },
         {
             "name": "Ildiko Magda",
-            "github": "IldikoMagda"
+            "github": "IldikoMagda",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Ollie Balabil",
