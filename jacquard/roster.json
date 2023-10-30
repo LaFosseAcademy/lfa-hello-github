@@ -76,7 +76,12 @@
         },
         {
             "name": "Constantinos Stylianou",
-            "github": "cstylianou98"
+            "github": "cstylianou98",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Anoop Singh Bhandal",
