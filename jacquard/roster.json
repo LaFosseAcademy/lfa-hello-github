@@ -16,7 +16,12 @@
         },
         {
             "name": "Andrew Amirthanayagam",
-            "github": "AndrewAmir003"
+            "github": "AndrewAmir003",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Jabir Ali",
