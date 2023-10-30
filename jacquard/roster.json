@@ -33,7 +33,12 @@
         },
         {
             "name": "Adil Wadud",
-            "github": "Didz-1"
+            "github": "Didz-1",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Kieran Whitfield",
