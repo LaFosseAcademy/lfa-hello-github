@@ -125,7 +125,12 @@
         },
         {
             "name": "Olga Khristoliubova",
-            "github": "OlgaKhristo"
+            "github": "OlgaKhristo",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Hanieh Zaab",
