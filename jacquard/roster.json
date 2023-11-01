@@ -64,7 +64,12 @@
         },
         {
             "name": "Ollie Balabil",
-            "github": "olliebalabil"
+            "github": "olliebalabil",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         }
     ]
 }
