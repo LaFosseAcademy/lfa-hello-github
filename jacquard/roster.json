@@ -14,10 +14,14 @@
             "name": "Mohammed Nadim Ahmed",
             "github": "Nadim-001"
         },
-        
         {
             "name": "Andrew Amirthanayagam",
-            "github": "AndrewAmir003"
+            "github": "AndrewAmir003",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Jabir Ali",
@@ -25,15 +29,30 @@
         },
         {
             "name": "Jermaine Jatau",
-            "github": "TwoJays14"
+            "github": "TwoJays14",
+            "materials": [
+                {
+                    "type": "cv"    
+                }
+            ]
         },
         {
             "name": "Adil Wadud",
-            "github": "Didz-1"
+            "github": "Didz-1",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Kieran Whitfield",
-            "github": "KWhitfieldHull"
+            "github": "KWhitfieldHull",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Mirnal Thapa",
@@ -41,15 +60,30 @@
         },
         {
             "name": "Vadim Zotov",
-            "github": "milanych"
+            "github": "milanych",
+            "materials": [
+                {
+                "type": "cv"
+                }
+            ]
         },
         {
             "name": "Tayeeb Islam",
-            "githb": "Tayeeb27"
+            "github": "Tayeeb27",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Ildiko Magda",
-            "github": "IldikoMagda"
+            "github": "IldikoMagda",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Ollie Balabil",
@@ -57,15 +91,30 @@
         },
         {
             "name": "Constantinos Stylianou",
-            "github": "cstylianou98"
+            "github": "cstylianou98",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Anoop Singh Bhandal",
-            "github": "AnoopBhandal"
+            "github": "AnoopBhandal",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Ishaaq Baig",
-            "github": "ishaaq08"
+            "github": "ishaaq08",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "James Threadgill",
@@ -81,7 +130,12 @@
         },
         {
             "name": "Connor Hayes",
-            "github": "Conmhayes"
+            "github": "Conmhayes",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Khalifa Bamikole",
@@ -101,7 +155,12 @@
         },
         {
             "name": "Bee van Zyl",
-            "github": "BeeVanZyl"
+            "github": "BeeVanZyl",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Sidique Abdullah",
@@ -116,16 +175,13 @@
             "github": "pablo-romeroclavijo"
         },
         {
-            "name": "Aarti Joshi",
-            "github": "aarti-joshi"
-        },
-        {
-            "name": "Michelle Valderama",
-            "github": "MitchyVee"
-        },
-        {
             "name": "Olga Khristoliubova",
-            "github": "OlgaKhristo"
+            "github": "OlgaKhristo",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Hanieh Zaab",

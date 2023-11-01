@@ -11,8 +11,8 @@
   },
   "students": [
     {
-      "name": "Alex Botha",
-      "github": "alexbotha"
+      "name": "Alessia Finestauri",
+      "github": "AleFin95"
     },
     {
       "name": "David Fraser",
@@ -65,6 +65,58 @@
     {
       "name": "Thomas Suggitt",
       "github": "TSuggitt"
+    },
+    {
+      "name": "Booshrat E Sharmin",
+      "github": "Booshrat"
+    },
+    {
+      "name": "Alex Warden",
+      "github": "AlexWarden2"
+    },
+    {
+      "name":"Parjal Rai", 
+      "github": "pockche123"
+    },
+    {
+      "name": "Esham Younas",
+      "github": "Esham156"
+    },
+    {
+      "name": "Gajani Yoganandan",
+      "github": "gajani-yoga"
+    },
+    {
+      "name":"Tatiana Alchikova", 
+      "github": "TatyanaA"
+    },
+    {
+      "name": "Hassan Tanveer",
+      "github": "Hasssan-Tanveer"
+    },
+    {
+      "name": "Sherine Bollarapu",
+      "github": "SherineB0"
+    },
+    {
+      "name": "Stephan Clarke",
+      "github": "S-njc"
+    },
+    { 
+      "name": "Joseph Barnett",
+      "github": "Joseph-Barnett"
+    },
+    {
+      "name": "Yosief Ghebrengus",
+      "github": "Yosief-azmarino"
+    },
+    {
+      "name": "Kengi Luca Lambertini",
+      "github": "KengiLuca"
+    },
+    {
+      "name": "Jonathanne Kengamu",
+      "github": "JonathanneK"
     }
   ]
 }
