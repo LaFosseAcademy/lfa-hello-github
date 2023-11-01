@@ -80,3 +80,4 @@ upstream	https://github.com/LaFosseAcademy/lfa-hello-github.git (push)
 
 ### 2. Make, Stage, Commit, Push your changes, and open a PR
 - You know how to do this now! If you'd like a recap, check out steps 3, 4, 5, 6 and 7 above.
+hello test
