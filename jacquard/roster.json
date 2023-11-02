@@ -127,7 +127,12 @@
         },
         {
             "name": "Abdulrahman Teklies",
-            "github": "AbdulrahmanTe"
+            "github": "AbdulrahmanTe",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "David Evans",
