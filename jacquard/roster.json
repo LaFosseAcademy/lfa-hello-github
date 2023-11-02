@@ -169,7 +169,12 @@
         },
         {
             "name": "Sidique Abdullah",
-            "github": "swthes"
+            "github": "swthes",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Bruno Radoja",
