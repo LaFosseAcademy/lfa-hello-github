@@ -21,6 +21,7 @@ _Head on down to [Returners](#returners) for tips on how to make this smooth for
 - Move into the project folder with `cd lfa-hello-github`
 
 ### 2. futureproof your fork
+
 _Okay, bad pun but it's true! Throughout the course we will be asking you to contribute to this repo again, so we want to make sure you can always get the latest version to work on_
 
 - Add us as a remote with `git remote add upstream https://github.com/LaFosseAcademy/lfa-hello-github.git`
@@ -34,6 +35,7 @@ upstream	https://github.com/LaFosseAcademy/lfa-hello-github.git (push)
 ```
 
 ### 3. Make a Change
+
 :warning: If you have left it a while since doing that fork, clone and adding the upstream remote please sync your repo to our before continuing by running: \
 `git pull upstream main`
 
@@ -64,7 +66,7 @@ upstream	https://github.com/LaFosseAcademy/lfa-hello-github.git (push)
 
 ### 7. Make your first PR
 
-- You made your own fork of this, in the web browser go to your repo `https://github.com/<your-github-username>/lfa-hello-github` to see if you can make a Pull Request back to `LaFosseAcademy/lfa-hello-github`. Try and request review from @rom-30. We will merge your PR when we receive it!
+- You made your own fork of this, in the web browser go to your repo `https://github.com/<your-github-username>/lfa-hello-github` to see if you can make a Pull Request back to `LaFosseAcademy/lfa-hello-github`. Try and request review from @rom-30 or @moniafavaro. We will merge your PR when we receive it!
 
 
 ---
@@ -78,4 +80,4 @@ upstream	https://github.com/LaFosseAcademy/lfa-hello-github.git (push)
 
 ### 2. Make, Stage, Commit, Push your changes, and open a PR
 - You know how to do this now! If you'd like a recap, check out steps 3, 4, 5, 6 and 7 above.
-
+hello test
