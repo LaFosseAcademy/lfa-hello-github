@@ -12,7 +12,12 @@
     "students": [
         {
             "name": "Mohammed Nadim Ahmed",
-            "github": "Nadim-001"
+            "github": "Nadim-001",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Andrew Amirthanayagam",
