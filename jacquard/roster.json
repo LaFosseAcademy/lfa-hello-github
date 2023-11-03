@@ -177,7 +177,12 @@
         },
         {
             "name": "Justin Graham",
-            "githb": "JustaGlitch"
+            "githb": "JustaGlitch",
+            "materials": [
+            {
+                "type": "cv"
+            }
+        ]
         },
         {
             "name": "Karina Ahrens",
