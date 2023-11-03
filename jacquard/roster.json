@@ -151,7 +151,12 @@
         },
         {
             "name": "David Evans",
-            "github": "EvansD13"
+            "github": "EvansD13",
+	    "materials": [
+		    {
+			    "type": "cv"
+		    }
+	    ]
         },
         {
             "name": "Connor Hayes",
