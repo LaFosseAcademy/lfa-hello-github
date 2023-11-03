@@ -153,7 +153,12 @@
         },
         {
             "name": "Stephen Murray",
-            "github": "stephenmurray3"
+            "github": "stephenmurray3",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Justin Graham",
