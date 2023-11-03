@@ -128,7 +128,12 @@
         },
         {
             "name": "James Threadgill",
-            "github": "JamesThreadgill97"
+            "github": "JamesThreadgill97",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Abdulrahman Teklies",
