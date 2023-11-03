@@ -30,7 +30,12 @@
         },
         {
             "name": "Jabir Ali",
-            "github": "jabz80"
+            "github": "jabz80",
+            "materials": [
+                {
+                    "type": "cv"    
+                }
+            ]
         },
         {
             "name": "Jermaine Jatau",
