@@ -166,7 +166,12 @@
         },
         {
             "name": "Karina Ahrens",
-            "github": "Karinahrens"
+            "github": "Karinahrens",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Bee van Zyl",
