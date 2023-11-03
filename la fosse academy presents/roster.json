@@ -1,0 +1,177 @@
+{
+    "namesake": {
+        "name": "La Fosse Academy Presents",
+        "imageUrl": "",
+        "materials": [
+            {
+                "type": "video",
+                "url": ""
+            }
+        ]
+    },
+    "students": [
+        {
+          "name": "Harry Turner-Burns",
+          "github": "HarryTB2112",
+          "team": "Cat Care Team",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "AwKfoLndyfQ"
+            }
+          ]
+        },
+        {
+          "name": "Lais Moraes",
+          "github": "laisjmvet",
+          "team": "Cat Care Team",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "6r4KPjn0UgA"
+            }
+          ]
+        },
+        {
+          "name": "Jacob Brooks",
+          "github": "JacobBrooks0",
+          "team": "Cat Care Team",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "gJSCohV5OH4"
+            }
+          ]
+        },
+        {
+          "name": "Sumeetpal Choat",
+          "github": "SumeetChoat",
+          "team": "Sight Reader Team",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "xEPtpwfISiM"
+            }
+          ]
+        },
+        {
+          "name": "Oliver Thomas",
+          "github": "OliverThomas2001",
+          "team": "Sight Reader Team",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type":"video",
+              "url":"Px-_7e2j2iU"
+            }
+          ]
+        },
+        {
+          "name": "Zeinab Roumieh",
+          "github": "zeinabro",
+          "team": "Sight Reader Team",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "CF9ycghPIZ8"
+            }
+          ]
+        },
+        {
+          "name": "Anthony Long Yin Chan",
+          "github": "anthonychan1211",
+          "team": "Sight Reader Team",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "q-VJFuKtm-k"
+            }
+          ]
+        },
+        {
+          "name": "Kai Stevens",
+          "github": "Kai-Stevens",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "Yl1jrDhzp8E"
+            }
+          ]
+        },
+        {
+          "name": "Anatolia Winter",
+          "github": "anawinter53",
+          "materials": [
+            {
+                "type": "cv"
+            },
+            {
+                "type": "video",
+                "url": "gIiItO6J_eY"
+            }
+          ]
+        },
+        {
+          "name": "Mourad Lasga Terceras",
+          "github": "MCXpak",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "XX8ujtahql4"
+            }
+          ]
+        },
+        {
+          "name": "Elliot Clowes",
+          "github": "elliotclowes",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "S0LFdyNedy8"
+            }
+          ]
+        },
+        {
+          "name": "Danise Rosales",
+          "github": "daniserosales",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "eZvThMyF0TY"
+            }
+          ]
+        }
+    ]
+}
