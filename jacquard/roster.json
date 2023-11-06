@@ -239,7 +239,12 @@
         },
         {
             "name": "Abi Udayakumar",
-            "github": "AbiUser"
+            "github": "AbiUser",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         }
     ]
 }
