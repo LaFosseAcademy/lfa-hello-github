@@ -18,14 +18,6 @@
                     "type": "cv"
                 }
             ]
-        }, {
-            "name": "Hanieh Zaab",
-            "github": "Hanieh73",
-            "materials": [
-                {
-                    "type": "cv"
-                }
-            ]
         },
         {
             "name": "Andrew Amirthanayagam",
@@ -231,8 +223,16 @@
                 }
             ]
         },
-      
-        {
+      {
+            "name": "Hanieh Zaab",
+            "github": "Hanieh73",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        }
+,        {
             "name": "Abi Udayakumar",
             "github": "AbiUser"
         }
