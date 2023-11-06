@@ -73,7 +73,7 @@
             "github": "milanych",
             "materials": [
                 {
-                "type": "cv"
+                    "type": "cv"
                 }
             ]
         },
@@ -151,7 +151,12 @@
         },
         {
             "name": "David Evans",
-            "github": "EvansD13"
+            "github": "EvansD13",
+	    "materials": [
+		    {
+			    "type": "cv"
+		    }
+	    ]
         },
         {
             "name": "Connor Hayes",
@@ -177,7 +182,12 @@
         },
         {
             "name": "Justin Graham",
-            "githb": "JustaGlitch"
+            "githb": "JustaGlitch",
+            "materials": [
+            {
+                "type": "cv"
+            }
+        ]
         },
         {
             "name": "Karina Ahrens",
