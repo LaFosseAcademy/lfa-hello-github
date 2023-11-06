@@ -233,11 +233,16 @@
                 }
             ]
         },
-        {
+      {
             "name": "Hanieh Zaab",
-            "github": "Hanieh73"
-        },
-        {
+            "github": "Hanieh73",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
+        }
+,        {
             "name": "Abi Udayakumar",
             "github": "AbiUser",
             "materials": [
