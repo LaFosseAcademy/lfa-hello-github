@@ -222,7 +222,12 @@
         },
         {
             "name": "Pablo Romero",
-            "github": "pablo-romeroclavijo"
+            "github": "pablo-romeroclavijo",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Olga Khristoliubova",
