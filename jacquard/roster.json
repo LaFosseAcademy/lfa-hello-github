@@ -186,10 +186,14 @@
         },
         {
             "name": "Justin Graham",
-            "githb": "JustaGlitch",
+            "github": "JustaGlitch",
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "FY474FuNg9U"
                 }
             ]
         },
