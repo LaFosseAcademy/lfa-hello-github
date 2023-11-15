@@ -261,8 +261,11 @@
             "github": "pablo-romeroclavijo",
             "materials": [
                 {
-                    "type": "cv",
-                    "url":"5tXKmTPDUJk"
+                    "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "5tXKmTPDUJk"
                 }
             ]
         },
