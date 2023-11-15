@@ -51,12 +51,10 @@
             "materials": [
                 {
                     "type": "cv"
-                      
                 },
                 {
                     "type": "video",
                     "url": "_xGxyyXVSqI"  
-                      
                 }
             ]
         },
@@ -124,8 +122,8 @@
                     "type": "cv"
                 },
 		{			
-		"type": "video",
-		"url": "d-2R6KCrKK8"
+		    "type": "video",
+		    "url": "d-2R6KCrKK8"
 		}
             ]
         },
@@ -211,13 +209,13 @@
             "name": "David Evans",
             "github": "EvansD13",
             "materials": [
-              {
-                "type": "cv"
-              },
-              {
-                "type": "video",
-                "url": "ZsDXChO8nd8"
-              }
+                {
+                    "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "ZsDXChO8nd8"
+                }
             ]
         },
         {
