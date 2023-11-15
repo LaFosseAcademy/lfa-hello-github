@@ -96,7 +96,11 @@
             "materials": [
                 {
                     "type": "cv"
-                }
+                },
+		{			
+		"type": "video",
+		"url": "d-2R6KCrKK8"
+		}
             ]
         },
         {
