@@ -227,7 +227,16 @@
         },
         {
             "name": "Khalifa Bamikole",
-            "github": "cal1pa"
+            "github": "cal1pa",
+            "materials": [
+                {
+                    "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "WVuIzjXBh0Q"
+                }
+            ]
         },
         {
             "name": "Stephen Murray",
