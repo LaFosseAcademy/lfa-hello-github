@@ -139,6 +139,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "G5_SHwgJ-PM"
                 }
             ]
         },
@@ -176,15 +180,15 @@
         {
             "name": "David Evans",
             "github": "EvansD13",
-	    "materials": [
-		    {
-			    "type": "cv"
-		    },
-		    {
-			    "type": "video",
-			    "url": "ZsDXChO8nd8"
-		    }
-	    ]
+            "materials": [
+              {
+                "type": "cv"
+              },
+              {
+                "type": "video",
+                "url": "ZsDXChO8nd8"
+              }
+            ]
         },
         {
             "name": "Connor Hayes",
