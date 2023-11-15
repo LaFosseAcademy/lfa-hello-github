@@ -180,11 +180,15 @@
         {
             "name": "David Evans",
             "github": "EvansD13",
-	    "materials": [
-		{
-		    "type": "cv"
-		}
-	    ]
+            "materials": [
+              {
+                "type": "cv"
+              },
+              {
+                "type": "video",
+                "url": "ZsDXChO8nd8"
+              }
+            ]
         },
         {
             "name": "Connor Hayes",
