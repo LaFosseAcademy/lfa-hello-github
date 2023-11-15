@@ -32,7 +32,13 @@
             "github": "TwoJays14",
             "materials": [
                 {
-                    "type": "cv"    
+                    "type": "cv"
+                      
+                },
+                {
+                    "type": "video",
+                    "url": "_xGxyyXVSqI"  
+                      
                 }
             ]
         },
