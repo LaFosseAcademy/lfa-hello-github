@@ -25,6 +25,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "45AK4yQzmMM"
                 }
             ]
         },
@@ -61,6 +65,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "r_odL3FKr80"
                 }
             ]
         },
@@ -73,7 +81,7 @@
             "github": "milanych",
             "materials": [
                 {
-                "type": "cv"
+                    "type": "cv"
                 }
             ]
         },
@@ -83,6 +91,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "Fjsl24FQuHs"
                 }
             ]
         },
@@ -92,7 +104,11 @@
             "materials": [
                 {
                     "type": "cv"
-                }
+                },
+		{			
+		"type": "video",
+		"url": "d-2R6KCrKK8"
+		}
             ]
         },
         {
@@ -101,6 +117,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type":"video",
+                    "url":"zxRYeci8yzU"
                 }
             ]
         },
@@ -137,6 +157,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "kydM2d0yLDA"
                 }
             ]
         },
@@ -155,6 +179,10 @@
 	    "materials": [
 		    {
 			    "type": "cv"
+		    },
+		    {
+			    "type": "video",
+			    "url": "ZsDXChO8nd8"
 		    }
 	    ]
         },
@@ -164,6 +192,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "OfNRA6w6mjc"
                 }
             ]
         },
@@ -182,7 +214,16 @@
         },
         {
             "name": "Justin Graham",
-            "githb": "JustaGlitch"
+            "github": "JustaGlitch",
+            "materials": [
+                {
+                    "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "FY474FuNg9U"
+                }
+            ]
         },
         {
             "name": "Karina Ahrens",
@@ -190,6 +231,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "RU_-w1uSphc"
                 }
             ]
         },
@@ -199,6 +244,10 @@
             "materials": [
                 {
                     "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "Zjl4nGEXpgQ"
                 }
             ]
         },
@@ -217,7 +266,12 @@
         },
         {
             "name": "Pablo Romero",
-            "github": "pablo-romeroclavijo"
+            "github": "pablo-romeroclavijo",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Olga Khristoliubova",
@@ -230,11 +284,21 @@
         },
         {
             "name": "Hanieh Zaab",
-            "github": "Hanieh73"
+            "github": "Hanieh73",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         },
         {
             "name": "Abi Udayakumar",
-            "github": "AbiUser"
+            "github": "AbiUser",
+            "materials": [
+                {
+                    "type": "cv"
+                }
+            ]
         }
     ]
 }
