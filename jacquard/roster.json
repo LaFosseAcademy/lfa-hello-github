@@ -134,7 +134,10 @@
             "github": "AnoopBhandal",
             "materials": [
                 {
-                    "type": "cv",
+                    "type": "cv"
+                },
+                {
+                    "type": "video",
                     "url": "G5_SHwgJ-PM"
                 }
             ]
