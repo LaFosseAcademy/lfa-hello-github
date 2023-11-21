@@ -302,6 +302,10 @@
             "materials": [
                 {
                     "type": "cv"
+                }, 
+                {
+                    "type": "video", 
+                    "url": "Mb5azZDcNtY"
                 }
             ]
         },
