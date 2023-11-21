@@ -86,7 +86,16 @@
         },
         {
             "name": "Mirnal Thapa",
-            "github": "mgr-mirnal"
+            "github": "mgr-mirnal",
+            "materials": [
+                {
+                "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "Kbpc_-0F7NM"  
+                }
+            ]
         },
         {
             "name": "Vadim Zotov",
