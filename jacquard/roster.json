@@ -320,7 +320,16 @@
         },
         {
             "name": "Bruno Radoja",
-            "github": "Yare2911"
+            "github": "Yare2911",
+            "materials": [
+                {
+                    "type": "cv"
+                },
+                {
+                    "type": "video",
+                    "url": "zMR8S-S_F80"
+                }
+            ]
         },
         {
             "name": "Pablo Romero",
