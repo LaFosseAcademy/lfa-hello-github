@@ -9,9 +9,10 @@
           }
       ]
   },
-  "students": [{
+  "students": [
+    {
     "name": "Henrietta Adeniran",
     "github": "henriettaCodes"
-  }
+    }
    ]
 }
