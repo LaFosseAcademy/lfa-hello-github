@@ -1,6 +1,6 @@
 {
   "namesake": {
-      "name": "Louise Guthrie",
+      "name": "Francis Guthrie",
       "imageUrl": "https://avatars.githubusercontent.com/t/9116294?s=400&v=4",
       "materials": [
           {
@@ -11,8 +11,8 @@
   },
   "students": [
     {
-    "name": "Henrietta Adeniran",
-    "github": "henriettaCodes"
+      "name": "Henrietta Adeniran",
+      "github": "henriettaCodes"
     }
    ]
 }
