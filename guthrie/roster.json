@@ -1,13 +1,13 @@
 {
   "namesake": {
-      "name": "Francis Guthrie",
-      "imageUrl": "https://avatars.githubusercontent.com/t/9116294?s=400&v=4",
-      "materials": [
-          {
-              "type": "video",
-              "url": ""
-          }
-      ]
+    "name": "Francis Guthrie",
+    "imageUrl": "https://avatars.githubusercontent.com/t/9116294?s=400&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
   },
   "students": [
     {
@@ -21,6 +21,10 @@
     {
       "name": "Thomas Wood",
       "github": "thomasWoodGH"
+    },
+    {
+      "name": "Alex Hort-Francis",
+      "github": "hortfrancis"
     }
-   ]
+  ]
 }
