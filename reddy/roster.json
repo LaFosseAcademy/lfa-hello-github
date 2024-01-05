@@ -52,7 +52,12 @@
     },
     {
       "name": "Tahha Butt",
-      "github": "tahha00"
+      "github": "tahha00",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Jarvis Ditcher",
