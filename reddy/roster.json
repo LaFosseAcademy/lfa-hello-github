@@ -101,7 +101,12 @@
     },
     {
       "name": "Kengi Luca Lambertini",
-      "github": "KengiLuca"
+      "github": "KengiLuca",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Matthew Bautista Penagos",
