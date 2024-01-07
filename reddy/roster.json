@@ -12,7 +12,11 @@
   "students": [
     {
         "name": "David Fraser",
-        "github": "DavidFra5er"
+        "github": "DavidFra5er",
+        "materials": [{
+          "type": "cv"
+        }]
+        
     }
       
   ]
