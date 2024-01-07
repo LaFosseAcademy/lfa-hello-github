@@ -65,7 +65,12 @@
     },
     {
       "name": "Thomas Suggitt",
-      "github": "TSuggitt"
+      "github": "TSuggitt",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Booshrat E Sharmin",
