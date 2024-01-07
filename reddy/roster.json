@@ -48,7 +48,13 @@
     },
     {
       "name": "Erica Inamura",
-      "github": "EricaIna"
+      "github": "EricaIna",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
+      
     },
     {
       "name": "Tahha Butt",
