@@ -85,7 +85,12 @@
     },
     {
       "name": "Gajani Yoganandan",
-      "github": "gajani-yoga"
+      "github": "gajani-yoga",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name":"Tatiana Alchikova", 
