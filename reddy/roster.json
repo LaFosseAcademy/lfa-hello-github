@@ -24,7 +24,12 @@
     },
     {
       "name": "Joanna Chojnowska",
-      "github": "asiek728"
+      "github": "asiek728",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Ashraf Said",
