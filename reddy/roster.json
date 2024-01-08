@@ -69,7 +69,12 @@
     },
     {
       "name": "Booshrat E Sharmin",
-      "github": "Booshrat"
+      "github": "Booshrat",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Alex Warden",
