@@ -23,7 +23,10 @@
     },
     {
       "name": "Khider Tariq",
-      "github": "khidertar"
+      "github": "khidertar",
+      "materials": [{
+        "type": "cv"
+      }]
     },
     {
       "name": "Joanna Chojnowska",
