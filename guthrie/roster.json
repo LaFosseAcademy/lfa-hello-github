@@ -1,0 +1,46 @@
+{
+  "namesake": {
+    "name": "Francis Guthrie",
+    "imageUrl": "https://avatars.githubusercontent.com/t/9116294?s=400&v=4",
+    "materials": [
+      {
+        "type": "video",
+        "url": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "Henrietta Adeniran",
+      "github": "henriettaCodes"
+    },
+    {
+      "name": "Thomas Wood",
+      "github": "thomasWoodGH"
+    },
+    {
+      "name": "Alex Hort-Francis",
+      "github": "hortfrancis"
+    },
+    {
+      "name": "Angelika Galicia Prudente",
+      "github": "Aprudente15"
+    },
+    {
+      "name": "Charlotte Easton",
+      "github": "lottie-isobel"
+    },
+    {
+      "name": "Hania Khan",
+      "github": "hk077"
+    },
+    {
+      "name": "Nishan Dudakia",
+      "github": "nishandudakia"
+    },
+    {
+      "name": "Saranya",
+      "github": "saranyaguhanthan"
+    }
+  ]
+}
