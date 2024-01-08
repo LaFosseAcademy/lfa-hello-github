@@ -11,6 +11,12 @@
   },
   "students": [
     {
+        "name": "David Fraser",
+        "github": "DavidFra5er",
+        "materials": [{
+          "type": "cv"
+        }]
+},
       "name": "Alessia Finestauri",
       "github": "AleFin95"
     },
