@@ -54,7 +54,12 @@
     },
     {
       "name": "Emma Collins-Opon",
-      "github": "ECO786786"
+      "github": "ECO786786",
+      "materials": [
+        {
+            "type": "cv"    
+        }
+      ]
     },
     {
       "name": "Billy Scott Price",
