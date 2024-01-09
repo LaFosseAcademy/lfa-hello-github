@@ -19,7 +19,12 @@
 },
     {
       "name": "Alessia Finestauri",
-      "github": "AleFin95"
+      "github": "AleFin95",
+      "materials": [
+        {
+        "type": "cv"
+        }
+    ]
     },
     {
       "name": "Khider Tariq",
