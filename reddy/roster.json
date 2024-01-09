@@ -19,11 +19,19 @@
 },
     {
       "name": "Alessia Finestauri",
-      "github": "AleFin95"
+      "github": "AleFin95",
+      "materials": [
+        {
+        "type": "cv"
+        }
+    ]
     },
     {
       "name": "Khider Tariq",
-      "github": "khidertar"
+      "github": "khidertar",
+      "materials": [{
+        "type": "cv"
+      }]
     },
     {
       "name": "Joanna Chojnowska",
@@ -54,7 +62,12 @@
     },
     {
       "name": "Emma Collins-Opon",
-      "github": "ECO786786"
+      "github": "ECO786786",
+      "materials": [
+        {
+            "type": "cv"    
+        }
+      ]
     },
     {
       "name": "Billy Scott Price",
