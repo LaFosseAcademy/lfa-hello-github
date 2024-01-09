@@ -44,7 +44,12 @@
     },
     {
       "name": "Ashraf Said",
-      "github": "nine96as"
+      "github": "nine96as",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Joel Gooday",
