@@ -15,7 +15,13 @@
         "github": "DavidFra5er",
         "materials": [{
           "type": "cv"
-        }]
+        },
+        {
+          "type":"video",
+          "url": "https://www.youtube.com/watch?v=PWvnWI2N9qk"
+
+        }
+      ]
         
     }
       
