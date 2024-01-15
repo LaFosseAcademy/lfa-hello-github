@@ -15,8 +15,13 @@
         "github": "DavidFra5er",
         "materials": [{
           "type": "cv"
-        }]
-},
+        },
+        {
+          "type":"video",
+          "url": "PWvnWI2N9qk"
+        }
+      ]        
+    },
     {
       "name": "Alessia Finestauri",
       "github": "AleFin95",
@@ -85,7 +90,6 @@
           "type": "cv"
         }
       ]
-      
     },
     {
       "name": "Tahha Butt",
