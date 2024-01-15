@@ -140,7 +140,13 @@
     },
     {
       "name": "Alex Warden",
-      "github": "AlexWarden2"
+      "github": "AlexWarden2",
+      "materials": [
+        {
+          "type": "video",
+          "url": "jW5gzxHwGgY"
+        }
+      ]
     },
     {
       "name":"Parjal Rai", 
