@@ -24,9 +24,15 @@
     {
       "name": "Khider Tariq",
       "github": "khidertar",
-      "materials": [{
+      "materials": [
+        {
         "type": "cv"
-      }]
+        },
+        {
+          "type":"video",
+          "url":"Wgx649OAVuE"
+        }
+      ]
     },
     {
       "name": "Joanna Chojnowska",
