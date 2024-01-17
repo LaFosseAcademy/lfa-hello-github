@@ -256,7 +256,17 @@
     },
     {
       "name": "Matthew Bautista Penagos",
-      "github": "laplata247"
+      "github": "laplata247",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "O6KgJDJZAvI"
+        }
+        
+      ]
     }
   ]
 }
