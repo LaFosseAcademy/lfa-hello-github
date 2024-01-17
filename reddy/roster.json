@@ -94,7 +94,16 @@
     },
     {
       "name": "Sara Madeira",
-      "github": "smadeira22"
+      "github": "smadeira22",
+      "materials": [
+        {
+        "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "4TsqJ1FPeE8"
+        }
+    ]
     },
     {
       "name": "Erica Inamura",
