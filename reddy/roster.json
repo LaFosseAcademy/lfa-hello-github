@@ -184,6 +184,9 @@
       "github": "AlexWarden2",
       "materials": [
         {
+          "type": "cv"
+        },
+        {
           "type": "video",
           "url": "jW5gzxHwGgY"
         }
