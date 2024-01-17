@@ -203,7 +203,12 @@
     },
     {
       "name":"Tatiana Alchikova", 
-      "github": "TatyanaA"
+      "github": "TatyanaA",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Stephan Clarke",
