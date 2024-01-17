@@ -186,7 +186,16 @@
     },
     {
       "name": "Esham Younas",
-      "github": "Esham156"
+      "github": "Esham156",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "04Hdmgh8kEM"
+        }
+      ]
     },
     {
       "name": "Gajani Yoganandan",
