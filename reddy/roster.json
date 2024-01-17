@@ -114,7 +114,16 @@
     },
     {
       "name": "Jarvis Ditcher",
-      "github": "J-arv1s"
+      "github": "J-arv1s",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "CgrRWRRICJc"
+        }
+      ]
     },
     {
       "name": "Thomas Suggitt",
