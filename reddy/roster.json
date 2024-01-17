@@ -211,7 +211,16 @@
     },
     { 
       "name": "Joseph Barnett",
-      "github": "Joseph-Barnett"
+      "github": "Joseph-Barnett",
+      "materials": [
+        {
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ga32psbGZMo"
+      }
+    ]
     },
     {
       "name": "Kengi Luca Lambertini",
