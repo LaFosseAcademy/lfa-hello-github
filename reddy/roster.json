@@ -205,9 +205,13 @@
       "github": "KengiLuca",
       "materials": [
         {
-          "type": "cv",
+          "type": "cv"
+        },
+        {
+          "type": "video",
           "url": "TWlRmgZdF44"
         }
+        
       ]
     },
     {
