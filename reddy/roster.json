@@ -89,8 +89,17 @@
       ]
     },
     {
-      "name": "Billy Scott Price",
-      "github": "Bill2703"
+      "name": "Billy Scott-Price",
+      "github": "Bill2703",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ga6lXrBLtUs"
+        }
+      ]
     },
     {
       "name": "Sara Madeira",
