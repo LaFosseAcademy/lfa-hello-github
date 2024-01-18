@@ -75,7 +75,11 @@
       "github": "jgooday48",
       "materials": [
         {
-            "type": "cv"    
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ctAtWIcQcIs"
         }
       ]
     },
