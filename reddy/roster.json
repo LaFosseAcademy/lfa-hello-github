@@ -15,15 +15,38 @@
         "github": "DavidFra5er",
         "materials": [{
           "type": "cv"
-        }]
-},
+        },
+        {
+          "type":"video",
+          "url": "PWvnWI2N9qk"
+        }
+      ]        
+    },
     {
       "name": "Alessia Finestauri",
-      "github": "AleFin95"
+      "github": "AleFin95",
+      "materials": [
+        {
+        "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "3KYBWgp8W7Q"
+        }
+    ]
     },
     {
       "name": "Khider Tariq",
-      "github": "khidertar"
+      "github": "khidertar",
+      "materials": [
+        {
+        "type": "cv"
+        },
+        {
+          "type":"video",
+          "url":"Wgx649OAVuE"
+        }
+      ]
     },
     {
       "name": "Joanna Chojnowska",
@@ -31,6 +54,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "pXIgP1lnaEk"
         }
       ]
     },
@@ -48,21 +75,52 @@
       "github": "jgooday48",
       "materials": [
         {
-            "type": "cv"    
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ctAtWIcQcIs"
         }
       ]
     },
     {
       "name": "Emma Collins-Opon",
-      "github": "ECO786786"
+      "github": "ECO786786",
+      "materials": [
+        {
+            "type": "cv"    
+        },
+        {
+          "type":"video",
+          "url": "yrm7F8SLnu8"
+        }
+      ]
     },
     {
-      "name": "Billy Scott Price",
-      "github": "Bill2703"
+      "name": "Billy Scott-Price",
+      "github": "Bill2703",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ga6lXrBLtUs"
+        }
+      ]
     },
     {
       "name": "Sara Madeira",
-      "github": "smadeira22"
+      "github": "smadeira22",
+      "materials": [
+        {
+        "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "4TsqJ1FPeE8"
+        }
+    ]
     },
     {
       "name": "Erica Inamura",
@@ -70,9 +128,12 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "3KCx1mbwDaQ"
         }
       ]
-      
     },
     {
       "name": "Tahha Butt",
@@ -80,12 +141,25 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "iSYgAxAXKMY"
         }
       ]
     },
     {
       "name": "Jarvis Ditcher",
-      "github": "J-arv1s"
+      "github": "J-arv1s",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "CgrRWRRICJc"
+        }
+      ]
     },
     {
       "name": "Thomas Suggitt",
@@ -93,6 +167,10 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "y63bNcPe7K4"
         }
       ]
     },
@@ -102,20 +180,51 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "LSeoRVWoazA"
         }
       ]
     },
     {
       "name": "Alex Warden",
-      "github": "AlexWarden2"
+      "github": "AlexWarden2",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "jW5gzxHwGgY"
+        }
+      ]
     },
     {
       "name":"Parjal Rai", 
-      "github": "pockche123"
+      "github": "pockche123",
+      "materials":[
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url":"kp26I-Lkk34"
+        }
+      ]
     },
     {
       "name": "Esham Younas",
-      "github": "Esham156"
+      "github": "Esham156",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "04Hdmgh8kEM"
+        }
+      ]
     },
     {
       "name": "Gajani Yoganandan",
@@ -123,24 +232,16 @@
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "TjKRU0S1XCo"
         }
       ]
     },
     {
       "name":"Tatiana Alchikova", 
-      "github": "TatyanaA"
-    },
-    {
-      "name": "Stephan Clarke",
-      "github": "S-njc"
-    },
-    { 
-      "name": "Joseph Barnett",
-      "github": "Joseph-Barnett"
-    },
-    {
-      "name": "Kengi Luca Lambertini",
-      "github": "KengiLuca",
+      "github": "TatyanaA",
       "materials": [
         {
           "type": "cv"
@@ -148,8 +249,49 @@
       ]
     },
     {
+      "name": "Stephan Clarke",
+      "github": "S-njc"
+    },
+    { 
+      "name": "Joseph Barnett",
+      "github": "Joseph-Barnett",
+      "materials": [
+        {
+            "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "Ga32psbGZMo"
+      }
+    ]
+    },
+    {
+      "name": "Kengi Luca Lambertini",
+      "github": "KengiLuca",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "TWlRmgZdF44"
+        }
+        
+      ]
+    },
+    {
       "name": "Matthew Bautista Penagos",
-      "github": "laplata247"
+      "github": "laplata247",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "O6KgJDJZAvI"
+        }
+        
+      ]
     }
   ]
 }
