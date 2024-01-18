@@ -202,7 +202,16 @@
     },
     {
       "name":"Parjal Rai", 
-      "github": "pockche123"
+      "github": "pockche123",
+      "materials":[
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url":"kp26I-Lkk34"
+        }
+      ]
     },
     {
       "name": "Esham Younas",
