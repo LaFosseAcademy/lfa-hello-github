@@ -298,7 +298,6 @@
           "type": "video",
           "url": "O6KgJDJZAvI"
         }
-        
       ]
     },
     {
@@ -309,7 +308,7 @@
           "type": "cv"
         },
         {
-          "type": "video",
+          "type": "Video",
           "url": "gSTc78hiE-Q"
         }
       ]
