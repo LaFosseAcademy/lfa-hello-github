@@ -256,10 +256,6 @@
         }
       ]
     },
-    {
-      "name": "Stephan Clarke",
-      "github": "S-njc"
-    },
     { 
       "name": "Joseph Barnett",
       "github": "Joseph-Barnett",
@@ -308,7 +304,7 @@
           "type": "cv"
         },
         {
-          "type": "Video",
+          "type": "video",
           "url": "gSTc78hiE-Q"
         }
       ]
