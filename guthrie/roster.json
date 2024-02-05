@@ -16,7 +16,16 @@
     },
     {
       "name": "Thomas Wood",
-      "github": "thomasWoodGH"
+      "github": "thomasWoodGH",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Alex Hort-Francis",
