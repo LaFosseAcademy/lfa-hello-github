@@ -11,10 +11,6 @@
   },
   "students": [
     {
-      "name": "Ope Afolabi",
-      "github": "gbopola"
-    },
-    {
       "name": "Henrietta Adeniran",
       "github": "henriettaCodes"
     },
@@ -73,6 +69,10 @@
     {
       "name": "Usama Navid",
       "github": "Usama098"
+    },
+    {
+      "name": "Ope Afolabi",
+      "github": "gbopola"
     }
   ]
 }
