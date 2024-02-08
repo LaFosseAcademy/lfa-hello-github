@@ -36,7 +36,13 @@
     },
     {
       "name": "Nishan Dudakia",
-      "github": "nishandudakia"
+      "github": "nishandudakia",
+      "materials": [
+        {
+          "type": "cv",
+          "url": "https://docs.google.com/presentation/d/1z1RL_js3ZgMLdcZZK_uJRKrJkSSG4qHF9GD03362HiM/edit?usp=sharing"
+        }
+      ]
     }
   ]
 }
