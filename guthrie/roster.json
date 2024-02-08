@@ -53,7 +53,18 @@
     },
     {
       "name": "Malak Abdalla",
-      "github": "malakabdalla"
+      "github": "malakabdalla",
+      "materials": [
+        {
+          "type": "cv",
+          "url": ""
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+        
+      ]
     },
     {
       "name": "Cem Altinay",
