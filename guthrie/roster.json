@@ -45,7 +45,12 @@
     },
     {
       "name": "Nishan Dudakia",
-      "github": "nishandudakia"
+      "github": "nishandudakia",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Zephania Molla",
