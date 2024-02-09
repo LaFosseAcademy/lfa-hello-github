@@ -33,7 +33,16 @@
     },
     {
       "name": "Angelika Galicia Prudente",
-      "github": "Aprudente15"
+      "github": "Aprudente15",
+      "materials":[
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Charlotte Easton",
