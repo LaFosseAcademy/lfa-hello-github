@@ -29,7 +29,16 @@
     },
     {
       "name": "Alex Hort-Francis",
-      "github": "hortfrancis"
+      "github": "hortfrancis",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Angelika Galicia Prudente",
