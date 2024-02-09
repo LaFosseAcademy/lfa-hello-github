@@ -46,7 +46,16 @@
     },
     {
       "name": "Charlotte Easton",
-      "github": "lottie-isobel"
+      "github": "lottie-isobel",
+       "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Hania Khan",
