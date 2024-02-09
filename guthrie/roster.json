@@ -155,7 +155,16 @@
     },
     {
       "name": "Usama Navid",
-      "github": "Usama098"
+      "github": "Usama098",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Ope Afolabi",
