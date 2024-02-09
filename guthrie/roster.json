@@ -54,7 +54,16 @@
     },
     {
       "name": "Zephania Molla",
-      "github": "zmolla99"
+      "github": "zmolla99",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Malak Abdalla",
