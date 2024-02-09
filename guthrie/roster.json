@@ -80,7 +80,16 @@
     },
     {
       "name": "Cem Altinay",
-      "github": "GeniusJ01"
+      "github": "GenuisJ01",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Ivan Selihov",
