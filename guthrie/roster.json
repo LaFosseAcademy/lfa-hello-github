@@ -103,7 +103,12 @@
     },
     {
       "name": "Jessica Betiku",
-      "github": "Jessica-000"
+      "github": "Jessica-000",
+      "materials": [
+        {
+          "type": "cv"
+        }
+      ]
     },
     {
       "name": "Usama Navid",
