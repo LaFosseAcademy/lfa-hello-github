@@ -73,16 +73,20 @@
     },
     {
       "name": "Cem Altinay",
-      "github": "GeniusJ01"
-    },
-    {
-      "name": "Ivan Selihov",
-      "github": "ivshxvi",
+      "github": "GenuisJ01",
       "materials": [
         {
           "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
         }
       ]
+    },
+    {
+      "name": "Ivan Selihov",
+      "github": "ivshxvi"
     },
     {
       "name": "Robert McDougall",
@@ -103,19 +107,6 @@
     {
       "name": "Ope Afolabi",
       "github": "gbopola"
-    },
-    {
-      "name": "Rahma Ali",
-      "github": "RahmaA278",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": ""
-        }
-      ]
     }
   ]
 }
