@@ -91,6 +91,15 @@
     {
       "name": "Kazeem Shomade",
       "github": "kazsho"
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Jessica Betiku",
