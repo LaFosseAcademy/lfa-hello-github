@@ -168,7 +168,16 @@
     },
     {
       "name": "Ope Afolabi",
-      "github": "gbopola"
+      "github": "gbopola",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Rahma Ali",
