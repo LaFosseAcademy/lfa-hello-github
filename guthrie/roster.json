@@ -68,7 +68,16 @@
     },
     {
       "name": "Hania Khan",
-      "github": "hk077"
+      "github": "hk077",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Nishan Dudakia",
