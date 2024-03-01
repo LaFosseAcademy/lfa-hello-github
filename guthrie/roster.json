@@ -16,7 +16,16 @@
     },
     {
       "name": "Thomas Wood",
-      "github": "thomasWoodGH"
+      "github": "thomasWoodGH",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Alex Hort-Francis",
@@ -39,14 +48,6 @@
       "github": "nishandudakia"
     },
     {
-      "name": "Saranya",
-      "github": "saranyaguhanthan"
-    },
-    {
-      "name": "Siobhann",
-      "github": "TechGirlO29"
-    },
-    {
       "name": "Zephania Molla",
       "github": "zmolla99"
     },
@@ -59,12 +60,46 @@
           "url": ""
         },
 
+
           {
             "type": "video",
             "url": "https://lafosseacademy.slack.com/archives/D06HMJ3TWKH/p1709221040207439"
-          }
+          },
+
+        {
+          "type": "video",
+          "url": ""
+        }
         
       ]
+    },
+    {
+      "name": "Cem Altinay",
+      "github": "GeniusJ01"
+    },
+    {
+      "name": "Ivan Selihov",
+      "github": "ivshxvi"
+    },
+    {
+      "name": "Robert McDougall",
+      "github": "RobAMcDougall"
+    },
+    {
+      "name": "Kazeem Shomade",
+      "github": "kazsho"
+    },
+    {
+      "name": "Jessica Betiku",
+      "github": "Jessica-000"
+    },
+    {
+      "name": "Usama Navid",
+      "github": "Usama098"
+    },
+    {
+      "name": "Ope Afolabi",
+      "github": "gbopola"
     }
   ]
 }
