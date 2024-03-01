@@ -16,7 +16,16 @@
     },
     {
       "name": "Thomas Wood",
-      "github": "thomasWoodGH"
+      "github": "thomasWoodGH",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Alex Hort-Francis",
@@ -46,6 +55,53 @@
           "url": "https://youtu.be/HuozCH1RhaU"
         }
       ]
+    },
+    {
+      "name": "Zephania Molla",
+      "github": "zmolla99"
+    },
+    {
+      "name": "Malak Abdalla",
+      "github": "malakabdalla",
+      "materials": [
+        {
+          "type": "cv",
+          "url": ""
+        },
+        {
+          "type": "video",
+          "url": ""
+        }
+        
+      ]
+    },
+    {
+      "name": "Cem Altinay",
+      "github": "GeniusJ01"
+    },
+    {
+      "name": "Ivan Selihov",
+      "github": "ivshxvi"
+    },
+    {
+      "name": "Robert McDougall",
+      "github": "RobAMcDougall"
+    },
+    {
+      "name": "Kazeem Shomade",
+      "github": "kazsho"
+    },
+    {
+      "name": "Jessica Betiku",
+      "github": "Jessica-000"
+    },
+    {
+      "name": "Usama Navid",
+      "github": "Usama098"
+    },
+    {
+      "name": "Ope Afolabi",
+      "github": "gbopola"
     }
   ]
 }
