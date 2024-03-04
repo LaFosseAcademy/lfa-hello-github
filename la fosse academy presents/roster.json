@@ -13,7 +13,7 @@
         {
           "name": "Ashraf Said",
           "github": "nine96as",      
-          "team": "Code Crafters",
+          "team": "CodeMaze",
           "materials": [
             {
               "type": "cv"
@@ -27,7 +27,7 @@
         {
           "name": "Alessia Finestauri",
           "github": "AleFin95",
-          "team": "Code Crafters",
+          "team": "CodeMaze",
           "materials": [
             {
               "type": "cv"
@@ -39,51 +39,9 @@
           ]
         },
         {
-          "name": "Sara Madeira",
-          "github": "smadeira22",
-          "team": "Code Crafters",
-          "materials": [
-            {
-            "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "4TsqJ1FPeE8"
-            }
-          ]
-        },
-        {
-          "name": "Khider Tariq",
-          "github": "khidertar",
-          "team": "Code Crafters",
-          "materials": [
-            {
-            "type": "cv"
-            },
-            {
-              "type":"video",
-              "url":"Wgx649OAVuE"
-            }
-          ]
-        },
-        {
-          "name": "Jarvis Ditcher",
-          "github": "J-arv1s",
-          "team": "Code Crafters",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "CgrRWRRICJc"
-            }
-          ]
-        },
-        {
           "name": "Emma Collins-Opon",
           "github": "ECO786786",
-          "team": "Code Crafters",
+          "team": "CodeMaze",
           "materials": [
             {
                 "type": "cv"    
@@ -151,20 +109,6 @@
           ]
         },
         {
-          "name": "Pablo Romero",
-          "github": "pablo-romeroclavijo",
-          "team": "Metro Mingle",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "5tXKmTPDUJk"
-            }
-          ]
-        },
-        {
           "name": "Abi Udayakumar",
           "github": "AbiUser",
           "team": "Koding Kombat",
@@ -193,158 +137,37 @@
           ]
         },
         {
-          "name": "Harry Turner-Burns",
-          "github": "HarryTB2112",
-          "team": "Cat Care Team",
+          "name": "Jabir Ali",
+          "github": "jabz80",
+          "team": "Koding Kombat",
+          "materials": [
+            {
+              "type": "cv"    
+            },
+		    {
+              "type": "video",
+              "url": "zuow46xdZnA"
+            }
+          ]
+        },
+        {
+          "name": "Jermaine Jatau",
+          "github": "TwoJays14",
+          "team": "Koding Kombat",
           "materials": [
             {
               "type": "cv"
             },
             {
               "type": "video",
-              "url": "AwKfoLndyfQ"
-            }
-          ]
-        },
-        {
-          "name": "Lais Moraes",
-          "github": "laisjmvet",
-          "team": "Cat Care Team",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "6r4KPjn0UgA"
-            }
-          ]
-        },
-        {
-          "name": "Jacob Brooks",
-          "github": "JacobBrooks0",
-          "team": "Cat Care Team",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "gJSCohV5OH4"
-            }
-          ]
-        },
-        {
-          "name": "Sumeetpal Choat",
-          "github": "SumeetChoat",
-          "team": "Sight Reader Team",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "xEPtpwfISiM"
-            }
-          ]
-        },
-        {
-          "name": "Oliver Thomas",
-          "github": "OliverThomas2001",
-          "team": "Sight Reader Team",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type":"video",
-              "url":"Px-_7e2j2iU"
-            }
-          ]
-        },
-        {
-          "name": "Zeinab Roumieh",
-          "github": "zeinabro",
-          "team": "Sight Reader Team",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "CF9ycghPIZ8"
-            }
-          ]
-        },
-        {
-          "name": "Anthony Long Yin Chan",
-          "github": "anthonychan1211",
-          "team": "Sight Reader Team",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "q-VJFuKtm-k"
-            }
-          ]
-        },
-        {
-          "name": "Kai Stevens",
-          "github": "Kai-Stevens",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "Yl1jrDhzp8E"
-            }
-          ]
-        },
-        {
-          "name": "Anatolia Winter",
-          "github": "anawinter53",
-          "materials": [
-            {
-                "type": "cv"
-            },
-            {
-                "type": "video",
-                "url": "gIiItO6J_eY"
-            }
-          ]
-        },
-        {
-          "name": "Mourad Lasga Terceras",
-          "github": "MCXpak",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "XX8ujtahql4"
-            }
-          ]
-        },
-        {
-          "name": "Elliot Clowes",
-          "github": "elliotclowes",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "S0LFdyNedy8"
+              "url": "_xGxyyXVSqI"  
             }
           ]
         },
         {
           "name": "Danise Rosales",
           "github": "daniserosales",
+          "team": "Audify.me",
           "materials": [
             {
               "type": "cv"
@@ -352,6 +175,19 @@
             {
               "type": "video",
               "url": "eZvThMyF0TY"
+            }
+          ]
+        },
+        {
+          "name": "Tayeeb Islam",
+          "github": "Tayeeb27",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "Fjsl24FQuHs"
             }
           ]
         }
