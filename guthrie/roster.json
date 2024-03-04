@@ -12,7 +12,16 @@
   "students": [
     {
       "name": "Henrietta Adeniran",
-      "github": "henriettaCodes"
+      "github": "henriettaCodes",
+       "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "https://youtu.be/aD3nm6xdUCQ"
+        }
+      ]
     },
     {
       "name": "Thomas Wood",
