@@ -122,21 +122,7 @@
             }
           ]
         },
-        {
-          "name": "Joel Gooday",
-          "github": "jgooday48",
-          "team": "Travel Guide",
-          "materials": [
-            {
-              "type": "cv"
-            },
-            {
-              "type": "video",
-              "url": "ctAtWIcQcIs"
-            }
-          ]
-        },
-        {
+	{
           "name": "Jabir Ali",
           "github": "jabz80",
           "team": "Koding Kombat",
@@ -165,6 +151,20 @@
           ]
         },
         {
+          "name": "Joel Gooday",
+          "github": "jgooday48",
+          "team": "Travel Guide",
+          "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "ctAtWIcQcIs"
+            }
+          ]
+        },
+        {
           "name": "Danise Rosales",
           "github": "daniserosales",
           "team": "Audify.me",
@@ -178,16 +178,59 @@
             }
           ]
         },
-        {
-          "name": "Tayeeb Islam",
-          "github": "Tayeeb27",
+	{
+      	  "name": "Nishan Dudakia",
+      	  "github": "nishandudakia",
+	  "team": "Guthrie - Graduating March 28th",
+      	  "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "HuozCH1RhaU"
+            }
+          ]
+        },
+	{
+      	  "name": "Charlotte Easton",
+      	  "github": "lottie-isobel",
+	  "team": "Guthrie - Graduating March 28th",
+       	  "materials": [
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "Zry-hKE1WxU"
+            }
+          ]
+        },
+	{
+          "name": "Angelika Prudente",
+          "github": "Aprudente15",
+	  "team": "Guthrie - Graduating March 28th",
+          "materials":[
+            {
+              "type": "cv"
+            },
+            {
+              "type": "video",
+              "url": "MX-K9wJ4yXg"
+            }
+          ]
+        },
+	{
+          "name": "Rahma Ali",
+          "github": "RahmaA278",
+	  "team": "Guthrie - Graduating March 28th",
           "materials": [
             {
               "type": "cv"
             },
             {
               "type": "video",
-              "url": "Fjsl24FQuHs"
+              "url": ""
             }
           ]
         }
