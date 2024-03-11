@@ -154,8 +154,17 @@
       ]
     },
     {
-      "name": "Robert McDougall",
-      "github": "RobAMcDougall"
+      "name": "Rob McDougall",
+      "github": "RobAMcDougall",
+      "materials": [
+        {
+          "type": "cv"
+        },
+        {
+          "type": "video",
+          "url": "ATdYG50Sa50"
+        }
+      ]
     },
     {
       "name": "Kazeem Shomade",
@@ -219,19 +228,6 @@
         {
           "type": "video",
           "url": "9iyz6irXEX8"
-        }
-      ]
-    },
-    {
-      "name": "Rob McDougall",
-      "github": "RobAMcDougall",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "ATdYG50Sa50"
         }
       ]
     }
