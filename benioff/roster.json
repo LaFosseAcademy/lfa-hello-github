@@ -10,6 +10,9 @@
         ]
     },
     "students": [
-        {}
+        {
+            "name": "Archana Nekkar",
+            "github": "Archana-coding"
+        }
     ]
 }
