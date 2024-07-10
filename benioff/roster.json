@@ -10,6 +10,9 @@
         ]
     },
     "students": [
-        {}
+        {
+            "name": "Thenushan Sivanesan",
+            "github": "thenushan123"
+        }
     ]
 }
