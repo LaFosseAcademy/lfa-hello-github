@@ -11,6 +11,42 @@
     },
     "students": [
         {
+            "name": "Archana Nekkar",
+            "github": "Archana-coding"
+        },
+        {
+            "name":"Pedro Pereira",
+            "github":"pedroavpereira"
+        },
+        {
+            "name": "Radiah Ahmed",
+            "github": "radiaaahhh"
+        },
+        {
+             "name": "Tiffany Ho",
+             "github": "tiffjai"
+        },
+        {
+            "name": "Mel Muhina",
+            "github": "mel-muhina"
+        },
+        {
+            "name": "Mohamed Muse Aden",
+            "github": "CustomHaven"
+        },
+        {
+            "name": "Antoni Szczekot",
+            "github": "antasprojects"
+        },
+        {
+            "name": "Max Lehain",
+            "github": "MaxwellLeh"
+        },
+        {
+            "name": "Johnny Nguyen-Pham",
+            "github": "JNguyennP"
+        },
+        {
             "name": "Alena Pavlioglo",
             "github": "Alena-coding"
         }
