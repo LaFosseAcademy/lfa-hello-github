@@ -10,6 +10,9 @@
         ]
     },
     "students": [
-        {}
+        {
+            "name": "Mohamed Muse Aden",
+            "github": "CustomHaven"
+        }
     ]
 }
