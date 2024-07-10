@@ -10,6 +10,9 @@
         ]
     },
     "students": [
-        {}
+        {
+            "name": "Johnny Nguyen-Pham",
+            "github": "JNguyennP/roster.json"
+        }
     ]
 }
