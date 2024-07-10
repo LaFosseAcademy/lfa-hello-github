@@ -10,11 +10,9 @@
         ]
     },
     "students": [
-        {}
+        {
+            "name": "Dylan Stead",
+            "github": "dylanstead"
+        }
     ]
 }
-{
-    "name": "Dylan Stead",
-    "github": "dylanstead",
-    
-  },
