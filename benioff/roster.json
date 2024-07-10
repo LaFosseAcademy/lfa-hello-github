@@ -10,6 +10,9 @@
         ]
     },
     "students": [
-        {}
+        {
+            "name": "Mel Muhina",
+            "github": "mel-muhina"
+        }
     ]
 }
