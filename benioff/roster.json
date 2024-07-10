@@ -11,8 +11,13 @@
     },
     "students": [
         {
+            "name": "Archana Nekkar",
+            "github": "Archana-coding"
+
+        },
+        {
             "name": "Johnny Nguyen-Pham",
-            "github": "JNguyennP/roster.json"
+            "github": "JNguyennP"
         }
     ]
 }
