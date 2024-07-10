@@ -10,6 +10,9 @@
         ]
     },
     "students": [
-        {}
+        {
+            "name": "Camelia Baronescu",
+            "github": "camycam89"
+          }
     ]
 }
