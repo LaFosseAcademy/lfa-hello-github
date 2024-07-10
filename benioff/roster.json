@@ -10,7 +10,13 @@
         ]
     },
     "students": [
-        {"name":"Pedro Pereira",
-        "github":"pedroavpereira"}
+        {
+            "name": "Archana Nekkar",
+            "github": "Archana-coding"
+        },
+        {
+            "name":"Pedro Pereira",
+            "github":"pedroavpereira"
+        }
     ]
 }
