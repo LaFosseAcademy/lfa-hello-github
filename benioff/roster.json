@@ -11,8 +11,12 @@
     },
     "students": [
         {
+            "name": "Archana Nekkar",
+            "github": "Archana-coding"
+        },
+        {
             "name": "Radiah Ahmed",
-            "github": "radiaaahhh"  
+            "github": "radiaaahhh"
         }
     ]
 }
