@@ -11,10 +11,6 @@
     },
     "students": [
         {
-            "name": "Archana Nekkar",
-            "github": "Archana-coding"
-        },
-        {
             "name":"Pedro Pereira",
             "github":"pedroavpereira"
         },
@@ -81,10 +77,6 @@
         {
             "name": "Liliia Verbenko",
             "github": "LiliiaVerbenko"
-        },
-        {
-            "name": "Chiamaka Udeh",
-            "github": "Chiamaka-coding"
         }
     ]
 }
