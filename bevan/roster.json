@@ -11,10 +11,21 @@
     },
     "students": [
         {
-            "name": "",
-            "github": ""
+            "name": "Matt Allred",
+            "github": "allredmatt"
         },
-        
+        {
+            "name": "Kaiyue Yang",
+            "github": "Kaia1332"
+        },
+        {
+            "name": "Charlie Jackson",
+            "github": "charlie-jackson" 
+        },
+        {
+            "name": "Abdul Mirza",
+            "github": "amirza97" 
+        },
         {
             "name": "Sonal Kamat",
             "github": "Skamat2006"
