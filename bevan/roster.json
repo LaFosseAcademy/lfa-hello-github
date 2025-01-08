@@ -11,6 +11,10 @@
     },
     "students": [
         {
+            "name": "Riccardo Ragazzo",
+            "github": "riccoraga"
+        },
+        {
             "name": "Matt Allred",
             "github": "allredmatt"
         },
