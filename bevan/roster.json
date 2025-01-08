@@ -11,10 +11,6 @@
     },
     "students": [
         {
-            "name": "Riccardo Ragazzo",
-            "github": "riccoraga"
-        },
-        {
             "name": "Matt Allred",
             "github": "allredmatt"
         },
@@ -97,6 +93,10 @@
         {
             "name": "Naeem Shah",
             "github": "naeemultimate"
+        },
+        {
+            "name": "Riccardo Ragazzo",
+            "github": "riccoraga"
         }
     ]
 }
