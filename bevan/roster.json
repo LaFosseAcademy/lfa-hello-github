@@ -1,6 +1,6 @@
 {
     "namesake": {
-        "name": "Heba Bevan",
+        "name": "Heba Bevan" ,
         "imageUrl": "https://avatars.githubusercontent.com/t/11549285?s=116&v=4",
         "materials": [
             {
@@ -53,6 +53,30 @@
         {
             "name": "Abdulkadir Salad",
             "github": "abdul2112"
+        },
+        {
+            "name": "Harrison Flynn",
+            "github": "htflynn0"
+        },
+        {
+            "name": "Ismail Patel",
+            "github": "ismailp97"
+        },
+        {
+            "name": "Ruwayda Ibrahim",
+            "github": "ruwaydaibr"
+        }
+        {
+            "name": "Eri krasniqi",
+            "github": "erikras12"
+        },
+        {
+            "name": "Zakaria Markhi",
+            "github": "Zaksk"
+        },
+        {
+            "name": "Mashnoor Jahan Meem",
+            "github": "MashnoorJahan"
         },
         {
             "name": "Natasha Majyambere",
