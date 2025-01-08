@@ -1,6 +1,6 @@
 {
     "namesake": {
-        "name": "Heba Bevan, Zakaria Markhi" ,
+        "name": "Heba Bevan" ,
         "imageUrl": "https://avatars.githubusercontent.com/t/11549285?s=116&v=4",
         "materials": [
             {
@@ -11,8 +11,8 @@
     },
     "students": [
         {
-            "name": "",
-            "github": ""
+            "name": "Zakaria Markhi",
+            "github": "ZakSk"
         }
     ]
 }
