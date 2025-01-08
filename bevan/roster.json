@@ -1,6 +1,6 @@
 {
     "namesake": {
-        "name": "Heba Bevan",
+        "name": "Heba Bevan" ,
         "imageUrl": "https://avatars.githubusercontent.com/t/11549285?s=116&v=4",
         "materials": [
             {
@@ -14,7 +14,6 @@
             "name": "Matt Allred",
             "github": "allredmatt"
         },
-        
         {
             "name": "Kaiyue Yang",
             "github": "Kaia1332"
@@ -71,12 +70,37 @@
             "name": "Eri krasniqi",
             "github": "erikras12"
         },
-        
+        {
+            "name": "Zakaria Markhi",
+            "github": "Zaksk"
+        },
+        {
+            "name": "Mashnoor Jahan Meem",
+            "github": "MashnoorJahan"
+        },
+        {
+            "name": "Natasha Majyambere",
+            "github": "natashaJamima"
+        },
+        {
+            "name": "Benjamin Eren",
+            "github": "Beneren10"
+        },
+        {
+            "name": "Feben Alamerew",
+            "github": "Feben-A"
+        },
+        {
+            "name": "Naeem Shah",
+            "github": "naeemultimate"
+        },
+        {
+            "name": "Riccardo Ragazzo",
+            "github": "riccoraga"
+        },
         {
             "name": "Shania Waggu",
             "github": "shaniawaggu"
         }
-        
-
     ]
 }
